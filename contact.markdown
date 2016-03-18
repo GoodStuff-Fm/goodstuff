@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2016-03-18 13:40:00 -06:00
+position: 4
 ---
 
 Copy here about contacting us. 
