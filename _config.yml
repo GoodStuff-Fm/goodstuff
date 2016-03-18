@@ -1,0 +1,37 @@
+---
+title: Goodstuffv2
+url: http://goodstuffv2.siteleaf.net
+timezone: America/Regina
+collections:
+  3g3q:
+    title: 3G3Q
+    output: true
+  dailyish:
+    title: Daily(ish)
+    output: true
+  morning-show:
+    title: Morning Show
+    output: true
+  people:
+    title: People
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+Goodstuff Twitter: https://twitter.com/goodstufffm
