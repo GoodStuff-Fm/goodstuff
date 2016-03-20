@@ -5,7 +5,11 @@ date: 2016-03-20 12:24:00 -06:00
 
 Take your horse to Prom, Crocodiles are not alligators, Hammock and rocking chair finally combine, Check out this meat vending machine, We eat Sriracha Peas and have bad breath, and more.
 
-- [Feed.Press](http://feed.press/morningshow) – Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year.
+## Sponsor
+
+* [Feed.Press](http://feed.press/morningshow) – Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year.
+
+## Notes
 
 *Flownotes* are carefully crafted, each morning, by artisan link-chefs and shared using [Workflowy](https://workflowy.com/invite/20cd98ad.lnx) - Organize your brain.
 
