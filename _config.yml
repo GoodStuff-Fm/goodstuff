@@ -9,7 +9,7 @@ collections:
   dailyish:
     title: Daily(ish)
     output: true
-  morning-show:
+  morningshow:
     title: Morning Show
     output: true
   people:
