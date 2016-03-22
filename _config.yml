@@ -12,6 +12,12 @@ collections:
   morningshow:
     title: Morning Show
     output: true
+    Description: Good Morning, Internet! We cover the latest news in robots, food,
+      technology, and culture. Live MWF 7-8AM Pacific.
+    Keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
+      Kyle, Kenny, Roderick
+    Twitter Handle: morningshowam
+    Contact Email: kyle@goodstuff.fm
   people:
     title: People
     output: true
