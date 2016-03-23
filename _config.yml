@@ -11,7 +11,7 @@ collections:
     output: true
   morningshow:
     title: Morning Show
-    output: true
+    output: false
     Description: Good Morning, Internet! We cover the latest news in robots, food,
       technology, and culture. Live MWF 7-8AM Pacific.
     Keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
