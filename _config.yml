@@ -41,3 +41,5 @@ defaults:
     layout: page
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
+gems:
+- jekyll-sitemap
