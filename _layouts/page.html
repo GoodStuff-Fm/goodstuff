@@ -4,15 +4,14 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta name="generator" content="Siteleaf, http://siteleaf.com" />
-  <title>Live | Goodstuffv2</title>
-  <link rel="canonical" href="" />
-  <link rel="alternate" type="application/rss+xml" href="" />
+  <title>{{page.title}} | {{site.title}}</title>
+  <link rel="canonical" href="{{permalink}}" />
+  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/assets/styles/global.css" />
 </head>
 <body>
-  Live
-  <p>Here’s some content for the live page. Does this work?</p>
-
-  
+  {{ page.title }}
+  {{ content }}
+  {{ page.footer_scripts }}
 </body>
 </html>
