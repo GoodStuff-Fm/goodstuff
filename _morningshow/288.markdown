@@ -1,5 +1,6 @@
 ---
 title: Frogs & Milk
 date: 2016-03-24 12:05:00 -06:00
+layout: default
 ---
 
