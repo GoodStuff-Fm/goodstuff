@@ -7,13 +7,13 @@
 <loc>http://goodstuffv2.siteleaf.net/contact/</loc>
 </url>
 <url>
-<loc>http://goodstuffv2.siteleaf.net/home/</loc>
-</url>
-<url>
 <loc>http://goodstuffv2.siteleaf.net/</loc>
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/live/</loc>
+</url>
+<url>
+<loc>http://goodstuffv2.siteleaf.net/morningshow/</loc>
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/schedule/</loc>
@@ -38,6 +38,9 @@
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/morningshow/288/</loc>
+</url>
+<url>
+<loc>http://goodstuffv2.siteleaf.net/morningshow/189/</loc>
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/people/kyle-roderick/</loc>
