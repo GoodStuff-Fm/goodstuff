@@ -1,60 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta name="generator" content="Siteleaf, http://siteleaf.com" />
-  <title>{{page.title}} | {{site.title}}</title>
-  <link rel="canonical" href="{{permalink}}" />
-  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
-  <link rel="stylesheet" type="text/css" href="/assets/styles/global.css" />
-</head>
-<body>
+{% include doctype.html %}
+<h1>{{ page.title }}</h1>
 
-<!-- Garbage -->
-  {{ page.title }}
-
-
-<!-- Navigation Bar; Turn this into an _includes -->
+<!-- Navigation -->
 <nav>
   <ul id="nav">
     {% for page in site.pages %}
     {% if page.url != '/' %}
       <li {% if page.url == url %} class="active" {% endif %} >
-        <a href="{{page.url}}">
-          {{page.title}}
-        </a>
+        <a href="{{page.url}}">{{page.title}}</a>
       </li>
     {% endif %}
     {% endfor %}
   </ul>
 </nav>
 
-
-<!-- Latest Episode Banner -->
+<!-- Latest Episode Banner; loads all episodes right now -->
 <div class="banner">
   <h2>Latest Episode</h2>
-  <h1>
-
-    {% for collection in site.collections  limit:1%}
-      {% capture label %}{{ collection | first | remove: 'title' }}{% endcapture %}
-      {% for doc in site.collections.[label].docs %}
-        <li>
-          <span>{{ doc.date | date_to_string }}</span>
-          <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
-        </li>
+  {% for collection in site.collections %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  <h3>{{collection.label}}</h3>
+  <ul>
+      {% for doc in collection.docs %}
+      <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
+      <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
       {% endfor %}
-    {% endfor %}
-
-
+  </ul>
+  {% endunless %}
+  {% endfor %}
 </div>
 
-
-<!-- List of Recent Episodes -->
-<div class="recent"
-
-  {{ content }}
-  {{ page.footer_scripts }}
-
-</body>
-</html>
+{% include footer.html %}
