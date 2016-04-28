@@ -32,6 +32,7 @@ collections:
     output: true
     description: A podcast about being the kind of grown-ups we want to be. The answers
       are better than the questions.
+    image: "/uploads/broadcast_thumbnail_grownups_artwork.png"
     keywords: adulthood
     Twitter Handle: grownups_fm
     Contact Email: kayayarai+grownups@gmail.com
