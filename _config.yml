@@ -6,6 +6,7 @@ collections:
   3g3q:
     title: 3G3Q
     output: true
+    permalink: "/3g3q"
     name: 3 Guys 3 Questions
     description: Three guys ponder the finer things in life by asking each other weird
       questions. Each week they compete to seem the most normal while answering questions
