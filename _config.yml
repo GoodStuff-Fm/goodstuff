@@ -43,6 +43,7 @@ collections:
   morningshow:
     title: Morning Show
     output: true
+    permalink: "/morningshow"
     name: Morning Show
     description: Good Morning, Internet! We cover the latest news in robots, food,
       technology, and culture. Live MWF 7-8AM Pacific.
