@@ -27,6 +27,9 @@ collections:
     Keywords: tech, technology, personal, journal, family, life
     Twitter Handle: ichris
     Contact Email: chris@goodstuff.fm
+  i-guess-were-grown-ups-now:
+    title: I Guess We're Grown-Ups Now
+    output: true
   morningshow:
     title: Morning Show
     output: true
