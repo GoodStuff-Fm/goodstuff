@@ -6,8 +6,8 @@
   <ul id="nav">
     {% for page in site.pages %}
     {% if page.url != '/' %}
-      <li {% if page.url == url %} class="active" {% endif %} >
-        <a href="{{page.url}}">{{page.title}}</a>
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
       </li>
     {% endif %}
     {% endfor %}
