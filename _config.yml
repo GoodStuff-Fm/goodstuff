@@ -20,6 +20,7 @@ collections:
   dailyish:
     title: Daily(ish)
     output: true
+    permalink: "/dailyish"
     name: Daily(ish)
     description: Just as it says on the tin – this is a daily(ish) podcast from Chris
       Enns.
