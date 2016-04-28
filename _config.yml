@@ -56,6 +56,7 @@ collections:
   nbsp:
     title: Non Breaking Space Show
     output: true
+    permalink: "/nbsp"
     name: Non Breaking Space Show
     description: Seeking out the best, brightest, and smartest creative people on
       digital art, design, and development. From workflows to life hacks, we examine
