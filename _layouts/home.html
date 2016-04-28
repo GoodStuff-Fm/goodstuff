@@ -1,60 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta name="generator" content="Siteleaf, http://siteleaf.com" />
-  <title>{{page.title}} | {{site.title}}</title>
-  <link rel="canonical" href="{{permalink}}" />
-  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
-  <link rel="stylesheet" type="text/css" href="/assets/styles/global.css" />
-</head>
-<body>
+{% include doctype.html %}
+<h1>{{ page.title }}</h1>
 
-<!-- Garbage -->
-  {{ page.title }}
-
-
-<!-- Navigation Bar; Turn this into an _includes -->
+<!-- Navigation -->
 <nav>
   <ul id="nav">
     {% for page in site.pages %}
     {% if page.url != '/' %}
       <li {% if page.url == url %} class="active" {% endif %} >
-        <a href="{{page.url}}">
-          {{page.title}}
-        </a>
+        <a href="{{page.url}}">{{page.title}}</a>
       </li>
     {% endif %}
     {% endfor %}
   </ul>
 </nav>
 
+<hr>
 
-<!-- Latest Episode Banner -->
+<!-- Latest Episode Banner; loads all episodes right now -->
 <div class="banner">
   <h2>Latest Episode</h2>
-  <h1>
-
-    {% for collection in site.collections  limit:1%}
-      {% capture label %}{{ collection | first | remove: 'title' }}{% endcapture %}
-      {% for doc in site.collections.[label].docs %}
-        <li>
-          <span>{{ doc.date | date_to_string }}</span>
-          <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
-        </li>
+  {% for collection in site.collections limit:1 %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  <h3>{{collection.label}}</h3>
+  <ul>
+      {% for doc in collection.docs %}
+      <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
+      <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
+      <li>{{doc.description}}</li>
       {% endfor %}
-    {% endfor %}
-
-
+  </ul>
+  {% endunless %}
+  {% endfor %}
 </div>
 
+<hr>
 
 <!-- List of Recent Episodes -->
-<div class="recent"
+<div class="recent-episodes">
+  <h2>Recent Episodes</h2>
+  {% for collection in site.collections limit:5%}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  <h3>{{collection.label}}</h3>
+  <ul>
+      {% for doc in collection.docs limit:1 %}
+      <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
+      <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
+      {% endfor %}
+  </ul>
+  {% endunless %}
+  {% endfor %}
+</div>
 
-  {{ content }}
-  {{ page.footer_scripts }}
+<hr>
 
-</body>
-</html>
+<!-- Email Newsletter -->
+<h3>Like what you see here? Get more good stuff in your inbox.</h3>
+The best of Goodstuff delivered weekly from our mouths to your brain.
+
+<hr>
+
+<!-- List of Shows -->
+<div class="shows-list">
+  <h2>Our Shows</h2>
+  {% for collection in site.collections %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  <ul>
+    <li><img class="album-thumbnail-small"><a href="{{collection.url}}">{{collection.artwork}}</a></img></li>
+    <li><h3>{{collection.label}}</h3></li>
+  </ul>
+  {% endunless %}
+  {% endfor %}
+</div>
+
+{% include footer.html %}
