@@ -12,9 +12,18 @@ collections:
       about fears, pet-peeves, and idiosyncrasies.
     image: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
     color: "#6B4AD3"
+    Twitter Handle: _3g3q
+    Contact Email: 3guys3questions@gmail.com
   dailyish:
     title: Daily(ish)
     output: true
+    name: Daily(ish)
+    description: Just as it says on the tin – this is a daily(ish) podcast from Chris
+      Enns.
+    Keywords: tech, technology, personal, journal, family, life
+    color: "#757474"
+    Twitter Handle: ichris
+    Contact Email: chris@goodstuff.fm
   morningshow:
     title: Morning Show
     output: true
