@@ -11,6 +11,7 @@ collections:
     description: Three guys ponder the finer things in life by asking each other weird
       questions. Each week they compete to seem the most normal while answering questions
       about fears, pet-peeves, and idiosyncrasies.
+    color: "#6B4AD3"
   dailyish:
     title: Daily(ish)
     output: true
