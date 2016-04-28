@@ -6,6 +6,8 @@ collections:
   3g3q:
     title: 3G3Q
     output: true
+    Artwork:
+      artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
   dailyish:
     title: Daily(ish)
     output: true
