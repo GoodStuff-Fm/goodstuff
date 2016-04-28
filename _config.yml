@@ -48,6 +48,9 @@ collections:
     Contact Email: kyle@goodstuff.fm
     image: "/uploads/iTunes Artwork.png"
     color: "#F8C023"
+  non-breaking-space-show:
+    title: Non Breaking Space Show
+    output: true
   people:
     title: People
     output: true
