@@ -2,9 +2,9 @@
 title: Buck-Wilde
 date: 2016-04-28 16:02:00 -06:00
 description: Peer empowerment, hired flamingos, & roof bread.
+sponsor: spray-on tans, lofty expectations, and disappointment
 season: 6
 episode: 98
-sponsor: spray-on tans, lofty expectations, and disappointment
 ---
 
 # Questions
