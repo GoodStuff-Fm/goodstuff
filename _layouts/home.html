@@ -68,10 +68,14 @@ The best of Goodstuff delivered weekly from our mouths to your brain.
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
 
   <ul>
+    <li><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
     <li>{{ collection.description }}</li>
   </ul>
+  <br>
   {% endunless %}
   {% endfor %}
+
 </div>
 
 {% include footer.html %}
