@@ -1,11 +1,12 @@
 ---
 title: G.D.P.A.Q.
 date: 2016-04-01 12:11:00 -06:00
-description: Get ready to learn what a femtobarn is, Start smelling with your mouth,
-  It’s the Eye of the Rib Roast, Robosnake just became a nightmarish reality, Control
-  your mirrorless vehicle with your voice, 2 Stupid Games, and more.
+description: A very special Mothers Day Episode
 episode: 99
+sponsor: bob haircuts, tapered jeans, and the power of shame
 ---
+
+![3G3Q - S06e12.jpg](/uploads/3G3Q%20-%20S06e12.jpg)
 
 # Questions
 ## Aaron: What’s the worst Mother’s Day gift you’ve given?
