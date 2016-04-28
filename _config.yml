@@ -30,6 +30,7 @@ collections:
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
+    name: I Guess We're Grown-Ups Now
     description: A podcast about being the kind of grown-ups we want to be. The answers
       are better than the questions.
     image: "/uploads/broadcast_thumbnail_grownups_artwork.png"
