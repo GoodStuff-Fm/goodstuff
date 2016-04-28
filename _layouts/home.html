@@ -65,7 +65,7 @@ The best of Goodstuff delivered weekly from our mouths to your brain.
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   <ul>
-    <li><img class="album-thumbnail-small"><a href="{{collection.url}}">{{collection.artwork}}</a></img></li>
+    <li><a href="{{ collection.url }}"><img src="{{ show.artwork }}" /></a></li>
     <li><h3>{{collection.label}}</h3></li>
   </ul>
   {% endunless %}
