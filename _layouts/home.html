@@ -14,17 +14,59 @@
   </ul>
 </nav>
 
+<hr>
+
 <!-- Latest Episode Banner; loads all episodes right now -->
 <div class="banner">
   <h2>Latest Episode</h2>
-  {% for collection in site.collections %}
+  {% for collection in site.collections limit:1 %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   <h3>{{collection.label}}</h3>
   <ul>
       {% for doc in collection.docs %}
       <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
       <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
+      <li>{{doc.description}}</li>
       {% endfor %}
+  </ul>
+  {% endunless %}
+  {% endfor %}
+</div>
+
+<hr>
+
+<!-- List of Recent Episodes -->
+<div class="recent-episodes">
+  <h2>Recent Episodes</h2>
+  {% for collection in site.collections limit:5%}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  <h3>{{collection.label}}</h3>
+  <ul>
+      {% for doc in collection.docs limit:1 %}
+      <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
+      <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
+      {% endfor %}
+  </ul>
+  {% endunless %}
+  {% endfor %}
+</div>
+
+<hr>
+
+<!-- Email Newsletter -->
+<h3>Like what you see here? Get more good stuff in your inbox.</h3>
+The best of Goodstuff delivered weekly from our mouths to your brain.
+
+<hr>
+
+<!-- List of Shows -->
+<div class="shows-list">
+  <h2>Our Shows</h2>
+  {% for collection in site.collections %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  <ul>
+    <li><img class="album-thumbnail-small"><a href="{{collection.url}}">{{collection.artwork}}</a></img></li>
+    <li><h3>{{collection.label}}</h3></li>
   </ul>
   {% endunless %}
   {% endfor %}
