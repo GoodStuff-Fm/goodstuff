@@ -19,11 +19,11 @@ collections:
   dailyish:
     title: Daily(ish)
     output: true
-    name: Daily(ish)
-    description: Just as it says on the tin – this is a daily(ish) podcast from Chris
+    Name: Daily(ish)
+    Description: Just as it says on the tin – this is a daily(ish) podcast from Chris
       Enns.
-    image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
-    color: "#757474"
+    Image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
+    Color: "#757474"
     Keywords: tech, technology, personal, journal, family, life
     Twitter Handle: ichris
     Contact Email: chris@goodstuff.fm
