@@ -6,12 +6,12 @@ collections:
   3g3q:
     title: 3G3Q
     output: true
-    show:
-      name: 3 Guys 3 Questions
-      artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
-      description: Three guys ponder the finer things in life by asking each other
-        weird questions. Each week they compete to seem the most normal while answering
-        questions about fears, pet-peeves, and idiosyncrasies.
+    name: 3 Guys 3 Questions
+    description: Three guys ponder the finer things in life by asking each other weird
+      questions. Each week they compete to seem the most normal while answering questions
+      about fears, pet-peeves, and idiosyncrasies.
+    image: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+    color: "#6B4AD3"
   dailyish:
     title: Daily(ish)
     output: true
