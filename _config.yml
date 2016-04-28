@@ -33,6 +33,8 @@ collections:
     description: A podcast about being the kind of grown-ups we want to be. The answers
       are better than the questions.
     keywords: adulthood
+    Twitter Handle: grownups_fm
+    Contact Email: kayayarai+grownups@gmail.com
   morningshow:
     title: Morning Show
     output: true
