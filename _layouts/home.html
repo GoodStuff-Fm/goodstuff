@@ -6,8 +6,8 @@
   <ul id="nav">
     {% for page in site.pages %}
     {% if page.url != '/' %}
-      <li {% if page.url == url %} class="active" {% endif %} >
-        <a href="{{page.url}}">{{page.title}}</a>
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
       </li>
     {% endif %}
     {% endfor %}
@@ -21,12 +21,12 @@
   <h2>Latest Episode</h2>
   {% for collection in site.collections limit:1 %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-  <h3>{{collection.label}}</h3>
+  <h3>{{collection.title}}</h3>
   <ul>
       {% for doc in collection.docs %}
       <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
       <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
-      <li>{{doc.description}}</li>
+      <li>{{ doc.description }}</li>
       {% endfor %}
   </ul>
   {% endunless %}
@@ -38,9 +38,9 @@
 <!-- List of Recent Episodes -->
 <div class="recent-episodes">
   <h2>Recent Episodes</h2>
-  {% for collection in site.collections limit:5%}
+  {% for collection in site.collections limit:5 %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-  <h3>{{collection.label}}</h3>
+  <h3>{{collection.title}}</h3>
   <ul>
       {% for doc in collection.docs limit:1 %}
       <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
@@ -62,14 +62,20 @@ The best of Goodstuff delivered weekly from our mouths to your brain.
 <!-- List of Shows -->
 <div class="shows-list">
   <h2>Our Shows</h2>
+
+  {% assign show = collection.label %}
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+
   <ul>
-    <li><img class="album-thumbnail-small"><a href="{{collection.url}}">{{collection.artwork}}</a></img></li>
-    <li><h3>{{collection.label}}</h3></li>
+    <li><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
+    <li>{{ collection.description }}</li>
   </ul>
+  <br>
   {% endunless %}
   {% endfor %}
+
 </div>
 
 {% include footer.html %}

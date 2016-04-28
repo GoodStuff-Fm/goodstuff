@@ -16,9 +16,6 @@
 <loc>http://goodstuffv2.siteleaf.net/live/</loc>
 </url>
 <url>
-<loc>http://goodstuffv2.siteleaf.net/morningshow/</loc>
-</url>
-<url>
 <loc>http://goodstuffv2.siteleaf.net/schedule/</loc>
 </url>
 <url>
@@ -29,6 +26,9 @@
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/dailyish/166/</loc>
+</url>
+<url>
+<loc>http://goodstuffv2.siteleaf.net/grownups/27/</loc>
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/morningshow/286/</loc>
@@ -49,9 +49,15 @@
 <loc>http://goodstuffv2.siteleaf.net/morningshow/189/</loc>
 </url>
 <url>
+<loc>http://goodstuffv2.siteleaf.net/nbsp/75/</loc>
+</url>
+<url>
 <loc>http://goodstuffv2.siteleaf.net/people/chris-enns/</loc>
 </url>
 <url>
 <loc>http://goodstuffv2.siteleaf.net/people/kyle-roderick/</loc>
+</url>
+<url>
+<loc>http://goodstuffv2.siteleaf.net/people/kari-halsted/</loc>
 </url>
 </urlset>
