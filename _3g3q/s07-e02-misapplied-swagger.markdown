@@ -1,0 +1,80 @@
+---
+title: S07:E02 - “Misapplied Swagger”
+date: 2016-05-27 21:40:00 -06:00
+description: Mushroom hair, bodegas, & elf-like women.
+sponsor: bell bottoms, hammer pants, and drop crotch joggers.
+season: 7
+episode: 101
+---
+
+
+#### Links and Show Notes
+
+![Episode Artwork][1]
+
+#### Questions
+
+##### Adam: What do you want to be the next fashion trend?
+
+* [Canonical Diaper Pant][2]
+* [90's Overalls][3]
+* [Trend Alert: The Overalls Are Back][4]
+* [Canonical Fresh Prince Overalls][5]
+* [Jaden Smith's Overalls][6]
+* [Canonical Flowing Comfy Garb][7]
+* [Watching 'Zenon: Girl Of The 21st Century' As An Adult — 14 Things I Didn't Notice About The Disney Channel Original Movie Until Now][8]
+
+##### Andrew: What was your most regrettable fashion choice?
+
+* [Krispy Kreme Donuts][9]
+* [In-N-Out][10]
+* [Canonical Hooded Clothing][11]
+* [Ghost Writer][12]
+* [Sheldon Turnipseed][13]
+
+##### Aaron: What has shaped your fashion sense the most?
+
+* [Ska][14]
+* [Hawaiian Shirts][15]
+* [FashionTelevision][16]
+
+#### Follow Us
+
+* Aaron: [@AaronLMGoodwin][17]
+* Andrew: [@A_Sav][18]
+* Adam: [@ThatAdamKid][19]
+
+#### Braaaaaand Engagement
+
+* #Ask3G on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr][20]
+* Get exclusive content at [patreon.com][21]
+* * *
+
+#####  [Listen to other great shows on Goodstuff.fm][22]
+
+The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
+
+[1]: http://l.gdwn.co/10ly7.jpg
+[2]: http://www.asos.com/ASOS/ASOS-Drop-Crotch-Sweatpants/Prod/pgeproduct.aspx?iid=4218804&amp;r=2
+[3]: https://s-media-cache-ak0.pinimg.com/736x/65/83/de/6583de10c68cdc0f9b8fecffcad98e58.jpg
+[4]: http://myfashionblogisfun.blogspot.com/2013/07/trend-alert-overalls-are-back.html
+[5]: http://www.popsugar.com/celebrity/photo-gallery/35796440/image/35798982/He-can-still-rock-fresh-pair-overalls-printed-shirt
+[6]: http://www.gq.com/story/jaden-smith-coachella-overalls
+[7]: https://en.wikipedia.org/wiki/Shalwar_kameez
+[8]: http://www.bustle.com/articles/92534-watching-zenon-girl-of-the-21st-century-as-an-adult-14-things-i-didnt-notice
+[9]: https://www.krispykreme.com
+[10]: http://in-n-out.com
+[11]: http://cdn.shopify.com/s/files/1/0217/8832/products/braves_hoodie_shirt_1_large.jpg?v=1433621031
+[12]: http://www.imdb.com/title/tt0108787/
+[13]: http://www.imdb.com/name/nm0877979/?ref_=tt_cl_t3
+[14]: https://en.wikipedia.org/wiki/Ska
+[15]: https://en.wikipedia.org/wiki/Aloha_shirt
+[16]: https://en.wikipedia.org/wiki/FashionTelevision
+[17]: http://twitter.com/aaronlmgoodwin
+[18]: http://twitter.com/a_sav
+[19]: http://twitter.com/thatadamkid
+[20]: http://3g3q.co/ask
+[21]: http://www.patreon.com/3g3q
+[22]: http://goodstuff.fm/3g3q/ http://www.goodstuff.fm
