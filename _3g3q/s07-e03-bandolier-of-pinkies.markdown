@@ -1,0 +1,66 @@
+---
+title: S07:E03 - “Bandolier of Pinkies”
+date: 2016-05-27 21:04:00 -06:00
+description: Pokémon, chapstick tubes, & backwards knees.
+sponsor: oppression, paranoia, and Master Blaster.
+season: 7
+episode: 103
+---
+
+![Episode Artwork][1]
+
+#### Questions
+
+##### Adam: Which totalitarian state could you survive?
+
+* [Canonical Fighting Monsters][2]
+* [Canonical Dystopian Novel][3]
+* [Dystopian Robot Dog][4]
+* [Canonical Big Brother][5]
+
+##### Andrew: What would be the best thing to use to barter with in the dystopic future? And why?
+
+* [Canonical Wreaths][6]
+* [Canonical Lip Balm][7]
+* [Canonical Chewy Candy][8]
+
+##### Aaron: Obviously, in a dystopic future, one of your body parts will be replaced by a mechanical/robotic prosthetic—which body part will it be?
+
+* [Canonical Admantium Project][9]
+* [Canonical Alien Knees][10]
+
+#### Follow Us
+
+* Aaron: [@AaronLMGoodwin][11]
+* Andrew: [@A_Sav][12]
+* Adam: [@ThatAdamKid][13]
+
+#### Braaaaaand Engagement
+
+* #Ask3G on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr][14]
+* Get exclusive content at [patreon.com][15]
+
+* * *
+
+#####  [Listen to other great shows on Goodstuff.fm][16]
+
+The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
+
+[1]: http://l.gdwn.co/18WO6.jpg
+[2]: http://www.pokemon.com/us/
+[3]: https://en.wikipedia.org/wiki/Fahrenheit_451
+[4]: https://youtu.be/M8YjvHYbZ9w
+[5]: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+[6]: http://www.victoriangothic.org/the-lost-art-of-sentimental-hairwork/
+[7]: http://www.chapstick.com
+[8]: https://www.haribo.com/enUS/home.html
+[9]: https://en.wikipedia.org/wiki/Weapon_X
+[10]: https://www.youtube.com/watch?v=akYf73cUU6U
+[11]: http://twitter.com/aaronlmgoodwin
+[12]: http://twitter.com/a_sav
+[13]: http://twitter.com/thatadamkid
+[14]: http://3g3q.co/ask
+[15]: http://www.patreon.com/3g3q
+[16]: http://goodstuff.fm/3g3q/ http://www.goodstuff.fm
