@@ -1,6 +1,7 @@
 ---
 title: Buck-Wilde
 date: 2016-03-29 16:02:00 -06:00
+position: 0
 description: Peer empowerment, hired flamingos, & roof bread.
 sponsor: spray-on tans, lofty expectations, and disappointment
 season: 6

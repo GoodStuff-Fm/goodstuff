@@ -1,6 +1,7 @@
 ---
 title: S07:E02 - “Misapplied Swagger”
 date: 2016-05-27 21:40:00 -06:00
+position: 3
 description: Mushroom hair, bodegas, & elf-like women.
 sponsor: bell bottoms, hammer pants, and drop crotch joggers.
 season: 7

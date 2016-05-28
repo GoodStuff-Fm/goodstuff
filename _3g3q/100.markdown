@@ -1,6 +1,7 @@
 ---
 title: S07:E01 - “100 Questions”
 date: 2016-05-27 21:44:00 -06:00
+position: 4
 description: Our 100th episode! Mariachi squad, bucket of hummus, & relationship chicken.
 sponsor: sticking with at least one thing, gosh darnit!
 season: 7
