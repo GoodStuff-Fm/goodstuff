@@ -1,0 +1,61 @@
+---
+title: S07:E2.5 - Lightning Round
+date: 2016-05-27 21:37:00 -06:00
+description: Chocolate-covering all the things, cooking from source, and hat cannon.
+sponsor: "[Our fantastic patrons][2].\n\nJoin with them at [patreon.com][2] to get
+  access to exclusive bonus material, access to the _StuffySlack_ and other extras.\n\n[1]:
+  http://goodstuff.fm/3g3q\n[2]: http://www.patreon.com/3g3q\n  "
+season: 7
+episode: 102
+---
+
+
+#### Links and Show Notes
+
+![episode art][1]
+
+_Recorded 2016-05-19_
+
+#### Questions
+
+* **"Hey 3g3q! I recently came into position of a bunch of Baker's chocolate and I've been using it to dip things. What are some of y'alls favorite chocolate coated confectioneries? Sincerely, A non-mousse'ing chocolatier"** via SMS Text Message
+* **"What things do you make from scratch?"** —ryamidon [via Twitter][2]
+* **"What's your canonical hat?"** —ultranurd, via StuffySlack
+
+#### Followup & Feedback
+
+* Maple Bacon Onion Jam
+* YouTUBE
+* <http: girls-wearing-denim-overalls.blogspot.com="">
+* [Dave does not like Next Day Ned's at all!][3]
+* Pinback Buttons - [Join by june!][4]
+
+#### Follow Us
+
+* Aaron: [@AaronLMGoodwin][5]
+* Andrew: [@A_Sav][6]
+* Adam: [@ThatAdamKid][7]
+
+#### Braaaaaand Engagement
+
+* #Ask3G on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr][8]
+* Get exclusive content at [patreon.com][9]
+* * *
+
+#####  [Listen to other great shows on Goodstuff.fm][10]
+
+The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
+
+[1]: http://l.gdwn.co/1tmi.jpg
+[2]: https://twitter.com/1541712684/status/730458741372379136
+[3]: http://l.gdwn.co/10iU2.jpg
+[4]: http://goodstuff.fm/3g3q/htto://patreon.com/3g3q
+[5]: http://twitter.com/aaronlmgoodwin
+[6]: http://twitter.com/a_sav
+[7]: http://twitter.com/thatadamkid
+[8]: http://3g3q.co/ask
+[9]: http://www.patreon.com/3g3q
+[10]: http://goodstuff.fm/3g3q/ http://www.goodstuff.fm
+  </http:>
