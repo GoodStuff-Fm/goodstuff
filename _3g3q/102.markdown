@@ -1,6 +1,6 @@
 ---
 title: S07:E2.5 - Lightning Round
-date: 2016-05-27 21:37:00 -06:00
+date: 2016-05-20 21:37:00 -06:00
 position: 1
 description: Chocolate-covering all the things, cooking from source, and hat cannon.
 sponsor: "[Our fantastic patrons][2].\n\nJoin with them at [patreon.com][2] to get
