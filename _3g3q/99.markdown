@@ -1,7 +1,7 @@
 ---
 title: S06:E12 - “G.D.P.A.Q.”
 date: 2016-04-01 12:11:00 -06:00
-position: 5
+position: 4
 description: A very special Mothers Day Episode
 sponsor: bob haircuts, tapered jeans, and the power of shame
 season: 6
