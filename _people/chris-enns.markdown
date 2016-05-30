@@ -6,7 +6,7 @@ Twitter: iChris
 Email: chris.enns@gmail.com
 ---
 
-Visit my [blog](http://chrisenns.com) for more about me but suffice to say I love podcasting. I’m pumped to be building GoodStuff with Adam, Tim and the rest of the crew who are dumping their mad audio skills into this thing.
+Visit my [blog](http://chrisenns.com) for more about me but suffice to say I love podcasting.
 
 ## Want to Support Me?
 
