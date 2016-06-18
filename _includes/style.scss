@@ -1,0 +1,43 @@
+@import 'normalize';
+
+body{
+  background: #FFF;
+  color: #000;
+}
+
+.logo {
+  width: 200pt;
+  margin: 0px auto 0px auto;
+  padding-bottom: 18pt;
+  vertical-align: middle;
+  color: #F8C023; }
+  .logo img {
+    width: 200pt; }
+
+nav {
+  width: 100%;
+  font-size: .8em;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  text-align: center;
+  vertical-align: center;
+  display: inline-block; }
+  nav li {
+    min-width: 30pt;
+    display: inline;
+    padding-right: 1em;
+    padding-left: 1em; }
+  nav ul {
+    vertical-align: center; }
+  nav a {
+    text-decoration: none;
+    color: #C3C3C3;
+    border-bottom: none; }
+  nav .selected {
+    color: #545047;
+    border-bottom: 2pt solid #F8C023; }
+
+nav a {
+  color: #545047;
+  text-decoration: none; }

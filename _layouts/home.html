@@ -1,19 +1,7 @@
 {% include doctype.html %}
-<h1>{{ page.title }}</h1>
 
 <!-- Navigation -->
-<nav>
-  <ul id="nav">
-    {% for page in site.pages %}
-    {% if page.url != '/' %}
-      <li>
-        <a href="{{ page.url }}">{{ page.title }}</a>
-      </li>
-    {% endif %}
-    {% endfor %}
-  </ul>
-</nav>
-
+{% include nav.html %}
 <hr>
 
 <!-- Latest Episode Banner; loads all episodes right now -->
@@ -32,7 +20,6 @@
   {% endunless %}
   {% endfor %}
 </div>
-
 <hr>
 
 <!-- List of Recent Episodes -->
@@ -50,13 +37,11 @@
   {% endunless %}
   {% endfor %}
 </div>
-
 <hr>
 
 <!-- Email Newsletter -->
 <h3>Like what you see here? Get more good stuff in your inbox.</h3>
 The best of Goodstuff delivered weekly from our mouths to your brain.
-
 <hr>
 
 <!-- List of Shows -->
@@ -78,4 +63,5 @@ The best of Goodstuff delivered weekly from our mouths to your brain.
 
 </div>
 
+<!-- Footer -->
 {% include footer.html %}
