@@ -4,8 +4,19 @@ date: 2016-03-18 13:40:00 -06:00
 position: 4
 ---
 
-Copy here about contacting us. 
+We love hearing from our amazing listeners. We'll do our best to respond as soon as possible.
 
-## Contact Chris
+#### General Contact Links
 
-![Me Podcast 2015.jpg](/uploads/Me%20Podcast%202015.jpg)
+* [General Feedback][1]
+* [Contact Chris Enns][2]
+* [Contact Kyle Roderick][3]
+
+#### Advertising
+
+Consult the [Advertise page][4] for more information.
+
+[1]: http://goodstuff.fm/mailto:contact@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20General%20Feedback
+[2]: http://goodstuff.fm/mailto:chris@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
+[3]: http://goodstuff.fm/mailto:kyle@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
+[4]: http://goodstuff.fm/advertise
