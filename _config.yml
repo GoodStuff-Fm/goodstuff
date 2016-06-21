@@ -87,14 +87,7 @@ defaults:
     layout: episodes
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
-
-
-
-# Gems
 gems:
 - jekyll-sitemap
-
-
-# SCSS
 sass:
-    sass_dir: ./styles
+  sass_dir: "./styles"
