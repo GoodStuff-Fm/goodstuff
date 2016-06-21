@@ -14,9 +14,7 @@ body {
 // Navigation
 nav {
   width: 100%;
-  font-weight: 800;
-  letter-spacing: .1em;
-  text-transform: uppercase;
+  max-width: 960px;
   text-align: center;
   vertical-align: center;
   display: inline-block;
@@ -34,7 +32,6 @@ nav {
 
   a {
     text-decoration: none;
-    color: #C3C3C3;
     border-bottom: none;
   }
 

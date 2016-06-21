@@ -1,0 +1,27 @@
+header:
+- title: About
+  url: /about/
+- title: Advertise
+  url: /advertise/
+- title: Broadcasts
+  url: /broadcasts/
+- title: Contact
+  url: /contact/
+- title: Live
+  url: /live/
+- title: Schedule
+  url: /schedule/
+
+footer:
+- title: Features
+  url: /features/
+- title: Press
+  url: http://siteleaf.dropmark.com/326718
+- title: Privacy
+  url: /privacy/
+- title: Terms
+  url: /terms/
+- title: Status
+  url: http://status.siteleaf.com
+- title: Twitter
+  url: https://twitter.com/siteleaf

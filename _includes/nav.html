@@ -1,18 +1,16 @@
 <nav>
   <ul id="nav">
     <!-- Goodstuff Logo -->
-    <div class="logo">
-      <a href="/"><img src="/assets/logo.png" onerror="this.onerror=null; this.src='/assets/logo.png'" alt="Goodstuff.fm">
-    </div>
-
+    <li id="logo">
+        <a href="/"><img src="/assets/logo.png" onerror="this.onerror=null; this.src='/assets/logo.png'" alt="Goodstuff.fm">
+    </li>
     <!-- Page Loop -->
-    {% for page in site.pages %}
-    {% if page.url != '/' %}
-      <li>
-        <a href="{{ page.url }}">{{ page.title }}</a>
-      </li>
-    {% endif %}
+    {% for item in site.data.navigation.header %}
+    <li class="header__item">
+      <a href="{{ item.url }}" class="header__link">{{ item.title }}</a>
+    </li>
     {% endfor %}
+
 
   </ul>
 </nav>
