@@ -1,0 +1,36 @@
+// Navigation Header
+
+.header {
+  background-color: black;
+  width: 100%;
+  height: 70pt;
+  margin: 0;
+  vertical-align: middle;
+  line-height: 70pt;
+
+  &__list {
+
+    &__item {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    &__logo {
+      color: white;
+      background-color: red;
+      width: 100pt;
+      height: 40pt;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 40pt;
+    }
+
+    &__link {
+      color: white;
+      text-decoration: none;
+    }
+
+  }
+
+}

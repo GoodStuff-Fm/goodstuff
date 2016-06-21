@@ -87,6 +87,7 @@ defaults:
     layout: episodes
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
+logo: "/assets/logo.svg"
 gems:
 - jekyll-sitemap
 sass:

@@ -1,16 +1,14 @@
-<nav>
-  <ul id="nav">
+<nav role="navigation" class="header">
+  <ul class="header__list">
     <!-- Goodstuff Logo -->
-    <li id="logo">
-        <a href="/"><img src="/assets/logo.png" onerror="this.onerror=null; this.src='/assets/logo.png'" alt="Goodstuff.fm">
+    <li class="header__list__item">
+        <a href="/"><img src="{{ site.logo }}" class="header__list__logo" alt="{{ site.title }}" /></a>
     </li>
     <!-- Page Loop -->
     {% for item in site.data.navigation.header %}
-    <li class="header__item">
-      <a href="{{ item.url }}" class="header__link">{{ item.title }}</a>
+    <li class="header__list__item">
+      <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
     </li>
     {% endfor %}
-
-
   </ul>
 </nav>
