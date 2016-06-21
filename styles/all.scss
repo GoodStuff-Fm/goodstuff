@@ -1,0 +1,54 @@
+---
+---
+
+@charset "utf-8";
+@import 'reset';
+
+// Body
+body {
+  background: #FFF;
+  color: #000;
+}
+
+
+// Navigation
+nav {
+  width: 100%;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  text-align: center;
+  vertical-align: center;
+  display: inline-block;
+
+  li {
+    min-width: 30pt;
+    display: inline;
+    padding-right: 1em;
+    padding-left: 1em;
+  }
+
+  ul {
+    vertical-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: #C3C3C3;
+    border-bottom: none;
+  }
+
+  .selected {
+    color: #545047;
+    border-bottom: 2pt solid #F8C023;
+  }
+
+  .logo {
+    width: 300pt;
+    margin: 0px auto 0px auto;
+    padding-bottom: 18pt;
+    vertical-align: middle;
+    color: #F8C023;
+  }
+
+}

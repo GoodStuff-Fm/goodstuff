@@ -1,19 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="generator" content="Siteleaf, http://siteleaf.com" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1., user-scalable=no, target-densityDpi=device-dpi" />
-<title>{{page.title}} | {{site.title}}</title>
-<link rel="canonical" href="{{permalink}}" />
-<link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
 
-<style type="text/css">
-      {% include style.scss %}
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-</style>
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
 
-<!-- CSS <link rel="stylesheet" type="text/css" href="/assets/styles/global.css" /> -->
+  <!-- CSS -->
+    <link rel="stylesheet" href="/styles/all.css" />
+
+</head>
+
 
 <!-- Media Player
 <link rel="stylesheet" href="/build/mediaelementplayer.css"/>
@@ -63,4 +67,6 @@
 </script>
 -->
 
-</head>
+<!-- RSS
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}atom.xml">
+-->
