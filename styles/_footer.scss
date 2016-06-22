@@ -1,0 +1,38 @@
+// Footer
+
+.footer {
+  background-color: black;
+  width: 100%;
+  height: 140pt;
+  margin: 0;
+  vertical-align: middle;
+
+  &__list {
+
+    &__header {
+      font-size: 1.2em;
+      color: white;
+    }
+
+    &__item {
+      vertical-align: middle;
+    }
+
+    &__logo {
+      color: gray;
+      background-color: red;
+      width: 100pt;
+      height: 40pt;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 40pt;
+    }
+
+    &__link {
+      color: gray;
+      text-decoration: none;
+    }
+
+  }
+
+}

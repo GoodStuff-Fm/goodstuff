@@ -13,15 +13,17 @@ header:
   url: /schedule/
 
 footer:
-- title: Features
-  url: /features/
-- title: Press
-  url: http://siteleaf.dropmark.com/326718
-- title: Privacy
-  url: /privacy/
-- title: Terms
-  url: /terms/
-- title: Status
-  url: http://status.siteleaf.com
-- title: Twitter
-  url: https://twitter.com/siteleaf
+- title: iTunes
+  url: https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2
+- title: Goodstuff on Reddit
+  url: https://www.reddit.com/r/Goodstuff_fm/
+- title: Stuffybot
+  url: http://stuffybot.goodstuff.fm
+- title: Master Feed
+  url: http://goodstuff.fm/master/feed
+- title: Morning Show on Patreon
+  url: https://www.patreon.com/morningshow
+- title: 3G3Q on Patreon
+  url: https://www.patreon.com/3g3q
+- title: Chris Enns on Patreon
+  url: https://www.patreon.com/ichris

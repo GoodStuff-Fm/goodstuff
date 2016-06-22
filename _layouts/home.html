@@ -1,31 +1,34 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+<!-- Page Information -->
+{% include head.html %}
 
-  <body>
+<body>
 
-
-<!-- Navigation -->
+<!-- Navigation Bar -->
 {% include nav.html %}
+
 <hr>
 
-<!-- Latest Episode Banner; loads all episodes right now -->
+<!-- Latest Episode Banner -->
 <div class="banner">
   <h2>Latest Episode</h2>
   {% for collection in site.collections limit:1 %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   <h3>{{collection.title}}</h3>
   <ul>
-      {% for doc in collection.docs %}
+    {% for doc in collection.docs limit:1 %}
+      <li><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></li>
       <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
       <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
       <li>{{ doc.description }}</li>
-      {% endfor %}
+    {% endfor %}
   </ul>
   {% endunless %}
   {% endfor %}
 </div>
+
 <hr>
 
 <!-- List of Recent Episodes -->
@@ -35,10 +38,10 @@
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   <h3>{{collection.title}}</h3>
   <ul>
-      {% for doc in collection.docs limit:1 %}
-      <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
-      <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
-      {% endfor %}
+    {% for doc in collection.docs limit:1 %}
+    <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
+    <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
+    {% endfor %}
   </ul>
   {% endunless %}
   {% endfor %}
