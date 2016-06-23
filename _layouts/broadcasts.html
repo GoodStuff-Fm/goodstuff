@@ -65,6 +65,8 @@ The best of Goodstuff delivered weekly from our mouths to your brain.
     <li><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
     <li><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
     <li>{{ collection.description }}</li>
+    <li>{{ collection.hosts }}</li>
+    <li>Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
   </ul>
   <br>
   {% endunless %}
