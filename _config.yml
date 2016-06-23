@@ -62,6 +62,7 @@ collections:
   people:
     title: People
     output: true
+    permalink: people
   posts:
     title: Posts
     output: true
