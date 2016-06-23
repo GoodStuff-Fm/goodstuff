@@ -15,6 +15,10 @@ collections:
     Contact Email: 3guys3questions@gmail.com
     keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo,
       lightning round
+    hosts:
+    - Aaron Goodwin
+    - Adam Anderson
+    - Andrew Savage
   dailyish:
     title: Daily(ish)
     output: true
