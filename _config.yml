@@ -6,6 +6,7 @@ collections:
     title: 3G3Q
     output: true
     name: 3 Guys 3 Questions
+    permalink: /3g3q
     description: Three guys ponder the finer things in life by asking each other weird
       questions. Each week they compete to seem the most normal while answering questions
       about fears, pet-peeves, and idiosyncrasies.
@@ -23,6 +24,7 @@ collections:
     title: Daily(ish)
     output: true
     name: Daily(ish)
+    permalink: /dailyish
     description: Just as it says on the tin – this is a daily(ish) podcast from Chris
       Enns.
     image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
@@ -31,6 +33,7 @@ collections:
     Twitter Handle: ichris
     Contact Email: chris@goodstuff.fm
   grownups:
+    permalink: /grownups
     title: I Guess We're Grown-Ups Now
     output: true
     name: I Guess We're Grown-Ups Now
@@ -42,8 +45,10 @@ collections:
     Contact Email: kayayarai+grownups@gmail.com
   morningshow:
     title: Morning Show
+    retired: "yes"
     output: true
     name: Morning Show
+    permalink: /morningshow
     description: Good Morning, Internet! We cover the latest news in robots, food,
       technology, and culture. Live MWF 7-8AM Pacific.
     keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
@@ -53,6 +58,7 @@ collections:
     image: "/uploads/iTunes Artwork.png"
     color: "#F8C023"
   nbsp:
+    permalink: /nbsp
     title: Non Breaking Space Show
     output: true
     name: Non Breaking Space Show
@@ -66,7 +72,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: people
+    permalink: /people
   posts:
     title: Posts
     output: true
