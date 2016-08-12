@@ -63,6 +63,8 @@ collections:
     email: kyle@goodstuff.fm
     image: "/uploads/iTunes Artwork.png"
     color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+    RSS: http://feeds.goodstuff.fm/transmission
   nbsp:
     title: Non Breaking Space Show
     output: true
