@@ -20,8 +20,8 @@
   {% for doc in site.people %}
 
   <ul class="hosts__list">
-    <li class="hosts__list__image"><a href="{{ doc.permalink }}"><img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/></a></li>
-    <li class="hosts__list__name"><h3><a href="{{ doc.permalink }}">{{ doc.title }}</a></h3></li>
+    <li class="hosts__list__image"><a href="{{ doc.url }}"><img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/></a></li>
+    <li class="hosts__list__name"><h3><a href="{{ doc.url }}">{{ doc.title }}</a></h3></li>
   </ul>
 
   {% endfor %}
