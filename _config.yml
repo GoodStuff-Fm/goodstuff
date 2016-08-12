@@ -79,7 +79,6 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/:path/:title/"
   posts:
     title: Posts
     output: true
