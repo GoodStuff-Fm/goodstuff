@@ -82,7 +82,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people"
+    permalink: "/people/:title"
   posts:
     title: Posts
     output: true
