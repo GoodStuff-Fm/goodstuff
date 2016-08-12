@@ -79,7 +79,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people/:title"
+    permalink: "/people/:title/"
   posts:
     title: Posts
     output: true
