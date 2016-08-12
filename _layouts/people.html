@@ -17,44 +17,13 @@
 <!-- List of Hosts -->
 <div class="hosts">
 
-  {% for people in site.people %}
+  {% for doc in site.people %}
 
-  <ul class="broadcasts__list">
-    <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
-    <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
-    <li class="broadcasts__list__description">{{ collection.description }}</li>
-    <li class="broadcasts__list__hosts">{{ collection.hosts }}</li>
-    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
+  <ul class="hosts__list">
+    <li class="hosts__list__image"><a href="{{ doc.permalink }}"><img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/></a></li>
+    <li class="hosts__list__name"><h3><a href="{{ doc.permalink }}">{{ doc.title }}</a></h3></li>
   </ul>
 
-  <hr>
-
-  {% endfor %}
-
-</div>
-
-<!-- List of Retired Shows -->
-<div class="broadcasts">
-
-  <h2>Retired Broadcasts</h2>
-
-  {% assign show = collection.label %}
-  {% for collection in site.collections %}
-  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-  {% if collection.retired == 'yes' %}
-
-  <ul class="broadcasts__list">
-    <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
-    <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
-    <li class="broadcasts__list__description">{{ collection.description }}</li>
-    <li class="broadcasts__list__hosts">{{ collection.hosts }}</li>
-    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
-  </ul>
-
-  <hr>
-
-  {% endif %}
-  {% endunless %}
   {% endfor %}
 
 </div>

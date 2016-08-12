@@ -24,7 +24,7 @@
     <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
     <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
     <li class="broadcasts__list__description">{{ collection.description }}</li>
-    <li class="broadcasts__list__hosts">{{ collection.hosts }}</li>
+    <li class="broadcasts__list__hosts">{{ collection.hosts | join: ', ' }}</li>
     <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
   </ul>
 
