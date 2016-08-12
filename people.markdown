@@ -5,4 +5,4 @@ position: 1
 layout: people
 ---
 
-Here's some content for the people page.
+Our amazing hosts, guests, correspondents, producers, and other friends of the network.
