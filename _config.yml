@@ -20,6 +20,8 @@ collections:
     - Aaron Goodwin
     - Adam Anderson
     - Andrew Savage
+    RSS: http://feed.3g3q.co/
+    iTunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   dailyish:
     title: Daily(ish)
     output: true
