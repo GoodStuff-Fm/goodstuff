@@ -1,16 +1,18 @@
 header:
 - title: About
   url: /about/
-- title: Advertise
-  url: /advertise/
 - title: Broadcasts
   url: /broadcasts/
+- title: People
+  url: /people/
 - title: Contact
   url: /contact/
-- title: Live
-  url: /live/
 - title: Schedule
   url: /schedule/
+- title: Advertise
+  url: /advertise/
+- title: Live
+  url: /live/
 
 footer:
 - title: iTunes

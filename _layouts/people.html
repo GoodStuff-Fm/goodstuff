@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Page Information -->
+{% include head.html %}
+
+<body>
+
+<!-- Navigation Bar -->
+{% include nav.html %}
+
+<h1 class="page__header">People</h1>
+<p class="page__description">{{ content }}</p>
+
+<hr>
+
+<!-- List of Hosts -->
+<div class="hosts">
+
+  {% for people in site.people %}
+
+  <ul class="broadcasts__list">
+    <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
+    <li class="broadcasts__list__description">{{ collection.description }}</li>
+    <li class="broadcasts__list__hosts">{{ collection.hosts }}</li>
+    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
+  </ul>
+
+  <hr>
+
+  {% endfor %}
+
+</div>
+
+<!-- List of Retired Shows -->
+<div class="broadcasts">
+
+  <h2>Retired Broadcasts</h2>
+
+  {% assign show = collection.label %}
+  {% for collection in site.collections %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  {% if collection.retired == 'yes' %}
+
+  <ul class="broadcasts__list">
+    <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
+    <li class="broadcasts__list__description">{{ collection.description }}</li>
+    <li class="broadcasts__list__hosts">{{ collection.hosts }}</li>
+    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
+  </ul>
+
+  <hr>
+
+  {% endif %}
+  {% endunless %}
+  {% endfor %}
+
+</div>
+
+
+<!-- Footer -->
+{% include footer.html %}
+
+
+</body>
+
+</html>
