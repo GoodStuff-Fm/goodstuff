@@ -46,7 +46,7 @@ collections:
   morningshow:
     title: Morning Show
     output: true
-    permalink: "/morningshow"
+    permalink: "/morningshow/:path"
     retired: 'yes'
     name: Morning Show
     description: Good Morning, Internet! We cover the latest news in robots, food,
