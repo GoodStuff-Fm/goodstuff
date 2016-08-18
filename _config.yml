@@ -24,6 +24,7 @@ collections:
     output: true
     permalink: "/dailyish"
     name: Daily(ish)
+    hosts: Chris Enns
     description: Just as it says on the tin – this is a daily(ish) podcast from Chris
       Enns.
     image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
@@ -38,6 +39,7 @@ collections:
     output: true
     permalink: "/grownups"
     name: I Guess We're Grown-Ups Now
+    hosts: Kari Halsted, Brook Shelly
     description: A podcast about being the kind of grown-ups we want to be. The answers
       are better than the questions.
     image: "/uploads/broadcast_thumbnail_grownups_artwork.png"
@@ -52,6 +54,7 @@ collections:
     permalink: "/morningshow/:path"
     retired: 'yes'
     name: Morning Show
+    hosts: Kyle Roderick, Kenny Roderick
     description: Good Morning, Internet! We cover the latest news in robots, food,
       technology, and culture. Live MWF 7-8AM Pacific.
     keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
@@ -71,6 +74,7 @@ collections:
       digital art, design, and development. From workflows to life hacks, we examine
       why they do what they do and how they did it.
     image: "/uploads/broadcast_thumbnail_nbsp_artwork.jpg"
+    hosts: Christopher Schmitt
     keywords: tech, technology, web, design, interviews
     Twitter Handle: nbsptv
     Contact Email: chris@goodstuff.fm

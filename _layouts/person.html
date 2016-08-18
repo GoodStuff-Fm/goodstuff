@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Page Information -->
+{% include head.html %}
+
+<body>
+
+<!-- Navigation Bar -->
+{% include nav.html %}
+
+
+<img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100"/>
+
+
+<h1 class="page__header">{{ page.title }}</h1>
+<h2 class="page__subheader"><a href="{{ page.website }}">{{ page.website }}</a> • <a href="http://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a></h2>
+<h2 class="page__tagline">{{ page.tagline }}</h2>
+<p class="page__description">{{ page.content }}</p>
+
+<hr>
+
+<!-- List of Hosts -->
+<h3 class="broadcasts">Broadcasts</h3>
+
+<!-- People
+
+  {% for doc in site.people %}
+
+  <ul class="hosts__list">
+    <li class="hosts__list__image"><a href="{{ doc.url }}"><img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/></a></li>
+    <li class="hosts__list__name"><h3><a href="{{ doc.url }}">{{ doc.title }}</a></h3></li>
+  </ul>
+
+  {% endfor %}
+
+  -->
+
+<!-- Broadcasts -->
+  {% capture hostname %}{{ page.title }}{% endcapture %}
+  {% for collection in site.collections %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  {% if collection.hosts == 'Chris Enns' %}
+
+  <ul class="broadcasts__list">
+    <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3> <h3 class="broadcasts__list__description">{{ collection.size }} Episodes</h3></li>
+    <li class="broadcasts__list__description">{{ collection.description }}</li>
+  </ul>
+  <hr>
+{% endif%}
+{% endunless %}
+{% endfor %}
+
+<!-- Guest Appearances NOT WORKING-->
+{% for collection in site.collections %}
+{% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+{% if collection.doc.guests == 'Chris Enns' %}
+
+<ul class="broadcasts__list">
+  <li class="broadcasts__list__name"><h3><a href="{{ doc.permalink }}">{{ collection.name }}</a></h3> <h3 class="broadcasts__list__description">{{ collection.size }} Episodes</h3></li>
+  <li class="broadcasts__list__description">{{ collection.description }}</li>
+</ul>
+<hr>
+{% endif%}
+
+
+
+{% if site.categories.categoryname.size%}
+ <!-- do something -->
+{% endif%}
+
+
+
+  {% endunless %}
+  {% endfor %}
+
+
+
+<!-- Footer -->
+{% include footer.html %}
+
+
+</body>
+
+</html>

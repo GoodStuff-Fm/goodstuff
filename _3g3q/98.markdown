@@ -6,6 +6,7 @@ description: Peer empowerment, hired flamingos, & roof bread.
 sponsor: spray-on tans, lofty expectations, and disappointment
 season: 6
 episode: 98
+guests: Chris Enns
 ---
 
 # Questions
