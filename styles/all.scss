@@ -5,9 +5,12 @@
 @import 'reset';
 @import 'header';
 @import 'footer';
+@import 'fonts';
+@import 'layout';
 
 // Body
 body {
   background: #fff;
   color: #000;
+  font-family: 'Roboto', sans-serif;
 }

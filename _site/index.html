@@ -77,11 +77,13 @@
 <body>
 
 <!-- Navigation Bar -->
+<div class="container">
+
 <nav role="navigation" class="header">
   <ul class="header__list">
     <!-- Goodstuff Logo -->
     <li class="header__list__item">
-        <a href="/"><img src="/assets/logo.svg" class="header__list__logo" alt="Goodstuffv2" /></a>
+        <a href="/"><img src="/assets/logo-small.svg" class="header__list__logo" alt="Goodstuffv2" /></a>
     </li>
     <!-- Page Loop -->
     
@@ -116,26 +118,38 @@
   </ul>
 </nav>
 
+</div>
 
-<hr>
 
+<div class="container">
+   <div class="column column-one">Column one</div>
+   <div class="column column-two">Column two</div>
+</div>
 
+<h2 class="latest-episode__header">Latest Episode</h2>
 <!-- Latest Episode Banner -->
-<div class="banner">
-  <h2>Latest Episode</h2>
-  
-  
-  <h3>3G3Q</h3>
-  <ul>
+<div class="container">
+
     
-      <li><img src="/uploads/broadcast_thumbnail_3g3q_artwork.png" alt="Artwork" height="100" width="100"/></li>
-      <li><a href="/3g3q">Buck-Wilde</a></li>
-      <li>Published Mar 29, 2016</li>
-      <li>Peer empowerment, hired flamingos, & roof bread.</li>
     
-  </ul>
-  
-  
+    
+    <div class="column column-two">
+      <div class="latest-episode__artwork">
+        <img src="/uploads/broadcast_thumbnail_3g3q_artwork.png" alt="Artwork"/>
+      </div>
+    </div>
+
+    <div class="column column-one">
+      <div class="latest-episode__details">
+        <h3 class="latest-episode__show-name">3G3Q</h3>
+        <a href="/3g3q">Buck-Wilde</a>
+        <p>Published Mar 29, 2016</p>
+        <p>Peer empowerment, hired flamingos, & roof bread.</p>
+      </div>
+    </div>
+    
+    
+    
 </div>
 
 <hr>
@@ -185,8 +199,8 @@
   <h3>Non Breaking Space Show</h3>
   <ul>
     
-    <li><a href="/nbsp">PixelJam — Indie Game Developers</a></li>
-    <li>Published Apr 26, 2016</li>
+    <li><a href="/nbsp"></a></li>
+    <li>Published Sep 17, 2016</li>
     
   </ul>
   
@@ -269,7 +283,7 @@ The best of Goodstuff delivered weekly from our mouths to your brain.
   <ul class="footer__list">
     <!-- Goodstuff Logo -->
     <li class="footer__list__item">
-        <a href="/"><img src="/assets/logo.svg" class="footer__list__logo" alt="Goodstuffv2" /></a>
+        <a href="/"><img src="/assets/logo-small.svg" class="footer__list__logo" alt="Goodstuffv2" /></a>
     </li>
     <!-- Page Loop -->
     <li class="footer__list__header">Goodstuff Elsewhere</li>

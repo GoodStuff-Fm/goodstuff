@@ -1,22 +1,13 @@
 ---
 title: PixelJam — Indie Game Developers
 date: 2016-04-26 11:00:00 -06:00
-Description: 'Based out of Asheville, NC, Miles Tilmann and Rich Grillotti make up
-  the leadership of PixelJam, an indie game development company. Since 2005, they''ve
-  created their own video games mostly in the retro pixelation format that defined
-  the look and feel of 1980s console games such as Gamma Bros.,  Dino Run, and PotatoMan
-  Seeks The Troof. However, some games have other visual styles like Glorkian Warrior,
-  show they can shed the retro feel and still make an engaging game. They''ve also
-  produced mobile games for late night cable station, Adult Swim, such as Hipster
-  Kickball and Pizza City.  '
-iTunes Summary: Based out of Asheville, NC, Miles Tilmann and Rich Grillotti make
-  up the leadership of PixelJam, an indie game development company. Since 2005, they've
-  created their own video games mostly in the retro pixelation format.
+Description: 'Based out of Asheville, NC, Miles Tilmann and Rich Grillotti make up the leadership of PixelJam, an indie game development company. Since 2005, they've created their own video games mostly in the retro pixelation format that defined the look and feel of 1980s console games such as Gamma Bros.,  Dino Run, and PotatoMan Seeks The Troof. However, some games have other visual styles like Glorkian Warrior, show they can shed the retro feel and still make an engaging game. They''ve also produced mobile games for late night cable station, Adult Swim, such as Hipster Kickball and Pizza City.  '
+iTunes Summary: Based out of Asheville, NC, Miles Tilmann and Rich Grillotti make up the leadership of PixelJam, an indie game development company. Since 2005, they've created their own video games mostly in the retro pixelation format.
 MP3 URL: https://media.zencast.fm/non-breaking-space-show/75.mp3
 ---
 
 * **[21:20](#t=21:20)** → Lessons learned in making games over a long time.
-* **[30:30](#t=30:30)** →  What's the baseline for getting coverage for your game?
+* **[30:30](#t=30:30)** → What's the baseline for getting coverage for your game?
 * **[31:00](#t=31:00)** → What language are Pixel Jam using for their new games?
 * **[33:00](#t=33:00)** → Any changes in tools used for editing graphics for games?
 * **[34:40](#t=34:40)** → Using Kickstarter and crowdsourcing sites for game development.

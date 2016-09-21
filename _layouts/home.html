@@ -9,25 +9,35 @@
 <!-- Navigation Bar -->
 {% include nav.html %}
 
-<hr>
+<div class="container">
+   <div class="column column-one">Column one</div>
+   <div class="column column-two">Column two</div>
+</div>
 
-
+<h2 class="latest-episode__header">Latest Episode</h2>
 <!-- Latest Episode Banner -->
-<div class="banner">
-  <h2>Latest Episode</h2>
-  {% for collection in site.collections limit:1 %}
-  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-  <h3>{{collection.title}}</h3>
-  <ul>
+<div class="container">
+
+    {% for collection in site.collections limit:1 %}
+    {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
     {% for doc in collection.docs limit:1 %}
-      <li><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></li>
-      <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
-      <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
-      <li>{{ doc.description }}</li>
+    <div class="column column-two">
+      <div class="latest-episode__artwork">
+        <img src="{{ collection.image }}" alt="Artwork"/>
+      </div>
+    </div>
+
+    <div class="column column-one">
+      <div class="latest-episode__details">
+        <h3 class="latest-episode__show-name">{{collection.title}}</h3>
+        <a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a>
+        <p>Published {{ doc.date | date: "%b %d, %Y" }}</p>
+        <p>{{ doc.description }}</p>
+      </div>
+    </div>
     {% endfor %}
-  </ul>
-  {% endunless %}
-  {% endfor %}
+    {% endunless %}
+    {% endfor %}
 </div>
 
 <hr>

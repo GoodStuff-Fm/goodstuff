@@ -7,6 +7,7 @@ collections:
     output: true
     permalink: "/3g3q"
     name: 3 Guys 3 Questions
+    hosts: Aaron Goodwin, Adam Anderson, Andrew Savage
     description: Three guys ponder the finer things in life by asking each other weird
       questions. Each week they compete to seem the most normal while answering questions
       about fears, pet-peeves, and idiosyncrasies.
@@ -16,9 +17,10 @@ collections:
     Contact Email: 3guys3questions@gmail.com
     keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo,
       lightning round
-    hosts: Aaron Goodwin, Adam Anderson, Andrew Savage
+
     RSS: http://feed.3g3q.co/
     iTunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+
   dailyish:
     title: Daily(ish)
     output: true
@@ -34,6 +36,7 @@ collections:
     Contact Email: chris@goodstuff.fm
     RSS: http://feeds.goodstuff.fm/dailyish
     iTunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
@@ -48,13 +51,14 @@ collections:
     Contact Email: kayayarai+grownups@gmail.com
     iTunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
     RSS: http://feeds.goodstuff.fm/grownups
+
   morningshow:
     title: Morning Show
     output: true
     permalink: "/morningshow/:path"
     retired: 'yes'
     name: Morning Show
-    hosts: Kyle Roderick, Kenny Roderick
+    hosts: Kyle Roderick
     description: Good Morning, Internet! We cover the latest news in robots, food,
       technology, and culture. Live MWF 7-8AM Pacific.
     keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
@@ -65,6 +69,7 @@ collections:
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
+
   nbsp:
     title: Non Breaking Space Show
     output: true
@@ -80,16 +85,20 @@ collections:
     Contact Email: chris@goodstuff.fm
     iTunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
     RSS: http://feeds.goodstuff.fm/nbsp
+
   people:
     title: People
     output: true
     permalink: "/people/:title/"
+
   posts:
     title: Posts
     output: true
+
   uploads:
     title: Uploads
     output: true
+
 defaults:
 - scope:
     path: ''
@@ -109,7 +118,7 @@ defaults:
     layout: episodes
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
-logo: "/assets/logo.svg"
+logo: "/assets/logo-small.svg"
 sass:
   sass_dir: "./styles"
 gems:

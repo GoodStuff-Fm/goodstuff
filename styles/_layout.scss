@@ -3,12 +3,73 @@
 // Styles for managing the structural hierarchy of the site.
 
 .container {
-  max-width: 38rem;
+  max-width: 60rem;
   padding-left:  1.5rem;
   padding-right: 1.5rem;
   margin-left:  auto;
   margin-right: auto;
+  background: none;
+  height: auto;
+  display: flex;
 }
+
+.column {
+    flex: 1;
+
+    /*for demo purposes only */
+    background: #f2f2f2;
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+}
+
+.column-one {
+    order: 3;
+}
+.column-two {
+    order: 1;
+}
+.column-three {
+    order: 4;
+}
+.column-four {
+    order: 2;
+}
+.column-five {
+    order: 5;
+}
+
+.latest-episode {
+  background-color: #DA5647;
+  height: 25rem;
+  padding: 2rem;
+
+  &__artwork {
+    width: 30%;
+    float: left;
+    height: auto;
+    img {
+      height: auto;
+      width: 100%;
+    }
+  }
+
+  &__details {
+    width: 70%;
+    height: auto;
+    float: right;
+    padding-left: 1rem;
+  }
+
+}
+
+
+
+.recent-episodes {
+  width: 100%;
+}
+
+
+
 
 footer {
   margin-bottom: 2rem;
