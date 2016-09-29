@@ -1,8 +1,7 @@
 ---
 title: Kyle Roderick
 date: 2016-04-26 10:54:00 -06:00
-Visible: 'Yes'
-Host: 'Yes'
+is host: true
 website: http://kyleroderick.com
 twitter: kyleroderick
 email: kyle@goodstuff.fm
