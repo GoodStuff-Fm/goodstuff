@@ -7,7 +7,10 @@ collections:
     output: true
     permalink: "/3g3q"
     name: 3 Guys 3 Questions
-    hosts: Aaron Goodwin, Adam Anderson, Andrew Savage
+    hosts:
+    - Aaron Goodwin
+    - Andrew Savage
+    - Adam Anderson
     description: Three guys ponder the finer things in life by asking each other weird
       questions. Each week they compete to seem the most normal while answering questions
       about fears, pet-peeves, and idiosyncrasies.
