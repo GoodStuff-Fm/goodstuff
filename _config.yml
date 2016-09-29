@@ -54,7 +54,9 @@ collections:
     permalink: "/morningshow/:path"
     retired: 'yes'
     name: Morning Show
-    hosts: Kyle Roderick
+    hosts:
+    - Kyle Roderick
+    - Kenny Roderick
     description: Good Morning, Internet! We cover the latest news in robots, food,
       technology, and culture. Live MWF 7-8AM Pacific.
     keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
