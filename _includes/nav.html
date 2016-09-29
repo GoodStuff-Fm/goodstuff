@@ -1,18 +1,16 @@
-<div class="container">
-
-<nav role="navigation" class="header">
-  <ul class="header__list">
-    <!-- Goodstuff Logo -->
-    <li class="header__list__item">
+<div class="container__wide__blue">
+  <nav role="navigation" class="header">
+    <ul class="header__list">
+      <!-- Goodstuff Logo -->
+      <li class="header__list__item">
         <a href="/"><img src="{{ site.logo }}" class="header__list__logo" alt="{{ site.title }}" /></a>
-    </li>
-    <!-- Page Loop -->
-    {% for item in site.data.navigation.header %}
-    <li class="header__list__item">
-      <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</nav>
-
+      </li>
+      <!-- Page Loop -->
+        {% for item in site.data.navigation.header %}
+        <li class="header__list__item">
+          <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+  </nav>
 </div>

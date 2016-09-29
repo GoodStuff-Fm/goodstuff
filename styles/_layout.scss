@@ -2,74 +2,135 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
+.grid {
+  display: grid; /* 1 */
+  grid-template-columns: 1fr 1fr 1fr 1fr; /* 2 */
+  grid-template-rows: auto; /* 3 */
+}
+
 .container {
-  max-width: 60rem;
+  max-width: 600pt;
   padding-left:  1.5rem;
   padding-right: 1.5rem;
   margin-left:  auto;
   margin-right: auto;
   background: none;
   height: auto;
-  display: flex;
-}
 
-.column {
-    flex: 1;
-
-    /*for demo purposes only */
-    background: #f2f2f2;
-    border: 1px solid #e6e6e6;
-    box-sizing: border-box;
-}
-
-.column-one {
-    order: 3;
-}
-.column-two {
-    order: 1;
-}
-.column-three {
-    order: 4;
-}
-.column-four {
-    order: 2;
-}
-.column-five {
-    order: 5;
-}
-
-.latest-episode {
-  background-color: #DA5647;
-  height: 25rem;
-  padding: 2rem;
-
-  &__artwork {
-    width: 30%;
-    float: left;
-    height: auto;
-    img {
-      height: auto;
+  &__wide {
+    &__red {
+      background: #DA5647;
+      width: 100%;
+    }
+    &__blue {
+      background: #292D36;
       width: 100%;
     }
   }
 
+  &__banner {
+    color: white;
+    width: 600pt;
+    height: 250pt;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+  &__nav {
+    width: 600pt;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+  &__recent-episodes {
+    width: 600pt;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+
+}
+
+.latest-episode {
+
+  &__header {
+    width: 100%;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+  }
+
+  &__artwork {
+    height: 200pt;
+    float: left;
+    padding-right: 20pt;
+    img {
+      height: 200pt;
+    }
+  }
+
   &__details {
-    width: 70%;
     height: auto;
-    float: right;
-    padding-left: 1rem;
   }
 
 }
 
+.header {
+  height: 70pt;
+  vertical-align: middle;
+  line-height: 70pt;
+  max-width: 600pt;
+  margin-left:  auto;
+  margin-right: auto;
+
+  &__list {
+
+    &__item {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    &__logo {
+      background-color: none;
+      width: 40pt;
+      height: 40pt;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 40pt;
+    }
+
+    &__link {
+      color: #969DAF;
+      text-decoration: none;
+    }
+
+  }
+
+}
+
+.recent-episodes {
+
+  &__list {
+
+    &__item {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    &__link {
+      color: #969DAF;
+      text-decoration: none;
+    }
+
+  }
+
+}
 
 
 .recent-episodes {
   width: 100%;
 }
-
-
-
 
 footer {
   margin-bottom: 2rem;

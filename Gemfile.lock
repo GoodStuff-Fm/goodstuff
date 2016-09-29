@@ -36,3 +36,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
+
+BUNDLED WITH
+   1.13.0
