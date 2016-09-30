@@ -18,11 +18,20 @@
     <div class="latest-episode__artwork">
       <img src="{{ collection.image }}" alt="Artwork"/>
     </div>
-    <div class="latest-episode__details">
-      <h3 class="latest-episode__show-name">{{collection.title}}</h3>
+    <div class="latest-episode__details__show">
+      {{collection.title}}
+    </div>
+    <div class="latest-episode__details__title">
       <a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a>
-      <p>Published {{ doc.date | date: "%b %d, %Y" }}</p>
-      <p>{{ doc.description }}</p>
+    </div>
+    <div class="latest-episode__details__date">
+      Published {{ doc.date | date: "%b %d, %Y" }}
+    </div>
+    <div class="latest-episode__details__description">
+      {{ doc.description }}
+    </div>
+    <div class="latest-episode__details__listen">
+      	<a href="{{ doc.url }}">&#9654; Listen to the episode</a>
     </div>
   </div>
   {% endfor %}
@@ -33,44 +42,41 @@
 <!-- List of Recent Episodes -->
 <div class="container__recent-episodes">
   <div class="recent-episodes">
-    <h2>Recent Episodes</h2>
-    {% for collection in site.collections limit:5 %}
+    <div class="recent-episodes__header">Recent Episodes</div>
+    {% for collection in site.collections limit:4 %}
     {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-    <h3>{{collection.title}}</h3>
-      <ul>
+      <div class="recent-episodes__list">
         {% for doc in collection.docs limit:1 %}
-        <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
-        <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
+        <div class="recent-episodes__artwork"><a href="{{ doc.url }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
+        <div class="recent-episodes__title"><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></div>
+        <div class="recent-episodes__date">{{ doc.date | date: "%b %d, %Y" }}</div>
         {% endfor %}
-      </ul>
+      </div>
     {% endunless %}
     {% endfor %}
   </div>
 </div>
 
-<!-- Email Newsletter -->
-<h3>Like what you see here? Get more good stuff in your inbox.</h3>
-The best of Goodstuff delivered weekly from our mouths to your brain.
-<hr>
 
-<!-- List of Shows -->
-<div class="shows-list">
-  <h2>Our Shows</h2>
-
+<!-- List of all of our shows -->
+<div class="container">
+  <div class="our-shows">
+  <div class="our-shows__header">Our Shows</div>
   {% assign show = collection.label %}
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-
-  <ul>
-    <li><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
-    <li><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
-    <li>{{ collection.description }}</li>
-  </ul>
-  <br>
+  <div class="our-shows__list">
+    <div class="our-shows__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
+    <div class="our-shows__title"><a href="{{ collection.permalink }}">{{ collection.name }}</a></div>
+  </div>
   {% endunless %}
   {% endfor %}
 
+  </div>
 </div>
+  </div>
+
+
 
 <!-- Footer -->
 {% include footer.html %}

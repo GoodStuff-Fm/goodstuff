@@ -27,7 +27,8 @@ collections:
     output: true
     permalink: "/dailyish"
     name: Daily(ish)
-    hosts: Chris Enns
+    hosts:
+    - Chris Enns
     description: Just as it says on the tin – this is a daily(ish) podcast from Chris
       Enns.
     image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
@@ -114,7 +115,10 @@ defaults:
     layout: episodes
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
-logo: "/assets/logo-small.svg"
+logo-small: "/assets/logo-small.svg"
+logo: "/assets/logo.svg"
+description: The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
+copyright: © 2014–2016 Goodstuff Broadcasting
 sass:
   sass_dir: "./styles"
 gems:

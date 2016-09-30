@@ -5,6 +5,7 @@
 @import 'reset';
 @import 'footer';
 @import 'fonts';
+@import 'type';
 @import 'layout';
 
 
@@ -13,4 +14,5 @@ body {
   background: #fff;
   color: #000;
   font-family: 'Roboto', sans-serif;
+  font-size: 14px;
 }

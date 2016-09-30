@@ -1,15 +1,20 @@
-<footer role="footer" class="footer">
-  <ul class="footer__list">
-    <!-- Goodstuff Logo -->
-    <li class="footer__list__item">
-        <a href="/"><img src="{{ site.logo }}" class="footer__list__logo" alt="{{ site.title }}" /></a>
-    </li>
-    <!-- Page Loop -->
-    <li class="footer__list__header">Goodstuff Elsewhere</li>
-    {% for item in site.data.navigation.footer %}
-    <li class="footer__list__item">
-      <a href="{{ item.url }}" class="footer__list__link">{{ item.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
+<div class="container__wide__dark">
+  <footer role="footer" class="footer">
+
+    <!-- Footer Left Side-->
+    <div class="footer__left">
+      <div class="footer__left__logo"><a href="/"><img src="{{ site.logo }}" class="footer__list__logo" alt="{{ site.title }}" /></a></div>
+      <div class="footer__left__description">{{ site.description }}</div>
+      <div class="footer__left__copyright">{{ site.copyright }}</div>
+    </div>
+
+    <!-- Footer Right Side -->
+    <div class="footer__right">
+      <div class="footer__right__header">Goodstuff Elsewhere</div>
+      {% for item in site.data.navigation.footer %}
+      <div class="footer__right__page"><a href="{{ item.url }}" class="footer__list__link">{{ item.title }}</a></div>
+      {% endfor %}
+    </div>
+
 </footer>
+</div>

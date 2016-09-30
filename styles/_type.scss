@@ -1,97 +1,163 @@
-// Typography
+// Type
 //
-// Headings, body text, lists, and other misc typographic elements.
+// Styles for fonts, weights, sizes, and other font-related styles.
 
-// Headings
-h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
-  text-rendering: optimizeLegibility;
-}
-h1 {
-  font-size: 2rem;
-}
-h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
-}
-h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
-}
-h4, h5, h6 {
-  margin-top: 1rem;
-  font-size: 1rem;
-}
+.latest-episode {
 
-// Body text
-p {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-strong {
-  color: #303030;
-}
-
-// Lists
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-dd {
-  margin-bottom: .5rem;
-}
-
-// Misc
-hr {
-  position: relative;
-  margin: 1.5rem 0;
-  border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
-}
-
-abbr {
-  font-size: 85%;
-  font-weight: bold;
-  color: #555;
-  text-transform: uppercase;
-}
-abbr[title] {
-  cursor: help;
-  border-bottom: 1px dotted #e5e5e5;
-}
-
-/* Quotes */
-blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
-
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+  &__header {
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
   }
+
+  &__details {
+
+  &__show {
+    font-size: 1.4rem;
+    font-weight: 500;
+  }
+
+  &__title a {
+    color: inherit;
+    font-size: 2.3rem;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  &__date {
+    font-size: .95rem;
+    opacity: .6;
+  }
+
+  &__description {
+    font-size: 1.1rem;
+  }
+
+  &__listen a {
+  float: left;
+  max-width: 50%;
+  border-radius: 4pt;
+  color: white;
+  font-size: 1.1rem;
+  background: #DA5647;
+  padding: 10pt 20pt 10pt 20pt;
+  border: solid #C4392E 1pt;
+  text-decoration: none;
 }
 
-blockquote p:last-child {
-  margin-bottom: 0;
+&__listen:hover a {
+  background: #C4392E;
+  text-decoration: none;
+  }
+  }
+
 }
 
+.header {
+  height: 70pt;
+  vertical-align: middle;
+  line-height: 70pt;
 
-// Custom type
-//
-// Extend paragraphs with `.lead` for larger introductory text.
+  &__list {
 
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
+    &__item {
+      font-size: 1rem;
+      color: #969DAF;
+    }
+
+    &__link {
+      text-decoration: none;
+    }
+
+  }
+
+}
+
+.recent-episodes {
+
+  &__header {
+    color: #4A5160;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+  }
+
+  &__list {
+    text-align: center;
+  }
+
+  &__title a {
+    color: #4A5160;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  &__date {
+    color: #DA5647;
+    font-size: .85rem;
+  }
+
+}
+
+.our-shows {
+
+  &__header {
+    color: #4A5160;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+  }
+
+  &__list a {
+    color: #4A5160;
+    font-size: .8rem;
+    font-weight: 500;
+    text-decoration: none;
+  }
+
+  &__title {
+    text-align: center;
+  }
+
+}
+
+.footer {
+  color: white;
+
+  &__left {
+
+    &__description {
+      color: #969DAF;
+    }
+
+    &__copyright {
+      color: #969DAF;
+      font-weight: 700;
+    }
+
+    &__link {
+    }
+
+  }
+
+  &__right {
+
+    &__header {
+      font-size: 1rem;
+      font-weight: 500;
+    }
+
+    &__page a {
+      color: #60697D;
+      font-size: .9rem;
+      text-decoration: none;
+    }
+
+  }
+
 }

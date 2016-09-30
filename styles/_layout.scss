@@ -9,9 +9,7 @@
 }
 
 .container {
-  max-width: 600pt;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
+  max-width: 700pt;
   margin-left:  auto;
   margin-right: auto;
   background: none;
@@ -22,7 +20,7 @@
       background: #DA5647;
       width: 100%;
     }
-    &__blue {
+    &__dark {
       background: #292D36;
       width: 100%;
     }
@@ -30,47 +28,26 @@
 
   &__banner {
     color: white;
-    width: 600pt;
-    height: 250pt;
+    width: 700pt;
+    height: 310pt;
+    padding-bottom: 30pt;
     margin-left:  auto;
     margin-right: auto;
   }
 
   &__nav {
-    width: 600pt;
+    width: 700pt;
     margin-left:  auto;
     margin-right: auto;
   }
 
   &__recent-episodes {
-    width: 600pt;
+    width: 700pt;
     margin-left:  auto;
     margin-right: auto;
   }
 
 
-}
-
-.latest-episode {
-
-  &__header {
-    width: 100%;
-    padding-top: 10pt;
-    padding-bottom: 10pt;
-  }
-
-  &__artwork {
-    height: 200pt;
-    float: left;
-    padding-right: 20pt;
-    img {
-      height: 200pt;
-    }
-  }
-
-  &__details {
-    height: auto;
-  }
 
 }
 
@@ -78,7 +55,7 @@
   height: 70pt;
   vertical-align: middle;
   line-height: 70pt;
-  max-width: 600pt;
+  max-width: 700pt;
   margin-left:  auto;
   margin-right: auto;
 
@@ -108,30 +85,136 @@
 
 }
 
+.latest-episode {
+
+  &__header {
+    width: 100%;
+    padding-top: 30pt;
+    padding-bottom: 20pt;
+
+  }
+
+  &__artwork {
+    height: 240pt;
+    float: left;
+    padding-right: 20pt;
+    img {
+      height: 240pt;
+    }
+  }
+
+  &__details {
+
+    &__show {
+    padding-bottom: 14pt;
+    }
+
+    &__title {
+    padding-bottom: 10pt;
+    }
+
+    &__date {
+    padding-bottom: 18pt;
+    }
+
+  &__description {
+    padding-bottom: 20pt;
+    }
+}
+}
+
 .recent-episodes {
+  padding-top: 50pt;
 
   &__list {
+    padding-top: 20pt;
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+    padding-right: 10pt;
+  }
 
-    &__item {
-      padding: 0 10pt;
-      display: inline-block;
-      vertical-align: middle;
-    }
+  &__artwork img {
+      width: 100%;
 
-    &__link {
-      color: #969DAF;
-      text-decoration: none;
-    }
+  }
 
+  &__title {
+    padding-top: 10pt;
+  }
+
+  &__date {
+    padding-top: 8pt;
+  }
+
+}
+
+.our-shows {
+  padding-top: 80pt;
+  padding-bottom: 80pt;
+
+  &__list {
+    padding-top: 20pt;
+    padding-right: 10pt;
+    display: inline-block;
+    vertical-align: top;
+    width:14%
+  }
+
+  &__artwork img {
+      width: 100%;
+      height: auto;
+      padding-bottom: 10pt;
+      padding-right: 10pt;
   }
 
 }
 
 
-.recent-episodes {
-  width: 100%;
-}
+.footer {
+  height: 160pt;
+  vertical-align: middle;
+  max-width: 700pt;
+  margin-left:  auto;
+  margin-right: auto;
+  padding-top: 30pt;
 
-footer {
-  margin-bottom: 2rem;
+  &__left {
+    width: 45%;
+    float: left;
+
+    &__description {
+      padding-top: 5pt;
+    }
+
+    &__copyright {
+      padding-top: 10pt;
+    }
+
+    &__logo {
+      height: 60pt;
+      width: 180pt;
+      vertical-align: middle;
+    }
+
+    &__link {
+    }
+
+  }
+
+  &__right {
+    width: 30%;
+    float: right;
+
+    &__header {
+      padding-bottom: 10pt;
+    }
+
+    &__page {
+      padding-top: 5pt;
+    }
+
+  }
+
+
 }

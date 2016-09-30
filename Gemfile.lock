@@ -19,6 +19,8 @@ GEM
       listen (~> 3.0)
     kramdown (1.9.0)
     liquid (3.0.6)
+    liquid_pluralize (1.0.2)
+      liquid (>= 2.6, < 4.0)
     listen (3.0.5)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
@@ -36,6 +38,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
+  liquid_pluralize
 
 BUNDLED WITH
    1.13.0
