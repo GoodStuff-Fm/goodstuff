@@ -57,7 +57,7 @@ collections:
   morningshow:
     title: Morning Show
     output: true
-    permalink: "/morningshow/:path"
+    permalink: "/morningshow/"
     retired: 'yes'
     name: Morning Show
     hosts:
