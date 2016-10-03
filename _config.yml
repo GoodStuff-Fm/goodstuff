@@ -121,8 +121,9 @@ permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
 logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
-description: The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
-copyright: © 2014–2016 Goodstuff Broadcasting
+description: The internet’s favorite shows on technology, culture, news and more.
+  You know, just the good stuff.
+copyright: "© 2014–2016 Goodstuff Broadcasting"
 sass:
   sass_dir: "./styles"
 gems:
