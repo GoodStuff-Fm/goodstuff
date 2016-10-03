@@ -85,6 +85,7 @@ collections:
     Contact Email: chris@goodstuff.fm
     iTunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
     RSS: http://feeds.goodstuff.fm/nbsp
+    Color: "#539951"
   people:
     title: People
     output: true
