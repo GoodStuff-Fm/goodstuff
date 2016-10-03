@@ -1,7 +1,8 @@
 ---
 title: '166'
 date: 2016-03-18 14:55:00 -06:00
+layout: 'episodes'
 people: Chris Enns
 ---
 
-Here's epsiode 166. I created this on Github and want to see if it'll sync back properly inside Siteleaf.
+Here's episode 166. I created this on Github and want to see if it'll sync back properly inside Siteleaf.

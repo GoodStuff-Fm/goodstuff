@@ -5,7 +5,7 @@ collections:
   3g3q:
     title: 3G3Q
     output: true
-    permalink: "/3g3q"
+    permalink: "/3g3q/:path/"
     name: 3 Guys 3 Questions
     hosts:
     - Aaron Goodwin
@@ -25,7 +25,7 @@ collections:
   dailyish:
     title: Daily(ish)
     output: true
-    permalink: "/dailyish"
+    permalink: "/dailyish/:path/"
     name: Daily(ish)
     hosts: Chris Enns
     description: Just as it says on the tin – this is a daily(ish) podcast from Chris
@@ -43,7 +43,7 @@ collections:
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
-    permalink: "/grownups"
+    permalink: "/grownups/:path/"
     name: I Guess We're Grown-Ups Now
     hosts: Kari Halsted, Brook Shelly
     description: A podcast about being the kind of grown-ups we want to be. The answers
@@ -57,7 +57,7 @@ collections:
   morningshow:
     title: Morning Show
     output: true
-    permalink: "/morningshow/"
+    permalink: "/morningshow/:path/"
     retired: 'yes'
     name: Morning Show
     hosts:
@@ -76,7 +76,7 @@ collections:
   nbsp:
     title: Non Breaking Space Show
     output: true
-    permalink: "/nbsp"
+    permalink: "/nbsp/:path/"
     name: Non Breaking Space Show
     description: Seeking out the best, brightest, and smartest creative people on
       digital art, design, and development. From workflows to life hacks, we examine
