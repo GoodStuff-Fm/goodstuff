@@ -1,7 +1,7 @@
 ---
 title: Christopher Schmitt
 date: 2016-05-27 20:56:00 -06:00
-position: 8
+position: 7
 Visible: 'Yes'
 Host: 'Yes'
 Twitter: teleject
