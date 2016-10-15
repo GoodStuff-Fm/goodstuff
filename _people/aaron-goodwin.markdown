@@ -1,6 +1,7 @@
 ---
 title: Aaron Goodwin
 date: 2016-05-27 20:48:00 -06:00
+position: 4
 Host: 'Yes'
 Visible: 'Yes'
 Twitter: aaronlmgoodwin

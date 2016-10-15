@@ -1,6 +1,7 @@
 ---
 title: Brook Shelley
 date: 2016-05-27 20:59:00 -06:00
+position: 9
 Visible: 'Yes'
 Host: 'Yes'
 Website: https://vine.co/u/907706930628268032

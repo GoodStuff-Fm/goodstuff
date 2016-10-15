@@ -1,6 +1,7 @@
 ---
 title: Kyle Roderick
 date: 2016-04-26 10:54:00 -06:00
+position: 1
 is host: true
 website: http://kyleroderick.com
 twitter: kyleroderick
