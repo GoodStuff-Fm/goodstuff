@@ -1,18 +1,25 @@
 ---
 ---
 
+
+
 @charset "utf-8";
 @import 'reset';
-@import 'footer';
+@import 'colors';
 @import 'fonts';
+@import 'footer';
 @import 'type';
 @import 'layout';
 
 
+
+
 // Body
+
 body {
   background: #fff;
   color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
+  text-rendering: optimizeLegibility;
 }

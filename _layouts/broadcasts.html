@@ -9,9 +9,11 @@
 <!-- Navigation Bar -->
 {% include nav.html %}
 
+<div class="container">
+
 <h1 class="page__header">Broadcasts</h1>
 
-<hr>
+<hr class="page__rule">
 
 <!-- List of Shows -->
 <div class="broadcasts">
@@ -23,12 +25,13 @@
   <ul class="broadcasts__list">
     <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
     <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
+    <li class="broadcasts__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
     <li class="broadcasts__list__description">{{ collection.description }}</li>
-    <li class="broadcasts__list__hosts">{{ collection.hosts | join: ', ' }}</li>
+
     <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.rss }}">RSS Feed</a> - <a href="{{ collection.itunes }}">iTunes</a></li>
   </ul>
 
-  <hr>
+<hr class="page__rule">
 
   {% endunless %}
   {% endfor %}
@@ -38,7 +41,7 @@
 <!-- List of Retired Shows -->
 <div class="broadcasts">
 
-  <h2>Retired Broadcasts</h2>
+  <h2 class="page__subheader">Retired Broadcasts</h2>
 
   {% assign show = collection.label %}
   {% for collection in site.collections %}
@@ -48,16 +51,18 @@
   <ul class="broadcasts__list">
     <li class="broadcasts__list__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
     <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3></li>
+    <li class="broadcasts__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
     <li class="broadcasts__list__description">{{ collection.description }}</li>
-    <li class="broadcasts__list__hosts">{{ collection.hosts }}</li>
-    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
+    <li class="broadcasts__list__link"><strong>Subscribe:</strong> <a href="{{ collection.RSS }}">RSS Feed</a> - <a href="{{ collection.iTunes }}">iTunes</a></li>
   </ul>
 
-  <hr>
+  <hr class="page__rule">
 
   {% endif %}
   {% endunless %}
   {% endfor %}
+
+</div>
 
 </div>
 

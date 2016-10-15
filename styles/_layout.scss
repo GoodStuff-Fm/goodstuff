@@ -10,13 +10,11 @@
 
 .container {
   max-width: 700pt;
-  margin-left:  auto;
-  margin-right: auto;
   background: none;
-  height: auto;
   min-height: 100%;
-  height: auto;
-  height: 100%;
+  margin: 0 auto;
+  overflow: auto;
+  padding-bottom:60px;
 
   &__wide {
     &__red {
@@ -51,8 +49,7 @@
   }
 
   &__footer {
-    background: #292D36;
-    width: 100%;
+    background: $dark-blue;
   }
 
 
@@ -99,7 +96,6 @@
     width: 100%;
     padding-top: 30pt;
     padding-bottom: 20pt;
-
   }
 
   &__artwork {
@@ -114,21 +110,21 @@
   &__details {
 
     &__show {
-    padding-bottom: 14pt;
+      padding-bottom: 14pt;
     }
 
     &__title {
-    padding-bottom: 10pt;
+      padding-bottom: 10pt;
     }
 
     &__date {
-    padding-bottom: 18pt;
+      padding-bottom: 18pt;
     }
 
-  &__description {
-    padding-bottom: 20pt;
+    &__description {
+      padding-bottom: 20pt;
     }
-}
+  }
 }
 
 .recent-episodes {
@@ -143,8 +139,7 @@
   }
 
   &__artwork img {
-      width: 100%;
-
+    width: 100%;
   }
 
   &__title {
@@ -174,6 +169,91 @@
       height: auto;
       padding-bottom: 10pt;
       padding-right: 10pt;
+  }
+
+}
+
+.page {
+
+  &__header {
+    padding-top: 50pt;
+    padding-bottom: 15pt;
+  }
+
+  &__subheader {
+    padding-top: 25pt;
+    padding-bottom: 25pt;
+  }
+
+  &__rule {
+  }
+
+  &__description {
+    padding-top: 10pt;
+    padding-bottom: 20pt;
+    p {
+      margin-bottom: 15pt;
+    }
+  }
+}
+
+.broadcasts {
+
+  &__list {
+    height: 180pt;
+
+    &__artwork {
+      height: 150pt;
+      float: left;
+      padding-top: 10pt;
+      padding-bottom: 10pt;
+      padding-right: 30pt;
+      img {
+        height: 150pt;
+        width: 150pt;
+      }
+    }
+
+    &__name {
+      padding-top: 15pt;
+    }
+
+    &__hosts {
+      padding-top: 10pt;
+    }
+
+    &__description {
+      padding-top: 10pt;
+    }
+
+    &__link {
+      padding-top: 15pt;
+    }
+
+  }
+}
+
+.hosts {
+
+  &__list {
+    margin: 10pt;
+    float: left;
+    width: 17%;
+    text-align: center;
+
+    &__image img {
+      border-radius: 50%;
+      width: 100%;
+      height: auto;
+    }
+
+    &__name {
+      width: 100%;
+      padding-top: 5pt;
+      float: left;
+
+    }
+
   }
 
 }
