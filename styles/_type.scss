@@ -214,6 +214,37 @@
   }
 }
 
+.show {
+
+  &__description {
+    font-size: 1.45rem;
+    font-weight: 400;
+    color: $light-blue;
+    line-height: 2rem;
+  }
+
+  &__episode {
+
+    &__title a{
+      font-size: 1.6rem;
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    &__date {
+      color: #A9ACB4;
+      opacity: 50%;
+      font-size: .95rem;
+    }
+
+    &__description {
+      color: $light-blue;
+      font-size: 1.1rem;
+    }
+  }
+}
+
 .footer {
   color: white;
 

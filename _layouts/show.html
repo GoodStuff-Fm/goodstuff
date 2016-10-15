@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include nav.html %}
+    <div class="container">
+      <h1 class="page__header">{{ page.title }}</h1>
+
+      <div class="show__description">
+        {{ content }}
+      </div>
+
+      <hr class="page__rule">
+
+
+<!-- If a show records live
+      <div class="page__description">
+        This show broadcasts live. Check the <a href="/schedule">schedule</a>.
+      </div>
+-->
+
+        {% for doc in site.3g3q %}
+
+          <div class="show__episode__title">
+            <a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a>
+          </div>
+
+          <div class="show__episode__date">
+            Published {{ doc.date | date: "%b %d, %Y" }}
+          </div>
+
+          <div class="show__episode__description">
+            {{ doc.description }}
+          </div>
+
+          <hr class="page__rule">
+
+        {% endfor %}
+
+
+      {{ page.footer_scripts }}
+
+    </div>
+
+  {% include footer.html %}
+
+  </body>
+
+</html>

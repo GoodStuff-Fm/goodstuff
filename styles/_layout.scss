@@ -258,6 +258,30 @@
 
 }
 
+.show {
+
+  &__description {
+    padding-bottom: 15pt;
+  }
+
+  &__episode {
+
+    &__title {
+      padding-top: 15pt;
+    }
+
+    &__date {
+      padding-top: 10pt;
+    }
+
+    &__description {
+      padding-top: 20pt;
+      padding-bottom: 15pt;
+    }
+  }
+}
+
+
 
 .footer {
   height: 160pt;
