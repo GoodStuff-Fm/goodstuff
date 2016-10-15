@@ -1,7 +1,7 @@
 ---
 title: Kari Halsted
 date: 2016-04-28 11:07:00 -06:00
-position: 2
+position: 3
 Description: Kari has two daughters, a husband, a minivan, and a mortgage. Not unrelated
   to this, she also has a career in enterprise software development. Lately, she’s
   fixated on soccer, feminism, and making stuff. She kinda hyperventilates when she
