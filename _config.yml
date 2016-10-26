@@ -19,13 +19,10 @@ collections:
     color: "#6B4AD3"
     twitter: _3g3q
     Contact Email: 3guys3questions@gmail.com
-    supportlink:
     keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo,
       lightning round
     rss: http://feed.3g3q.co/
     itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-    pocketcast:
-    overcast:
   dailyish:
     title: Daily(ish)
     output: true
@@ -56,12 +53,9 @@ collections:
     image: "/uploads/broadcast_thumbnail_grownups_artwork.png"
     keywords: adulthood
     Twitter Handle: grownups_fm
-    supportlink:
     Contact Email: kayayarai+grownups@gmail.com
     iTunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
     RSS: http://feeds.goodstuff.fm/grownups
-    pocketcast:
-    overcast:
   morningshow:
     title: Morning Show
     output: true
@@ -77,13 +71,10 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    supportlink:
     image: "/uploads/iTunes Artwork.png"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
-    pocketcast:
-    overcast:
   nbsp:
     title: Non Breaking Space Show
     output: true
@@ -97,11 +88,8 @@ collections:
     keywords: tech, technology, web, design, interviews
     Twitter Handle: nbsptv
     Contact Email: chris@goodstuff.fm
-    supportlink:     
     iTunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
     RSS: http://feeds.goodstuff.fm/nbsp
-    pocketcast:
-    overcast:
     Color: "#539951"
   people:
     title: People
