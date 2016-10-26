@@ -28,7 +28,7 @@
     <li class="broadcasts__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
     <li class="broadcasts__list__description">{{ collection.description }}</li>
 
-    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.rss }}">RSS Feed</a> - <a href="{{ collection.itunes }}">iTunes</a></li>
+    <li class="broadcasts__list__link">Subscribe: <a href="{{ collection.rss }}">RSS Feed</a> - <a href="{{ collection.itunes }}" ><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a></li> 
   </ul>
 
 <hr class="page__rule">

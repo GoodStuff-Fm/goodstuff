@@ -23,6 +23,7 @@ collections:
       lightning round
     rss: http://feed.3g3q.co/
     itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+    pocketcast: http://pcasts.in/feed/feed.3g3q.co/3g3q
   dailyish:
     title: Daily(ish)
     output: true
