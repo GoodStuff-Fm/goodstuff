@@ -23,7 +23,7 @@ collections:
       lightning round
     rss: http://feed.3g3q.co/
     itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-    pocketcast: http://pcasts.in/feed/feed.3g3q.co/3g3q
+    pocketcast: http://pcasts.in/feed/feed.3g3q.co/
   dailyish:
     title: Daily(ish)
     output: true
@@ -39,10 +39,10 @@ collections:
     Twitter Handle: ichris
     Contact Email: chris@goodstuff.fm
     RSS: http://feeds.goodstuff.fm/dailyish
-    iTunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+    itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
     Support Link: http://www.patreon.com/ichris
-    Pocket Casts URL: http://pca.st/Vifv
-    Overcast URL: https://overcast.fm/itunes815675012/daily-ish
+    pocketcast: http://pca.st/Vifv
+    overcast: https://overcast.fm/itunes815675012/daily-ish
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
