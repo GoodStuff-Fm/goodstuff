@@ -17,4 +17,3 @@ We typically sell our sponsorships on a run-of-network basis, which means your a
 * Run-of-network sponsorships also recieve a tweet at the beginning and end of each week from the [Goodstuff.fm Twitter account][1].
 
 [1]: http://www.twitter.com/goodstufffm
- Highlights by 0
