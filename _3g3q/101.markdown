@@ -6,6 +6,7 @@ description: Mushroom hair, bodegas, & elf-like women.
 sponsor: bell bottoms, hammer pants, and drop crotch joggers.
 season: 7
 episode: 101
+layout: episode
 ---
 
 

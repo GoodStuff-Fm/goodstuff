@@ -6,6 +6,8 @@ description: Our 100th episode! Mariachi squad, bucket of hummus, & relationship
 sponsor: sticking with at least one thing, gosh darnit!
 season: 7
 episode: 100
+layout: episode
+show: 3g3q
 ---
 
 

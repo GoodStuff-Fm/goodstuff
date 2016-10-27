@@ -8,6 +8,7 @@ sponsor: "[Our fantastic patrons][2].\n\nJoin with them at [patreon.com][2] to g
   http://goodstuff.fm/3g3q\n[2]: http://www.patreon.com/3g3q\n  "
 season: 7
 episode: 102
+layout: episode
 ---
 
 
