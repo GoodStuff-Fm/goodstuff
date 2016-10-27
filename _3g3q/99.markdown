@@ -6,6 +6,8 @@ description: A very special Mothers Day Episode
 sponsor: bob haircuts, tapered jeans, and the power of shame
 season: 6
 episode: 99
+layout: episode
+show: 3g3q
 ---
 
 ![3G3Q - S06e12.jpg](/uploads/3G3Q%20-%20S06e12.jpg)

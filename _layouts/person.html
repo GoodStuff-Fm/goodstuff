@@ -18,7 +18,7 @@
 <h2 class="page__tagline">{{ page.tagline }}</h2>
 <p class="page__description">{{ page.content }}</p>
 
-<hr>
+<hr class="page__rule">
 
 <!-- People
 
@@ -44,7 +44,7 @@
     <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3> <h3 class="broadcasts__list__description">{{ collection.size }} Episodes</h3></li>
     <li class="broadcasts__list__description">{{ collection.description }}</li>
   </ul>
-  <hr>
+  <hr class="page__rule">
 
   {% endif%}
   {% endunless %}
@@ -60,7 +60,7 @@
   <li class="episode__list__name"><h3><a href="{{ doc.permalink }}">{{ doc.name }}</a></h3></li>
   <li class="episode__list__date">{{ date }}</li>
 </ul>
-<hr>
+<hr class="page__rule">
 {% endif%}
 
 

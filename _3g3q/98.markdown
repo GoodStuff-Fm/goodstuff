@@ -7,6 +7,8 @@ season: 6
 episode: 98
 guests: Chris Enns
 output: true
+layout: episode
+show: 3g3q
 ---
 
 # Questions

@@ -6,6 +6,7 @@ description: Pokémon, chapstick tubes, & backwards knees.
 sponsor: oppression, paranoia, and Master Blaster.
 season: 7
 episode: 103
+layout: episode
 ---
 
 ![Episode Artwork][1]
