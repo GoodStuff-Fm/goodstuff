@@ -5,7 +5,7 @@ collections:
   3g3q:
     title: 3G3Q
     output: true
-    permalink: "/3g3q/:path/"
+    permalink: /3g3q/:path/
     live: true
     name: 3 Guys 3 Questions
     hosts:
@@ -26,12 +26,11 @@ collections:
   dailyish:
     title: Daily(ish)
     output: true
-    permalink: "/dailyish/:path/"
+    permalink: /dailyish/:path/
     name: Daily(ish)
     hosts:
     - Chris Enns
-    description: Just as it says on the tin – this is a daily(ish) podcast from Chris
-      Enns.
+    description: Just as it says on the tin – this is a daily(ish) podcast from Chris Enns.
     image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
     color: "#757474"
     keywords: tech, technology, personal, journal, family, life
@@ -45,7 +44,7 @@ collections:
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
-    permalink: "/grownups/:path/"
+    permalink: /grownups/:path/
     name: I Guess We're Grown-Ups Now
     hosts: Kari Halsted, Brook Shelly
     description: A podcast about being the kind of grown-ups we want to be. The answers
@@ -59,7 +58,7 @@ collections:
   morningshow:
     title: Morning Show
     output: true
-    permalink: "/morningshow/:path/"
+    permalink: /morningshow/:path/
     retired: 'yes'
     name: Morning Show
     hosts:
@@ -94,7 +93,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people/:title/"
+    permalink: /people/:title/
   posts:
     title: Posts
     output: true
@@ -107,7 +106,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: /posts/:title/
 - scope:
     path: ''
     type: pages

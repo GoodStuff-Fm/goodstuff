@@ -6,11 +6,17 @@
   <body>
     {% include nav.html %}
     <div class="container">
-      <h1 class="page__header">{{ page.title }}</h1>
 
-      <div class="show__description">
-        {{ content }}
-      </div>
+      {% assign show = site.data.shows[page.show] %}
+
+      <h1 class="page__header">{{ show.name }}</h1>
+
+      <ul class="broadcasts__list">
+        <li class="broadcasts__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
+        <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+        <li class="broadcasts__list__description">{{ show.description }}</li>
+        <li class="broadcasts__list__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
+      </ul>
 
       <hr class="page__rule">
 
@@ -21,10 +27,11 @@
       </div>
 -->
 
-        {% for doc in site.3g3q %}
+        {% for doc in site[show.collection] %}
+        {% if doc.title != show.name %}
 
           <div class="show__episode__title">
-            <a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a>
+            <a href="{{ doc.episode }}">{{ doc.title }}</a>
           </div>
 
           <div class="show__episode__date">
@@ -37,6 +44,7 @@
 
           <hr class="page__rule">
 
+        {% endif %}
         {% endfor %}
 
 

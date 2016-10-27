@@ -2,7 +2,7 @@
 title: '165'
 date: 2016-03-17 14:55:00 -06:00
 people: Chris Enns
-layout: episodes
+layout: episode
 ---
 
 Here's episode 165.

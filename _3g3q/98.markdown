@@ -1,12 +1,12 @@
 ---
 title: Buck-Wilde
 date: 2016-03-29 16:02:00 -06:00
-position: 5
 description: Peer empowerment, hired flamingos, & roof bread.
 sponsor: spray-on tans, lofty expectations, and disappointment
 season: 6
 episode: 98
 guests: Chris Enns
+output: true
 ---
 
 # Questions

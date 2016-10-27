@@ -1,6 +1,7 @@
 ---
 title: October 18, 2016
 date: 2016-10-18 10:00:00 -06:00
+layout: episode
 ---
 
 [Tune in LIVE](http://goodstuff.fm/live) and [vote for titles](http://stuffybot.goodstuff.fm) for this episode!
@@ -28,4 +29,3 @@ Listen to other great shows on the [Goodstuff Broadcasting Network](http://goods
 ---
 
 #### Links
-
