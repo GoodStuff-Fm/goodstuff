@@ -10,7 +10,6 @@ layout: episode
 show: 3g3q
 ---
 
-
 #### Links and Show Notes
 
 ![Episode Artwork][1]

@@ -9,7 +9,6 @@ episode: 101
 layout: episode
 ---
 
-
 #### Links and Show Notes
 
 ![Episode Artwork][1]
