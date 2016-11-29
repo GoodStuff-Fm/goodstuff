@@ -10,11 +10,7 @@
       {% assign show = site.data.shows[page.show] %}
 
 <<<<<<< HEAD
-<!-- Link to All Episodes -->
-=======
-<<<<<<< HEAD
 <!-- Link to All Episodes
->>>>>>> episode-template
       <div class="show__episode__date">
         <a href="/{{ show.collection }}">All Episodes</a>
       </div>
@@ -62,51 +58,12 @@
         <li class="broadcasts__list__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
       </ul>
 
-      <!-- Todo: Add links to previous and next episodes -->
-
-
-<!-- Show Information -->
-      <h1 class="page__header"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
-      <ul class="broadcasts__list">
-        <li class="broadcasts__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
-        <li class="broadcasts__list__hosts">Hosted by
-        {% for hosts in show.hosts %}
-          {{ show.hosts | join: ', ' }}
-        {% endfor %}
-        </li>
-        <li class="broadcasts__list__description">{{ show.description }}</li>
-        <li class="broadcasts__list__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
-      </ul>
-
       <hr class="page__rule">
 
 <!-- Episode Information -->
       <div class="show__episode__title">
         {{ page.episode }}: {{ page.title }}
       </div>
-<<<<<<< HEAD
-
-      <div class="show__episode__date">
-        Published {{ page.date | date: "%b %d, %Y" }}
-      </div>
-
-      <div class="show__episode__date">
-
-      </div>
-
-      <div class="show__episode__description">
-        {{ page.description }}
-      </div>
-
-      <hr class="page__rule">
-
-<!-- Page Content -->
-      Links and Show Notes
-      <div class="page__description">
-        {{ page.content }}
-      </div>
-
-=======
 
 <<<<<<< HEAD
 <!-- Episode Information -->
@@ -176,7 +133,6 @@
         {{ page.content }}
       </div>
 
->>>>>>> episode-template
 
 
       {{ page.footer_scripts }}
