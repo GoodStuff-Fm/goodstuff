@@ -5,7 +5,7 @@ collections:
   3g3q:
     title: 3G3Q
     output: true
-    permalink: "/3g3q/:path/"
+    permalink: "/3g3q/"
     live: true
     name: 3 Guys 3 Questions
     hosts:
