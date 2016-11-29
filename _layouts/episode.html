@@ -9,10 +9,58 @@
 
       {% assign show = site.data.shows[page.show] %}
 
+<<<<<<< HEAD
 <!-- Link to All Episodes -->
+=======
+<<<<<<< HEAD
+<!-- Link to All Episodes
+>>>>>>> episode-template
       <div class="show__episode__date">
         <a href="/{{ show.collection }}">All Episodes</a>
       </div>
+-->
+
+<!-- Todo: Add links to previous and next episodes -->
+
+
+<!-- Show Information -->
+      <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
+      <ul class="episode__show">
+        <li class="episode__show__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50"/></a></li>
+        <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
+        <li class="episode__show__description">{{ show.description }}</li>
+        <li class="episode__show__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
+      </ul>
+
+      <div class="episode__navigation">
+        {% if page.previous.url %}
+          <a class="prev" href="{{ page.previous.url }}">Previous</a> •
+        {% endif %}
+        {% if page.next.url %}
+           <a class="next" href="{{ page.next.url }}">Next</a>
+        {% endif %}
+=======
+<!-- Link to All Episodes -->
+      <div class="show__episode__date">
+        <a href="/{{ show.collection }}">All Episodes</a>
+>>>>>>> master
+      </div>
+
+      <!-- Todo: Add links to previous and next episodes -->
+
+
+<!-- Show Information -->
+      <h1 class="page__header"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
+      <ul class="broadcasts__list">
+        <li class="broadcasts__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
+        <li class="broadcasts__list__hosts">Hosted by
+        {% for hosts in show.hosts %}
+          {{ show.hosts | join: ', ' }}
+        {% endfor %}
+        </li>
+        <li class="broadcasts__list__description">{{ show.description }}</li>
+        <li class="broadcasts__list__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
+      </ul>
 
       <!-- Todo: Add links to previous and next episodes -->
 
@@ -36,6 +84,7 @@
       <div class="show__episode__title">
         {{ page.episode }}: {{ page.title }}
       </div>
+<<<<<<< HEAD
 
       <div class="show__episode__date">
         Published {{ page.date | date: "%b %d, %Y" }}
@@ -57,6 +106,77 @@
         {{ page.content }}
       </div>
 
+=======
+
+<<<<<<< HEAD
+<!-- Episode Information -->
+
+      <div class="episode__title">
+        {{ page.title }}
+      </div>
+
+      <div class="episode__date">
+        Episode {{ page.episode }} • Published {{ page.date | date: "%b %d, %Y" }}
+      </div>
+
+      <div class="episode__description">
+        {{ page.description }}
+      </div>
+
+      <div class="episode__sponsor">
+        <div class="episode__sponsor__header">This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by:</div><br />
+        {{ page.sponsor }}
+      </div>
+
+      {% if page.mp3 %}
+
+      <div class="episode__player__mp3">
+        <audio style="width: 100%;"controls="">
+          <source src="{{ page.mp3 }}" type="audio/mp3">
+        </audio>
+      </div>
+
+
+        <ul class="episode__player__links">
+          <li><a href="{{ show.FeedPress }}/{{ show.collection }}-{{ page.episode }}.mp3"><i class="fa fa-download fa-1x" aria-hidden="true"></i>Download MP3</a></li>
+          <li><a href="http://twitter.com/intent/tweet?text={{ show.name }} {{ page.episode }}: {{ page.title }} on @GoodstuffFM - goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-twitter fa-1x"></i>Share on Twitter</a></li>
+          <li><a href="http://www.facebook.com/sharer/sharer.php?u=http://goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-facebook fa-1x"></i>Share on Facebook</a></li>
+        </ul>
+
+        <hr class="page__rule" />
+
+      {% endif %}
+
+<!-- Page Content -->
+
+      <div class="episode__header">
+        Links and Show Notes
+      </div>
+
+      <div class="episode__content">
+=======
+      <div class="show__episode__date">
+        Published {{ page.date | date: "%b %d, %Y" }}
+      </div>
+
+      <div class="show__episode__date">
+
+      </div>
+
+      <div class="show__episode__description">
+        {{ page.description }}
+      </div>
+
+      <hr class="page__rule">
+
+<!-- Page Content -->
+      Links and Show Notes
+      <div class="page__description">
+>>>>>>> master
+        {{ page.content }}
+      </div>
+
+>>>>>>> episode-template
 
 
       {{ page.footer_scripts }}

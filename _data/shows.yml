@@ -1,12 +1,19 @@
 3g3q:
   name: 3 Guys 3 Questions
   collection: 3g3q
+<<<<<<< HEAD
+  hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
+=======
   hosts:
     Aaron Goodwin:
       twitter: aaronlmgoodwin
     Andrew Savage:
       twitter: a_sav
     Adam Anderson:
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> episode-template
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
   artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
   color: "#6B4AD3"
@@ -18,8 +25,7 @@
 dailyish:
   name: Daily(ish)
   collection: dailyish
-  hosts:
-  - Chris Enns
+  hosts: Chris Enns
   description: Just as it says on the tin – this is a daily(ish) podcast from Chris Enns.
   artwork: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
   color: "#757474"
