@@ -12,9 +12,6 @@ show: 3g3q
 
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
-=======
->>>>>>> episode-template
 #### Links and Show Notes
 >>>>>>> master
 
