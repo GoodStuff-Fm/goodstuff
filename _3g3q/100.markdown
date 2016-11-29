@@ -10,6 +10,10 @@ layout: episode
 show: 3g3q
 ---
 
+<<<<<<< HEAD
+=======
+#### Links and Show Notes
+>>>>>>> master
 
 ![Episode Artwork][1]
 
