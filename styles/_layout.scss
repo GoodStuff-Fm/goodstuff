@@ -211,6 +211,7 @@
       img {
         height: 150pt;
         width: 150pt;
+        border-radius: 4pt;
       }
     }
 
@@ -279,6 +280,45 @@
       padding-bottom: 15pt;
     }
   }
+}
+
+.episode {
+
+  &__show {
+    height: 140pt;
+
+    &__artwork {
+      height: 100pt;
+      float: left;
+      padding-top: 20pt;
+      padding-bottom: 10pt;
+      padding-right: 20pt;
+      img {
+        height: 100pt;
+        width: 100pt;
+        border-radius: 2pt;
+      }
+    }
+
+    &__name {
+      padding-top: 50pt;
+    }
+
+    &__hosts {
+      padding-top: 20pt;
+    }
+
+    &__description {
+      padding-top: 10pt;
+    }
+
+    &__link {
+      padding-top: 10pt;
+    }
+  }
+
+  
+
 }
 
 
