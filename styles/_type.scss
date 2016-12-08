@@ -225,6 +225,30 @@
 
   &__episode {
 
+    &__title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: $blue;
+      a {
+        text-decoration: none;
+        color: $bright-red
+      }
+    }
+
+    &__date {
+      color: $light-blue;
+      opacity: 50%;
+      font-size: .95rem;
+    }
+
+    &__description {
+      color: $light-blue;
+      font-size: 1rem;
+      padding-top: 8pt;
+      padding-bottom: 8pt;
+      line-height: 1.4rem;
+    }
+
 
   }
 }
@@ -245,7 +269,7 @@
     font-size: 2.3rem;
     color: $bright-red;
     font-weight: 700;
-    padding-bottom: 8pt;
+    padding-bottom: 16pt;
     padding-top: 16pt;
     a{
       color: $bright-red;
@@ -254,7 +278,7 @@
   }
 
   &__date {
-    color: #A9ACB4;
+    color: $light-blue;
     opacity: 50%;
     font-size: .95rem;
     padding-bottom: 16pt;
@@ -263,8 +287,9 @@
   &__description {
     color: $light-blue;
     font-size: 1.1rem;
+    line-height: 1.6rem;
     padding-top: 8pt;
-    padding-bottom: 8pt;
+    padding-bottom: 16pt;
   }
 
   &__sponsor {
@@ -274,14 +299,15 @@
     background-color: $light-gray;
     color: $light-blue;
     font-size: 1rem;
-    line-height: .8rem;
+    line-height: 1.5rem;
     border-radius: 4pt;
     &__header {
       font-weight: 700;
-      padding-bottom: 4pt;
+      line-height: normal;
       a {
         color: $bright-red;
         text-decoration: none;
+        font-weight: 700;
       }
     }
   }
@@ -368,6 +394,7 @@
     font-weight: 400;
     color: $light-blue;
     line-height: 1.8rem;
+    padding-bottom: 50pt;
     a {
       color: $bright-red;
       text-decoration: none;

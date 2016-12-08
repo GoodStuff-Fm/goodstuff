@@ -5,8 +5,9 @@
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
   artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
   color: "#6B4AD3"
-  twitter: _3g3q
-  Contact Email: 3guys3questions@gmail.com
+  show-twitter: "@_3g3q"
+  hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
+  email: 3guys3questions@gmail.com
   keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
@@ -14,14 +15,63 @@ dailyish:
   name: Daily(ish)
   collection: dailyish
   hosts: Chris Enns
-  description: Just as it says on the tin – this is a daily(ish) podcast from Chris Enns.
+  description: Just as it says on the tin this is a daily(ish) podcast from Chris Enns.
   artwork: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
   color: "#757474"
   keywords: tech, technology, personal, journal, family, life
-  Twitter Handle: ichris
-  Contact Email: chris@goodstuff.fm
+  show-twitter: _dailyish
+  host-twitter: ichris
+  email: chris@goodstuff.fm
   supportlink: http://www.patreon.com/ichris
   RSS: http://feeds.goodstuff.fm/dailyish
+  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+  pocketcast: http://pca.st/Vifv
+  overcast: https://overcast.fm/itunes815675012/daily-ish
+morningshow:
+  name: Morning Show
+  collection: morningshow
+  hosts: Kyle Roderick and Kenny Roderick
+  description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
+  artwork: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+  color: #F6BE48
+  keywords: tech, technology, personal, journal, family, life
+  show-twitter: "@morningshowam"
+  hosts-twitter: "@dogburps and @pizzarobotics"
+  email: kyle@goodstuff.fm
+  support: http://www.patreon.com/morningshow
+  rss: http://feeds.goodstuff.fm/dailyish
+  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+  pocketcast: http://pca.st/Vifv
+  overcast: https://overcast.fm/itunes815675012/daily-ish
+grownups:
+  name: I Guess We're Grown-Ups Now
+  collection: grownups
+  hosts: Kari Halsted and Brook Shelley
+  description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
+  artwork: "/uploads/broadcast_thumbnail_grownups_artwork.png"
+  color: #F6BE48
+  keywords: tech, technology, personal, journal, family, life
+  show-twitter: "@morningshowam"
+  hosts-twitter: "@dogburps and @pizzarobotics"
+  email: kyle@goodstuff.fm
+  support: http://www.patreon.com/morningshow
+  rss: http://feeds.goodstuff.fm/dailyish
+  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+  pocketcast: http://pca.st/Vifv
+  overcast: https://overcast.fm/itunes815675012/daily-ish
+nbsp:
+  name: Non Breaking Space Show
+  collection: nbsp
+  hosts: Christopher Schmitt
+  description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
+  artwork: "/uploads/broadcast_thumbnail_nbsp_artwork.jpg"
+  color: #F6BE48
+  keywords: tech, technology, personal, journal, family, life
+  show-twitter: "@morningshowam"
+  hosts-twitter: "@dogburps and @pizzarobotics"
+  email: kyle@goodstuff.fm
+  support: http://www.patreon.com/morningshow
+  rss: http://feeds.goodstuff.fm/dailyish
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
   pocketcast: http://pca.st/Vifv
   overcast: https://overcast.fm/itunes815675012/daily-ish

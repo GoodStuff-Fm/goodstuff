@@ -13,8 +13,10 @@
   background: none;
   min-height: 100%;
   margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
   overflow: auto;
-  padding-bottom:60px;
+  padding-bottom: 60px;
 
   &__wide {
     &__red {
@@ -34,22 +36,29 @@
     padding-bottom: 30pt;
     margin-left:  auto;
     margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   &__nav {
     width: 700pt;
     margin-left:  auto;
     margin-right: auto;
+
   }
 
   &__recent-episodes {
     width: 700pt;
     margin-left:  auto;
     margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   &__footer {
     background: $dark-blue;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
 
@@ -104,6 +113,7 @@
     padding-right: 20pt;
     img {
       height: 240pt;
+      border-radius: 4pt;
     }
   }
 
@@ -140,6 +150,7 @@
 
   &__artwork img {
     width: 100%;
+    border-radius: 2pt;
   }
 
   &__title {
@@ -168,7 +179,7 @@
       width: 100%;
       height: auto;
       padding-bottom: 10pt;
-      padding-right: 10pt;
+      border-radius: 2pt;
   }
 
 }
@@ -317,7 +328,7 @@
     }
   }
 
-  
+
 
 }
 

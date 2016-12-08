@@ -23,7 +23,15 @@
   {% for doc in site.people %}
 
   <ul class="hosts__list">
-    <li class="hosts__list__image"><a href="{{ doc.url }}"><img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/></a></li>
+    <li class="hosts__list__image">
+      <a href="{{ doc.url }}">
+        {% if doc.image %}
+        <img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/>
+        {% else %}
+        <img src="/assets/host-general.png" alt="Photo of {{ doc.title }}" height="100" width="100"/>
+        {% endif %}
+      </a>
+    </li>
     <li class="hosts__list__name"><a href="{{ doc.url }}">{{ doc.title }}</a></li>
   </ul>
 

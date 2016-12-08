@@ -3,9 +3,10 @@ title: Goodstuffv2
 timezone: America/Regina
 collections:
   3g3q:
+    slug: 3g3q
     title: 3G3Q
     output: true
-    permalink: "/3g3q/:path"
+    permalink: /3g3q/:path
     live: true
     name: 3 Guys 3 Questions
     hosts:
@@ -24,9 +25,10 @@ collections:
     rss: http://feed.3g3q.co/
     itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   dailyish:
+    slug: dailyish
     title: Daily(ish)
     output: true
-    permalink: "/dailyish/:path/"
+    permalink: "/dailyish/:path"
     name: Daily(ish)
     hosts:
     - Chris Enns
@@ -43,9 +45,10 @@ collections:
     pocketcast: http://pca.st/Vifv
     overcast: https://overcast.fm/itunes815675012/daily-ish
   grownups:
+    slug: grownups
     title: I Guess We're Grown-Ups Now
     output: true
-    permalink: "/grownups/:path/"
+    permalink: "/grownups/:path"
     name: I Guess We're Grown-Ups Now
     hosts: Kari Halsted, Brook Shelly
     description: A podcast about being the kind of grown-ups we want to be. The answers
@@ -57,9 +60,10 @@ collections:
     iTunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
     RSS: http://feeds.goodstuff.fm/grownups
   morningshow:
+    slug: morningshow
     title: Morning Show
     output: true
-    permalink: "/morningshow/:path/"
+    permalink: /morningshow/:path
     retired: 'yes'
     name: Morning Show
     hosts:
@@ -71,14 +75,15 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/iTunes Artwork.png"
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
   nbsp:
+    slug: nbsp
     title: Non Breaking Space Show
     output: true
-    permalink: "/nbsp/:path/"
+    permalink: "/nbsp/:path"
     name: Non Breaking Space Show
     description: Seeking out the best, brightest, and smartest creative people on
       digital art, design, and development. From workflows to life hacks, we examine
@@ -94,7 +99,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people/:title/"
+    permalink: "/people/:title"
   posts:
     title: Posts
     output: true
@@ -107,7 +112,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/posts/:title"
 - scope:
     path: ''
     type: pages

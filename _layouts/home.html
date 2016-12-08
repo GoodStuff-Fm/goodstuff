@@ -66,8 +66,8 @@
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   <div class="our-shows__list">
-    <div class="our-shows__artwork"><a href="{{ collection.permalink }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
-    <div class="our-shows__title"><a href="{{ collection.permalink }}">{{ collection.name }}</a></div>
+    <div class="our-shows__artwork"><a href="{{ collection.slug }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
+    <div class="our-shows__title"><a href="{{ collection.slug }}">{{ collection.name }}</a></div>
   </div>
   {% endunless %}
   {% endfor %}
