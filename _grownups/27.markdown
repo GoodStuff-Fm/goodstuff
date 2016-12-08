@@ -1,12 +1,17 @@
 ---
 title: I Guess We're Grown-Ups Now Template
 date: 2016-04-18 11:00:00 -06:00
-description: For Grown-Ups' first threesome, Kari and Brook are joined by Kayleigh to talk about polyamorism, paramours and metamours and poly unicorns, cis/straight and queer poly, models and structures of poly relationships, how to (and how not to) go polyamorous, jealousy, compersion, and how poly is like Agile. Turns out, Kari's the only one who's seen Three's Company. Also, we talk about butts.
+position: 1
+description: For Grown-Ups' first threesome, Kari and Brook are joined by Kayleigh
+  to talk about polyamorism, paramours and metamours and poly unicorns, cis/straight
+  and queer poly, models and structures of poly relationships, how to (and how not
+  to) go polyamorous, jealousy, compersion, and how poly is like Agile. Turns out,
+  Kari's the only one who's seen Three's Company. Also, we talk about butts.
 iTunes Summary: Kari and Brook are joined by Kayleigh to talk about polyamorism, paramours
   and metamours, models and structures of poly relationships, jealousy, compersion,
   and how poly is like Agile. Turns out, Kari's the only one who's seen Three's Company.
-position: 1
-sponsor: Nobis odit nobis esse enim dolorum tempora labore unde. A est ut ab autem. Cupiditate exercitationem pariatur qui atque natus veniam.
+sponsor: Nobis odit nobis esse enim dolorum tempora labore unde. A est ut ab autem.
+  Cupiditate exercitationem pariatur qui atque natus veniam.
 episode: 27
 layout: episode
 show: grownups
