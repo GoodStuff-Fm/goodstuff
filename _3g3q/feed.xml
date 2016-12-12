@@ -1,7 +1,7 @@
 ---
 title: Feed
 position: 0
-layout: 
+layout:
 show: 3g3q
 ---
 
@@ -44,7 +44,7 @@ show: 3g3q
 <itunes:explicit>{{ show.explicit }}</itunes:explicit>
 
  {% for doc in site[show.collection] %}
- {% unless doc.title == 'feed' %}
+ {% unless doc.title == 'Feed' %}
 
  <item>
  				<title>{{ doc.title | xml_escape }}</title>
