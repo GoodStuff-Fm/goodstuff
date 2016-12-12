@@ -3,7 +3,8 @@ title: Morning Show Template
 date: 2016-04-01 12:11:00 -06:00
 position: 1
 description: This is a show description.
-sponsor: Nobis odit nobis esse enim dolorum tempora labore unde. A est ut ab autem. Cupiditate exercitationem pariatur qui atque natus veniam.
+sponsor: Nobis odit nobis esse enim dolorum tempora labore unde. A est ut ab autem.
+  Cupiditate exercitationem pariatur qui atque natus veniam.
 episode: 325
 layout: episode
 show: morningshow
