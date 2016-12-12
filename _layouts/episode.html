@@ -23,12 +23,12 @@
 
       <div class="episode__navigation">
         {% if page.previous.url %}
-        {% unless page.previous.title == 'feed' %}
+        {% unless page.previous.title == 'Feed' %}
           <a class="prev" href="{{ page.previous.url }}">Previous</a> •
         {% endunless %}
         {% endif %}
         {% if page.next.url %}
-        {% unless page.next.title == 'feed' %}
+        {% unless page.next.title == 'Feed' %}
            <a class="next" href="{{ page.next.url }}">Next</a>
         {% endunless %}
         {% endif %}
