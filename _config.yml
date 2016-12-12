@@ -1,11 +1,6 @@
 ---
 title: Goodstuffv2
 timezone: America/Regina
-itunes-subtitle: "your-podcast-subtitle"
-itunes-url: http://goodstuffv2.siteleaf.net
-itunes-email: contact@goodstuff.fm
-itunes-lang: EN
-itunes-author: Goodstuff Broadcasting
 collections:
   3g3q:
     title: 3G3Q
@@ -128,6 +123,11 @@ defaults:
     type: morningshow
   values:
     layout: episodes
+itunes-subtitle: your-podcast-subtitle
+itunes-url: http://goodstuffv2.siteleaf.net
+itunes-email: contact@goodstuff.fm
+itunes-lang: EN
+itunes-author: Goodstuff Broadcasting
 subtitle: your-podcast-subtitle
 url: http://goodstuff.fm
 email: contact@goodstuff.fm
