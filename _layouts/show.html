@@ -15,7 +15,12 @@
         <li class="broadcasts__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
         <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
         <li class="broadcasts__list__description">{{ show.description }}</li>
-        <li class="broadcasts__list__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
+        <li class="broadcasts__list__link">
+          <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a>
+          <a href="{{ show.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a>
+          <a href="{{ show.overcast }}" title="Subscribe in Overcast"> Overcast</a>
+          <a href="{{ show.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i> RSS</a>
+        </li>
       </ul>
 
       <hr class="page__rule">

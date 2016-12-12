@@ -1,5 +1,7 @@
 3g3q:
   name: 3 Guys 3 Questions
+  lang: EN
+  explicit: clean
   collection: 3g3q
   hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
@@ -9,8 +11,16 @@
   hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
   email: 3guys3questions@gmail.com
   keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: arts
+  category2: comedy
+  category3: technology
+  category4:
+  category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+
 dailyish:
   name: Daily(ish)
   collection: dailyish
