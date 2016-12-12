@@ -1,7 +1,7 @@
 ---
 title: Feed
 position: 0
-layout: 
+layout:
 show: 3g3q
 ---
 
@@ -52,7 +52,7 @@ show: 3g3q
  				<pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
  				<description>{{ doc.description | xml_escape }}</description>
  				<guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
- 				<enclosure url="http:{{ doc.file }}" length="{{ doc.length }}" type="audio/mp3"/>
+ 				<enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mp3"/>
  				<itunes:author>{{ show.hosts }}</itunes:author>
  				<itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
  				<itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
@@ -61,7 +61,7 @@ show: 3g3q
  				<itunes:image href="{{ show.artwork }}" />
  				<itunes:explicit>{{ doc.explicit }}</itunes:explicit>
  				<itunes:block>{{ doc.block }}</itunes:block>
-        <content>{{ doc.content }}</content>
+        <content:encoded><![CDATA[ {{ doc.content }} ]]></content:encoded>
  			</item>
 
 
