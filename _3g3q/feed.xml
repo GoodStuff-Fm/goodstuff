@@ -1,7 +1,7 @@
 ---
 title: Feed
 position: 0
-layout: 
+layout:
 show: 3g3q
 ---
 
@@ -62,7 +62,9 @@ show: 3g3q
  				<itunes:image href="{{ show.artwork }}" />
  				<itunes:explicit>{{ doc.explicit }}</itunes:explicit>
  				<itunes:block>{{ doc.block }}</itunes:block>
-        <content:encoded><![CDATA[ {{ doc.content }} ]]></content:encoded>
+        <content:encoded>
+          <![CDATA[{{ doc.content | xml_escape }}]]>
+        </content:encoded>
  			</item>
 
 
