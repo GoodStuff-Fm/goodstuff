@@ -34,7 +34,7 @@
 
         {% for doc in site[show.collection] %}
         {% if doc.title != show.name %}
-        {% unless doc.title == 'feed' %}
+        {% unless doc.title == 'Feed' %}
 
           <div class="show__episode__title">
             <a href="{{ doc.episode }}">{{ doc.title }}</a>
