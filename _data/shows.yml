@@ -11,10 +11,10 @@
   hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
   email: 3guys3questions@gmail.com
   keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: arts
-  category2: comedy
-  category3: technology
-  category4:
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4: 
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
