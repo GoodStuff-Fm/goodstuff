@@ -1,11 +1,6 @@
 ---
 title: Goodstuffv2
 timezone: America/Regina
-subtitle: "your-podcast-subtitle"
-url: http://goodstuff.fm
-email: contact@goodstuff.fm
-lang: EN
-author: Goodstuff Broadcasting
 collections:
   3g3q:
     title: 3G3Q
@@ -128,6 +123,11 @@ defaults:
     type: morningshow
   values:
     layout: episodes
+subtitle: your-podcast-subtitle
+url: http://goodstuff.fm
+email: contact@goodstuff.fm
+lang: EN
+author: Goodstuff Broadcasting
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
 logo-small: "/assets/logo-small.svg"
