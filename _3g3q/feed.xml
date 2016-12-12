@@ -1,11 +1,5 @@
 ---
-title: feed
-<<<<<<< HEAD
-position: 0
-=======
-layout: 
-show: 3g3q
->>>>>>> origin/master
+title: Feed
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
