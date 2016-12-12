@@ -10,30 +10,30 @@ show: 3g3q
 
 {% assign show = site.data.shows[page.show] %}
 
-<atom:link href="{{ site.url }}/{{ show.collection }}/feed.xml" rel="self" type="application/rss+xml" />
+<atom:link href="{{ site.itunes-url }}/{{ show.collection }}/feed.xml" rel="self" type="application/rss+xml" />
 <title>{{ show.name }}</title>
 <description>{{ show.description | xml_escape }}</description>
-<link>{{ site.url }}/{{ show.collection }}</link>
+<link>{{ site.itunes-url }}/{{ show.collection }}</link>
 <language>{{ show.lang }}</language>
-<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+<managingEditor>{{ site.itunes-email }} ({{ site.itunes-author }})</managingEditor>
+<webMaster>{{ site.itunes-email }} ({{ site.itunes-author }})</webMaster>
 <copyright>2014-{{ site.time | "%Y" }} {{ site.title }}</copyright>
 <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <image>
-  <link>{{ site.url }}/{{ show.collection }}</link>
-  <url>{{ site.url }}{{ show.artwork }}</url>
+  <link>{{ site.itunes-url }}/{{ show.collection }}</link>
+  <url>{{ site.itunes-url }}{{ show.artwork }}</url>
   <title>{{ show.name }}</title>
 </image>
 <itunes:subtitle>{{ show.description | xml_escape }}</itunes:subtitle>
-<itunes:author>{{ site.author }}</itunes:author>
+<itunes:author>{{ site.itunes-author }}</itunes:author>
 <itunes:summary>{{ show.description | xml_escape }}</itunes:summary>
 <itunes:keywords>{{ show.keywords }}</itunes:keywords>
 <itunes:owner>
-  <itunes:name>{{ site.author }}</itunes:name>
-  <itunes:email>{{ site.email }}</itunes:email>
+  <itunes:name>{{ site.itunes-author }}</itunes:name>
+  <itunes:email>{{ site.itunes-email }}</itunes:email>
 </itunes:owner>
-<itunes:image href="{{ site.url }}{{ show.artwork }}" />
+<itunes:image href="{{ site.itunes-url }}{{ show.artwork }}" />
 <itunes:category text="{{ show.category1 }}" />
 <itunes:category text="{{ show.category2 }}">
   <itunes:category text="{{ show.category3 }}" />
@@ -48,10 +48,10 @@ show: 3g3q
 
  <item>
  				<title>{{ doc.title | xml_escape }}</title>
- 				<link>{{ site.url }}{{ doc.url }}</link>
+ 				<link>{{ site.itunes-url }}{{ doc.url }}</link>
  				<pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
  				<description>{{ doc.description | xml_escape }}</description>
- 				<guid isPermaLink="true">{{ site.url }}{{ doc.url }}</guid>
+ 				<guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
  				<enclosure url="http:{{ doc.file }}" length="{{ doc.length }}" type="audio/mp3"/>
  				<itunes:author>{{ show.hosts }}</itunes:author>
  				<itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
