@@ -7,7 +7,6 @@ website: http://chrisenns.com
 twitter: iChris
 email: chris.enns@gmail.com
 image: "/uploads/ichris.jpg"
-is host: true
 layout: person
 ---
 
