@@ -9,85 +9,44 @@
 <!-- Navigation Bar -->
 {% include nav.html %}
 
+<div class="container">
 
-<img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100"/>
 
-
-<h1 class="page__header">{{ page.title }}</h1>
-<h2 class="page__subheader"><a href="{{ page.website }}">{{ page.website }}</a> • <a href="http://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a></h2>
-<h2 class="page__tagline">{{ page.tagline }}</h2>
-<p class="page__description">{{ page.content }}</p>
+<div class="person__avatar">
+  <img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100"/>
+</div>
+<div class="person__header">{{ page.title }}</div>
+<div class="person__subheader"><a href="{{ page.website }}">{{ page.website }}</a> • <a href="http://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a></div>
+<div class="person__tagline">{{ page.tagline }}</div>
+<div class="person__description">{{ page.content }}</div>
 
 <hr class="page__rule">
-
-<!-- People
-
-  {% for doc in site.people %}
-
-  <ul class="hosts__list">
-    <li class="hosts__list__image"><a href="{{ doc.url }}"><img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/></a></li>
-    <li class="hosts__list__name"><h3><a href="{{ doc.url }}">{{ doc.title }}</a></h3></li>
-  </ul>
-
-  {% endfor %}
-
-  -->
 
 <!-- Broadcasts -->
 <h3 class="broadcasts">Broadcasts</h3>
 
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-  {% if collection.hosts == page.title %}
+  {% if collection.hosts contains page.name %}
+  <!-- Needs to contain, not equal -->
 
-  <ul class="broadcasts__list">
-    <li class="broadcasts__list__name"><h3><a href="{{ collection.permalink }}">{{ collection.name }}</a></h3> <h3 class="broadcasts__list__description">{{ collection.size }} Episodes</h3></li>
-    <li class="broadcasts__list__description">{{ collection.description }}</li>
+<div class="person__show">
+  <ul>
+    <li class="person__show__name"><a href="/{{ collection.slug }}">{{ collection.name }}</a></li>
+    <li class="person__show__artwork"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li class="person__show__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
+    <li class="person__show__description">{{ collection.description }}</li>
   </ul>
-  <hr class="page__rule">
+</div>
 
-  {% endif%}
-  {% endunless %}
-  {% endfor %}
-
-
-<!-- Guest Appearances NOT WORKING -->
-{% for doc in site.collections %}
-{% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-{% if collection.doc.guests == page.title %}
-
-<ul class="episode__list">
-  <li class="episode__list__name"><h3><a href="{{ doc.permalink }}">{{ doc.name }}</a></h3></li>
-  <li class="episode__list__date">{{ date }}</li>
-</ul>
 <hr class="page__rule">
-{% endif%}
 
-
-{% for collection in site.collections limit:5 %}
-{% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-<h3>{{collection.title}}</h3>
-<ul>
-  {% for doc in collection.docs limit:1 %}
-  <li><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></li>
-  <li>Published {{ doc.date | date: "%b %d, %Y" }}</li>
-  {% endfor %}
-</ul>
-{% endunless %}
-{% endfor %}
-
-
-
-{% if site.categories.categoryname.size%}
- <!-- do something -->
-{% endif%}
-
-
-
+  {% endif %}
   {% endunless %}
   {% endfor %}
 
 
+</div>
 
 <!-- Footer -->
 {% include footer.html %}

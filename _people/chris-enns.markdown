@@ -1,5 +1,6 @@
 ---
 title: Chris Enns
+name: Chris Enns
 date: 2016-03-17 14:56:00 -06:00
 position: 0
 website: http://chrisenns.com

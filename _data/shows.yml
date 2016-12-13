@@ -14,13 +14,12 @@
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4: 
+  category4:
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   pocketcast: http://feed.3g3q.co/
   overcast: http://feed.3g3q.co/
-
 dailyish:
   name: Daily(ish)
   collection: dailyish
@@ -85,3 +84,24 @@ nbsp:
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
   pocketcast: http://pca.st/Vifv
   overcast: https://overcast.fm/itunes815675012/daily-ish
+master:
+  name: Goodstuff Master Feed
+  lang: EN
+  explicit: clean
+  hosts: Goodstuff Broadcasting
+  description: All episodes of all shows on Goodstuff
+  artwork: "/uploads/broadcast_thumbnail_master_artwork.png"
+  color: "#D8574B"
+  show-twitter: "@GoodstuffFM"
+  hosts-twitter: ""
+  email: contact@goodstuff.fm
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/

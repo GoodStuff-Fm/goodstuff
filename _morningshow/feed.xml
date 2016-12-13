@@ -1,0 +1,75 @@
+---
+title: Feed
+position: 0
+layout: 
+show: morningshow
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+
+{% assign show = site.data.shows[page.show] %}
+
+<atom:link href="{{ site.itunes-url }}/{{ show.collection }}/feed.xml" rel="self" type="application/rss+xml" />
+<title>{{ show.name }}</title>
+<description>{{ show.description | xml_escape }}</description>
+<link>{{ site.itunes-url }}/{{ show.collection }}</link>
+<language>{{ show.lang }}</language>
+<managingEditor>{{ site.itunes-email }} ({{ site.itunes-author }})</managingEditor>
+<webMaster>{{ site.itunes-email }} ({{ site.itunes-author }})</webMaster>
+<copyright>2014-{{ site.time | "%Y" }} {{ site.title }}</copyright>
+<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+<image>
+  <link>{{ site.itunes-url }}/{{ show.collection }}</link>
+  <url>{{ site.itunes-url }}{{ show.artwork }}</url>
+  <title>{{ show.name }}</title>
+</image>
+<itunes:subtitle>{{ show.description | xml_escape }}</itunes:subtitle>
+<itunes:author>{{ site.itunes-author }}</itunes:author>
+<itunes:summary>{{ show.description | xml_escape }}</itunes:summary>
+<itunes:keywords>{{ show.keywords }}</itunes:keywords>
+<itunes:owner>
+  <itunes:name>{{ site.itunes-author }}</itunes:name>
+  <itunes:email>{{ site.itunes-email }}</itunes:email>
+</itunes:owner>
+<itunes:image href="{{ site.itunes-url }}{{ show.artwork }}" />
+<itunes:category text="{{ show.category1 }}" />
+<itunes:category text="{{ show.category2 }}">
+  <itunes:category text="{{ show.category3 }}" />
+</itunes:category>
+<itunes:category text="{{ show.category4 }}">
+  <itunes:category text="{{ show.category5 }}" />
+</itunes:category>
+<itunes:explicit>{{ show.explicit }}</itunes:explicit>
+
+ {% for doc in site[show.collection] %}
+ {% unless doc.title == 'Feed' %}
+
+ <item>
+ 				<title>{{ doc.title | xml_escape }}</title>
+ 				<link>{{ site.itunes-url }}{{ doc.url }}</link>
+ 				<pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
+ 				<description>{{ doc.description | xml_escape }}</description>
+ 				<guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
+ 				<enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mp3"/>
+ 				<itunes:author>{{ show.hosts }}</itunes:author>
+ 				<itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
+ 				<itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
+ 				<itunes:duration>{{ doc.duration }}</itunes:duration>
+ 				<itunes:keywords>{{ show.keywords }}</itunes:keywords>
+ 				<itunes:image href="{{ show.artwork }}" />
+ 				<itunes:explicit>{{ doc.explicit }}</itunes:explicit>
+ 				<itunes:block>{{ doc.block }}</itunes:block>
+        <content:encoded>
+          <![CDATA[{{ doc.content | xml_escape }}]]>
+        </content:encoded>
+ 			</item>
+
+
+ {% endunless %}
+ {% endfor %}
+
+</channel>
+</rss>
