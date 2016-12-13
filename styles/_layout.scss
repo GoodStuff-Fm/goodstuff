@@ -332,7 +332,61 @@
 
 }
 
+.person {
+  min-height: 150pt;
+  padding-bottom: 12pt;
+  padding-top: 50pt;
 
+  &__avatar {
+    float: left;
+    padding-right: 24pt;
+    padding-bottom: 12pt;
+    img {
+      width: 150pt;
+      height: auto;
+      border-radius: 50%;
+    }
+  }
+
+  &__header {
+    padding-bottom: 12pt;
+  }
+
+  &__subheader {
+    padding-bottom: 16pt;
+  }
+
+  &__tagline {
+    line-height: 1.8rem;
+  }
+
+  &__description {
+    line-height: 1.8rem;
+    padding-bottom: 12pt;
+  }
+
+  &__broadcasts {
+    padding-top: 24pt;
+    padding-bottom: 24pt;
+  }
+
+
+  &__show {
+    &__name {
+      padding-bottom: 8pt;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+    }
+    &__description {
+      line-height: 1.7rem;
+      padding-bottom: 16pt;
+    }
+  }
+
+
+}
 
 .footer {
   height: 160pt;

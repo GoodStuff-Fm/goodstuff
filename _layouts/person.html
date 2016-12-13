@@ -11,19 +11,21 @@
 
 <div class="container">
 
-
-<div class="person__avatar">
-  <img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100"/>
+<div class="person">
+  <div class="person__avatar">
+    <img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100"/>
+  </div>
+  <div class="person__header">{{ page.title }}</div>
+  <div class="person__subheader"><a href="{{ page.website }}">{{ page.website }}</a> • <a href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-1x"></i> {{ page.twitter }}</a></div>
+  <div class="person__tagline">{{ page.tagline }}</div>
+  <div class="person__description">{{ page.content }}</div>
 </div>
-<div class="person__header">{{ page.title }}</div>
-<div class="person__subheader"><a href="{{ page.website }}">{{ page.website }}</a> • <a href="http://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a></div>
-<div class="person__tagline">{{ page.tagline }}</div>
-<div class="person__description">{{ page.content }}</div>
+
 
 <hr class="page__rule">
 
 <!-- Broadcasts -->
-<h3 class="broadcasts">Broadcasts</h3>
+<div class="person__broadcasts">Broadcasts</div>
 
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
@@ -33,8 +35,6 @@
 <div class="person__show">
   <ul>
     <li class="person__show__name"><a href="/{{ collection.slug }}">{{ collection.name }}</a></li>
-    <li class="person__show__artwork"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
-    <li class="person__show__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
     <li class="person__show__description">{{ collection.description }}</li>
   </ul>
 </div>

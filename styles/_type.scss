@@ -312,6 +312,7 @@
     }
   }
 
+
   &__show {
 
     &__name {
@@ -458,6 +459,72 @@
     }
 
   }
+}
+
+.person {
+
+  &__header {
+    font-size: 2.2rem;
+    color: $blue;
+    font-weight: 700;
+  }
+
+  &__subheader {
+    font-size: 1.1rem;
+    color: $light-blue;
+    font-weight: 400;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__tagline {
+    font-size: 1rem;
+    font-weight: normal;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__description {
+    font-size: 1.05rem;
+    font-weight: normal;
+    color: $light-blue;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__broadcasts {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $blue;
+  }
+
+
+  &__show {
+    &__name {
+      font-size: 1.2rem;
+      font-weight: 600;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+    }
+    &__description {
+      font-size: 1.1rem;
+      font-weight: normal;
+      color: $light-blue;
+    }
+  }
+
+
 }
 
 .footer {
