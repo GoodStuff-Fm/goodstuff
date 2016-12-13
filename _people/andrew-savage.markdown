@@ -7,5 +7,6 @@ email: contact@goodstuff.fm
 name: Andrew Savage
 website: 
 image: "/uploads/user_avatar_andrew-savage_artwork.jpg"
+layout: person
 ---
 
