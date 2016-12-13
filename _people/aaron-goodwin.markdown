@@ -1,8 +1,8 @@
 ---
 title: Aaron Goodwin
-name: Aaron Goodwin
 date: 2016-05-27 20:48:00 -06:00
 position: 3
+name: Aaron Goodwin
 twitter: aaronlmgoodwin
 website: https://about.me/aaronlmgoodwin
 email: contact@goodstuff.fm
@@ -10,7 +10,6 @@ image: "/uploads/ichris.jpg"
 is host: true
 layout: person
 ---
-
 
 I’m a creative mind working at the intersection of technology and education. From starting a small computer business at sixteen to my current position in IT at a charter school, my expertise has been finding innovative solutions to enable people to do their work.
 
