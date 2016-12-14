@@ -3,9 +3,6 @@ title: 3G3Q Template and the Really Long Title that Might Never End, But Eventua
 date: 2016-04-01 12:11:00 -06:00
 position: 1
 description: Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.
-sponsor: Nobis odit nobis esse enim dolorum tempora labore unde. A est ut ab autem.
-  Cupiditate exercitationem pariatur qui atque natus veniam.
-description: This is a show description.
 sponsor: "- [Feed.Press](http://feed.press/morningshow) – Hosting and feed support
   provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress
   on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during
