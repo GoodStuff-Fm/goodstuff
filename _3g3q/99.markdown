@@ -1,8 +1,20 @@
 ---
-title: 3G3Q Template and the Really Long Title that Might Never End, But Eventually it Might End Because I Made it Too Long
+title: 3G3Q Template and the Really Long Title that Might Never End, But Eventually
+  it Might End Because I Made it Too Long
 date: 2016-04-01 12:11:00 -06:00
 position: 1
-description: Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui delectus.
+description: Repellendus consectetur dolore et consequatur aut similique qui. Nobis
+  quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut
+  similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore
+  et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus
+  consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui
+  delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis
+  quia labore veniam qui delectus.Repellendus consectetur dolore et consequatur aut
+  similique qui. Nobis quia labore veniam qui delectus.Repellendus consectetur dolore
+  et consequatur aut similique qui. Nobis quia labore veniam qui delectus.Repellendus
+  consectetur dolore et consequatur aut similique qui. Nobis quia labore veniam qui
+  delectus.Repellendus consectetur dolore et consequatur aut similique qui. Nobis
+  quia labore veniam qui delectus.
 sponsor: "- [Feed.Press](http://feed.press/morningshow) – Hosting and feed support
   provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress
   on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during
