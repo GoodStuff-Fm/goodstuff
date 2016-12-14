@@ -19,7 +19,9 @@ description: Suppose that communal kitchen years to come perhaps. All trotting d
   forks? Might be all feeding on tabloids that time. Teeth getting worse and worse.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
 season: 6
 episode: 99
 show: 3g3q
