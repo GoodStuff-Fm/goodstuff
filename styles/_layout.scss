@@ -133,6 +133,7 @@
 
     &__description {
       padding-bottom: 20pt;
+      line-height: 1.5rem;
     }
   }
 }
@@ -143,7 +144,7 @@
   &__list {
     padding-top: 20pt;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
     width: 20%;
     padding-right: 10pt;
   }
@@ -164,7 +165,7 @@
 }
 
 .our-shows {
-  padding-top: 80pt;
+  padding-top: 64pt;
   padding-bottom: 80pt;
 
   &__list {

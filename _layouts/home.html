@@ -22,13 +22,13 @@
       {{collection.name}}
     </div>
     <div class="latest-episode__details__title">
-      <a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a>
+      <a href="{{ doc.url }}">{{ doc.title | remove: "_" | truncate: 64 }}</a>
     </div>
     <div class="latest-episode__details__date">
       Published {{ doc.date | date: "%b %d, %Y" }}
     </div>
     <div class="latest-episode__details__description">
-      {{ doc.description }}
+      {{ doc.description | truncate: 256 }}
     </div>
     <div class="latest-episode__details__listen">
       	<a href="{{ doc.url }}">&#9654; Listen to the episode</a>
@@ -48,7 +48,7 @@
       <div class="recent-episodes__list">
         {% for doc in collection.docs limit:1 %}
         <div class="recent-episodes__artwork"><a href="{{ doc.id }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
-        <div class="recent-episodes__title"><a href="{{ doc.url }}">{{ doc.title | remove: "_" }}</a></div>
+        <div class="recent-episodes__title"><a href="{{ doc.url }}">{{ doc.title | remove: "_"  | truncate: 64}}</a></div>
         <div class="recent-episodes__date">{{ doc.date | date: "%b %d, %Y" }}</div>
         {% endfor %}
       </div>
