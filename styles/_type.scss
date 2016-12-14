@@ -229,6 +229,7 @@
       font-size: 1.5rem;
       font-weight: 600;
       color: $blue;
+      line-height: 1.9rem;
       a {
         text-decoration: none;
         color: $bright-red
@@ -246,7 +247,7 @@
       font-size: 1rem;
       padding-top: 8pt;
       padding-bottom: 8pt;
-      line-height: 1.4rem;
+      line-height: 1.5rem;
     }
 
 
@@ -288,7 +289,7 @@
   &__description {
     color: $light-blue;
     font-size: 1.1rem;
-    line-height: 1.6rem;
+    line-height: 1.8rem;
     padding-top: 8pt;
     padding-bottom: 16pt;
   }

@@ -16,7 +16,7 @@
       <ul class="episode__show">
         <li class="episode__show__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50"/></a></li>
         <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
-        <li class="episode__show__description">{{ show.description }}</li>
+        <li class="episode__show__description">{{ show.description | truncate: 256 }}</li>
         <li class="episode__show__link"><a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
       </ul>
 
