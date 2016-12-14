@@ -1,6 +1,7 @@
 ---
 title: New Post Title
 date: 2016-12-13 19:13:00 -06:00
+layout: default
 ---
 
 Get a light snack in Davy Byrne’s. Stopgap. Keep me going. Had a good breakfast.

@@ -51,8 +51,8 @@
       </div>
 
       <div class="episode__sponsor">
-        <div class="episode__sponsor__header">This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by:</div><br />
-        {{ page.sponsor }}
+        <div class="episode__sponsor__header">This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by: <a href="{{ page.sponsor-link }}">{{ page.sponsor }}</a></div><br />
+        {{ page.sponsor-copy }}
       </div>
 
       {% if page.mp3 %}

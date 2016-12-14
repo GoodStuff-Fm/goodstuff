@@ -16,7 +16,12 @@
     <img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100"/>
   </div>
   <div class="person__header">{{ page.title }}</div>
-  <div class="person__subheader"><a href="{{ page.website }}">{{ page.website }}</a> • <a href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-1x"></i> {{ page.twitter }}</a></div>
+  <div class="person__subheader">
+    {% if page.website %}
+    <a href="{{ page.website }}">{{ page.website }}</a> •
+    {% endif %}
+    <a href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-1x"></i> {{ page.twitter }}</a>
+  </div>
   <div class="person__tagline">{{ page.tagline }}</div>
   <div class="person__description">{{ page.content }}</div>
 </div>

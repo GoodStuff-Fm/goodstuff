@@ -17,10 +17,9 @@ description: Suppose that communal kitchen years to come perhaps. All trotting d
   all round you. City Arms hotel table d’hôte she called it. Soup, joint and sweet.
   Never know whose thoughts you’re chewing. Then who’d wash up all the plates and
   forks? Might be all feeding on tabloids that time. Teeth getting worse and worse.
-sponsor: "- [Feed.Press](http://feed.press/morningshow) – Hosting and feed support
-  provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress
-  on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during
-  checkout to get 10% off your first year."
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year
 season: 6
 episode: 99
 show: 3g3q
