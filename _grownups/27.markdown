@@ -12,7 +12,9 @@ iTunes Summary: Kari and Brook are joined by Kayleigh to talk about polyamorism,
   and how poly is like Agile. Turns out, Kari's the only one who's seen Three's Company.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
 episode: 27
 layout: episode
 show: grownups

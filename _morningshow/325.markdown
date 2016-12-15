@@ -5,7 +5,9 @@ position: 1
 description: This is a show description.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
 episode: 325
 layout: episode
 show: morningshow
