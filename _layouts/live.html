@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include nav.html %}
+    <div class="container">
+
+      {% for collection in site.collections | limit: 1 %}
+      {% if collection.live == true %}
+
+      <h1 class="page__header">{{ page.title }}</h1>
+
+      <hr class="page__rule">
+
+      <ul class="broadcasts__list">
+        <li class="broadcasts__list__artwork"><a href="/{{ collection.slug }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+        <li class="broadcasts__list__name"><h3><a href="/{{ collection.slug }}">{{ collection.name }}</a></h3></li>
+        <li class="broadcasts__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
+        <li class="broadcasts__list__description">{{ collection.description | truncate: 256 }}</li>
+        <li class="broadcasts__list__link"><a href="{{ collection.itunes }}" title="Subscribe in iTunes"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" alt="Subscribe in iTunes"></a> <a href="{{ collection.pocketcast }}" title="Subscribe in Pocket Casts"><img src="http://www.shiftyjelly.com/images/resources/pc_icon_small@2x.png" alt="Subscribe in Pocket Casts"></a> <a href="{{ collection.overcast }}" title="Subscribe in Overcast">Overcast Icon Here</a> <a href="{{ collection.rss }}" title="Subscribe via RSS"><i class="fa fa-rss fa-3x" aria-hidden="true"></i></a></li>
+      </ul>
+
+      <div class="episode__player__mp3">
+        <audio style="width: 100%;"controls="">
+          <source src="{{ page.mp3 }}" type="audio/mp3">
+        </audio>
+      </div>
+
+
+      <div class="page__description">
+        {{ content }}
+      </div>
+
+      {% else %}
+
+      <h1 class="page__header">Not Currently Live</h1>
+      <div class="page__description">
+        Check the <a href="/schedule">broadcast schedule</a> for the next live recording.
+      </div>
+
+
+      {% endif %}
+      {% endfor %}
+
+
+
+      {{ page.footer_scripts }}
+    </div>
+
+    {% include footer.html %}
+  </body>
+
+</html>

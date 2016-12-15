@@ -2,6 +2,12 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
+body {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+}
+
 .grid {
   display: grid; /* 1 */
   grid-template-columns: 1fr 1fr 1fr 1fr; /* 2 */
@@ -16,7 +22,7 @@
   padding-left: 2rem;
   padding-right: 2rem;
   overflow: auto;
-  padding-bottom: 60px;
+  padding-bottom: 300pt;
 
   &__wide {
     &__red {
@@ -59,6 +65,11 @@
     background: $dark-blue;
     padding-left: 2rem;
     padding-right: 2rem;
+    position: absolute;
+
+  right: 0;
+  bottom: 0;
+  left: 0;
   }
 
 
@@ -73,9 +84,16 @@
   margin-left:  auto;
   margin-right: auto;
 
+
   &__list {
 
     &__item {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    &__live {
       padding: 0 10pt;
       display: inline-block;
       vertical-align: middle;
@@ -188,24 +206,22 @@
 .page {
 
   &__header {
-    padding-top: 50pt;
-    padding-bottom: 15pt;
+    padding-top: 48pt;
+    padding-bottom: 16pt;
   }
 
   &__subheader {
-    padding-top: 25pt;
-    padding-bottom: 25pt;
+    padding-top: 24pt;
+    padding-bottom: 12pt;
   }
 
   &__rule {
   }
 
   &__description {
-    padding-top: 10pt;
-    padding-bottom: 20pt;
-    p {
-      margin-bottom: 15pt;
-    }
+    padding-top: 12pt;
+    padding-bottom: 12pt;
+
   }
 }
 
@@ -213,17 +229,19 @@
 
   &__list {
     height: 180pt;
+    padding-top: 16pt;
+    padding-bottom: 12pt;
 
     &__artwork {
-      height: 150pt;
+      height: 160pt;
       float: left;
       padding-top: 10pt;
       padding-bottom: 10pt;
       padding-right: 30pt;
       img {
-        height: 150pt;
-        width: 150pt;
-        border-radius: 4pt;
+        height: 160pt;
+        width: 160pt;
+        border-radius: 3pt;
       }
     }
 
@@ -241,6 +259,11 @@
 
     &__link {
       padding-top: 15pt;
+
+      img {
+        height: 38pt;
+        padding-right: 6pt;
+      }
     }
 
   }
@@ -291,23 +314,30 @@
       padding-top: 20pt;
       padding-bottom: 15pt;
     }
+
+    &__link {
+      img {
+        height: 38pt;
+        padding-right: 6pt;
+      }
+    }
   }
 }
 
 .episode {
 
   &__show {
-    height: 140pt;
+    height: 170pt;
 
     &__artwork {
-      height: 100pt;
+      height: 124pt;
       float: left;
       padding-top: 20pt;
       padding-bottom: 10pt;
       padding-right: 20pt;
       img {
-        height: 100pt;
-        width: 100pt;
+        height: 124pt;
+        width: 124pt;
         border-radius: 2pt;
       }
     }
@@ -326,6 +356,12 @@
 
     &__link {
       padding-top: 10pt;
+
+      img {
+        height: 38pt;
+        padding-right: 6pt;
+      }
+
     }
   }
 
@@ -390,12 +426,15 @@
 }
 
 .footer {
+  clear: both;
+  bottom: 0;
   height: 160pt;
   vertical-align: middle;
   max-width: 700pt;
   margin-left:  auto;
   margin-right: auto;
-  padding-top: 30pt;
+  margin-top: 40pt;
+
 
   &__left {
     width: 45%;

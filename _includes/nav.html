@@ -11,6 +11,15 @@
           <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
         </li>
         {% endfor %}
+
+        {% for collection in site.collections %}
+        {% if collection.live == true %}
+        <li class="header__list__live">
+          <a href="/live" class="header__list__link">Live</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+
     </ul>
   </nav>
 </div>
