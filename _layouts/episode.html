@@ -25,7 +25,6 @@
         </li>
       </ul>
 
-
       <div class="episode__navigation">
         {% if page.previous.url %}
         {% unless page.previous.title == 'Feed' %}
@@ -56,8 +55,16 @@
       </div>
 
       <div class="episode__sponsor">
-        <div class="episode__sponsor__header">This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by: <a href="{{ page.sponsor-link }}">{{ page.sponsor }}</a></div><br />
-        {{ page.sponsor-copy }}
+        <div class="episode__sponsor__header">
+          This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by: <a href="{{ page.sponsor-link }}">{{ page.sponsor }}</a>
+        </div>
+
+        {% if page.sponsor-copy %}
+        <div class="episode__sponsor__copy">
+          {{ page.sponsor-copy }}
+        </div>
+        {% endif %}
+        
       </div>
 
       {% if page.mp3 %}

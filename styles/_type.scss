@@ -387,16 +387,22 @@
     background-color: $light-gray;
     color: $light-blue;
     font-size: 1rem;
-    line-height: 1.5rem;
     border-radius: 4pt;
+    height: auto;
+
     &__header {
       font-weight: 700;
       line-height: normal;
+
       a {
         color: $bright-red;
         text-decoration: none;
         font-weight: 700;
       }
+    }
+
+    &__copy {
+      padding-top: 12pt;
     }
   }
 
