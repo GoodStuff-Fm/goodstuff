@@ -32,7 +32,7 @@
       </div>
 -->
 
-        {% for doc in site[show.collection] %}
+        {% for doc in site[show.collection] limit: 2 %}
         {% if doc.title != show.name %}
         {% unless doc.title == 'Feed' %}
 
