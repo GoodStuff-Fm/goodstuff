@@ -32,7 +32,9 @@
       </div>
 -->
 
-        {% for doc in site[show.collection] limit: 2 %}
+
+        {% assign episodes = site[show.collection] | sort | reverse %}
+        {% for doc in episodes %}
         {% if doc.title != show.name %}
         {% unless doc.title == 'Feed' %}
 
