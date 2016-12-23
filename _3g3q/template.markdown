@@ -1,6 +1,5 @@
 ---
-title: 3G3Q Template and the Really Long Title that Might Never End, But Eventually
-  it Might End Because I Made it Too Long
+title: Template
 date: 2016-04-01 12:11:00 -06:00
 position: 3
 description: Suppose that communal kitchen years to come perhaps. All trotting down

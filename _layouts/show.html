@@ -33,7 +33,7 @@
 -->
 
 
-        {% assign episodes = site[show.collection] | sort | reverse %}
+        {% assign episodes = site[show.collection] | sort:"date" | reverse %}
         {% for doc in episodes %}
         {% if doc.title != show.name %}
         {% unless doc.title == 'Feed' %}
