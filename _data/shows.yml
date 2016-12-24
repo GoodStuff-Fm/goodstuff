@@ -5,7 +5,7 @@
   collection: 3g3q
   hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-3g3q.jpg"
   color: "#6B4AD3"
   show-twitter: "@_3g3q"
   hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
@@ -25,7 +25,7 @@ dailyish:
   collection: dailyish
   hosts: Chris Enns
   description: Just as it says on the tin this is a daily(ish) podcast from Chris Enns.
-  artwork: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
+  artwork: "/uploads/artwork-dailyish.jpg"
   color: "#757474"
   keywords: tech, technology, personal, journal, family, life
   show-twitter: _dailyish
@@ -41,7 +41,7 @@ morningshow:
   collection: morningshow
   hosts: Kyle Roderick and Kenny Roderick
   description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
-  artwork: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+  artwork: "/uploads/artwork-morningshow.jpg"
   color: #F6BE48
   keywords: tech, technology, personal, journal, family, life
   show-twitter: "@morningshowam"
@@ -57,7 +57,7 @@ grownups:
   collection: grownups
   hosts: Kari Halsted and Brook Shelley
   description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
-  artwork: "/uploads/broadcast_thumbnail_grownups_artwork.png"
+  artwork: "/uploads/artwork-grownups.jpg"
   color: #F6BE48
   keywords: tech, technology, personal, journal, family, life
   show-twitter: "@morningshowam"
@@ -73,7 +73,7 @@ nbsp:
   collection: nbsp
   hosts: Christopher Schmitt
   description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
-  artwork: "/uploads/broadcast_thumbnail_nbsp_artwork.jpg"
+  artwork: "/uploads/artwork-nbsp.jpg"
   color: #F6BE48
   keywords: tech, technology, personal, journal, family, life
   show-twitter: "@morningshowam"
@@ -90,7 +90,7 @@ master:
   explicit: clean
   hosts: Goodstuff Broadcasting
   description: All episodes of all shows on Goodstuff
-  artwork: "/uploads/broadcast_thumbnail_master_artwork.png"
+  artwork: "/uploads/artwork-master.jpg"
   color: "#D8574B"
   show-twitter: "@GoodstuffFM"
   hosts-twitter: ""
@@ -112,7 +112,7 @@ atu2:
   collection: atu2
   hosts: Chris Enns and Matt McGee
   description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-atu2.jpg"
   color: "#6B4AD3"
   show-twitter: "@_3g3q"
   hosts-twitter: "@ichris and @"
@@ -134,9 +134,9 @@ aux:
   collection: aux
   hosts: Goodstuff Hosts
   description: After a show is done recording, we sometimes forget to stop recording and this is what results.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-aux.jpg"
   color: "#6B4AD3"
-  show-twitter: 
+  show-twitter:
   hosts-twitter:
   email: contact@goodstuff.fm
   keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
@@ -156,7 +156,7 @@ ll:
   collection: ll
   hosts: Chris Enns, Chris Huebert
   description: A weekly talk show about starting businesses on opposite sides of the world, but on the same internet.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-ll.jpg"
   color: "#6B4AD3"
   show-twitter: "@GoodstuffFM"
   hosts-twitter: "@ichris and @byronboy1"
@@ -178,7 +178,7 @@ neverdigdown:
   collection: neverdigdown
   hosts: Chris Enns, Tim Murtaugh
   description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and interesting ways to play Minecraft through mods.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-neverdigdown.jpg"
   color: "#6B4AD3"
   show-twitter: "@_3g3q"
   hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
@@ -200,7 +200,7 @@ smym:
   collection: smym
   hosts: Chris Enns
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-smym.jpg"
   color: "#6B4AD3"
   show-twitter: "@_smym"
   hosts-twitter: "@ichris"
@@ -222,7 +222,7 @@ specials:
   collection: specials
   hosts: Goodstuff Hosts
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-specials.jpg"
   color: "#6B4AD3"
   show-twitter: "@GoodstuffFM"
   hosts-twitter:
@@ -244,7 +244,7 @@ tirp:
   collection: tirp
   hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
-  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  artwork: "/uploads/artwork-tirp.jpg"
   color: "#6B4AD3"
   show-twitter: "@_3g3q"
   hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"

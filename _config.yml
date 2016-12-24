@@ -16,7 +16,7 @@ collections:
     description: Three guys ponder the finer things in life by asking each other weird
       questions. Each week they compete to seem the most normal while answering questions
       about fears, pet-peeves, and idiosyncrasies.
-    image: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+    image: "/uploads/artwork-3g3q.jpg"
     color: "#6B4AD3"
     twitter: _3g3q
     Contact Email: 3guys3questions@gmail.com
@@ -38,7 +38,7 @@ collections:
     keywords: tech, behind-the-scenes, sneak peek
     twitter: goodstufffm
     email: contact@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-aux.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/auxiliary/id865804521
     RSS: http://goodstuff.fm/aux/feed.xml
@@ -52,7 +52,7 @@ collections:
     - Chris Enns
     description: Just as it says on the tin – this is a daily(ish) podcast from Chris
       Enns.
-    image: "/uploads/broadcast_thumbnail_dailyish_artwork.jpg"
+    image: "/uploads/artwork-dailyish.jpg"
     color: "#757474"
     keywords: tech, technology, personal, journal, family, life
     Twitter Handle: ichris
@@ -77,7 +77,7 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-specials.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
@@ -90,7 +90,7 @@ collections:
     hosts: Kari Halsted, Brook Shelly
     description: A podcast about being the kind of grown-ups we want to be. The answers
       are better than the questions.
-    image: "/uploads/broadcast_thumbnail_grownups_artwork.png"
+    image: "/uploads/artwork-grownups.jpg"
     keywords: adulthood
     Twitter Handle: grownups_fm
     Contact Email: kayayarai+grownups@gmail.com
@@ -112,7 +112,7 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-ll.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
@@ -132,7 +132,7 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-morningshow.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
@@ -152,7 +152,7 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-neverdigdown.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
@@ -165,7 +165,7 @@ collections:
     description: Seeking out the best, brightest, and smartest creative people on
       digital art, design, and development. From workflows to life hacks, we examine
       why they do what they do and how they did it.
-    image: "/uploads/broadcast_thumbnail_nbsp_artwork.jpg"
+    image: "/uploads/artwork-nbsp.jpg"
     hosts: Christopher Schmitt
     keywords: tech, technology, web, design, interviews
     Twitter Handle: nbsptv
@@ -195,7 +195,7 @@ collections:
       Kyle, Kenny, Roderick
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-smym.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
@@ -216,7 +216,7 @@ collections:
     keywords: tech, technology, science, fun, morning show, morning, radio, pop culture
     twitter: morningshowam
     email: kyle@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-tirp.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
@@ -235,7 +235,7 @@ collections:
     keywords: u2, music, tours
     twitter: atu2
     email: chris@goodstuff.fm
-    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    image: "/uploads/artwork-atu2.jpg"
     color: "#F8C023"
     iTunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2
     RSS: http://feeds.goodstuff.fm/atu2
