@@ -48,9 +48,9 @@
 
 <!-- List of Recent Episodes -->
 <div class="container__recent-episodes">
+  <div class="recent-episodes__header">Recent Episodes</div>
   <div class="recent-episodes">
-    <div class="recent-episodes__header">Recent Episodes</div>
-    {% for collection in site.collections limit:4 %}
+    {% for collection in site.collections limit:5 %}
     {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
       <div class="recent-episodes__list">
         {% assign latest = collection.docs | sort | reverse %}
@@ -68,8 +68,8 @@
 
 <!-- List of all of our shows -->
 <div class="container">
-  <div class="our-shows">
   <div class="our-shows__header">Our Shows</div>
+  <div class="our-shows">
   {% assign show = collection.label %}
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
