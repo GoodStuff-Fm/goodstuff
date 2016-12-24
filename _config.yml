@@ -64,7 +64,7 @@ collections:
     output: true
     permalink: "/morningshow/:path"
     slug: morningshow
-    retired: 'yes'
+    retired: 'no'
     name: Morning Show
     hosts:
     - Kyle Roderick
@@ -96,6 +96,138 @@ collections:
     iTunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
     RSS: http://feeds.goodstuff.fm/nbsp
     Color: "#539951"
+  atu2:
+    title: The atU2 Podcast
+    output: true
+    permalink: "/atu2/:path"
+    slug: atu2
+    retired: 'no'
+    name: The atU2 Podcast
+    hosts:
+    - Chris Enns
+    - Matt McGee
+    description: Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2.
+    keywords: u2, music, tours
+    twitter: atu2
+    email: chris@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2
+    RSS: http://feeds.goodstuff.fm/atu2
+  aux:
+    title: Auxiliary
+    output: true
+    permalink: "/aux/:path"
+    slug: aux
+    retired: 'no'
+    name: Auxiliary
+    hosts:
+    - Goodstuff Hosts
+    description: After a show is done recording, we sometimes forget to stop recording and this is what results.
+    keywords: tech, behind-the-scenes, sneak peek
+    twitter: goodstufffm
+    email: contact@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/auxiliary/id865804521
+    RSS: http://goodstuff.fm/aux/feed.xml
+  ll:
+    title: Lost & Lemon
+    output: true
+    permalink: "/ll/:path"
+    slug: ll
+    retired: 'yes'
+    name: Lost & Lemon
+    hosts:
+    - Chris Enns
+    - Chris Huebert
+    description: Good Morning, Internet! We cover the latest news in robots, food,
+      technology, and culture. Live MWF 7-8AM Pacific.
+    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
+      Kyle, Kenny, Roderick
+    twitter: morningshowam
+    email: kyle@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+    RSS: http://feeds.goodstuff.fm/transmission
+  neverdigdown:
+    title: Never Dig Down
+    output: true
+    permalink: "/neverdigdown/:path"
+    slug: ll
+    retired: 'yes'
+    name: Never Dig Down
+    hosts:
+    - Chris Enns
+    - Tim Murtaugh
+    description: Good Morning, Internet! We cover the latest news in robots, food,
+      technology, and culture. Live MWF 7-8AM Pacific.
+    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
+      Kyle, Kenny, Roderick
+    twitter: morningshowam
+    email: kyle@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+    RSS: http://feeds.goodstuff.fm/transmission
+  smym:
+    title: Show Me Your Mic
+    output: true
+    permalink: "/smym/:path"
+    slug: smym
+    retired: 'yes'
+    name: Show Me Your Mic
+    hosts:
+    - Chris Enns
+    description: Good Morning, Internet! We cover the latest news in robots, food,
+      technology, and culture. Live MWF 7-8AM Pacific.
+    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
+      Kyle, Kenny, Roderick
+    twitter: morningshowam
+    email: kyle@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+    RSS: http://feeds.goodstuff.fm/transmission
+  tirp:
+    title: The Intellectual Radio Program
+    output: true
+    permalink: "/tirp/:path"
+    slug: tirp
+    retired: 'yes'
+    name: The Intellectual Radio Program
+    hosts:
+    - Chris Enns
+    - Adam Clark
+    - Tim Smith
+    description: We love to talk technology - particularly Apple and related tech but we also love to talk movies, TV and other media. This show is your window into our conversations about all of that and more.
+    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture
+    twitter: morningshowam
+    email: kyle@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+    RSS: http://feeds.goodstuff.fm/transmission
+  specials:
+    title: Goodstuff Specials
+    output: true
+    permalink: "/specials/:path"
+    slug: specials
+    retired: 'no'
+    name: Goodstuff Specials
+    hosts:
+    - Goodstuff Hosts
+    description: Good Morning, Internet! We cover the latest news in robots, food,
+      technology, and culture. Live MWF 7-8AM Pacific.
+    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
+      Kyle, Kenny, Roderick
+    twitter: morningshowam
+    email: kyle@goodstuff.fm
+    image: "/uploads/broadcast_thumbnail_morningshow_artwork.png"
+    color: "#F8C023"
+    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+    RSS: http://feeds.goodstuff.fm/transmission
   people:
     title: People
     output: true

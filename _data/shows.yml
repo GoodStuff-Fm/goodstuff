@@ -105,3 +105,157 @@ master:
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   pocketcast: http://feed.3g3q.co/
   overcast: http://feed.3g3q.co/
+atu2:
+  name: The atU2 Podcast
+  lang: EN
+  explicit: clean
+  collection: atu2
+  hosts: Chris Enns and Matt McGee
+  description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: "@_3g3q"
+  hosts-twitter: "@ichris and @"
+  email: chris@goodstuff.fm
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+aux:
+  name: Auxiliary
+  lang: EN
+  explicit: explicit
+  collection: aux
+  hosts: Goodstuff Hosts
+  description: After a show is done recording, we sometimes forget to stop recording and this is what results.
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: 
+  hosts-twitter:
+  email: contact@goodstuff.fm
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+ll:
+  name: Lost & Lemon
+  lang: EN
+  explicit: clean
+  collection: ll
+  hosts: Chris Enns, Chris Huebert
+  description: A weekly talk show about starting businesses on opposite sides of the world, but on the same internet.
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: "@GoodstuffFM"
+  hosts-twitter: "@ichris and @byronboy1"
+  email: 3guys3questions@gmail.com
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+neverdigdown:
+  name: Never Dig Down
+  lang: EN
+  explicit: clean
+  collection: neverdigdown
+  hosts: Chris Enns, Tim Murtaugh
+  description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and interesting ways to play Minecraft through mods.
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: "@_3g3q"
+  hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
+  email: 3guys3questions@gmail.com
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+smym:
+  name: Show Me Your Mic
+  lang: EN
+  explicit: clean
+  collection: smym
+  hosts: Chris Enns
+  description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: "@_smym"
+  hosts-twitter: "@ichris"
+  email: chris@goodstuff.fm
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+specials:
+  name: Goodstuff Specials
+  lang: EN
+  explicit: explicit
+  collection: specials
+  hosts: Goodstuff Hosts
+  description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: "@GoodstuffFM"
+  hosts-twitter:
+  email: contact@goodstuff.fm
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
+tirp:
+  name: The Intellectual Radio Program
+  lang: EN
+  explicit: clean
+  collection: tirp
+  hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
+  description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
+  artwork: "/uploads/broadcast_thumbnail_3g3q_artwork.png"
+  color: "#6B4AD3"
+  show-twitter: "@_3g3q"
+  hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
+  email: 3guys3questions@gmail.com
+  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
+  rss: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  pocketcast: http://feed.3g3q.co/
+  overcast: http://feed.3g3q.co/
