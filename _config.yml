@@ -7,7 +7,7 @@ collections:
     output: true
     permalink: "/3g3q/:path"
     slug: 3g3q
-    live: true
+    live: false
     name: 3 Guys 3 Questions
     hosts:
     - Aaron Goodwin
