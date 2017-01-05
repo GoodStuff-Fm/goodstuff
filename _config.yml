@@ -74,7 +74,7 @@ collections:
     output: true
     permalink: "/smym/:path"
     slug: smym
-    retired: 'yes'
+    retired: true
     name: Show Me Your Mic
     hosts:
     - Chris Enns
