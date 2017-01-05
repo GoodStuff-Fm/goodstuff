@@ -9,21 +9,6 @@ collections:
     slug: 3g3q
     live: false
     name: 3 Guys 3 Questions
-    hosts:
-    - Aaron Goodwin
-    - Andrew Savage
-    - Adam Anderson
-    description: Three guys ponder the finer things in life by asking each other weird
-      questions. Each week they compete to seem the most normal while answering questions
-      about fears, pet-peeves, and idiosyncrasies.
-    image: "/uploads/artwork-3g3q.jpg"
-    color: "#CCFF00"
-    twitter: _3g3q
-    Contact Email: 3guys3questions@gmail.com
-    keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo,
-      lightning round
-    rss: http://feed.3g3q.co/
-    itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   aux:
     title: Auxiliary
     output: true
@@ -31,37 +16,12 @@ collections:
     slug: aux
     retired: 'no'
     name: Auxiliary
-    hosts:
-    - Goodstuff Hosts
-    description: After a show is done recording, we sometimes forget to stop recording
-      and this is what results.
-    keywords: tech, behind-the-scenes, sneak peek
-    twitter: goodstufffm
-    email: contact@goodstuff.fm
-    image: "/uploads/artwork-aux.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/auxiliary/id865804521
-    RSS: http://goodstuff.fm/aux/feed.xml
   dailyish:
     title: Daily(ish)
     output: true
     permalink: "/dailyish/:path"
     slug: dailyish
     name: Daily(ish)
-    hosts:
-    - Chris Enns
-    description: Just as it says on the tin – this is a daily(ish) podcast from Chris
-      Enns.
-    image: "/uploads/artwork-dailyish.jpg"
-    color: "#757474"
-    keywords: tech, technology, personal, journal, family, life
-    Twitter Handle: ichris
-    Contact Email: chris@goodstuff.fm
-    supportlink: http://www.patreon.com/ichris
-    RSS: http://feeds.goodstuff.fm/dailyish
-    itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
-    pocketcast: http://pca.st/Vifv
-    overcast: https://overcast.fm/itunes815675012/daily-ish
   specials:
     title: Goodstuff Specials
     output: true
@@ -69,35 +29,12 @@ collections:
     slug: specials
     retired: 'no'
     name: Goodstuff Specials
-    hosts:
-    - Goodstuff Hosts
-    description: Good Morning, Internet! We cover the latest news in robots, food,
-      technology, and culture. Live MWF 7-8AM Pacific.
-    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
-      Kyle, Kenny, Roderick
-    twitter: morningshowam
-    email: kyle@goodstuff.fm
-    image: "/uploads/artwork-specials.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
-    RSS: http://feeds.goodstuff.fm/transmission
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
     permalink: "/grownups/:path"
     slug: grownups
     name: I Guess We're Grown-Ups Now
-    hosts:
-    - Kari Halsted
-    - Brook Shelley
-    description: A podcast about being the kind of grown-ups we want to be. The answers
-      are better than the questions.
-    image: "/uploads/artwork-grownups.jpg"
-    keywords: adulthood
-    Twitter Handle: grownups_fm
-    Contact Email: kayayarai+grownups@gmail.com
-    iTunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
-    RSS: http://feeds.goodstuff.fm/grownups
   ll:
     title: Lost & Lemon
     output: true
@@ -105,19 +42,6 @@ collections:
     slug: ll
     retired: 'yes'
     name: Lost & Lemon
-    hosts:
-    - Chris Enns
-    - Chris Huebert
-    description: Good Morning, Internet! We cover the latest news in robots, food,
-      technology, and culture. Live MWF 7-8AM Pacific.
-    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
-      Kyle, Kenny, Roderick
-    twitter: morningshowam
-    email: kyle@goodstuff.fm
-    image: "/uploads/artwork-ll.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
-    RSS: http://feeds.goodstuff.fm/transmission
   morningshow:
     title: Morning Show
     output: true
@@ -125,19 +49,6 @@ collections:
     slug: morningshow
     retired: 'no'
     name: Morning Show
-    hosts:
-    - Kyle Roderick
-    - Kenny Roderick
-    description: Good Morning, Internet! We cover the latest news in robots, food,
-      technology, and culture. Live MWF 7-8AM Pacific.
-    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
-      Kyle, Kenny, Roderick
-    twitter: morningshowam
-    email: kyle@goodstuff.fm
-    image: "/uploads/artwork-morningshow.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
-    RSS: http://feeds.goodstuff.fm/transmission
   neverdigdown:
     title: Never Dig Down
     output: true
@@ -145,36 +56,12 @@ collections:
     slug: ll
     retired: 'yes'
     name: Never Dig Down
-    hosts:
-    - Chris Enns
-    - Tim Murtaugh
-    description: Good Morning, Internet! We cover the latest news in robots, food,
-      technology, and culture. Live MWF 7-8AM Pacific.
-    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
-      Kyle, Kenny, Roderick
-    twitter: morningshowam
-    email: kyle@goodstuff.fm
-    image: "/uploads/artwork-neverdigdown.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
-    RSS: http://feeds.goodstuff.fm/transmission
   nbsp:
     title: Non Breaking Space Show
     output: true
     permalink: "/nbsp/:path"
     slug: nbsp
     name: Non Breaking Space Show
-    description: Seeking out the best, brightest, and smartest creative people on
-      digital art, design, and development. From workflows to life hacks, we examine
-      why they do what they do and how they did it.
-    image: "/uploads/artwork-nbsp.jpg"
-    hosts: Christopher Schmitt
-    keywords: tech, technology, web, design, interviews
-    Twitter Handle: nbsptv
-    Contact Email: chris@goodstuff.fm
-    iTunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
-    RSS: http://feeds.goodstuff.fm/nbsp
-    Color: "#539951"
   people:
     title: People
     output: true

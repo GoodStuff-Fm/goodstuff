@@ -15,17 +15,19 @@
 
   {% for collection in site.collections limit:1 %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  {% assign show = site.data.shows[collection.label] %}
   {% assign latest = collection.docs | sort | reverse %}
   {% for doc in latest offset:1 limit:1 %}
+
 
 
   <div class="container__banner">
     <h2 class="latest-episode__header">Latest Episode</h2>
     <div class="latest-episode__artwork">
-      <a href="{{ doc.url }}"><img src="{{ collection.image }}" alt="Artwork"/></a>
+      <a href="{{ doc.url }}"><img src="{{ show.artwork }}" alt="Artwork"/></a>
     </div>
     <div class="latest-episode__details__show">
-      {{collection.name}}
+      {{show.name}}
     </div>
     <div class="latest-episode__details__title">
       <a href="{{ doc.url }}">{{ doc.title | remove: "_" | truncate: 64 }}</a>
@@ -52,10 +54,11 @@
   <div class="recent-episodes">
     {% for collection in site.collections limit:5 %}
     {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+    {% assign show = site.data.shows[collection.label] %}
       <div class="recent-episodes__list">
         {% assign latest = collection.docs | sort | reverse %}
         {% for doc in latest offset:1 limit:1 %}
-        <div class="recent-episodes__artwork"><a href="{{ doc.id }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
+        <div class="recent-episodes__artwork"><a href="{{ doc.id }}"><img src="{{ show.artwork }}" alt="Artwork"/></a></div>
         <div class="recent-episodes__title"><a href="{{ doc.url }}">{{ doc.title | remove: "_"  | truncate: 64 }}</a></div>
         <div class="recent-episodes__date">{{ doc.date | date: "%b %d, %Y" }}</div>
         {% endfor %}
@@ -70,12 +73,12 @@
 <div class="container">
   <div class="our-shows__header">Our Shows</div>
   <div class="our-shows">
-  {% assign show = collection.label %}
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  {% assign show = site.data.shows[collection.label] %}
   <div class="our-shows__list">
-    <div class="our-shows__artwork"><a href="{{ collection.slug }}"><img src="{{ collection.image }}" alt="Artwork"/></a></div>
-    <div class="our-shows__title"><a href="{{ collection.slug }}">{{ collection.name }}</a></div>
+    <div class="our-shows__artwork"><a href="{{ collection.slug }}"><img src="{{ show.artwork }}" alt="Artwork"/></a></div>
+    <div class="our-shows__title"><a href="{{ collection.slug }}">{{ show.name }}</a></div>
   </div>
   {% endunless %}
   {% endfor %}
