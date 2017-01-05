@@ -6,6 +6,7 @@ sponsor:
 sponsor-link: 
 sponsor-copy: 
 episode: 1
+show: morningshow
 ---
 
 ###### Support Us
