@@ -77,8 +77,8 @@
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   {% assign show = site.data.shows[collection.label] %}
   <div class="our-shows__list">
-    <div class="our-shows__artwork"><a href="{{ collection.slug }}"><img src="{{ show.artwork }}" alt="Artwork"/></a></div>
-    <div class="our-shows__title"><a href="{{ collection.slug }}">{{ show.name }}</a></div>
+    <div class="our-shows__artwork"><a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork"/></a></div>
+    <div class="our-shows__title"><a href="{{ show.collection }}">{{ show.name }}</a></div>
   </div>
   {% endunless %}
   {% endfor %}

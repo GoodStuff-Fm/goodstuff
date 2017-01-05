@@ -6,62 +6,54 @@ collections:
     title: 3G3Q
     output: true
     permalink: "/3g3q/:path"
-    slug: 3g3q
     retired: false
     live: false
   aux:
     title: Auxiliary
     output: true
     permalink: "/aux/:path"
-    slug: aux
     retired: false
     live: false
   dailyish:
     title: Daily(ish)
     output: true
     permalink: "/dailyish/:path"
-    slug: dailyish
     retired: false
     live: false
   specials:
     title: Goodstuff Specials
     output: true
     permalink: "/specials/:path"
-    slug: specials
     retired: false
     live: false
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
     permalink: "/grownups/:path"
-    slug: grownups
     retired: false
     live: false
   ll:
     title: Lost & Lemon
     output: true
     permalink: "/ll/:path"
-    slug: ll
     retired: true
+    live: false
   morningshow:
     title: Morning Show
     output: true
     permalink: "/morningshow/:path"
-    slug: morningshow
     retired: false
     live: false
   neverdigdown:
     title: Never Dig Down
     output: true
     permalink: "/neverdigdown/:path"
-    slug: ll
     retired: true
     live: false
   nbsp:
     title: Non Breaking Space Show
     output: true
     permalink: "/nbsp/:path"
-    slug: nbsp
     live: false
     retired: false
   people:
@@ -75,14 +67,12 @@ collections:
     title: Show Me Your Mic
     output: true
     permalink: "/smym/:path"
-    slug: smym
     retired: true
     live: false
   atu2:
     title: The atU2 Podcast
     output: true
     permalink: "/atu2/:path"
-    slug: atu2
     live: false
     retired: false
   uploads:

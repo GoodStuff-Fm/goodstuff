@@ -41,8 +41,8 @@
   {% assign show = site.data.shows[collection.label] %}
 
   <ul class="broadcasts__list">
-    <li class="broadcasts__list__artwork"><a href="/{{ collection.slug }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
-    <li class="broadcasts__list__name"><h3><a href="/{{ collection.slug }}">{{ show.name }}</a></h3></li>
+    <li class="broadcasts__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li class="broadcasts__list__name"><h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
     <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
     <li class="broadcasts__list__description">{{ show.description | truncate: 256 }}</li>
 
@@ -72,8 +72,8 @@
   {% if collection.retired == true %}
 
   <ul class="broadcasts__list">
-    <li class="broadcasts__list__artwork"><a href="/{{ collection.slug }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
-    <li class="broadcasts__list__name"><h3><a href="/{{ collection.slug }}">{{ show.name }}</a></h3></li>
+    <li class="broadcasts__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
+    <li class="broadcasts__list__name"><h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
     <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
     <li class="broadcasts__list__description">{{ show.description }}</li>
     <li class="broadcasts__list__link">
