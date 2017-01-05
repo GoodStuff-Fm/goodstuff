@@ -21,12 +21,12 @@ body {
   margin: 0 auto;
   padding-left: 2rem;
   padding-right: 2rem;
-  overflow: auto;
+  overflow: scroll;
   padding-bottom: 300pt;
 
   &__wide {
     &__red {
-      background: #DA5647;
+      background: white;
       width: 100%;
     }
     &__dark {
@@ -36,9 +36,9 @@ body {
   }
 
   &__banner {
-    color: white;
+    color: $dark-blue;
     width: 700pt;
-    height: 310pt;
+    height: 280pt;
     padding-bottom: 30pt;
     margin-left:  auto;
     margin-right: auto;
@@ -57,7 +57,15 @@ body {
     width: 700pt;
     margin-left:  auto;
     margin-right: auto;
-    padding-top: 50pt;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  &__our-shows {
+    width: 700pt;
+    margin-left:  auto;
+    margin-right: auto;
+    padding-bottom: 200pt;
     padding-left: 2rem;
     padding-right: 2rem;
   }
@@ -119,6 +127,9 @@ body {
 }
 
 .latest-episode {
+  padding-top: 32pt;
+  height: 180pt;
+  padding-bottom: 32pt;
 
   &__header {
     width: 100%;
@@ -127,16 +138,17 @@ body {
   }
 
   &__artwork {
-    height: 240pt;
+    width: 30%;
     float: left;
-    padding-right: 20pt;
     img {
-      height: 240pt;
+      height: 180pt;
       border-radius: 4pt;
     }
   }
 
   &__details {
+    width: 70%;
+    float: right;
 
     &__show {
       padding-bottom: 14pt;
@@ -147,12 +159,17 @@ body {
     }
 
     &__date {
+      padding-bottom: 12pt;
+    }
+
+    &__hosts {
       padding-bottom: 18pt;
     }
 
+
     &__description {
-      padding-bottom: 20pt;
-      line-height: 1.5rem;
+      padding-bottom: 12pt;
+      line-height: 1.7rem;
     }
   }
 }
