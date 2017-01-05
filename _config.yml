@@ -201,27 +201,6 @@ collections:
     color: "#F8C023"
     iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
     RSS: http://feeds.goodstuff.fm/transmission
-  tirp:
-    title: The Intellectual Radio Program
-    output: true
-    permalink: "/tirp/:path"
-    slug: tirp
-    retired: 'yes'
-    name: The Intellectual Radio Program
-    hosts:
-    - Chris Enns
-    - Adam Clark
-    - Tim Smith
-    description: We love to talk technology - particularly Apple and related tech
-      but we also love to talk movies, TV and other media. This show is your window
-      into our conversations about all of that and more.
-    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture
-    twitter: morningshowam
-    email: kyle@goodstuff.fm
-    image: "/uploads/artwork-tirp.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
-    RSS: http://feeds.goodstuff.fm/transmission
   atu2:
     title: The atU2 Podcast
     output: true

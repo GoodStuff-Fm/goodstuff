@@ -18,9 +18,10 @@
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
+  pocketcasts: http://feed.3g3q.co/
   overcast: http://feed.3g3q.co/
 dailyish:
+  lang: EN
   name: Daily(ish)
   collection: dailyish
   hosts: Chris Enns
@@ -30,11 +31,16 @@ dailyish:
   keywords: tech, technology, personal, journal, family, life
   show-twitter: _dailyish
   host-twitter: ichris
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
   email: chris@goodstuff.fm
   supportlink: http://www.patreon.com/ichris
   RSS: http://feeds.goodstuff.fm/dailyish
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
-  pocketcast: http://pca.st/Vifv
+  pocketcasts: http://pca.st/Vifv
   overcast: https://overcast.fm/itunes815675012/daily-ish
 morningshow:
   name: Morning Show
@@ -42,50 +48,68 @@ morningshow:
   hosts: Kyle Roderick and Kenny Roderick
   description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
   artwork: "/uploads/artwork-morningshow.jpg"
-  color: #F6BE48
-  keywords: tech, technology, personal, journal, family, life
+  color: #F8C023
+  keywords: tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
   hosts-twitter: "@dogburps and @pizzarobotics"
+  category1: "Arts"
+  category2: "Comedy"
+  category3: "Technology"
+  category4:
+  category5:
   email: kyle@goodstuff.fm
   support: http://www.patreon.com/morningshow
   rss: http://feeds.goodstuff.fm/dailyish
-  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
-  pocketcast: http://pca.st/Vifv
-  overcast: https://overcast.fm/itunes815675012/daily-ish
+  itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+  pocketcasts: http://pca.st/transmission
+  overcast: https://overcast.fm/itunes843374491/morning-show
 grownups:
+  explicit: explicit
   name: I Guess We're Grown-Ups Now
   collection: grownups
   hosts: Kari Halsted and Brook Shelley
-  description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
+  description: A podcast about being the kind of grown-ups we want to be. The answers are better than the questions.
   artwork: "/uploads/artwork-grownups.jpg"
-  color: #F6BE48
-  keywords: tech, technology, personal, journal, family, life
-  show-twitter: "@morningshowam"
+  color: #DFDFDF
+  keywords: adulthood
+  category1: "Society & Culture"
+  category2:
+  category3:
+  category4:
+  category5:
+  show-twitter: "grownups_fm"
   hosts-twitter: "@dogburps and @pizzarobotics"
-  email: kyle@goodstuff.fm
-  support: http://www.patreon.com/morningshow
-  rss: http://feeds.goodstuff.fm/dailyish
-  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
-  pocketcast: http://pca.st/Vifv
-  overcast: https://overcast.fm/itunes815675012/daily-ish
+  email: kayayarai+grownups@gmail.com
+  support:
+  rss: http://feeds.goodstuff.fm/grownups
+  itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
+  pocketcasts: http://pca.st/OEf0
+  overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
 nbsp:
+  explicit: clean
   name: Non Breaking Space Show
   collection: nbsp
   hosts: Christopher Schmitt
-  description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
+  description: Seeking out the best, brightest, and smartest creative people on digital art, design, and development. From workflows to life hacks, we examine why they do what they do and how they did it.
   artwork: "/uploads/artwork-nbsp.jpg"
-  color: #F6BE48
-  keywords: tech, technology, personal, journal, family, life
-  show-twitter: "@morningshowam"
-  hosts-twitter: "@dogburps and @pizzarobotics"
-  email: kyle@goodstuff.fm
-  support: http://www.patreon.com/morningshow
-  rss: http://feeds.goodstuff.fm/dailyish
-  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
-  pocketcast: http://pca.st/Vifv
-  overcast: https://overcast.fm/itunes815675012/daily-ish
+  color: #4EBA64
+  category1: "Technology - Tech News"
+  category2:
+  category3:
+  category4:
+  category5:
+  keywords: tech, technology, web, design, interviews
+  show-twitter: "@nbsptv"
+  hosts-twitter: "@teleject"
+  email: chris@goodstuff.fm
+  support:
+  rss: http://feeds.goodstuff.fm/nbsp
+  itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
+  pocketcasts: http://pca.st/Izn0
+  overcast: https://overcast.fm/itunes507162981/non-breaking-space-show
 master:
-  name: Goodstuff Master Feed
+  explicit: explicit
+  name: Goodstuff Broadcasting Master Audio Feed
   lang: EN
   explicit: clean
   hosts: Goodstuff Broadcasting
@@ -95,7 +119,7 @@ master:
   show-twitter: "@GoodstuffFM"
   hosts-twitter: ""
   email: contact@goodstuff.fm
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  keywords:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
@@ -103,9 +127,10 @@ master:
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  pocketcasts: http://pca.st/xiPV
+  overcast: https://overcast.fm/itunes849966174/goodstuff-broadcasting-master-audio-feed
 atu2:
+  explicit: clean
   name: The atU2 Podcast
   lang: EN
   explicit: clean
@@ -113,21 +138,22 @@ atu2:
   hosts: Chris Enns and Matt McGee
   description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
   artwork: "/uploads/artwork-atu2.jpg"
-  color: "#6B4AD3"
-  show-twitter: "@_3g3q"
-  hosts-twitter: "@ichris and @"
+  color: #FFCD84
+  show-twitter: "@atu2"
+  hosts-twitter: "@ichris and @mattmcgee"
   email: chris@goodstuff.fm
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
+  keywords: u2, music, tours
+  category1: "Music"
+  category2:
+  category3:
   category4:
   category5:
-  rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  rss: http://feeds.goodstuff.fm/atu2
+  itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2
+  pocketcasts: http://pca.st/9jwK
+  overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
 aux:
+  explicit: explicit
   name: Auxiliary
   lang: EN
   explicit: explicit
@@ -147,7 +173,7 @@ aux:
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
+  pocketcasts: http://feed.3g3q.co/
   overcast: http://feed.3g3q.co/
 ll:
   name: Lost & Lemon
@@ -157,21 +183,22 @@ ll:
   hosts: Chris Enns, Chris Huebert
   description: A weekly talk show about starting businesses on opposite sides of the world, but on the same internet.
   artwork: "/uploads/artwork-ll.jpg"
-  color: "#6B4AD3"
-  show-twitter: "@GoodstuffFM"
+  color: #DFB650
+  show-twitter:
   hosts-twitter: "@ichris and @byronboy1"
-  email: 3guys3questions@gmail.com
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
+  email: chris@goodstuff.fm
+  keywords: business, technology, Chris Enns, Chris Huebert
+  category1: "Business - Management & Marketing"
+  category2: "Technology - Software How-To"
+  category3:
   category4:
   category5:
-  rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  rss: http://feeds.goodstuff.fm/ll
+  itunes: https://itunes.apple.com/ca/podcast/lost-lemon-brothers-in-business/id467564174?mt=2
+  pocketcasts: http://pca.st/emvK
+  overcast: https://overcast.fm/itunes467564174/lost-and-lemon
 neverdigdown:
+  explicit: clean
   name: Never Dig Down
   lang: EN
   explicit: clean
@@ -179,83 +206,61 @@ neverdigdown:
   hosts: Chris Enns, Tim Murtaugh
   description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and interesting ways to play Minecraft through mods.
   artwork: "/uploads/artwork-neverdigdown.jpg"
-  color: "#6B4AD3"
-  show-twitter: "@_3g3q"
-  hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
-  email: 3guys3questions@gmail.com
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
+  color: #79AFDD
+  show-twitter: "@neverdigdown_fm"
+  hosts-twitter: "@ichris and @murtaugh"
+  email: chris@goodstuff.fm
+  keywords: video game, minecraft, education
+  category1: "Games & Hobbies - Video Games"
+  category2:
+  category3:
   category4:
   category5:
-  rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  rss:
+  itunes: https://itunes.apple.com/ca/podcast/never-dig-down/id902068369?mt=2
+  pocketcasts: http://pca.st/5YwG
+  overcast: https://overcast.fm/itunes902068369/never-dig-down
 smym:
   name: Show Me Your Mic
   lang: EN
   explicit: clean
   collection: smym
   hosts: Chris Enns
-  description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
+  description: A show that talks to podcasters about gear, software, workflow, and philosophies behind podcasting.
   artwork: "/uploads/artwork-smym.jpg"
-  color: "#6B4AD3"
+  color: #9FBB2D
   show-twitter: "@_smym"
   hosts-twitter: "@ichris"
-  email: chris@goodstuff.fm
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
+  email: chris+smym@goodstuff.fm
+  keywords: technology, how-to, podcasting
+  category1: "Technology"
+  category2: "Technology - Podcasting"
+  category3:
   category4:
   category5:
-  rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  rss: http://feeds.goodstuff.fm/smym
+  itunes: https://geo.itunes.apple.com/ca/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki
+  pocketcasts: http://pca.st/M3P3
+  overcast: https://overcast.fm/itunes602836998/show-me-your-mic
 specials:
   name: Goodstuff Specials
   lang: EN
   explicit: explicit
   collection: specials
   hosts: Goodstuff Hosts
-  description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
+  description: Goodstuff special events - random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
   artwork: "/uploads/artwork-specials.jpg"
-  color: "#6B4AD3"
+  color: #D85647
   show-twitter: "@GoodstuffFM"
   hosts-twitter:
   email: contact@goodstuff.fm
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
+  keywords:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
   category4:
   category5:
   rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
-tirp:
-  name: The Intellectual Radio Program
-  lang: EN
-  explicit: clean
-  collection: tirp
-  hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
-  description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
-  artwork: "/uploads/artwork-tirp.jpg"
-  color: "#6B4AD3"
-  show-twitter: "@_3g3q"
-  hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
-  email: 3guys3questions@gmail.com
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
-  category4:
-  category5:
-  rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  pocketcast: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2
+  pocketcasts: http://pca.st/LvG0
+  overcast: https://overcast.fm/itunes854159948/goodstuff-specials
