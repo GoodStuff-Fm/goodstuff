@@ -5,6 +5,7 @@ mp3: http://podcasts-1.feedpress.co/10588/morningshow-333.mp3
 sponsor: 
 sponsor-link: 
 sponsor-copy: 
+episode: 1
 ---
 
 ###### Support Us
