@@ -87,7 +87,9 @@ collections:
     permalink: "/grownups/:path"
     slug: grownups
     name: I Guess We're Grown-Ups Now
-    hosts: Kari Halsted, Brook Shelly
+    hosts:
+    - Kari Halsted
+    - Brook Shelley
     description: A podcast about being the kind of grown-ups we want to be. The answers
       are better than the questions.
     image: "/uploads/artwork-grownups.jpg"
