@@ -7,61 +7,63 @@ collections:
     output: true
     permalink: "/3g3q/:path"
     slug: 3g3q
+    retired: false
     live: false
-    name: 3 Guys 3 Questions
   aux:
     title: Auxiliary
     output: true
     permalink: "/aux/:path"
     slug: aux
-    retired: 'no'
-    name: Auxiliary
+    retired: false
+    live: false
   dailyish:
     title: Daily(ish)
     output: true
     permalink: "/dailyish/:path"
     slug: dailyish
-    name: Daily(ish)
+    retired: false
+    live: false
   specials:
     title: Goodstuff Specials
     output: true
     permalink: "/specials/:path"
     slug: specials
-    retired: 'no'
-    name: Goodstuff Specials
+    retired: false
+    live: false
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
     permalink: "/grownups/:path"
     slug: grownups
-    name: I Guess We're Grown-Ups Now
+    retired: false
+    live: false
   ll:
     title: Lost & Lemon
     output: true
     permalink: "/ll/:path"
     slug: ll
     retired: true
-    name: Lost & Lemon
   morningshow:
     title: Morning Show
     output: true
     permalink: "/morningshow/:path"
     slug: morningshow
-    retired: 'no'
-    name: Morning Show
+    retired: false
+    live: false
   neverdigdown:
     title: Never Dig Down
     output: true
     permalink: "/neverdigdown/:path"
     slug: ll
     retired: true
-    name: Never Dig Down
+    live: false
   nbsp:
     title: Non Breaking Space Show
     output: true
     permalink: "/nbsp/:path"
     slug: nbsp
-    name: Non Breaking Space Show
+    live: false
+    retired: false
   people:
     title: People
     output: true
@@ -75,38 +77,14 @@ collections:
     permalink: "/smym/:path"
     slug: smym
     retired: true
-    name: Show Me Your Mic
-    hosts:
-    - Chris Enns
-    description: Good Morning, Internet! We cover the latest news in robots, food,
-      technology, and culture. Live MWF 7-8AM Pacific.
-    keywords: tech, technology, science, fun, morning show, morning, radio, pop culture,
-      Kyle, Kenny, Roderick
-    twitter: morningshowam
-    email: kyle@goodstuff.fm
-    image: "/uploads/artwork-smym.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
-    RSS: http://feeds.goodstuff.fm/transmission
+    live: false
   atu2:
     title: The atU2 Podcast
     output: true
     permalink: "/atu2/:path"
     slug: atu2
-    retired: 'no'
-    name: The atU2 Podcast
-    hosts:
-    - Chris Enns
-    - Matt McGee
-    description: Talking all things U2 including new album news, tour dates, commentary,
-      and community discussions from the staff of @U2.
-    keywords: u2, music, tours
-    twitter: atu2
-    email: chris@goodstuff.fm
-    image: "/uploads/artwork-atu2.jpg"
-    color: "#F8C023"
-    iTunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2
-    RSS: http://feeds.goodstuff.fm/atu2
+    live: false
+    retired: false
   uploads:
     title: Uploads
     output: true
