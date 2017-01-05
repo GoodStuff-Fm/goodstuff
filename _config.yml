@@ -54,7 +54,7 @@ collections:
     output: true
     permalink: "/neverdigdown/:path"
     slug: ll
-    retired: 'yes'
+    retired: true
     name: Never Dig Down
   nbsp:
     title: Non Breaking Space Show
