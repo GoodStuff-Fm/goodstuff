@@ -180,7 +180,7 @@ ll:
   lang: EN
   explicit: clean
   collection: ll
-  hosts: Chris Enns, Chris Huebert
+  hosts: Chris Enns and Chris Huebert
   description: A weekly talk show about starting businesses on opposite sides of the world, but on the same internet.
   artwork: "/uploads/artwork-ll.jpg"
   color: #DFB650
