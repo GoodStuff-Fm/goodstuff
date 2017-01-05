@@ -53,7 +53,7 @@
   <div class="recent-episodes__header">Recent Episodes</div>
   <div class="recent-episodes">
     {% for collection in site.collections limit:5 %}
-    {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+    {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.size == 1 %}
     {% assign show = site.data.shows[collection.label] %}
       <div class="recent-episodes__list">
         {% assign latest = collection.docs | sort | reverse %}
