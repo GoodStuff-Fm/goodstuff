@@ -34,13 +34,14 @@
 
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
-  {% if collection.hosts contains page.name %}
+  {% assign show = site.data.shows[collection.label] %}
+  {% if show.hosts contains page.name %}
   <!-- Needs to contain, not equal -->
 
 <div class="person__show">
   <ul>
-    <li class="person__show__name"><a href="/{{ collection.slug }}">{{ collection.name }}</a></li>
-    <li class="person__show__description">{{ collection.description }}</li>
+    <li class="person__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></li>
+    <li class="person__show__description">{{ show.description }}</li>
   </ul>
 </div>
 
