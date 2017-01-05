@@ -40,7 +40,7 @@ collections:
     output: true
     permalink: "/ll/:path"
     slug: ll
-    retired: 'yes'
+    retired: true
     name: Lost & Lemon
   morningshow:
     title: Morning Show
