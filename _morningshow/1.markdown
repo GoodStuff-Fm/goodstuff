@@ -1,7 +1,7 @@
 ---
 title: Test Episode
 date: 2017-01-04 23:07:00 -06:00
-mp3: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-333.mp3
 sponsor: 
 sponsor-link: 
 sponsor-copy: 
