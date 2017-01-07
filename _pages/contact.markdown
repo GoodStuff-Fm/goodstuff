@@ -3,6 +3,7 @@ title: Contact
 date: 2016-03-18 13:40:00 -06:00
 position: 4
 layout: default
+permalink: "/contact/"
 ---
 
 We love hearing from our amazing listeners. We'll do our best to respond as soon as possible.
@@ -17,7 +18,7 @@ We love hearing from our amazing listeners. We'll do our best to respond as soon
 
 Consult the [Advertise page][4] for more information.
 
-[1]: http://goodstuff.fm/mailto:contact@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20General%20Feedback
-[2]: http://goodstuff.fm/mailto:chris@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
-[3]: http://goodstuff.fm/mailto:kyle@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
-[4]: http://goodstuff.fm/advertise
+[1]: mailto:contact@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20General%20Feedback
+[2]: mailto:chris@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
+[3]: mailto:kyle@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
+[4]: /advertise

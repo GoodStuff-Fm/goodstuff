@@ -1,4 +1,5 @@
 ---
+include: ["_pages"]
 title: Goodstuffv2
 timezone: America/Regina
 collections:
@@ -96,7 +97,7 @@ defaults:
   values:
     layout: episodes
 itunes-subtitle: your-podcast-subtitle
-itunes-url: http://goodstuffv2.siteleaf.net
+itunes-url: http://goodstuff.fm
 itunes-email: contact@goodstuff.fm
 itunes-lang: EN
 itunes-author: Goodstuff Broadcasting

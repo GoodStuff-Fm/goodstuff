@@ -2,6 +2,7 @@
 title: Advertise
 date: 2016-06-18 14:44:00 -06:00
 layout: default
+permalink: "/advertise/"
 ---
 
 Thank you so much for your interest in sponsoring. We love sponsors whose products or services we love and use.

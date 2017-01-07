@@ -26,6 +26,7 @@
     }
 
     &__date {
+      color: $blue;
       font-size: .95rem;
       opacity: .6;
     }
@@ -33,11 +34,13 @@
     &__hosts {
       font-size: .95rem;
       font-weight: 700;
+      color: $blue;
     }
 
     &__description {
       font-size: 1rem;
-      color: $blue;
+      color: $light-blue;
+      line-height: 1.7rem;
     }
 
     &__listen a {
@@ -276,7 +279,7 @@
       font-size: 1.05rem;
       font-weight: 400;
       color: $light-blue;
-      line-height: 1.6rem;
+      line-height: 1.7rem;
     }
 
     &__link {
@@ -338,7 +341,7 @@
       font-size: 1rem;
       padding-top: 8pt;
       padding-bottom: 8pt;
-      line-height: 1.5rem;
+      line-height: 1.7rem;
     }
 
 
@@ -359,7 +362,7 @@
 
   &__title {
     font-size: 2.3rem;
-    color: $bright-red;
+    color: $blue;
     font-weight: 700;
     padding-bottom: 16pt;
     padding-top: 16pt;
@@ -397,8 +400,7 @@
 
     &__header {
       font-weight: 700;
-      line-height: normal;
-
+      line-height: 20pt;
       a {
         color: $bright-red;
         text-decoration: none;
@@ -408,6 +410,7 @@
 
     &__copy {
       padding-top: 12pt;
+      line-height: 20pt;
     }
   }
 

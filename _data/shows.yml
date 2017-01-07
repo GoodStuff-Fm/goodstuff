@@ -64,24 +64,19 @@ morningshow:
   pocketcasts: http://pca.st/transmission
   overcast: https://overcast.fm/itunes843374491/morning-show
 grownups:
-  explicit: explicit
   name: I Guess We're Grown-Ups Now
   collection: grownups
   hosts: Kari Halsted and Brook Shelley
   description: A podcast about being the kind of grown-ups we want to be. The answers are better than the questions.
   artwork: "/uploads/artwork-grownups.jpg"
-  color: #DFDFDF
+  color: #F8C023
   keywords: adulthood
-  category1: "Society & Culture"
-  category2:
-  category3:
-  category4:
-  category5:
-  show-twitter: "grownups_fm"
-  hosts-twitter: "@dogburps and @pizzarobotics"
-  email: kayayarai+grownups@gmail.com
-  support:
-  rss: http://feeds.goodstuff.fm/grownups
+  show-twitter: "@grownups_fm"
+  hosts-twitter: "@kayayarai and @brookshelley"
+  category: "Society & Culture"
+  email: kayayarai@gmail.com
+  support: http://www.patreon.com/morningshow
+  rss: http://feeds.goodstuff.fm/dailyish
   itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
   pocketcasts: http://pca.st/OEf0
   overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
@@ -93,11 +88,7 @@ nbsp:
   description: Seeking out the best, brightest, and smartest creative people on digital art, design, and development. From workflows to life hacks, we examine why they do what they do and how they did it.
   artwork: "/uploads/artwork-nbsp.jpg"
   color: #4EBA64
-  category1: "Technology - Tech News"
-  category2:
-  category3:
-  category4:
-  category5:
+  category: "Technology - Tech News"
   keywords: tech, technology, web, design, interviews
   show-twitter: "@nbsptv"
   hosts-twitter: "@teleject"
@@ -176,48 +167,34 @@ aux:
   pocketcasts: http://feed.3g3q.co/
   overcast: http://feed.3g3q.co/
 ll:
-  name: Lost & Lemon
-  lang: EN
-  explicit: clean
+  name: Lost and Lemon
   collection: ll
   hosts: Chris Enns and Chris Huebert
   description: A weekly talk show about starting businesses on opposite sides of the world, but on the same internet.
   artwork: "/uploads/artwork-ll.jpg"
-  color: #DFB650
-  show-twitter:
-  hosts-twitter: "@ichris and @byronboy1"
   email: chris@goodstuff.fm
-  keywords: business, technology, Chris Enns, Chris Huebert
-  category1: "Business - Management & Marketing"
-  category2: "Technology - Software How-To"
-  category3:
-  category4:
-  category5:
-  rss: http://feeds.goodstuff.fm/ll
+  keywords: business, technology, Chris, Enns, Huebert
+  category: "Business"
+  rss: http://feeds.goodstuff.fm/dailyish
   itunes: https://itunes.apple.com/ca/podcast/lost-lemon-brothers-in-business/id467564174?mt=2
   pocketcasts: http://pca.st/emvK
   overcast: https://overcast.fm/itunes467564174/lost-and-lemon
 neverdigdown:
-  explicit: clean
   name: Never Dig Down
-  lang: EN
-  explicit: clean
   collection: neverdigdown
-  hosts: Chris Enns, Tim Murtaugh
-  description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and interesting ways to play Minecraft through mods.
+  hosts: Chris Enns and Tim Murtaugh
+  description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and intersting ways to play Minecraft through mods.
   artwork: "/uploads/artwork-neverdigdown.jpg"
-  color: #79AFDD
+  color: #F8C023
+  keywords: video, game, minecraft, education
   show-twitter: "@neverdigdown_fm"
   hosts-twitter: "@ichris and @murtaugh"
+  category: "Video Games"
+  explicit: clean
   email: chris@goodstuff.fm
-  keywords: video game, minecraft, education
-  category1: "Games & Hobbies - Video Games"
-  category2:
-  category3:
-  category4:
-  category5:
-  rss:
-  itunes: https://itunes.apple.com/ca/podcast/never-dig-down/id902068369?mt=2
+  support: http://www.patreon.com/morningshow
+  rss: http://feeds.goodstuff.fm/dailyish
+  itunes: https://itunes.apple.com/us/podcast/never-dig-down/id902068369?mt=2
   pocketcasts: http://pca.st/5YwG
   overcast: https://overcast.fm/itunes902068369/never-dig-down
 smym:
