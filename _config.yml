@@ -4,6 +4,7 @@ timezone: America/Regina
 collections:
   3g3q:
     title: 3G3Q
+    slug: 3g3q
     output: true
     permalink: "/3g3q/:path"
     retired: false
@@ -97,9 +98,22 @@ defaults:
     layout: episode
     mp3:
     episode:
+    description:
     sponsor: FeedPress
     sponsor-link: http://feed.press/morningshow
     sponsor-copy: "Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year."
+    show: morningshow
+- scope:
+    path: ''
+    type: 3g3q
+  values:
+    layout: episode
+    mp3:
+    episode:
+    sponsor:
+    sponsor-link:
+    sponsor-copy:
+    show: 3g3q
 include:
 - _pages
 itunes-subtitle: your-podcast-subtitle
