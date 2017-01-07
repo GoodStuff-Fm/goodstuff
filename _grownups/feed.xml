@@ -66,7 +66,6 @@ show: grownups
         </content:encoded>
  			</item>
 
-
  {% endunless %}
  {% endfor %}
 
