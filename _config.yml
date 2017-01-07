@@ -1,5 +1,4 @@
 ---
-include: ["_pages"]
 title: Goodstuffv2
 timezone: America/Regina
 collections:
@@ -96,6 +95,8 @@ defaults:
     type: morningshow
   values:
     layout: episodes
+include:
+- _pages
 itunes-subtitle: your-podcast-subtitle
 itunes-url: http://goodstuff.fm
 itunes-email: contact@goodstuff.fm

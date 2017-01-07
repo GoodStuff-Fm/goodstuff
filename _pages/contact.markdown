@@ -1,9 +1,9 @@
 ---
 title: Contact
 date: 2016-03-18 13:40:00 -06:00
+permalink: "/contact/"
 position: 4
 layout: default
-permalink: "/contact/"
 ---
 
 We love hearing from our amazing listeners. We'll do our best to respond as soon as possible.

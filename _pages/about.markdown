@@ -1,9 +1,9 @@
 ---
 title: About
 date: 2016-03-17 21:03:00 -06:00
+permalink: "/about/"
 position: 2
 layout: default
-permalink: "/about/"
 ---
 
 Goodstuff.fm is your new favorite podcast network. We have a ton of fun recording conversations, interviews, and monologues that end up being heard around the world.
