@@ -20,7 +20,8 @@
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true %}
   {% assign show = site.data.shows[collection.label] %}
   {% assign latest = collection.docs | sort | reverse %}
-  {% for doc in latest offset:1 limit:1 and doc.title != 'Feed' %}
+  {% for doc in latest offset:1 limit:1 %}
+  {% unless doc.title == 'Feed' %}
 
 
     <hr class="page__rule">
@@ -51,7 +52,7 @@
     </div>
     -->
   </div>
-
+  {% endunless %}
   {% endfor %}
   {% endunless %}
   {% endfor %}
