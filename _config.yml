@@ -96,9 +96,9 @@ defaults:
     type: morningshow
   values:
     layout: episode
-    mp3:
-    episode:
-    description:
+    mp3: 
+    episode: 
+    description: 
     sponsor: FeedPress
     sponsor-link: http://feed.press/morningshow
     sponsor-copy: Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow)
@@ -110,12 +110,12 @@ defaults:
     type: 3g3q
   values:
     layout: episode
-    mp3:
-    episode:
-    description:
-    sponsor:
+    mp3: 
+    episode: 
+    description: 
+    sponsor: 
     sponsor-link: 
-    sponsor-copy:
+    sponsor-copy: 
     show: 3g3q
 include:
 - _pages
