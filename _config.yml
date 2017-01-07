@@ -94,7 +94,13 @@ defaults:
     path: ''
     type: morningshow
   values:
-    layout: episodes
+    layout: episode
+    mp3:
+    sponsor: FeedPress
+    sponsor-link: http://feed.press/morningshow
+    sponsor-copy: "Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year."
+    episode:
+    show: morningshow
 include:
 - _pages
 itunes-subtitle: your-podcast-subtitle
