@@ -6,7 +6,7 @@ episode: 43
 description: Adam prefers sandalwood and the atU2 crew prefer Achtung Baby. Sherry,
   Tassoula, Matt, and Chris try to talk like this and act like that to figure out
   which is the best song on the album (all of them).
-layout: episode  
+layout: episode
 ---
 
 Guest Starring: Tassoula Kokkoris and Sherry Lawrence

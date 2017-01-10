@@ -6,7 +6,7 @@ episode: 37
 description: 'Tassoula, Becky, Marylinn, and Chris continue our album by album discussion
   with War — U2’s third album and some (on this podcast) would claim as their best.
   Spoiler warning: Bono isn’t the one singing on Seconds!'
-layout: episode  
+layout: episode
 ---
 
 Guest Starring: Tassoula Kokkoris and Becky Myers

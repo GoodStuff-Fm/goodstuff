@@ -1,12 +1,5 @@
 ---
-title: Bono Met the Real-life, Crying emoji
-date: 2016-05-05 02:52:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-31.mp3
-episode: 31
-description: Jill joins us to talk about getting to meet Bono in NYC, Tassoula tells
-  us about how she gets to so many U2 shows, Matt gets thunderstruck, and Chris is
-  still trying to convince U2 to come to Saskatchewan.
-  layout: episode
+title: '31'
 ---
 
 Guest Starring: Tassoula Kokkoris and Jill Mullen Jr

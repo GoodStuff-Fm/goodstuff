@@ -6,7 +6,7 @@ episode: 45
 description: Ian, Sherry, Marylinn, and Chris take on one of U2’s under-appreciated
   albums that had a complicated arrival to the world with a lot of flash on the surface.
   But we found a lot of depth once you got past the shine of the mirrorball.
-layout: episode  
+layout: episode
 ---
 
 Guest Starring: Sherry Lawrence and Marylinn Maione

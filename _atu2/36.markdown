@@ -6,7 +6,7 @@ episode: 36
 description: We’re doing schoolyard-style draft picks of our favorite non-album U2
   songs — once we can stop arguing about what qualifies as non-album. Tassoula, Sherry,
   Matt, and Chris take turns picking their fav non-album songs.
-layout: episode  
+layout: episode
 ---
 
 Guest Starring: Tassoula Kokkoris and Sherry Lawrence
