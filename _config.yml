@@ -96,23 +96,37 @@ defaults:
     type: morningshow
   values:
     layout: episode
-    mp3: 
-    episode: 
-    description: 
+    mp3:
+    episode:
+    description:
     sponsor: FeedPress
     sponsor-link: http://feed.press/morningshow
-    sponsor-copy: Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow)
+    sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today
       and try FeedPress on a 14 day trial (no contracts or commitments). Use promo
       code `morningshow` during checkout to get 10% off your first year.
     show: morningshow
 - scope:
     path: ''
+    type: atu2
+  values:
+    layout: episode
+    mp3:
+    episode:
+    description:
+    sponsor: FeedPress
+    sponsor-link: http://feed.press/atu2
+    sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today
+      and try FeedPress on a 14 day trial (no contracts or commitments). Use promo
+      code `atu2` during checkout to get 10% off your first year.
+    show: atu2
+- scope:
+    path: ''
     type: 3g3q
   values:
     layout: episode
-    mp3: 
-    episode: 
-    description: 
+    mp3:
+    episode:
+    description:
     sponsor: Our fantastic patrons
     sponsor-link: http://www.patreon.com/3g3q
     sponsor-copy: Join them on Patreon to get access to exclusive bonus material,
@@ -122,9 +136,9 @@ defaults:
     path: ''
     type: grownups
   values:
-    episode: 
+    episode:
     mp3: http://podcasts-1.feedpress.co/10589/grownups-000.mp3
-    description: 
+    description:
     sponsor: Campaign Monitor
     sponsor-link: http://www.campaignmonitor.com/
     sponsor-copy: Tell them you heard about it on Goodstuff
