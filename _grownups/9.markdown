@@ -7,6 +7,7 @@ description: Kari talks with Adam Clark about the trouble with answering the que
   “What do you do?” and tying your identity to your work; worrying about not having
   value to add to the world; not having all the answers; fear of looking like a fool;
   and the importance of just showing up.
+layout: episode
 ---
 
 * [Adam: What Does It Mean To Do Meaningful Work?][1]
@@ -18,5 +19,3 @@ description: Kari talks with Adam Clark about the trouble with answering the que
 [1]: http://avclark.com/what-does-it-mean-to-do-meaningful-work/
 [2]: http://www.imdb.com/title/tt0133093/
 [3]: http://avclark.com/dont-be-the-guy-in-the-pool-with-a-shirt-on/
-
-  

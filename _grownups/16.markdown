@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-16.mp3
 description: 'Kari and Liz James discuss adult ADHD: definitions, advantages, getting
   diagnosed, strategies for thriving with it, fantastic metaphors, treatments, marrying
   well, accidental vacations, and black diamond people.'
+layout: episode
 ---
 
 * [ADHD Is Different for Women — The Atlantic][1]
@@ -16,5 +17,3 @@ Liz's blog
 
 [1]: http://www.theatlantic.com/health/archive/2013/04/adhd-is-different-for-women/381158/
 [2]: http://rebelwithalabelmaker.com
-
-  

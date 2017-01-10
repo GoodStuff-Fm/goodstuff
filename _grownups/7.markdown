@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-7.mp3
 description: Kari talks about the importance of self-care, how to recognize a personal
   crisis before it happens, what to do if it does happen, and how she shouldn’t be
   on your survival team.
+layout: episode
 ---
 
 [Sponsored in part via Syndicate Ads][1]
@@ -35,5 +36,3 @@ A great example of resetting your plans to accommodate life stress
 [5]: http://www.graceinsmallthings.com/page/about
 [6]: http://happyplace.someecards.com/view/tweet-picks
 [7]: http://www.structuredprocrastination.com/
-
-  

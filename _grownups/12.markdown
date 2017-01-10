@@ -5,6 +5,7 @@ episode: 12
 mp3: http://podcasts-1.feedpress.co/10589/grownups-12.mp3
 description: Kari talks about the benefits of speaking out, and also the benefits
   of shutting up. And about potential future topics for I Guess We’re Grown-Ups Now.
+layout: episode
 ---
 
 * [It Gets Better Project][1]
@@ -20,5 +21,3 @@ I'm reading so, so much from women of colour on Twitter and my problems are noth
 [1]: http://www.itgetsbetter.org/
 [2]: http://www.nytimes.com/2015/01/11/opinion/sunday/speaking-while-female.html
 [3]: http://theotherhilary.ca/on-not-writing/
-
-  

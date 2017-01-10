@@ -11,6 +11,7 @@ sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code * grownups*
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [I Guess We're Grown-Ups Now #8: It's like Skiing][1]
@@ -26,5 +27,3 @@ Kari talks self-care.
 [1]: http://goodstuff.fm/grownups/8
 [2]: http://goodstuff.fm/grownups/7
 [3]: https://twitter.com/theotherhilary
-
-  

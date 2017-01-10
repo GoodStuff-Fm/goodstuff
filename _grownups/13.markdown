@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-13.mp3
 description: Jeff Read joins Kari to wonder what midlife really is anyway, and to
   talk about middle-age parenting issues, getting worse at things, and how passion
   for what you do maybe helps you avoid the ol' crisis.
+layout: episode
 ---
 
 * [Episode #7: An Act of Political Warfare - Goodstuff FM][1]
@@ -39,5 +40,3 @@ Hilary Nelson and Kari discuss being active in your community and its government
 [5]: http://goodstuff.fm/grownups/8
 [6]: https://twitter.com/jeffread
 [7]: http://iamread.com/
-
-  

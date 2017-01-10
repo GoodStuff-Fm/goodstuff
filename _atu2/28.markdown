@@ -6,14 +6,8 @@ episode: 28
 description: Matt and Chris are joined by Beth and Chris from the U2 Tattoo Project
   to talk about the atU2 2016 Fan Survey and give an update on their project. We recorded
   it live on Blab so there’s a video version as well if you prefer to watch.
+layout: episode
 ---
-
-
-*Video Version
-
-Prefer to watch rather than just listen? [Watch on blab's site][1] or click play on the embedded video below.
-
-* * *
 
 * [Take a Selfie: Join Adam Clayton for Walk In My Shoes Campaign][2]
 

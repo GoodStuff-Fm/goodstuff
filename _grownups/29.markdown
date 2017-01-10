@@ -12,5 +12,5 @@ sponsor-link: https://feed.press/goodstuff
 sponsor-copy: |-
   Sign-up today and try FeedPress on a 14 day commitment free trial today.
   Use promo code grownups during checkout to get 10% off your first year.
+layout: episode
 ---
-

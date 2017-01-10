@@ -6,9 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-18.mp3
 description: Kari and her guest Aditi talk about international travel, local delicacies,
   Airbnb, Jackie Chan’s packing strategies, friend trips, community sourced trip planning,
   and neck pillows.
-sponsor: " "
-sponsor-link: " "
-sponsor-copy: " "
+layout: episode
 ---
 
 * [Aditi (@AdtGrg) | Twitter][1]
@@ -35,7 +33,7 @@ Best way to stay.
 
 * [Canada House - Wikipedia, the free encyclopedia][7]
 
-A little bit of Canada in London. 
+A little bit of Canada in London.
 
 * [EveryTrail - Travel Community, iPhone Guides for Sightseeing, Hiking, Walking Tours and more][8]
 
@@ -65,5 +63,3 @@ Travel bras
 [10]: http://change.com/int/
 [11]: https://www.drbronner.com/
 [12]: http://voodoodoughnut.com/
-
-  

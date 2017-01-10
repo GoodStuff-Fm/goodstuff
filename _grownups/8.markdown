@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-8.mp3
 description: Hilary Nelson and Kari discuss being active in your community and its
   government, sympathy for city counselors, not being an a**hole, and why you should
   vote even if you haven’t done your homework.
+layout: episode
 ---
 
 [Sponsored in part via Syndicate Ads][1]
@@ -39,5 +40,3 @@ Never doubt that a small group of thoughtful, committed citizens can change the 
 [7]: http://www.imdb.com/title/tt0106673/
 [8]: http://ouryxe.ca/
 [9]: http://theotherhilary.ca/
-
-  

@@ -11,13 +11,14 @@ sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [brook shelley (@brookshelley) | Twitter][1]
 
 * [XOXO Festival][2]
 
-Brook and Kari and 1000 of their closest internet friends went to this amazing art and technology conference 
+Brook and Kari and 1000 of their closest internet friends went to this amazing art and technology conference
 
 * [Heather Armstrong, Dooce - XOXO Festival (2015) - YouTube][3]
 
@@ -25,7 +26,7 @@ A couple NSFW slides in here. Why are you listening to this podcast at work anyw
 
 * [Last Week Tonight with John Oliver: Canadian Election (HBO) - YouTube][4]
 
-John Oliver brings the US up to date with the recent Canadian election. Features a stair-falling trick by our new illustrious leader. 
+John Oliver brings the US up to date with the recent Canadian election. Features a stair-falling trick by our new illustrious leader.
 
 * [I Guess We're Grown-Ups Now #19: The Dark Side of Decisiveness - Goodstuff FM][5]
 
@@ -33,7 +34,7 @@ Last episode, wherein Hilary posed a question for Brook.
 
 * [Michelle Tea - Wikipedia, the free encyclopedia][6]
 
-Author of "Mermaid in Chelsea Creek" and more 
+Author of "Mermaid in Chelsea Creek" and more
 
 * [The Summer Prince: Alaya Dawn Johnson][7]
 
@@ -45,7 +46,7 @@ Brook's sci fi recommendation.
 
 * [Lean Out][9]
 
-Brook's book that she is in. Buy! Read! 
+Brook's book that she is in. Buy! Read!
 
 [1]: https://twitter.com/brookshelley
 [2]: https://2015.xoxofest.com/
@@ -56,5 +57,3 @@ Brook's book that she is in. Buy! Read!
 [7]: http://www.amazon.ca/Summer-Prince-Alaya-Dawn-Johnson/dp/0545417791/
 [8]: http://www.amazon.ca/Ann-Leckie-Ancillary-Justice/dp/B00IBSWVO6/
 [9]: http://www.orbooks.com/catalog/lean-out/
-
-  

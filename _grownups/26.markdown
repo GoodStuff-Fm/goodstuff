@@ -11,6 +11,7 @@ sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [The Sober Experience: There's Purpose In My Sobriety - CONSCIOUS][1]
@@ -39,5 +40,3 @@ Victor's book!
 [6]: http://www.alterconf.com/speakers/victor-yocco
 [7]: https://www.manning.com/books/design-for-the-mind
 [8]: https://twitter.com/victoryocco
-
-  

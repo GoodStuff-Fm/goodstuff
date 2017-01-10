@@ -7,6 +7,7 @@ description: 'Kari sits down with Todd Peters to talk about about his creative a
   adult life: SAHDing, not having a grand life-plan, being a self-taught professional
   musician, and balance in adult relationships. There’s a lot of laughing, which is
   normal for a conversation with Todd.'
+layout: episode
 ---
 
 * [Massey &amp; the Fergusons on CBC Music][1]
@@ -17,7 +18,7 @@ Article about M&amp;TF in the Saskatoon paper, including a photo. Todd is second
 
 * [sandigphoto on Instagram][3]
 
-Kari's sister's Instagram 
+Kari's sister's Instagram
 
 * [Show Me Your Mic - Goodstuff FM][4]
 
@@ -43,5 +44,3 @@ This week's acknowledgement: Ashley Milne-Tyte, who runs a good podcast about wo
 [6]: http://www.samarayung.ca/
 [7]: http://music.cbc.ca/#!/artists/The-Barrelmen
 [8]: http://www.thebroadexperience.com/
-
-  

@@ -11,6 +11,7 @@ sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [YearCompass | Close 2015. Plan 2016.][1]
@@ -27,5 +28,3 @@ Brook's other podcast, with Amy, appreciating butts and context
 [2]: http://dayoneapp.com/
 [3]: https://www.hopper.com/
 [4]: https://twitter.com/buttwithcontext
-
-  

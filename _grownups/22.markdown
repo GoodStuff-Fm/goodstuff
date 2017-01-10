@@ -11,6 +11,7 @@ sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [Kate (@tikikate) | Twitter][1]
@@ -41,5 +42,3 @@ Avery Edison's amazing podcast
 [4]: https://twitter.com/theotherhilary
 [5]: http://www.farmersonly.com/
 [6]: http://swingsandroundaboutspodcast.com/
-
-  

@@ -11,6 +11,7 @@ sponsor-link: http://feed.press/grownupshttp://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [Amit Gupta, Photojojo - XOXO Festival (2015) - YouTube][1]
@@ -33,5 +34,3 @@ You're going to be okay and then you're going to die and so am I.
 [2]: http://www.slate.com/articles/life/family/2014/02/mimo_and_other_smart_baby_monitors_don_t_protect_from_sids_so_what_are_they.html
 [3]: http://music.cbc.ca/play/artist/Flashlight-Brown/Open-Your-Eyes
 [4]: https://www.youtube.com/watch?v=n1ui7LCC6So
-
-  

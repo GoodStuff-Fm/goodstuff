@@ -5,6 +5,7 @@ episode: 15
 description: Kari’s guest is Rebekah Bennetch and they discuss the horrors of public
   speaking, the formula for creating a great speech, how to practice and prepare,
   vocal delivery techniques, and whether you should drink before you do a speech.
+layout: episode
 ---
 
 New show theme music! [Uncertain Future by Sun Channel Music][1]
@@ -15,7 +16,7 @@ New show theme music! [Uncertain Future by Sun Channel Music][1]
 
 * [Speech Night, 1980/81][3]
 
-Kari at speech night when she was 9. Awwww. Nice shirt. 
+Kari at speech night when she was 9. Awwww. Nice shirt.
 
 Sadly, the poem I recited, "My Cat Likes Milk," is lost to the sands of time and not findable on Google.
 
@@ -54,5 +55,3 @@ Rebekah's blog
 [9]: https://twitter.com/grrrlmeetsworld
 [10]: http://www.grrrlmeetsworld.com/
 [11]: https://www.linkedin.com/profile/view?id=23160565
-
-  

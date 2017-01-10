@@ -11,6 +11,7 @@ sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
   during checkout to get 10% off your first year.
+layout: episode
 ---
 
 * [XOXO Outpost][1]
@@ -25,5 +26,3 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 [2]: http://www.getbullish.com/
 [3]: https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a#.bi43xzwgw
 [4]: https://twitter.com/brookshelley/status/705640921765797888
-
-  

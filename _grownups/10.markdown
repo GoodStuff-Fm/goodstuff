@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-10.mp3
 description: Part two of the conversation with Adam Clark. Should we even bother looking
   for meaning in our job? Searching for that feeling of Home. Regret. How does a person
   end up in a corporate job, and is that different from selling out?
+layout: episode
 ---
 
 * [I Guess We're Grown-Ups Now #9: You've Just Got to Stop Thinking - Goodstuff FM][1]
@@ -42,5 +43,3 @@ Adam's website, where you can subscribe to the reboot of his podcast The Gently 
 [8]: http://mobile.nytimes.com/2014/09/14/magazine/the-death-of-adulthood-in-american-culture.html?_r=0
 [9]: http://avclark.com/its-a-sad-state-of-affairs-jerry/
 [10]: http://en.wikipedia.org/wiki/The_Paradox_of_Choice
-
-  
