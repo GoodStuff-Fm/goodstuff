@@ -1,6 +1,6 @@
 ---
 title: Stolen Canadian Accent
-date: 2017-01-10 02:21:00 -06:00
+date: 2015-11-07 02:21:00 -06:00
 episode: 20
 mp3: http://podcasts-1.feedpress.co/10589/grownups-20.mp3
 description: Kari and Brook Shelley talk about mommy/cat blogging/podcasting, going
