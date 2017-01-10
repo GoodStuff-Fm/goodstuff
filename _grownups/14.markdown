@@ -9,7 +9,6 @@ description: 'Kari and Megan Cheesbrough talk about advanced parenting: collabor
 layout: episode
 ---
 
-
 #### Links and Show Notes
 
 * [Raising Your Spirited Child: A Guide for Parents Whose Child is More Intense, Sensitive, Perceptive, Persistent, and Energetic by Mary Sheedy Kurcinka][1]
