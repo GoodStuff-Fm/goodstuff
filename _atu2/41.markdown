@@ -6,6 +6,7 @@ episode: 41
 description: Becky, Kenny, Matt, and Chris are talking The Joshua Tree - U2’s biggest
   selling album to date. Join us as we trip through your wires, with or without you,
   until we still haven’t found what we’re looking for as we exit onto one tree hill.
+layout: episode  
 ---
 
 Guest Starring: Kenny October and Becky Myers
@@ -54,5 +55,3 @@ Guest Starring: Kenny October and Becky Myers
 [12]: https://twitter.com/ichris
 [13]: http://www.imagekind.com/artists/KellyEddington/U2/fine-art-prints
 [14]: https://www.youtube.com/watch?v=hhHjqmjeZww
-
-  

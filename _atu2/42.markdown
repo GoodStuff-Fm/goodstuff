@@ -6,6 +6,7 @@ episode: 42
 description: 'It’s time for our musical journey - a look back at Rattle & Hum, U2’s
   6th album. Kenny, Sherry, Aaron, and Chris are back to talk through the album as
   well as recap the fun had at both #U240 parties.'
+layout: episode  
 ---
 
 Guest Starring: Sherry Lawrence, Kenny October and Aaron Govern
@@ -57,5 +58,3 @@ Guest Starring: Sherry Lawrence, Kenny October and Aaron Govern
 [13]: https://twitter.com/ichris
 [14]: https://twitter.com/atu2
 [15]: https://simonpeyda.wordpress.com/2016/04/06/how-to-dismantle-a-sirens-song-the-making-of-a-podcast-theme/
-
-  

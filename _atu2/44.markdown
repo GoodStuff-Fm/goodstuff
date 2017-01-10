@@ -7,6 +7,7 @@ description: A man builds a podcast, with guests and commentary. A man records a
   so he can hear himself up close. Marylinn, Sherry, Ian, and Chris are talking Zooropa
   until the day begins at midnight so grab the nearest lemon and don’t go wandering
   too far.
+layout: episode  
 ---
 
 Guest Starring: Sherry Lawrence and Marylinn Maione
@@ -83,5 +84,3 @@ Guest Starring: Sherry Lawrence and Marylinn Maione
 [23]: http://www.atu2.com/news/transcript-interview-with-mark-neale-director-of-no-maps-for-these-territories.html
 [24]: https://twitter.com/atu2comSherry
 [25]: https://www.reddit.com/r/Goodstuff_fm/comments/5eogg6/the_atu2_podcast_44_basking_in_lemon_a_discussion/
-
-  

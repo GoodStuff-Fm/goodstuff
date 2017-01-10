@@ -7,6 +7,7 @@ description: |-
   From #U240 in Cleveland at the Rock Hall we recorded a live conversation with Dave Fanning about his history with U2 - stories of hearing new albums in Bono’s house, his thoughts on the Apple album release deal, Bob Dylan, The Beatles, social media, floppy disks, Bono’s charity work, Paul McGuinness' influence, and his thoughts on new U2 music.
 
   Thanks to the Rock & Roll Hall of Fame crew for recording this episode for us and putting on a great weekend in Cleveland to help celebrate U2’s 40th.
+layout: episode  
 ---
 
 Guest Starring: Dave Fanning, Tassoula Kokkoris and Sherry Lawrence
@@ -61,5 +62,3 @@ Guest Starring: Dave Fanning, Tassoula Kokkoris and Sherry Lawrence
 [14]: http://2fm.rte.ie/2016/01/11/fanning-on-bowie/
 [15]: https://twitter.com/atu2
 [16]: https://www.rockhall.com/
-
-  

@@ -6,6 +6,7 @@ episode: 37
 description: 'Tassoula, Becky, Marylinn, and Chris continue our album by album discussion
   with War — U2’s third album and some (on this podcast) would claim as their best.
   Spoiler warning: Bono isn’t the one singing on Seconds!'
+layout: episode  
 ---
 
 Guest Starring: Tassoula Kokkoris and Becky Myers
@@ -105,5 +106,3 @@ Guest Starring: Tassoula Kokkoris and Becky Myers
 [29]: https://twitter.com/atu2
 [30]: http://www.atu2.com/
 [31]: https://www.reddit.com/r/Goodstuff_fm/comments/4w4v0f/the_atu2_podcast_37_he_was_paid_in_mars_bars_a/
-
-  

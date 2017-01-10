@@ -8,6 +8,7 @@ description: Marylinn, Tassoula, Matt, and Chris are back discussing U2’s 1984
   The Unforgettable Fire. New producers on the record and a new location to record
   make for an interesting change from War — listen along in the dark with headphones
   on.
+layout: episode  
 ---
 
 Guest Starring: Marylinn Maione, Tassoula Kokkoris and Matt McGee
@@ -65,5 +66,3 @@ Guest Starring: Marylinn Maione, Tassoula Kokkoris and Matt McGee
 [15]: http://tours.atu2.com/song/indian-summer-sky
 [16]: http://tours.atu2.com/song/elvis-presley-and-america
 [17]: http://www.atu2.com/lyrics/lyrics.src?VID=15&amp;SID=160
-
-  

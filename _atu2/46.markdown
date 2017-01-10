@@ -6,6 +6,7 @@ episode: 46
 description: All that you fashion and all that you make can turn into a 90m discussion
   of All That You Can’t Leave Behind. Ian, Sherry, Tassoula, Marylinn, and Chris spend
   a little while chatting about the ups and downs of U2’s 2000 album.
+layout: episode
 ---
 
 Guest Starring: Tassoula Kokkoris, Sherry Lawrence and Marylinn Maione
@@ -84,5 +85,3 @@ Guest Starring: Tassoula Kokkoris, Sherry Lawrence and Marylinn Maione
 [22]: https://news.google.com/newspapers?id=uJtOAAAAIBAJ&amp;sjid=6UQDAAAAIBAJ&amp;pg=4966%2C7170556
 [23]: https://www.youtube.com/watch?v=epkYdpjsw0c
 [24]: http://www.atu2.com/news/like-a-song-big-girls-are-best.html
-
-  

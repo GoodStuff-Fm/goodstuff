@@ -6,6 +6,7 @@ episode: 45
 description: Ian, Sherry, Marylinn, and Chris take on one of U2’s under-appreciated
   albums that had a complicated arrival to the world with a lot of flash on the surface.
   But we found a lot of depth once you got past the shine of the mirrorball.
+layout: episode  
 ---
 
 Guest Starring: Sherry Lawrence and Marylinn Maione
@@ -86,5 +87,3 @@ Guest Starring: Sherry Lawrence and Marylinn Maione
 [25]: http://www.atu2.com/news/like-a-song-last-night-on-earth.html
 [26]: http://www.atu2.com/news/like-a-song-staring-at-the-sun.html
 [27]: http://www.atu2.com/news/pop-a-retrospective.html
-
-  

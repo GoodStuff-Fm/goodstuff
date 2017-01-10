@@ -6,6 +6,7 @@ episode: 38
 description: Kenny, Sherry, and Chris continue our album series by discussing this
   live album from U2 released in 1983. Hair, guitar solos, bass intros, and plaid
   t-shirts are all up for debate.
+layout: episode  
 ---
 
 Guest Starring: Sherry Lawrence and Kenny October
@@ -84,5 +85,3 @@ Guest Starring: Sherry Lawrence and Kenny October
 [22]: https://twitter.com/atu2comsherry
 [23]: https://twitter.com/singnomore
 [24]: https://twitter.com/ichris
-
-  

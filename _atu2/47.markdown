@@ -6,6 +6,7 @@ episode: 47
 description: For our first b-side we convene a panel of folks to chat about The Joshua
   Tree Tour announcement — ticket pricing, availability, and whether Drunk Chicken
   will make an appearance!
+layout: episode
 ---
 
 Guest Starring: Tassoula Kokkoris, Sherry Lawrence and Matt McGee
@@ -30,5 +31,3 @@ Guest Starring: Tassoula Kokkoris, Sherry Lawrence and Matt McGee
 [4]: http://www.u2.com/tour
 [5]: http://www.u2.com/news/title/adam-clayton-chats-to-ryan-tubridy-about-u2s-upcoming-world-tour
 [6]: https://www.reddit.com/r/Goodstuff_fm/comments/5n115e/the_atu2_podcast_47_bside_1_u2_announces_joshua/
-
-  

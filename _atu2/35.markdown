@@ -5,6 +5,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-35.mp3
 episode: 35
 description: 'As part of our #U240 celebrations, we’re going to talk through each
   of U2’s albums. U2’s second album October is the focus of this episode.'
+layout: episode  
 ---
 
 Guest Starring: Michaelvox Answerguy, Kenny October and Aaron Govern
@@ -57,5 +58,3 @@ The October we know is not what U2 planned to make. Because Bono lost a briefcas
 [12]: http://www.atu2.com/news/a-lyrical-quest-for-bono-ends-where-it-began.html
 [13]: http://www.atu2.com/news/30-years-of-october-danielle-rhaume-on-returning-bonos-lost-lyrics.html
 [14]: https://www.youtube.com/watch?v=ffGANVRctxQ
-
-  
