@@ -2,6 +2,7 @@
 title: Playlist for Death
 date: 2015-11-23 02:22:00 -06:00
 episode: 21
+mp3: http://podcasts-1.feedpress.co/10589/grownups-21.mp3
 description: Brook and Kari record over wine and cats, and ponder their own mortality,
   loved ones (including pets) dying, being ready to die, risky behavior, travelling
   on planes, and trying to understand death. Uplifting!
