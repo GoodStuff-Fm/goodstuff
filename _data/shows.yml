@@ -144,7 +144,6 @@ atu2:
   pocketcasts: http://pca.st/9jwK
   overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
 aux:
-  explicit: explicit
   name: Auxiliary
   lang: EN
   explicit: explicit
@@ -170,7 +169,7 @@ ll:
   name: Lost and Lemon
   collection: ll
   hosts: Chris Enns and Chris Huebert
-  description: A weekly talk show about starting businesses on opposite sides of the world, but on the same internet.
+  description: A talk show about starting businesses on opposite sides of the world, but on the same internet.
   artwork: "/uploads/artwork-ll.jpg"
   email: chris@goodstuff.fm
   keywords: business, technology, Chris, Enns, Huebert
@@ -183,7 +182,7 @@ neverdigdown:
   name: Never Dig Down
   collection: neverdigdown
   hosts: Chris Enns and Tim Murtaugh
-  description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and intersting ways to play Minecraft through mods.
+  description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and interesting ways to play Minecraft through mods.
   artwork: "/uploads/artwork-neverdigdown.jpg"
   color: #F8C023
   keywords: video, game, minecraft, education
