@@ -1,5 +1,10 @@
 ---
-title: '30'
+title: We Called It the Bonald
+date: 2016-04-21 02:50:00 -06:00
+mp3: https://podcasts-1.feedpress.co/12572/atu2-30.mp3
+episode: 30
+description: Kenny, Aaron (Ivan), Sherry, and Chris talk through the next batch of survey results from the 2016 atU2 Fan Survey.
+layout: episode
 ---
 
 Guest Starring: Kenny October, Aaron Govern and Sherry Lawrence
@@ -33,13 +38,13 @@ Guest Starring: Kenny October, Aaron Govern and Sherry Lawrence
 
 * [What's your favorite U2 album?][14]
 
-* [Tweets with replies by Kenny (@singnomore) | Twitter][15]
+* [Tweets with replies by Kenny][15]
 
 * [@U2 Forum - Index][16]
 
-* [Aaron Govern (@Ivanobe) | Twitter][17]
+* [Aaron Govern (@Ivanobe)][17]
 
-* [atu2.com - Sherry (@atu2comSherry) | Twitter][18]
+* [atu2.com - Sherry (@atu2comSherry)][18]
 
 [1]: http://www.atu2.com/survey/2016/
 [2]: http://www.atu2.com/survey/2012/
