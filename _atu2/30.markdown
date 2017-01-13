@@ -3,7 +3,8 @@ title: We Called It the Bonald
 date: 2016-04-21 02:50:00 -06:00
 mp3: https://podcasts-1.feedpress.co/12572/atu2-30.mp3
 episode: 30
-description: Kenny, Aaron (Ivan), Sherry, and Chris talk through the next batch of survey results from the 2016 atU2 Fan Survey.
+description: Kenny, Aaron (Ivan), Sherry, and Chris talk through the next batch of
+  survey results from the 2016 atU2 Fan Survey.
 layout: episode
 ---
 
