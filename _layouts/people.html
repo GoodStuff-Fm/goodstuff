@@ -9,44 +9,40 @@
 <!-- Navigation Bar -->
 {% include nav.html %}
 
-<div class="container">
+<div class="container__people">
 
-<h1 class="page__header">{{ page.title }}</h1>
-<p class="page__description">{{ page.content }}</p>
-<hr class="page__rule">
+  <h1 class="page__header">{{ page.title }}</h1>
+  <p class="page__description">{{ page.content }}</p>
+  <hr class="page__rule">
 
-<!-- List of Hosts -->
-<div class="hosts">
+  <!-- List of Hosts -->
+  <div class="hosts">
 
-  <h2 class="page__subheader">Hosts</h2>
+    <h2 class="page__subheader">Hosts</h2>
 
-  {% for doc in site.people %}
+    {% for doc in site.people %}
 
-  <ul class="hosts__list">
-    <li class="hosts__list__image">
-      <a href="{{ doc.url }}">
-        {% if doc.image %}
-        <img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/>
-        {% else %}
-        <img src="/assets/host-general.png" alt="Photo of {{ doc.title }}" height="100" width="100"/>
-        {% endif %}
-      </a>
-    </li>
-    <li class="hosts__list__name"><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-  </ul>
+    <ul class="hosts__list">
+      <li class="hosts__list__image">
+        <a href="{{ doc.url }}">
+          {% if doc.image %}
+          <img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/>
+          {% else %}
+          <img src="/assets/host-general.png" alt="Photo of {{ doc.title }}" height="100" width="100"/>
+          {% endif %}
+        </a>
+      </li>
+      <li class="hosts__list__name"><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+    </ul>
 
-  {% endfor %}
+    {% endfor %}
+
+  </div>
 
 </div>
-
-
-</div>
-
-
 
 <!-- Footer -->
 {% include footer.html %}
-
 
 </body>
 

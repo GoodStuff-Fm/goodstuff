@@ -6,12 +6,7 @@ body {
   position: absolute;
   width: 100%;
   min-height: 100%;
-}
-
-.grid {
-  display: grid; /* 1 */
-  grid-template-columns: 1fr 1fr 1fr 1fr; /* 2 */
-  grid-template-rows: auto; /* 3 */
+  overflow: auto;
 }
 
 .container {
@@ -21,7 +16,6 @@ body {
   margin: 0 auto;
   padding-left: 2rem;
   padding-right: 2rem;
-  overflow: scroll;
   padding-bottom: 300pt;
 
   &__wide {
@@ -68,6 +62,16 @@ body {
     padding-bottom: 200pt;
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+
+  &__people {
+    max-width: 700pt;
+    background: none;
+    min-height: 500pt;
+    margin: 0 auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 300pt;
   }
 
   &__footer {
