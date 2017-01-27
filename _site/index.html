@@ -52,6 +52,24 @@
   <!-- FontAwesome -->
   <script src="https://use.fontawesome.com/9a2152b162.js"></script>
 
+  <!-- Fullstory Debugging app -->
+  <script>
+  window['_fs_debug'] = false;
+  window['_fs_host'] = 'www.fullstory.com';
+  window['_fs_org'] = '2F4TF';
+  window['_fs_namespace'] = 'FS';
+  (function(m,n,e,t,l,o,g,y){
+      if (e in m && m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); return;}
+      g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+      o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+      g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
+      g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+      g.clearUserCookie=function(c,d,i){if(!c || document.cookie.match('fs_uid=[`;`]*`[`;`]*`[`;`]*`')){
+      d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
+      ';path=/;expires='+new Date(0).toUTCString();i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}};
+  })(window,document,window['_fs_namespace'],'script','user');
+  </script>
 
 </head>
 
@@ -240,28 +258,28 @@
     <hr class="page__rule">
     <div class="latest-episode">
       <div class="latest-episode__artwork">
-        <a href="/dailyish/196"><img src="/uploads/artwork-dailyish.jpg" alt="Artwork"/></a>
+        <a href="/dailyish/197"><img src="/uploads/artwork-dailyish.jpg" alt="Artwork"/></a>
       </div>
       <div class="latest-episode__details">
         <div class="latest-episode__details__show">
           Daily(ish)
         </div>
         <div class="latest-episode__details__title">
-          <a href="/dailyish/196">196: Minimalism - A Review of a Documentary About Promoting a Book</a>
+          <a href="/dailyish/197">197: Listener Q - How to Cope With Hard Times?</a>
         </div>
         <div class="latest-episode__details__date">
-          Published Jan 18, 2017
+          Published Jan 23, 2017
         </div>
         <div class="latest-episode__details__hosts">
           Hosted by Chris Enns
         </div>
         <div class="latest-episode__details__description">
-          We watched Minimalism - A Documentary About the Important Things last night and I had a few thoughts that I'll try and keep to a minimum, naturally.
+          Question from Aaron on how to cope with hard times.
         </div>
       </div>
     <!-- Hide Button
     <div class="latest-episode__details__listen">
-      	<a href="/dailyish/196">&#9654; Listen to the episode</a>
+      	<a href="/dailyish/197">&#9654; Listen to the episode</a>
     </div>
     -->
   </div>
@@ -367,7 +385,7 @@
           <a href="/nbsp/36">: 36</a>
         </div>
         <div class="latest-episode__details__date">
-          Published Jan 18, 2017
+          Published Jan 27, 2017
         </div>
         <div class="latest-episode__details__hosts">
           Hosted by Christopher Schmitt
@@ -465,9 +483,9 @@
       <div class="recent-episodes__list">
         
         
-        <div class="recent-episodes__artwork"><a href="/dailyish/196"><img src="/uploads/artwork-dailyish.jpg" alt="Artwork"/></a></div>
-        <div class="recent-episodes__title"><a href="/dailyish/196">Minimalism - A Review of a Documentary About Promoting a Book</a></div>
-        <div class="recent-episodes__date">Jan 18, 2017</div>
+        <div class="recent-episodes__artwork"><a href="/dailyish/197"><img src="/uploads/artwork-dailyish.jpg" alt="Artwork"/></a></div>
+        <div class="recent-episodes__title"><a href="/dailyish/197">Listener Q - How to Cope With Hard Times?</a></div>
+        <div class="recent-episodes__date">Jan 23, 2017</div>
         
       </div>
     
