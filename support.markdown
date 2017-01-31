@@ -1,6 +1,7 @@
 ---
 title: Support Us
 date: 2017-01-30 23:01:00 -06:00
+layout: default
 ---
 
 # Directly on Patreon
