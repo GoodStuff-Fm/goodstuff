@@ -5,7 +5,9 @@ layout: default
 ---
 
 # Directly on Patreon
-The most direct way to show your support is with your hard-earned monies, Canadian Monopoly Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do. Plus it literally pays the bills.
+The most direct way to show your support is with your hard-earned monies, Canadian Tire Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do.
+
+Plus it literally pays the bills.
 
 ## [Morning Show →](http://patreon.com/morningshow)
 
