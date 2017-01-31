@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Directly on Patreon
-The most direct way to dhow your support is with your hard-earned monies, Canadian Monopoly Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do. Plus it literally pays the bills.
+The most direct way to show your support is with your hard-earned monies, Canadian Monopoly Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do. Plus it literally pays the bills.
 
 ## [Morning Show →](http://patreon.com/morningshow)
 
@@ -16,12 +16,13 @@ The most direct way to dhow your support is with your hard-earned monies, Canadi
 ---
 
 # The Free Way
-## [Write an iTunes Review →](https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2)
+
+## [Write an iTunes Review →](https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2)
 No, not like the road. Like the way you graciously give your time in an effort to help other people find the show! Then again, time = money. So technically you gave us free money?
 
 ---
 
-# Stuff we like
+# Stuff We Like
 
 ## [Sudden ⚡ Coffee →](http://suddencoffee.refr.cc/3LWRDXJ)
 Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! Get `$10 off` by using our link.
