@@ -1,5 +1,5 @@
 ---
-title: 'Moment of Show-Ender — A Discussion of No Line on the Horizon'
+title: Moment of Show-Ender — A Discussion of No Line on the Horizon
 date: 2017-02-02 03:11:00 -06:00
 mp3: http://podcasts-1.feedpress.co/12572/atu2-49.mp3
 episode: 49
@@ -8,7 +8,8 @@ sponsor-link: http://feed.press/atu2
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
   try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "atu2"
   during checkout to get 10% off your first year.
-description: Get on your boots - Liseth, Sherry, and Aaron join Chris to talk about No Line on the Horizon, U2's 12th album that came out in 2009.
+description: Get on your boots - Liseth, Sherry, and Aaron join Chris to talk about
+  No Line on the Horizon, U2's 12th album that came out in 2009.
 layout: episode
 ---
 

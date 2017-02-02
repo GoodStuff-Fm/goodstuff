@@ -8,7 +8,9 @@ sponsor-link: http://feed.press/atu2
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
   try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "atu2"
   during checkout to get 10% off your first year.
-description: Jill, Ian, Becky, and Chris take a musical journey through How to Dismantle an Atomic Bomb - U2’s 2004 album that helped keep the band on the top of the biggest band in the world fight.
+description: Jill, Ian, Becky, and Chris take a musical journey through How to Dismantle
+  an Atomic Bomb - U2’s 2004 album that helped keep the band on the top of the biggest
+  band in the world fight.
 layout: episode
 ---
 
