@@ -55,8 +55,6 @@ morningshow:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4:
-  category5:
   email: kyle@goodstuff.fm
   support: http://www.patreon.com/morningshow
   rss: http://feeds.goodstuff.fm/dailyish
@@ -88,7 +86,9 @@ nbsp:
   description: Seeking out the best, brightest, and smartest creative people on digital art, design, and development. From workflows to life hacks, we examine why they do what they do and how they did it.
   artwork: "/uploads/artwork-nbsp.jpg"
   color: #4EBA64
-  category: "Technology - Tech News"
+  category1: "Technology - Tech News"
+  category2: "Arts"
+  category3: "Technology"
   keywords: tech, technology, web, design, interviews
   show-twitter: "@nbsptv"
   hosts-twitter: "@teleject"
