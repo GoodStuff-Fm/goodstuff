@@ -1,13 +1,30 @@
 <!DOCTYPE html>
 <html>
+  <head>
 
-  {% include head.html %}
+    {% assign show = site.data.shows[page.show] %}
+
+    {% include head.html %}
+
+    <!-- Twitter Card -->
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <meta name="twitter:card" content="player" />
+    <meta name="twitter:site" content="{{ show.show-twitter }}" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ show.description }}" />
+    <meta name="twitter:image" content="{{ show.artwork }}" />
+    <meta name="twitter:player" content="{% include container.html %}" />
+    <meta name="twitter:player:width" content="480" />
+    <meta name="twitter:player:height" content="480" />
+    <meta name="twitter:player:stream" content="{{ page.mp3 }}" />
+    <meta name="twitter:player:stream:content_type" content="audio/mp3" />
+
+  </head>
+
 
   <body>
     {% include nav.html %}
     <div class="container">
-
-      {% assign show = site.data.shows[page.show] %}
 
 <!-- Show Information -->
       <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
