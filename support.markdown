@@ -5,7 +5,9 @@ layout: default
 ---
 
 # Directly on Patreon
-The most direct way to show your support is with your hard-earned monies, Canadian Monopoly Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do. Plus it literally pays the bills.
+The most direct way to show your support is with your hard-earned monies, Canadian Tire Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do.
+
+Plus it literally pays the bills.
 
 ## [Morning Show →](http://patreon.com/morningshow)
 
@@ -24,6 +26,8 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 # Stuff We Like
 
+Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
+
 ## [Sudden ⚡ Coffee →](http://suddencoffee.refr.cc/3LWRDXJ)
 Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! Get `$10 off` by using our link.
 
@@ -34,7 +38,10 @@ Get 2 months of free streaming including  1,500+ documentaries & nonfiction seri
 Quickly capture and send screenshots, video, and files with a simple link.
 
 ## [WorkFlowy →](https://workflowy.com/invite/20cd98ad.lnx)
-WorkFlowy lets you organize things the way you naturally think. It's as easy to use as a text editor, but can hold mountains of information without making it overwhelming. We use it everyday. Morning Show listeners get **2x the storage** for free.
+WorkFlowy lets you organize things the way you naturally think. It's as easy to use as a text editor, but can hold mountains of information without making it overwhelming. We use it everyday. Goodstuff listeners get **2x the storage** for free.
+
+## [Trello →](https://trello.com/ichris/recommend)
+Chris goes back and forth between WorkFlowy and Trello for managing podcast ideas, to do's, and life. Trello has an interface that you'll either love or hate.
 
 ## [Gustin →](https://www.weargustin.com/i/KV_eY)
 Gustin designs and manufactures boutique-quality handmade menswear. They create a campaign for an item, you back it. Once the number of items backed reaches the campaign goal, the item is successfully funded and they start production. **Get $5 off when you use our link!**
@@ -59,3 +66,9 @@ Bombfell is a monthly clothing subscription designed entirely for you! It's not 
 
 ## [Backblaze →](https://secure.backblaze.com/r/00sxqw)
 Backblaze is secure, offsite, automatic, unlimited backup. Get a free month of Backblaze!
+
+## [Coach →](http://partners.withcoach.com/41464/4006)
+Coach is a great platform for putting together courses or selling digital products.
+
+## [Digital Ocean →](https://www.digitalocean.com/?refcode=b5e0de79be08)
+If you need to spin up a server to build a web app or just a quick website, Digital Ocean makes it super easy to do. 
