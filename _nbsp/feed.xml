@@ -44,7 +44,8 @@ show: nbsp
 <itunes:explicit>{{ show.explicit }}</itunes:explicit>
 
  {% for doc in site[show.collection] %}
- {% unless doc.title == 'Feed' %}
+ {% unless doc.title == 'Feed'}
+ {% if doc.date %}
 
  <item>
  				<title>{{ doc.title | xml_escape }}</title>
@@ -66,9 +67,8 @@ show: nbsp
         </content:encoded>
  			</item>
 
-
- {% endunless %}
- {% endfor %}
+{% endunless %}
+{% endfor %}
 
 </channel>
 </rss>
