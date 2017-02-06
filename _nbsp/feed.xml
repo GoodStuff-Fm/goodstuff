@@ -2,6 +2,7 @@
 title: Feed
 position: 0
 show: nbsp
+layout: null
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -14,10 +15,10 @@ show: nbsp
 <title>{{ show.name }}</title>
 <description>{{ show.description | xml_escape }}</description>
 <link>{{ site.itunes-url }}/{{ show.collection }}</link>
-<language>{{ show.lang }}</language>
+<language>EN</language>
 <managingEditor>{{ site.itunes-email }} ({{ site.itunes-author }})</managingEditor>
 <webMaster>{{ site.itunes-email }} ({{ site.itunes-author }})</webMaster>
-<copyright>2014-{{ site.time | "%Y" }} {{ site.title }}</copyright>
+<copyright>2014-2017 {{ site.title }}</copyright>
 <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <image>
