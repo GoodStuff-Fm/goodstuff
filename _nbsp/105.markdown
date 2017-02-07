@@ -1,0 +1,63 @@
+---
+title: Jonathan Stark — Charging Clients What You're Actually Worth
+date: 2017-02-07 12:11:00 -06:00
+position: 1
+description: The author of _Hourly Billing is Nuts_, Jonathan Stark, joins us to about charging clients what your worth or, what could be more beneficial, charging what the work is worth to your clients.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp" during checkout to get 10% off your first year.
+episode: 105
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-105.mp3
+layout: episode
+---
+
+* [Financial Times](https://sub.ft.com/)
+* [Mobile Strategies for Credit Unions](http://www.slideshare.net/jonathanstark/the-revolution-will-not-be-televised-managing-content-and-experience-in-the-age-of-ubiquitous-computing)
+* [Jonathan Stark](https://jonathanstark.com/about)
+* [Triumph of the Nerds](http://www.pbs.org/nerds/)
+* [New Book “Hourly Billing is Nuts”](https://medium.com/@jonathanstark/how-i-realized-that-hourly-billing-was-nuts-2aee1fa959b3#.trvhon8wv)
+* [Hourly Billing is Nuts on yCombinator](https://news.ycombinator.com/item?id=12091429)
+* [Devchat with Jonathan Stark](https://devchat.tv/freelancers/143-fs-how-and-why-to-ditch-hourly-billing-with-jonathan-stark)
+* [WP Tonic with Jonathan Stark](https://www.youtube.com/watch?v=UT32G9wmONg&t=65s)
+* [Freelance Transformation Demystifying Pricing with Jonathan Stark](https://freelancetransformation.com/blog/demystifying-pricing-based-on-value-with-jonathan-stark)
+* [Art of Value](http://artofvalue.com/not-assume-value-conversation/)
+* [Pricing Power - Positioning eliminates the billable hour](https://pricingpower.net/jonathan-stark/)
+* [Value pricing bootcamp](http://valuepricingbootcamp.com)
+
+##### Jump to a conversation on...
+
+* **[4:01](#t=4:01)** Mobile strategy and credit unions
+* **[7:02](#t=7:02)** Credit unions need to attract a younger market
+* **[8:02](#t=8:02)** Host's first job was in IT department of a credit union
+* **[8:30](#t=8:30)** Talk about "Hourly Billing is Nuts" book
+* **[9:40](#t=9:40)** Any project is going to have at least 3 parties involved.
+* **[10:50](#t=10:50)** The longer it takes the more it costs, hard to guarantee customer satisfaction with hourly billing
+* **[11:20](#t=11:20)** It's almost impossible to guarantee customer satisfaction with hourly billing
+* **[12:50](#t=12:50)** Problems of hourly billing, as a programmer it's hard to indicate your value by number of lines of code.
+* **[15:01](#t=15:01)** What made Jonathan think that hourly billing wasn't the best way to bill
+* **[7:18](#t=7:18)** This is like a cancer inside our business.
+* **[17:40](#t=17:40)** Even streamlining hourly there is still bureaucracy left over because you are measuring the wrong thing
+* **[18:15](#t=18:15)** You can't make more than $140,000 a year
+* **[19:20](#t=19:20)** It can work if you're nailing your estimates every time
+* **[20:20](#t=20:20)** If you're not ready to fire somebody, you're not ready to hire anybody
+* **[21:05](#t=21:05)** How do you grade tests? How long you take or how many answers you get right?
+* **[23:05](#t=23:05)** How Jonathan started using value pricing; it was always about hours, then he tried out value pricing, income doubled
+* **[25:15](#t=25:15)** Value pricing is using a fixed bid instead of hourly price
+* **[28:03](#t=28:03)** Plug in that can be used for a project instead of building from scratch
+* **[31:55](#t=31:55)** How to dip your toes into the idea of stopping trading time for money
+* **[32:20](#t=32:20)** Create code libraries, invest in efficiency
+* **[38:00](#t=38:00)** Jonathan only does scope projects not the actual coding. But he will guide the coders.
+* **[39:40](#t=39:40)** 3 categories of why - Why do this at all? Why now? Why me?
+* **[42:30](#t=42:30)** Use the clients words in your proposal.
+* **[43:00](#t=43:00)** Set price 1/10th of the business value
+* **[44:01](#t=44:01)** Give client a reason why you are more valuable than someone else, not just price
+* **[44:50](#t=44:50)** Jonathan has been using value pricing for 10 years
+* **[45:20](#t=45:20)** Book came out in July 2016
+* **[46:01](#t=46:01)** Side projects that Jonathan does; a product ladder
+* **[48:50](#t=48:50)** You can hire me to do the project or you can buy a video I made that teaches you to complete the project
+* **[49:50](#t=49:50)** You now have a pipeline for leads by having a book
+* **[51:01](#t=51:01)** Since you sold products before, you can inform them of your new projects later
+* **[52:50](#t=52:50)** Words of advice by Jonathan Stark; don't jump in all at once and test this strategy first; take it slowly
+* **[54:30](#t=54:30)** How to purchase "Hourly Billing is Nuts"
+* **[55:50](#t=55:50)** How to contact Jonathan
