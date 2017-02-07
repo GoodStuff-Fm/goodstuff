@@ -16,7 +16,7 @@ show: 3g3q
 <language>{{ show.lang }}</language>
 <managingEditor>{{ site.itunes-email }} ({{ site.itunes-author }})</managingEditor>
 <webMaster>{{ site.itunes-email }} ({{ site.itunes-author }})</webMaster>
-<copyright>2014-{{ site.time | "%Y" }} {{ site.title }}</copyright>
+<copyright>2014-2017 {{ site.title }}</copyright>
 <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <image>
@@ -42,32 +42,29 @@ show: 3g3q
 </itunes:category>
 <itunes:explicit>{{ show.explicit }}</itunes:explicit>
 
- {% for doc in site[show.collection] %}
- {% unless doc.title == 'Feed' %}
-
- <item>
- 				<title>{{ doc.title | xml_escape }}</title>
- 				<link>{{ site.itunes-url }}{{ doc.url }}</link>
- 				<pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
- 				<description>{{ doc.description | xml_escape }}</description>
- 				<guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
- 				<enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mp3"/>
- 				<itunes:author>{{ show.hosts }}</itunes:author>
- 				<itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
- 				<itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
- 				<itunes:duration>{{ doc.duration }}</itunes:duration>
- 				<itunes:keywords>{{ show.keywords }}</itunes:keywords>
- 				<itunes:image href="{{ show.artwork }}" />
- 				<itunes:explicit>{{ doc.explicit }}</itunes:explicit>
- 				<itunes:block>{{ doc.block }}</itunes:block>
-        <content:encoded>
-          <![CDATA[{{ doc.content | xml_escape }}]]>
-        </content:encoded>
- 			</item>
-
-
- {% endunless %}
- {% endfor %}
+{% for doc in site[show.collection] %}
+{% unless doc.title == 'Feed' %}
+  <item>
+    <title>{{ doc.title | xml_escape }}</title>
+    <link>{{ site.itunes-url }}{{ doc.url }}</link>
+    <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
+    <description>{{ doc.description | xml_escape }}</description>
+    <guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
+    <enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mp3"/>
+    <itunes:author>{{ show.hosts }}</itunes:author>
+    <itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
+    <itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
+    <itunes:duration>{{ doc.duration }}</itunes:duration>
+    <itunes:keywords>{{ show.keywords }}</itunes:keywords>
+    <itunes:image href="{{ show.artwork }}" />
+    <itunes:explicit>{{ doc.explicit }}</itunes:explicit>
+    <itunes:block>{{ doc.block }}</itunes:block>
+    <content:encoded>
+      <![CDATA[{{ doc.content | xml_escape }}]]>
+    </content:encoded>
+  </item>
+{% endunless %}
+{% endfor %}
 
 </channel>
 </rss>
