@@ -2,10 +2,14 @@
 title: Jonathan Stark — Charging Clients What You're Actually Worth
 date: 2017-02-07 12:11:00 -06:00
 position: 1
-description: The author of _Hourly Billing is Nuts_, Jonathan Stark, joins us to about charging clients what your worth or, what could be more beneficial, charging what the work is worth to your clients.
+description: The author of _Hourly Billing is Nuts_, Jonathan Stark, joins us to about
+  charging clients what your worth or, what could be more beneficial, charging what
+  the work is worth to your clients.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp" during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp"
+  during checkout to get 10% off your first year.
 episode: 105
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-105.mp3
