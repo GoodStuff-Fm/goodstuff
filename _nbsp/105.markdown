@@ -2,9 +2,7 @@
 title: Jonathan Stark — Charging Clients What You're Actually Worth
 date: 2017-02-07 12:11:00 -06:00
 position: 1
-description: The author of _Hourly Billing is Nuts_, Jonathan Stark, joins us to about
-  charging clients what your worth or, what could be more beneficial, charging what
-  the work is worth to your clients.
+description: The author of Hourly Billing is Nuts, Jonathan Stark, joins us to about charging clients what your worth or, what could be more beneficial, charging what the work is worth to your clients.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
@@ -15,6 +13,12 @@ show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-105.mp3
 layout: episode
 ---
+
+### Sponsor Details
+
+* **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv103&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://sasssummit.com/?utm_source=nbsptv103&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code "NONBREAKINGSPACE" for 20% off.
+*  **[CSS Dev Conf](http://facebook.com/CSSDevConf?utm_source=nbsptv103&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon—[like us on Facebook](http://facebook.com/CSSDevConf?utm_source=nbsptv103&utm_medium=podcast&utm_campaign=cssdevconf2017).
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv103&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
 
 * [Financial Times](https://sub.ft.com/)
 * [Mobile Strategies for Credit Unions](http://www.slideshare.net/jonathanstark/the-revolution-will-not-be-televised-managing-content-and-experience-in-the-age-of-ubiquitous-computing)
@@ -29,7 +33,7 @@ layout: episode
 * [Pricing Power - Positioning eliminates the billable hour](https://pricingpower.net/jonathan-stark/)
 * [Value pricing bootcamp](http://valuepricingbootcamp.com)
 
-##### Jump to a conversation on...
+### Jump to a conversation on...
 
 * **[4:01](#t=4:01)** Mobile strategy and credit unions
 * **[7:02](#t=7:02)** Credit unions need to attract a younger market
