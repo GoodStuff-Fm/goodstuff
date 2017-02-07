@@ -1,0 +1,41 @@
+---
+title: Estelle Weyl
+date: 2013-03-05 12:11:00 -06:00
+position: 28
+description: |-
+  Estelle started her professional life in architecture, then managed teen health programs. In 2000, she took the natural step of becoming a web standardista. She has consulted for Apple, Yahoo! and Kodakgallery, among others. Estelle provides CSS3, HTML5 and JavaScript tutorials and detailed grids of browser support in her at standardista.com.
+  She is the author of Mobile HTML5 and HTML5 and CSS3 for the Real World. While not coding, she works in construction, de-hippifying her 1960&rsquo;s throwback abode.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 29
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-29.mp3
+layout: episode
+---
+
+-  [Ryan Irelan’s Interview on Non-Breaking Space](http://nonbreakingspace.tv/ryan-irelan/)
+
+-  [Audio form in HTML5](http://estelle.github.com/forms/#slide1)
+
+-  [CSS3 Support on Standardista](http://www.standardista.com/css3/css3-selector-browser-support/)
+
+-  [OOCSS](http://oocss.org)
+
+-  [Font Squirrel](http://www.fontsquirrel.com)
+
+-  [Mobile HTML5](http://www.amazon.com/Mobile-HTML5-Estelle-Weyl/dp/1449311415/ref=sr_1_1?ie=UTF8&qid=1359060027&sr=8-1&keywords=html5+for+mobile+estelle) book
+
+-  [HTML5 and CSS3 for the Real World](http://www.amazon.com/HTML5-CSS3-For-Real-World/dp/0980846900/ref=sr_1_2?ie=UTF8&qid=1359060027&sr=8-2&keywords=html5+for+mobile+estelle)
+
+-  [CanIUse.com](http://caniuse.com)
+
+-  [Estelle Weyl on Lanyard](http://lanyrd.com/profile/estellevw/)
+
+-  [Confident Coding: Everything You Need to Know](http://confidentcoding.com)
+
+-  [Vanilla-JS](http://vanilla-js.com)
+
+-  [estelle.github.com](http://estelle.github.com)
+
+-  [@estellevw](https://twitter.com/estellevw)

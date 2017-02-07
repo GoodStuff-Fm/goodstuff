@@ -1,0 +1,78 @@
+---
+title: Paul Irish
+date: 2012-02-08 12:11:00 -06:00
+position: 2
+description: Paul is a front end developer and works on the Chrome Developer relations
+  team at Google. He’s a member of the jQuery team, and a lead developer on Modernizr
+  and HTML5 Boilerplate. He’s also the creator of the sites MotherEffingHSL, MotherEffingTextShadow,
+  and a bunch of mother effing other sites.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 2
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-2.mp3
+layout: episode
+---
+
+* [Issues · paulirish/lazyweb-requests](https://github.com/paulirish/lazyweb-requests/issues)
+
+
+* [Move The Web Forward | Guide to getting involved with standards and browser development](http://movethewebforward.org/)
+
+
+* [CSS Filters](http://html5-demos.appspot.com/static/css/filters/index.html)
+
+
+* [Divya Manian (divya) on Twitter](https://twitter.com/divya)(divya)
+
+
+* [yayQuery Podcast - A jQuery Podcast](http://yayquery.com/)
+
+
+* [FarukAt.eş](http://farukat.es/)
+
+
+* [html5shiv - HTML5 IE enabling script - Google Project Hosting](https://code.google.com/p/html5shiv/)
+
+
+* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+
+
+* [John Resig - JavaScript Programmer](http://ejohn.org/)
+
+
+* [Tiered, Adaptive Front-end Experiences - Paul Irish](http://www.paulirish.com/2011/tiered-adaptive-front-end-experiences/)
+
+
+* [MOTHER EFFING TEXT-SHADOW](http://mothereffingtextshadow.com/)
+
+
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+
+
+* [HTML5 Rocks - A resource for open web HTML5 developers](http://www.html5rocks.com/en/)
+
+
+* [Peter Beverloo](http://peter.sh/)
+
+
+* [Mozilla Hacks – the Web developer blog](http://hacks.mozilla.org/)
+
+
+* [IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/)
+
+
+* [Developer - Opera Software](http://www.opera.com/developer)
+
+
+* [Web browser, frontend and standards feeds to follow - Paul Irish](http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/)
+
+
+* [CSS Summit - July 26-27, 2011](http://environmentsforhumans.com/2011/css-summit/#.Ux9ugtzt6lI)
+
+
+* [jsPerf: JavaScript performance playground](http://jsperf.com/)
+
+
+* [PageSpeed Module - Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/module?csw=1)

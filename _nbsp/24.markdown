@@ -1,0 +1,74 @@
+---
+title: Dan Cederholm
+date: 2012-12-13 12:11:00 -06:00
+position: 24
+description: |-
+  Dan is a designer, author, speaker, husband, and father living in Salem, Massachusetts. He is the Founder and Principal of SimpleBits, LLC, a tiny web design studio, and co-founder and designer of Dribbble, a vibrant community for sharing screenshots of your work.
+  Dan is a recognized expert in the field of standards-based web design and has worked with YouTube, Microsoft, Google, MTV, ESPN, and others. He has authored four books including “CSS3 For Web Designers”, “Handcrafted CSS”, “Bulletproof Web Design”, and “Web Standards Solutions”.
+  In early 2012, he received a TechFellow award for Product Design & Marketing. Dan enjoys sharing his simplistic approach to web design while spreading the word on the standards-based markup and style techniques he’s collected by speaking at conferences and events around the globe.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 24
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-24.mp3
+layout: episode
+---
+
+-  [Paravel](http://paravelinc.com)
+
+-  [Microsoft](http://www.microsoft.com)
+
+-  [Jessica Hische interview on Non-Breaking Space](http://nonbreakingspace.tv/jessica-hische/)
+
+-  [Fast Company Magazine](http://www.fastcompany.com)
+
+-  [Wired Magazine](http://www.wired.com)
+
+-  [Doug Bowman - 10 Years Later on Wired Redesign](http://stopdesign.com)
+
+-  [Mike Davidson](http://www.mikeindustries.com/)
+
+-  [ESPN](http://espn.go.com)
+
+-  [SimpleBits.com](http://simplebits.com)
+
+-  [Meagan Fisher](http://owltastic.com)
+
+-  [Dribbble](http://dribbble.com)
+
+-  [Dave Rupert](http://daverupert.com)
+
+-  [Molly Holzschlag](http://www.molly.com)
+
+-  [BeOS](http://en.wikipedia.org/wiki/BeOS)
+
+-  [K10k Project](http://www.cubancouncil.com/work/project/kaliber-10000)
+
+-  [Wayback Machine Simplebits.com](http://wayback.archive.org/web/*/http://simplebits.com)
+
+-  [2008 Simplebits.com](http://web.archive.org/web/20080112094611/http://www.simplebits.com/)
+
+-  [Simplebits Quiz from 2003](http://web.archive.org/web/20031203090255/http://www.simplebits.com/)
+
+-  [Web Standards Solutions](http://www.amazon.com/Web-Standards-Solutions-Handbook-Pioneering/dp/1590593812)
+
+-  [Foamee.com](http://foamee.com)
+
+-  [Many Face Of…](http://themanyfacesof.com)
+
+-  [Lost Worlds Fairs](http://lostworldsfairs.com)
+
+-  [Dan Benjamin](http://benjamin.org/dan/)
+
+-  [Cork&rsquo;d](http://content.corkd.com)
+
+-  [Cameron Moll Screen grab Confab](http://cameronmoll.com/archives/000043.html)
+
+-  [Rich Thornett](http://thornett.com)
+
+-  [@simplebits](http://twitter.com/simplebits)
+
+-  [Dribbble](http://dribbble.com/simplebits)
+
+-  [@trentwalton](http://twitter.com/trentwalton)*

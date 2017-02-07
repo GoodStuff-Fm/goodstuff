@@ -1,0 +1,53 @@
+---
+title: Lou Rosenfeld
+date: 2012-07-26 12:11:00 -06:00
+position: 14
+description: |-
+  Lou is an independent information architecture consultant, and founder and publisher of Rosenfeld Media, a publishing house focused on user experience books.
+  He has been instrumental in helping establish the fields of information architecture and user experience, and in articulating the role and value of librarianship within those fields.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 14
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-14.mp3
+layout: episode
+---
+
+* [In Control 2014 Web + Mobile Design Conference - Orlando, FL](http://2014.incontrolconference.com/)
+
+
+* [Information Architecture for the World Wide Web - O'Reilly Media](http://shop.oreilly.com/product/9781565922822.do)
+
+
+* [Argus Center for Information Architecture](http://www.argus-acia.com/)
+
+
+* [findability.org - by Peter Morville](http://findability.org/)
+
+
+* [Louis Rosenfeld: Information Architecture & User Experience](http://louisrosenfeld.com/home/)
+
+
+* [Rosenfeld Media | User experience books, training, workshops, seminars, and experts](http://rosenfeldmedia.com/)
+
+
+* [Tim Berners-Lee - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Tim_Berners-Lee)
+
+
+* [The Untimely Death of Yahoo](http://www.december.com/cmc/mag/1995/sep/last.html)
+
+
+* [University of Michigan](http://umich.edu/)
+
+
+* [Welcome Borders Customer - Barnes & Noble](http://www.barnesandnoble.com/u/borders/379003142)
+
+
+* [LukeW Ideation + Design | Digital Product Strategy & Design](http://www.lukew.com/)
+
+
+* [IA Summit 2012 | New Orleans, LA](http://2012.iasummit.org/)
+
+
+* [Bloug: Response to "An open letter to the User Experience Community"](http://louisrosenfeld.com/home/bloug_archive/2012/06/response_to_an_open_letter_to.html)

@@ -5,6 +5,8 @@ header:
   url: /broadcasts/
 - title: People
   url: /people/
+- title: Support
+  url: /support/
 - title: Posts
   url: /posts/
 - title: Contact
@@ -22,10 +24,6 @@ footer:
 - title: Stuffybot
   url: http://stuffybot.goodstuff.fm
 - title: Master Feed
-  url: http://goodstuff.fm/master/feed
-- title: Morning Show on Patreon
-  url: https://www.patreon.com/morningshow
-- title: 3G3Q on Patreon
-  url: https://www.patreon.com/3g3q
-- title: Chris Enns on Patreon
-  url: https://www.patreon.com/ichris
+  url: /master/feed/
+- title: Support our Shows
+  url: /support/

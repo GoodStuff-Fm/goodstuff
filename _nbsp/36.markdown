@@ -1,0 +1,55 @@
+---
+title: Matt May
+date: 2013-07-02 00:35:00 -06:00
+position: 0
+description: |-
+  Our guest for this episode is Matt May who is a developer, technologist, and accessibility advocate at Adobe.
+
+  Matt May is a developer, technologist, and accessibility advocate who is responsible for working internally and externally with Adobe product teams and customers to address accessibility in Adobe products, ensure interoperability with assistive technologies, and make customers aware of the many accessibility features that already exist in Adobe products.
+
+  Prior to joining Adobe, May worked for W3C/WAI on many of the core standards in web accessibility, led the Web Standards Project’s Accessibility Task Force, helped to architect one of the first online grocery sites, HomeGrocer.com, and co-founded Blue Flavor, a respected web and mobile design consultancy.
+
+  May is an accomplished speaker, having presented at dozens of conferences including Web 2.0 Expo, SXSW Interactive, CSUN Conference on Technology and Persons with Disabilities, Podcast and Portable Media Expo, and the International World Wide Web Conference, to name just a few.
+
+  His book, Universal Design for Web Applications, co-authored with Wendy Chisholm, was published by O'Reilly in November 2008.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp"  during  checkout
+  to get 10% off your first year.
+episode: 36
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-36.mp3
+layout: episode
+---
+
+-  [@mattmay](https://twitter.com/mattmay)
+
+- Matt’s blog:  [BestKungFu.com](http://www.bestkungfu.com)
+
+-  [Samba](http://www.samba.org)
+
+-  [HomeGrocer.com](http://www.homegrocer.com)
+
+-  [Webvan](http://en.wikipedia.org/wiki/Webvan)
+
+-  [W3C](http://www.w3.org)
+
+-  [Universal design](http://en.wikipedia.org/wiki/Universal_design)
+
+-  [The Verge on The Arcade](http://www.theverge.com/2013/1/16/3740422/the-life-and-death-of-the-american-arcade-for-amusement-only)
+
+-  [The New York Times: Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
+
+-  [Adobe announces Project Mighty smart stylus and Napoleon ruler](http://www.theverge.com/2013/5/6/4305712/adobe-announces-first-hardware-the-project-mighty-smart-stylus)
+
+-  [Blue Flavor](http://www.blueflavor.com)
+
+-  [Adobe Creative Cloud](http://www.adobe.com/products/creativecloud.html)
+
+-  [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/)
+
+-  [Universal Design for Web Applications by Wendy Chisholm and Matt May](http://www.amazon.com/gp/product/0596518730?ie=UTF8&tag=bestkungfu-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596518730)
+
+-  [Adobe Blog on Accessibility](http://blogs.adobe.com/accessibility/)
+
+-  [Glenda Sims on The Non-Breaking Space Show](http://nonbreakingspace.tv/glenda-sims/)

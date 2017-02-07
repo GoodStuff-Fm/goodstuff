@@ -1,0 +1,98 @@
+---
+title: Ethan Marcotte
+date: 2012-01-23 12:11:00 -06:00
+position: 1
+description: |-
+  Ethan is a web designer & developer who lives in Cambridge, Massachusetts. He’s also the author several web design books including Responsive Web Design, a book that’s helped revolutionize the way websites are built.
+  He frequently speaks on web standards and responsive web design at conferences and tweets about it @beep and @rwd.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 1
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-1.mp3
+layout: episode
+---
+
+* [Ethan Marcotte is a web designer & developer who lives in Boston.](http://ethanmarcotte.com/)
+
+
+* [Welcome to Ethan Marcotte’s website — Unstoppable Robot Ninja](http://unstoppablerobotninja.com/)
+
+
+* [CSS1K - 2012](http://css1k.com/)
+
+
+* [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
+
+
+* [aStore for Amazon Associates](http://astore.amazon.ca/)
+
+
+* [Web design, web development, mobile & content strategy by Happy Cog](http://happycog.com/)
+
+
+* [Scott Andrew | Singer-songwriter guy](http://www.scottandrew.com/)
+
+
+* [Jeffrey Zeldman Presents The Daily Report](http://www.zeldman.com/)
+
+
+* [Responsive Web Design · An A List Apart Article](http://alistapart.com/article/responsive-web-design)
+
+
+* [A Dao of Web Design · An A List Apart Article](http://alistapart.com/article/dao)
+
+
+* [Clagnut by Richard Rutter](http://clagnut.com/)
+
+
+* [The Boston Globe](http://www.bostonglobe.com/)
+
+
+* [User Experience Consultants & Web Design Agency | Clearleft · Brighton, UK](http://clearleft.com/)
+
+
+* [The Personal Disquiet of Mark Boulton](http://www.markboulton.co.uk/)
+
+
+* [Five Simple Steps - Welcome](http://www.fivesimplesteps.com/)
+
+
+* [Subtraction.com + Khoi Vinh’s Web site](http://www.subtraction.com/)
+
+
+* [Ordering Disorder: Grid Principles for Web Design (Voices That Matter): Khoi Vinh: 9780321703538: Amazon.com: Books](http://www.amazon.com/Ordering-Disorder-Principles-Design-Voices/dp/0321703537/ref=sr_1_1?ie=UTF8&qid=1326997916&sr=8-1)(Voices That Matter)
+
+
+* [QuirksBlog](http://www.quirksmode.org/blog/)
+
+
+* [Mobile - Table of contents](http://www.quirksmode.org/mobile/)
+
+
+* [Combining meta viewport and media queries - QuirksBlog](http://www.quirksmode.org/blog/archives/2010/09/combining_meta.html)
+
+
+* [scottjehl/Respond](https://github.com/scottjehl/Respond)
+
+
+* [Responsive Images: Experimenting with Context-Aware Image Sizing | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/)
+
+
+* [Cloud Four Blog](http://blog.cloudfour.com/)
+
+
+* [Adaptive Images in HTML](http://adaptive-images.com/)
+
+
+* [A Simpler Page · An A List Apart Article](http://alistapart.com/article/a-simpler-page)
+
+
+* [CSS - Backgrounds and borders](http://quirksmode.org/css/backgrounds-borders/)
+
+
+* [Blog (Global Moxie)](http://globalmoxie.com/blog/index.shtml)(Global Moxie)
+
+
+* [jQuery Mobile](http://jquerymobile.com/)

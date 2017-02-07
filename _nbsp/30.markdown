@@ -1,0 +1,40 @@
+---
+title: Jon Rohan
+date: 2013-03-14 12:11:00 -06:00
+position: 29
+description: Jon is an Engineer and Designer at GitHub. He recently spoke at CSS Dev
+  Conf in Hawaii on Github CSS Performance.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 30
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-30.mp3
+layout: episode
+---
+
+-  [Jon’s talk at CSS Dev Conf](https://vimeo.com/54990931)
+
+-  [Jon on The Industry podcast](http://theindustry.cc/2012/07/05/14-retina-all-the-things-octicons-pictos-4-foundation-3-and-the-new-twitter-logo/)
+
+-  [Jon’s speakerdeck](https://speakerdeck.com/jonrohan/githubs-css-performance)
+
+-  [Creating triangles in CSS](http://jonrohan.me/guide/css/creating-triangles-in-css/)
+
+-  [FamFamFam icons](http://www.famfamfam.com/lab/icons/)
+
+-  [Cameron McEfee](http://www.cameronmcefee.com)
+
+-  [Glyphs App](http://glyphsapp.com)
+
+-  [FontSquirrel](http://www.fontsquirrel.com)
+
+-  [Glyphs](http://target.georiot.com/Proxy.ashx?tsid=528&GR_URL=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fglyphs%252Fid416987633%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30)
+
+-  [Glyphs Mini - schriftgestaltung.de](http://target.georiot.com/Proxy.ashx?tsid=528&GR_URL=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fglyphs-mini%252Fid469036911%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30)
+
+-  [CSS Explain](http://josh.github.com/css-explain/)
+
+-  [@jonrohan](http://www.twitter.com/jonrohan)
+
+-  [Jon on Github](https://github.com/jonrohan)

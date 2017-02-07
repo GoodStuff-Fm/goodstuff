@@ -1,0 +1,59 @@
+---
+title: Val Head
+date: 2013-07-30 12:11:00 -06:00
+position: 36
+description: Our guest for this episode is Val Head who is a designer and consultant
+  based in Pittsburgh where she works with agencies and small businesses to make fun
+  and effective web sites.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 38
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-38.mp3
+layout: episode
+---
+
+-  [@vlh](http://www.twitter.com/vlh)
+
+-  [Valhead.com](http://www.valhead.com)
+
+-  [CSS Animations from Five Simple Steps](http://www.fivesimplesteps.com/products/css-animations)
+
+-  [Val on Dribbble](http://dribbble.com/valhead)
+
+-  [Myspace.com](https://myspace.com)
+
+-  [Space Jam](http://www2.warnerbros.com/spacejam/movie/jam.htm)
+
+-  [Environments for Humans](http://environmentsforhumans.com)
+
+-  [Blackboard](http://www.blackboard.com)
+
+-  [Adobe Connect](http://www.adobe.com/ca/products/adobeconnect.html)
+
+-  [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
+
+-  [Witness gets trolled during Zimmerman trial](http://atlantablackstar.com/2013/07/04/outrageous-witness-gets-trolled-during-george-zimmerman-trial/)
+
+-  [Brad Frost](http://bradfrostweb.com)
+
+-  [Interface Inventory](http://bradfrostweb.com/blog/post/interface-inventory/)
+
+-  [Making an Interface Inventory in Evernote](http://blog.easy-designs.net/archives/evernote-for-interface-inventories/)
+
+-  [GeckoBoard](http://www.geckoboard.com)
+
+-  [Status Board in the App Store](http://target.georiot.com/Proxy.ashx?tsid=528&GR_URL=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) /  [Panic Website](http://panic.com/statusboard/)
+
+-  [Refresh Pittsburgh](http://www.refreshpittsburgh.org)
+
+-  [Refresh Cities](http://refreshingcities.com)
+
+-  [Web Design Day](http://www.webdesignday.com)
+
+-  [Eye-O Festival](http://eyeofestival.com)
+
+-  [Haml](http://haml.info/)
+
+-  [Codepen.io](http://codepen.io)

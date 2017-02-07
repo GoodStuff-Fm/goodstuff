@@ -1,0 +1,40 @@
+---
+title: Daniel Ryan - Obama Re-Election Campaign Technology Strategy
+date: 2013-06-18 12:11:00 -06:00
+position: 34
+description: Daniel has been working in the web industry since 1997 and currently
+  consulting, open sources, and speaking at various conferences.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 35
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-35.mp3
+layout: episode
+---
+
+-  [Dryan.com](http://dryan.com)
+
+-  [Chattanooga, Tennessee](http://en.wikipedia.org/wiki/Chattanooga,_Tennessee)
+
+-  [@dryan](https://twitter.com/dryan)
+
+-  [Transworld Skate Magazine](http://skateboarding.transworld.net)
+
+-  [WordPress](http://wordpress.org)
+
+-  [Daniel Ryan on GitHub](https://github.com/dryan)
+
+-  [My Obama Year](http://dryan.com/articles/my-obama-year/)
+
+-  [Aaron Gustafson](http://aaron-gustafson.com)
+
+-  [Optimizely](https://www.optimizely.com)
+
+-  [How Github Uses Github to Build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
+
+-  [Yes We Did: Reelecting Obama slides](https://speakerdeck.com/dryan/yes-we-did-reelecting-obama)
+
+-  [Human-first Web Design slides](https://speakerdeck.com/dryan/human-first-web-design)
+
+-  [In Beta podcast](http://5by5.tv/inbeta)

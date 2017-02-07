@@ -1,0 +1,27 @@
+---
+title: Christian Heilmann
+date: 2013-08-15 12:11:00 -06:00
+position: 37
+description: |-
+  Christian Heilmann is a geek and hacker by heart. He’s been a professional web developer for about eleven years and worked his way through several agencies up to Yahoo where he delivered Yahoo Maps Europe and Yahoo Answers.
+  He’s written two and contributed to three books on JavaScript, web development and accessibility, lead distributed teams as a manager and made them work with one another and released dozens of online articles and hundreds of blog posts in the last few years.
+  He’s been nominated standards champion of the year 2008 by .net magazine in the UK and currently sports the fashionable job title “Principal Developer Evangelist” spending his time going from conference to conference and university to university to speak and train people on systems provided by Yahoo and other web companies that want to make this web thing work well for everybody.
+  We talked with Christian usability, accessibility, running a conference, tips on becoming an evangelist and mailing floppy disks around the world. And they pour one out for Google Reader.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 39
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-39.mp3
+layout: episode
+---
+
+-  [Geeksphone](http://www.geeksphone.com/)
+
+-  [Vinay Venkatraman TED talk](http://www.ted.com/talks/vinay_venkatraman_technology_crafts_for_the_digitally_underserved.html)
+
+-  [HTML5Rocks.com](http://www.html5rocks.com/en/)
+
+-  [Feedly](http://www.feedly.com/)
+
+-  [Codepo8 on Pinboard](http://pinboard.in/u:codepo8)

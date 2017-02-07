@@ -1,0 +1,29 @@
+---
+title: Rachel Andrew
+date: 2012-05-03 12:11:00 -06:00
+position: 8
+description: Our guest for this episode is Rachel Andrew. Rachel is a web developer,
+  speaker and prolific author. Her new book, the CSS3 Anthology was just released
+  by Sitepoint. She’s also the founder of the web development agency, edgeofmyseat.com.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 8
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-8.mp3
+layout: episode
+---
+
+* [edgeofmyseat.com - Web development agency, creators of Perch Content Management System](http://www.edgeofmyseat.com/)
+
+
+* [Perch Content Management System - Make great websites faster](http://grabaperch.com/)
+
+
+* [this is rachelandrew.co.uk - the website of web developer, writer and speaker Rachel Andrew](http://www.rachelandrew.co.uk/)
+
+
+* [The CSS3 Anthology, 4th Edition - SitePoint](http://www.sitepoint.com/store/the-css3-anthology-4th-edition/)
+
+
+* [Rachel Andrew (rachelandrew) on Twitter](https://twitter.com/rachelandrew)(rachelandrew)

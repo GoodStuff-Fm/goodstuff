@@ -7,7 +7,7 @@
     {% include nav.html %}
     <div class="container">
 
-      {% for collection in site.collections | limit: 1 %}
+      {% for collection in site.collections limit: 1 %}
       {% if collection.live == true %}
 
       <h1 class="page__header">{{ page.title }}</h1>

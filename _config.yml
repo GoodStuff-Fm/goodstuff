@@ -1,5 +1,5 @@
 ---
-title: Goodstuffv2
+title: Goodstuff.fm
 timezone: America/Regina
 collections:
   3g3q:
@@ -160,11 +160,11 @@ defaults:
       try FeedPress on a 14 day trial (no contracts or commitments). Use promo code
       `dailyish` during checkout to get 10% off your first year.
     show: dailyish
-itunes-subtitle: your-podcast-subtitle
+itunes-subtitle: A network of good shows with good people doing good things
 itunes-url: http://goodstuff.fm
 itunes-email: contact@goodstuff.fm
 itunes-lang: EN
-itunes-author: Goodstuff Broadcasting
+itunes-author: Goodstuff.fm
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
 twitter: goodstufffm
@@ -176,6 +176,8 @@ copyright: "© 2014–2017 Goodstuff Broadcasting"
 exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile']
 sass:
   sass_dir: "./styles"
+include:
+- twitter
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
