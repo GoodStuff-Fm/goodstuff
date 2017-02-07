@@ -5,8 +5,8 @@ position: 8
 description: Our guest for this episode is Rachel Andrew. Rachel is a web developer,
   speaker and prolific author. Her new book, the CSS3 Anthology was just released
   by Sitepoint. She’s also the founder of the web development agency, edgeofmyseat.com.
-sponsor:
-sponsor-link:
+sponsor: 
+sponsor-link: 
 sponsor-copy: ''
 episode: 8
 show: nbsp

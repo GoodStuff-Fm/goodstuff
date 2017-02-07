@@ -2,7 +2,9 @@
 title: Jonathan Stark — Charging Clients What You're Actually Worth
 date: 2017-02-07 12:11:00 -06:00
 position: 1
-description: The author of Hourly Billing is Nuts, Jonathan Stark, joins us to about charging clients what your worth or, what could be more beneficial, charging what the work is worth to your clients.
+description: The author of Hourly Billing is Nuts, Jonathan Stark, joins us to about
+  charging clients what your worth or, what could be more beneficial, charging what
+  the work is worth to your clients.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and

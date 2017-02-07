@@ -2,12 +2,17 @@
 title: Emily Lewis
 date: 2012-03-02 12:11:00 -06:00
 position: 3
-description: Our guest for episode 3 is Emily Lewis. Emily creates beautiful, accessible, standards-based web sites from her web design and development studio based in Albuquerque, New Mexico. As part of her ongoing quest to spread the good word about standards, she writes about web design on her blog, A Blog Not Limited, and is the author of Microformats Made Simple and a contributing author for the HTML5 Cookbook.
-sponsor:
-sponsor-link:
+description: Our guest for episode 3 is Emily Lewis. Emily creates beautiful, accessible,
+  standards-based web sites from her web design and development studio based in Albuquerque,
+  New Mexico. As part of her ongoing quest to spread the good word about standards,
+  she writes about web design on her blog, A Blog Not Limited, and is the author of
+  Microformats Made Simple and a contributing author for the HTML5 Cookbook.
+sponsor: 
+sponsor-link: 
 sponsor-copy: ''
 episode: 3
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-3.mp3
 layout: episode
 ---
+

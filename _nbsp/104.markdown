@@ -2,7 +2,10 @@
 title: Simon St. Laurent — Top (2n-1) News Stories
 date: 2017-01-31 12:11:00 -06:00
 position: 50
-description: Twitter filled with Star Wars Bots; Amazon wants storefronts in virtual reality, the pain of numbering software releases, shady UX practices, and the most popular tech skills for the year, and the current asking price for 30 seconds of the Super Bowl™.
+description: Twitter filled with Star Wars Bots; Amazon wants storefronts in virtual
+  reality, the pain of numbering software releases, shady UX practices, and the most
+  popular tech skills for the year, and the current asking price for 30 seconds of
+  the Super Bowl™.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and

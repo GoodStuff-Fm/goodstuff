@@ -5,8 +5,8 @@ position: 4
 description: |-
   Our guests for our fourth episode are Chris Coyier and Dave Rupert, the hosts of the popular web design podcast Shoptalk. Chris is well known for his prolific posts and screencasts at CSS-Tricks.com. He’s a designer for Wufoo.com, speaker on all things web.
   Dave Rupert is the lead developer for Paravel, a web design and branding agency located in Austin, Texas.
-sponsor:
-sponsor-link:
+sponsor: 
+sponsor-link: 
 sponsor-copy: ''
 episode: 4
 show: nbsp
