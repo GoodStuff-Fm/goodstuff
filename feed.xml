@@ -18,7 +18,7 @@ show: master
 <language>{{ show.lang }}</language>
 <managingEditor>{{ site.itunes-email }} ({{ site.itunes-author }})</managingEditor>
 <webMaster>{{ site.itunes-email }} ({{ site.itunes-author }})</webMaster>
-<copyright>2014-{{ site.time | "%Y" }} {{ site.title }}</copyright>
+<copyright>2014-2017 {{ site.title }}</copyright>
 <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <image>
