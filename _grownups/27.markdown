@@ -3,18 +3,11 @@ title: Jargon and Stats
 date: 2016-04-18 02:31:00 -06:00
 episode: 27
 mp3: https://media.zencast.fm/i-guess-were-grown-ups-now/26.mp3
-<<<<<<< HEAD
 description: For Grown-Ups' first threesome, Kari and Brook are joined by Kayleigh
   to talk about polyamorism, paramours and metamours and poly unicorns, cis/straight
   and queer poly, models and structures of poly relationships, how to (and how not
   to) go polyamorous, jealousy, compersion, and how poly is like Agile. Turns out,
   Kari's the only one who's seen Three's Company. Also, we talk about butts.
-=======
-description: |-
-  For Grown-Ups' first threesome, Kari and Brook are joined by Kayleigh to talk about polyamorism, paramours and metamours and poly unicorns, cis/straight and queer poly, models and structures of poly relationships, how to (and how not to) go polyamorous, jealousy, compersion, and how poly is like Agile. Turns out, Kari’s the only one who’s seen Three’s Company.
-
-  Also, we talk about butts.
->>>>>>> parent of ddae6ac... Running markdown linter
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

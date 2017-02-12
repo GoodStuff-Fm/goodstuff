@@ -3,15 +3,9 @@ title: He Was Paid in Mars Bars — A Discussion of War
 date: 2016-08-04 02:59:00 -06:00
 mp3: http://podcasts-1.feedpress.co/12572/atu2-37.mp3
 episode: 37
-<<<<<<< HEAD
 description: Tassoula, Becky, Marylinn, and Chris continue our album by album discussion
   with War, U2's third album, and some (on this podcast) would claim as their best.
   Spoiler warning! Bono isn't the one singing on Seconds!
-=======
-description: 'Tassoula, Becky, Marylinn, and Chris continue our album by album discussion
-  with War — U2’s third album and some (on this podcast) would claim as their best.
-  Spoiler warning: Bono isn’t the one singing on Seconds!'
->>>>>>> parent of ddae6ac... Running markdown linter
 layout: episode
 ---
 

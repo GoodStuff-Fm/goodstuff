@@ -3,13 +3,9 @@ title: S03:E13 - "Clipper Conspiracy"
 date: 2015-04-06 12:11:00 -06:00
 position: 18
 description: Professional readers, corn rows, and taco nomads.
-<<<<<<< HEAD
-sponsor: Periscope, binocular, &amp; kaleidoscope.
-=======
 sponsor: Periscope, binocular, & kaleidoscope.
->>>>>>> parent of ddae6ac... Running markdown linter
-sponsor-link: 
-sponsor-copy: 
+sponsor-link:
+sponsor-copy:
 season: 3
 episode: 42
 show: 3g3q

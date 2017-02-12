@@ -3,13 +3,8 @@ title: The Swipe-Right Album - A Discussion of October
 date: 2016-07-15 02:57:00 -06:00
 mp3: http://podcasts-1.feedpress.co/12572/atu2-35.mp3
 episode: 35
-<<<<<<< HEAD
 description: As part of our U240 celebrations, we're going to talk through each of
   U2's albums. U2's second album October is the focus of this episode.
-=======
-description: 'As part of our #U240 celebrations, we’re going to talk through each
-  of U2’s albums. U2’s second album October is the focus of this episode.'
->>>>>>> parent of ddae6ac... Running markdown linter
 layout: episode
 ---
 
