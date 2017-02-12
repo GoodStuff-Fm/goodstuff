@@ -46,7 +46,7 @@ collections:
     output: true
     permalink: "/morningshow/:path"
     retired: false
-    live: true
+    live: false
   neverdigdown:
     title: Never Dig Down
     output: true
