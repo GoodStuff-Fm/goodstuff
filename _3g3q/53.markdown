@@ -3,9 +3,9 @@ title: S04:E07.5 -"Slip-N-Slide Master"
 date: 2015-06-26 12:11:00 -06:00
 position: 7
 description: Lightning Round
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 season: 4
 episode: 53
 show: 3g3q
@@ -15,14 +15,14 @@ layout: episode
 
 # Questions
 
-## "What happened the last time you cried?"--[@HillaryHottstuf via Twitter](https://twitter.com/HillaryHottstuf/status/570033882176696320)
+## "What happened the last time you cried?" -[@HillaryHottstuf via Twitter](https://twitter.com/HillaryHottstuf/status/570033882176696320)
 -[St. Vincent (IMDB)](http://www.imdb.com/title/tt2170593/)(IMDB)
 
-## "What is your favorite dingus?" --[@ahuster via Twitter](http://twitter.com/ahuster/status/602807300697513984)
+## "What is your favorite dingus?" -[@ahuster via Twitter](http://twitter.com/ahuster/status/602807300697513984)
 -[Verizon Jetpack MiFi/Backup Battery](http://www.verizonwireless.com/internet-devices/jetpack-mifi-6620l/)
 -[Kenneth Cole Reaction "The Show Business" Colombian Leather Flapover Computer Case Messenger Bag/Briefcase](http://amzn.com/B00OCX7FT0)
 
-## "If you had to choose an animal skin to replace your own skin, which would you pick?" --Hannah Awningmuss
+## "If you had to choose an animal skin to replace your own skin, which would you pick?" -Hannah Awningmuss
 
 ***
 

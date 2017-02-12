@@ -3,9 +3,9 @@ title: S04:E10.5 -"Anus"
 date: 2015-07-24 12:11:00 -06:00
 position: 2
 description: Lightning round
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 season: 4
 episode: 58
 show: 3g3q
@@ -15,15 +15,15 @@ layout: episode
 
 # Questions
 
-## "What kind of soap and/or shampoo do you use and why?" --[@UltraNurd via Twitter](http://twitter.com/UltraNurd/status/620632892448837633)
+## "What kind of soap and/or shampoo do you use and why?" -[@UltraNurd via Twitter](http://twitter.com/UltraNurd/status/620632892448837633)
 -[Desert Essence Castile Liquid Soap](http://amzn.com/B00QIQO6KK)
 -[Old Spice Matterhorn Body Wash](http://oldspice.com/en/content/matterhorn-body-wash)
 -[Old Spice Swagger Body Wash](http://oldspice.com/en/content/swagger-body-wash)
 -[Head and Shoulders](http://www.headandshoulders.com/)
 
-## "What is the _right_ way to eat a Reese's?" --[@wonderyak via Twitter](http://twitter.com/wonderyak/status/618514223136555008)
+## "What is the _right_ way to eat a Reese's?" -[@wonderyak via Twitter](http://twitter.com/wonderyak/status/618514223136555008)
 
-## What is your least favorite body part? --Kim via Tumblr
+## What is your least favorite body part? -Kim via Tumblr
 
 ***
 

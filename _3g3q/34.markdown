@@ -3,9 +3,9 @@ title: S03:E07.5 -"Feeling Sexy"
 date: 2015-02-27 12:11:00 -06:00
 position: 26
 description: Music, Attractiveness, and Math
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 season: 3
 episode: 34
 show: 3g3q
@@ -38,10 +38,10 @@ layout: episode
 -"Dearly Departed" Shakey Graves
 -"North American Scum" LCD Soundsystem
 
-## When is the most attractive you have ever felt? --Listener Bethany
+## When is the most attractive you have ever felt? -Listener Bethany
 -[Aaron looking good](https://www.facebook.com/photo.php?fbid=10150141641444051&l=03361cd702)
 
-## What does calculus mean... to you? --Anonymous
+## What does calculus mean... to you? -Anonymous
 
 ***
 

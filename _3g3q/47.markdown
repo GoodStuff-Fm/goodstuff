@@ -3,9 +3,9 @@ title: S04:E03.5 -"Bouncing Babies"
 date: 2015-05-30 12:11:00 -06:00
 position: 13
 description: Lightning Round
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 season: 4
 episode: 47
 show: 3g3q
@@ -15,11 +15,11 @@ layout: episode
 
 # Questions
 
-## "What would your parents be surprised to learn about you?" [--@HillaryHottstuf via Twitter](https://twitter.com/HillaryHottstuf/status/570034232623366144)
+## "What would your parents be surprised to learn about you?" [-@HillaryHottstuf via Twitter](https://twitter.com/HillaryHottstuf/status/570034232623366144)
 
-## "How did Stella get her groove back?" [--@SPJPGRD via Twitter](https://twitter.com/spjpgrd/status/601473205803581440)
+## "How did Stella get her groove back?" [-@SPJPGRD via Twitter](https://twitter.com/spjpgrd/status/601473205803581440)
 
-## "If you could change the atomic structure of any item so that it bounces, what would you make bouncy?" --Anny Ominous via Tumblr
+## "If you could change the atomic structure of any item so that it bounces, what would you make bouncy?" -Anny Ominous via Tumblr
 
 ***
 

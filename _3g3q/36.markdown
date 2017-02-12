@@ -4,8 +4,8 @@ date: 2015-03-06 12:11:00 -06:00
 position: 24
 description: A third way, cones, and chalkboards.
 sponsor: WPBH-TV 9 and Punxsutawney Phil.
-sponsor-link: 
-sponsor-copy: 
+sponsor-link:
+sponsor-copy:
 season: 3
 episode: 36
 show: 3g3q
@@ -15,13 +15,13 @@ layout: episode
 
 # Questions
 
-## Apologize or ask permission? --@HillaryHottstuf [via Twitter](https://twitter.com/HillaryHottstuf/status/570035076173582336)
+## Apologize or ask permission? -@HillaryHottstuf [via Twitter](https://twitter.com/HillaryHottstuf/status/570035076173582336)
 
-## Is it Blue and Black or White and Gold? --@ahuster [via Twitter](https://twitter.com/ahuster/status/571298184372363265)
+## Is it Blue and Black or White and Gold? -@ahuster [via Twitter](https://twitter.com/ahuster/status/571298184372363265)
 -[The Dress](http://www.wired.com/2015/02/science-one-agrees-color-dress/)
 -[Related GIF](http://i.imgur.com/qShH5re.gif)
 
-## What makes you squirm? --Listener Jackie (Chan) via Tumblr
+## What makes you squirm? -Listener Jackie (Chan) via Tumblr
 
 ***
 

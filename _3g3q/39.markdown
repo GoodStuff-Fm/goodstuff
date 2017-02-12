@@ -4,8 +4,8 @@ date: 2015-03-20 12:11:00 -06:00
 position: 21
 description: trains, ultra-passive voice, and morning lifehacks.
 sponsor: WPBH-TV 9 and Punxsutawney Phil.
-sponsor-link: 
-sponsor-copy: 
+sponsor-link:
+sponsor-copy:
 season: 3
 episode: 39
 show: 3g3q
@@ -15,11 +15,11 @@ layout: episode
 
 # Questions
 
-## "Train1 traveling 200 mph S Train2 traveling 37 kms N same track 53000 meters apart When collision in Unix time from 6:57am 6/4/2013?" [--@SamBantner via Twitter](http://twitter.com/SamBantner/status/574376464436621313)
+## "Train1 traveling 200 mph S Train2 traveling 37 kms N same track 53000 meters apart When collision in Unix time from 6:57am 6/4/2013?" [-@SamBantner via Twitter](http://twitter.com/SamBantner/status/574376464436621313)
 
-## "What is your least favorite business-speak word?" [--@ahuster via Twitter](http://ift.tt/1w4AmrA)
+## "What is your least favorite business-speak word?" [-@ahuster via Twitter](http://ift.tt/1w4AmrA)
 
-## "Hey you guys should do a self help special: a possible question is: What do you do to get yourself out of bed when you really need to but absolutely don't want to?" --Anonymous via Tumblr
+## "Hey you guys should do a self help special: a possible question is: What do you do to get yourself out of bed when you really need to but absolutely don't want to?" -Anonymous via Tumblr
 
 ***
 
