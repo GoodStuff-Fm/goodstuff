@@ -83,7 +83,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: "/3g3q/:path"
+    path: "/3g3q/"
     type: collections
   values:
     colors:
