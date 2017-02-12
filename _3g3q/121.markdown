@@ -10,7 +10,6 @@ sponsor: Our fantastic patrons.
 sponsor-link: https://www.patreon.com/3g3q
 sponsor-copy: Join with them at patreon.com to get access to exclusive bonus material,
   access to the StuffySlack and other extras.
-
 ---
 
 ![episode art][1]
