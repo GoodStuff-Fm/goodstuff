@@ -39,7 +39,7 @@ Garth is also talking at All Things Open
 
 Garth's project about designing in open source projects.
 
-#####  [Open Source Design Is Now Design Open — Medium][11]
+-[Open Source Design Is Now Design Open — Medium][11]
 
 -[The Nightscout Project | We Are Not Waiting][12]
 
@@ -60,5 +60,3 @@ An amazing volunteer-driven open source project for accessing data from blood su
 [11]: https://medium.com/@garthdb/open-source-design-is-now-design-open-e7005d577f6b
 [12]: http://www.nightscout.info/
 [13]: https://github.com/nightscout
-
-  

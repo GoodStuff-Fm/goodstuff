@@ -3,15 +3,15 @@ title: Civic Doodie
 date: 2016-01-23 02:27:00 -06:00
 episode: 24
 mp3: http://podcasts-1.feedpress.co/10589/grownups-24.mp3
-description: Brook and Kari talk about the ups and downs of volunteering, kids volunteering
+description: "Brook and Kari talk about the ups and downs of volunteering, kids volunteering
   badly, empathy and relationship building, selflessness and selfishness, how broken
-  the system can be, doing "little" things, giving yourself credit, volunteering at
-  work.
+  the system can be, doing 'little' things, giving yourself credit, volunteering at
+  work."
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+sponsor-copy: "Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
-  during checkout to get 10% off your first year.
+  during checkout to get 10% off your first year."
 layout: episode
 ---
 

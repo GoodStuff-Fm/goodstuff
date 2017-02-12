@@ -3,9 +3,9 @@ title: The Jackie Chan Packing Strategy
 date: 2015-05-26 02:18:00 -06:00
 episode: 18
 mp3: http://podcasts-1.feedpress.co/10589/grownups-18.mp3
-description: Kari and her guest Aditi talk about international travel, local delicacies,
+description: "Kari and her guest Aditi talk about international travel, local delicacies,
   Airbnb, Jackie Chan's packing strategies, friend trips, community sourced trip planning,
-  and neck pillows.
+  and neck pillows."
 layout: episode
 ---
 

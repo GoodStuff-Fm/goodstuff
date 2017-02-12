@@ -3,15 +3,15 @@ title: An Act of Political Warfare
 date: 2014-11-07 02:05:00 -06:00
 episode: 7
 mp3: http://podcasts-1.feedpress.co/10589/grownups-7.mp3
-description: Kari talks about the importance of self-care, how to recognize a personal
+description: "Kari talks about the importance of self-care, how to recognize a personal
   crisis before it happens, what to do if it does happen, and how she shouldn't be
-  on your survival team.
+  on your survival team."
 layout: episode
 ---
 
 [Sponsored in part via Syndicate Ads][1]
 
-* * *
+***
 
 -[Audre Lorde][2]
 

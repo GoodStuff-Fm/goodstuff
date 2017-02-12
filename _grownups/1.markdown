@@ -3,10 +3,10 @@ title: Scotch and Poprocks
 date: 2014-09-16 12:11:00 -06:00
 episode: 1
 mp3: http://podcasts-1.feedpress.co/10589/grownups-1.mp3
-description: Introducing Kari's new podcast about adulthood. An overview of the themes
+description: "Introducing Kari's new podcast about adulthood. An overview of the themes
   and topics that future episodes will cover, and a call-out for people interested
   in joining in on a discussion. Most episodes will be less formal and scripted than
-  this one.
+  this one."
 sponsor: Campaign Monitor
 sponsor-link: http://www.campaignmonitor.com/
 sponsor-copy: Tell them you heard about it on Goodstuff
@@ -24,5 +24,3 @@ I guess we're on iTunes now!
 
 [1]: http://mobile.nytimes.com/2014/09/14/magazine/the-death-of-adulthood-in-american-culture.html
 [2]: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
-
-  

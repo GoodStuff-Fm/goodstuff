@@ -3,14 +3,14 @@ title: The Dark Side of Decisiveness
 date: 2015-09-07 02:19:00 -06:00
 episode: 19
 mp3: http://podcasts-1.feedpress.co/10589/grownups-19.mp3
-description: Hilary (@theOtherHilary) is back to chat with Kari about hating yourself-in-other-people,
+description: 'Hilary (@theOtherHilary) is back to chat with Kari about hating yourself-in-other-people,
   respectful conversation, when and how we indulge ourselves, the statute of limitations
-  on being mean, safe places for venting, and self-regulation.
+  on being mean, safe places for venting, and self-regulation.'
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+sponsor-copy: 'Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code * grownups*
-  during checkout to get 10% off your first year.
+  during checkout to get 10% off your first year.'
 layout: episode
 ---
 

@@ -3,10 +3,10 @@ title: 20,000 People Laughing
 date: 2014-10-17 02:03:00 -06:00
 episode: 6
 mp3: http://podcasts-1.feedpress.co/10589/grownups-6.mp3
-description: Kari sits down with Todd Peters to talk about about his creative alternative
+description: "Kari sits down with Todd Peters to talk about about his creative alternative
   adult life. SAHDing, not having a grand life-plan, being a self-taught professional
   musician, and balance in adult relationships. There's a lot of laughing, which is
-  normal for a conversation with Todd.
+  normal for a conversation with Todd."
 layout: episode
 ---
 

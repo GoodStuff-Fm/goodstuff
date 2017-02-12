@@ -2,15 +2,15 @@
 title: Your Body Will Betray You
 date: 2015-02-24 02:14:00 -06:00
 episode: 15
-description: Kari's guest is Rebekah Bennetch and they discuss the horrors of public
+description: "Kari's guest is Rebekah Bennetch and they discuss the horrors of public
   speaking, the formula for creating a great speech, how to practice and prepare,
-  vocal delivery techniques, and whether you should drink before you do a speech.
+  vocal delivery techniques, and whether you should drink before you do a speech."
 layout: episode
 ---
 
 New show theme music! [Uncertain Future by Sun Channel Music][1]
 
-* * *
+***
 
 -[Things to Fear Cartoon | Savage Chickens][2]
 
