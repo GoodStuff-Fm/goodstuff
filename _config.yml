@@ -82,10 +82,9 @@ collections:
     title: Uploads
     output: true
 defaults:
--
-  scope:
+- scope:
     path: "/3g3q/:path"
-    type: ""
+    type: ''
   values:
     layout: episode
     episode: ''
