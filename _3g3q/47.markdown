@@ -3,9 +3,9 @@ title: S04:E03.5 - "Bouncing Babies"
 date: 2015-05-30 12:11:00 -06:00
 position: 13
 description: Lightning Round
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 47
 show: 3g3q
