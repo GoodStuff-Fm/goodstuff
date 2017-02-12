@@ -82,15 +82,14 @@ collections:
     title: Uploads
     output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "3g3q"
-    values:
-      episode: ""
-      show: "3g3q"
-      description: ""
-      layout: episode
+- scope:
+    path: ''
+    type: 3g3q
+  values:
+    episode: ''
+    show: 3g3q
+    description: ''
+    layout: episode
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: http://goodstuff.fm
 podcast_email: contact@goodstuff.fm
