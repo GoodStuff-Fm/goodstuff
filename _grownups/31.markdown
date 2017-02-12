@@ -14,6 +14,6 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
-[CBC Listen | The Current | Crying at work could damage your career, study suggests](http://www.cbc.ca/listen/shows/the-current/segment/11195443)
+[Crying at work could damage your career, study suggests](http://www.cbc.ca/listen/shows/the-current/segment/11195443)
 
 Naaaahhhhh
