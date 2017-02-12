@@ -1,12 +1,13 @@
 ---
-title: S08:E07 - “TBH”
+title: S08:E08 - “Sous-vide Subaru”
 date: 2017-02-11 22:36:00 -06:00
-mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S08E07.mp3
+mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S08E08.mp3
 show: 3g3q
-description: Soap fights, shoe shame, & a court caper
-sponsor: truth, justice, and the American Way
+description: Horntones, bus laws, & weinermobiles.
+sponsor: pistons, cylinders, and cam shafts.
 sponsor-link: 
 sponsor-copy: 
+episode: 126
 layout: episode
 ---
 
