@@ -4,8 +4,8 @@ date: 2015-03-16 12:11:00 -06:00
 position: 22
 description: Money laundering, lightning powers, and time cubes.
 sponsor: licensed therapists, The Wall, and Light Scattering Prisms
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 3
 episode: 38
 show: 3g3q

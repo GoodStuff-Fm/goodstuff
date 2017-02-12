@@ -6,7 +6,7 @@ description: Ask Jeeves, hot dog wolverine, &amp; Scott Dracula Bacula.
 sponsor: The Pizza Hut. We're sponsored by the Taco Bell. We're sponsored by the combination
   pizza hut and taco bell.
 sponsor-link: http://www.youtube.com/watch?v=EQ8ViYIeH04
-sponsor-copy:
+sponsor-copy: 
 season: 4
 episode: 59
 show: 3g3q

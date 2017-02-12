@@ -6,7 +6,6 @@ episode: 82
 description: Lightning round
 ---
 
-
 ![Episode Artwork][1]
 
 # Questions

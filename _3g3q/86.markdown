@@ -6,7 +6,6 @@ episode: 86
 description: Amanda Bynes, talents, &amp; character names.
 ---
 
-
 ![episode art][1]
 
 # Questions

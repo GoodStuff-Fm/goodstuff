@@ -4,8 +4,8 @@ date: 2015-04-01 12:11:00 -06:00
 position: 19
 description: Fifty Shades of Good People, Fight Club Santa, &amp; Sonic 3.
 sponsor: Cats, the spoken word "play"...
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 3
 episode: 41
 show: 3g3q

@@ -3,9 +3,9 @@ title: S04:E2.5 -"Jazz Apple"
 date: 2015-05-18 12:11:00 -06:00
 position: 15
 description: Purple blobs, stressful cantaloup, &amp; hexadecimal colors.
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 45
 show: 3g3q

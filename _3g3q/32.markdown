@@ -4,8 +4,8 @@ date: 2015-02-23 12:11:00 -06:00
 position: 27
 description: Amigo Circles, P.S.R., and Guy Fieri
 sponsor: fluffy robes, bath towels, and puppy parades.
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 3
 episode: 32
 show: 3g3q

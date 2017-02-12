@@ -4,8 +4,8 @@ date: 2015-06-29 12:11:00 -06:00
 position: 6
 description: 1776, a river of bullets, &amp; browsing sheep.
 sponsor: complaining loudly about minor inconveniences.
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 54
 show: 3g3q

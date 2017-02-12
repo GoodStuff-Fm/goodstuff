@@ -4,8 +4,8 @@ date: 2015-07-20 12:11:00 -06:00
 position: 3
 description: Two-liter mic drops, criticism fetish, &amp; a pee truce
 sponsor: Jack Links Beef Jerky and Donald Trump's hair piece
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 57
 show: 3g3q
