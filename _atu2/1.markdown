@@ -4,9 +4,9 @@ title: We’re a Podcast from the Internet. This is Our First Episode. We Hope Y
 date: 2015-07-13 12:11:00 -06:00
 description: Hosts Matt McGee and Chris Enns introduce the what, where, why and how
   of the official podcast of atu2.com.
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 episode: 1
 show: atu2
 layout: episode
