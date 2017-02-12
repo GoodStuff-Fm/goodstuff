@@ -3,9 +3,9 @@ title: S04:E06.5 - "Anything Oatmeal"
 date: 2015-06-19 12:11:00 -06:00
 position: 75
 description: Lightning Round with Mikey Reiach.
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 season: 4
 episode: 51
 show: 3g3q
@@ -19,11 +19,7 @@ layout: episode
 
 ## "What's your favourtie former gen video game system? Nintendo 64, Gameboy, DreamCast, whatever" -mikeyreiach via Tumblr
 
-<<<<<<< HEAD
 ## "Where is somewhere new you want to go, but haven't been yet? I just gave you $10,000 ‐ what are you doing on the trip?" -mikeyreiach via Tumblr
-=======
-## "Where is somewhere new you want to go, but haven't been yet? I just gave you $10,000 – what are you doing on the trip?" --mikeyreiach via Tumblr
->>>>>>> parent of ddae6ac... Running markdown linter
 
 ***
 

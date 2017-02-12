@@ -3,9 +3,9 @@ title: S04:E08.5 - "Nightlife On Mars"
 date: 2015-07-09 12:11:00 -06:00
 position: 71
 description: Lightning Round with Andrew Huster
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 season: 4
 episode: 55
 show: 3g3q
@@ -19,13 +19,8 @@ layout: episode
 
 ## What are your 5 desert island DVD's? -JenTen via Voicemail
 
-<<<<<<< HEAD
 ## "CMYK, RGB, or something else?" -[@ahuster via Twitter](http://twitter.com/ahuster/status/600341461847113729)
 -[HSV](https://en.wikipedia.org/wiki/HSL_and_HSV)
-=======
-## "CMYK, RGB, or something else?" -- [@ahuster via Twitter](http://twitter.com/ahuster/status/600341461847113729)
-- [HSV](https://en.wikipedia.org/wiki/HSL_and_HSV)
->>>>>>> parent of ddae6ac... Running markdown linter
 
 ***
 

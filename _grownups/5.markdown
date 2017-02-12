@@ -34,13 +34,7 @@ Kate's website
 
 * [You Hurt Serious Pony, You Hurt All of Us — Medium][9]
 
-<<<<<<< HEAD
--[Frank Chimero ‐ There Go The Grown Ups][10]
-=======
-Kate writes about @seriouspony, Kathy Sierra.
-
-* [Frank Chimero – There Go The Grown Ups][10]
->>>>>>> parent of ddae6ac... Running markdown linter
+* [Frank Chimero ‐ There Go The Grown Ups][10]
 
 Contains the excellent Quote of the Episode, and also some bunk about how "grown-ups" are people who do things that Frank disapproves of and/or doesn't do, and "adults" are things he does himself (a remarkable coincidence).
 

@@ -4,8 +4,8 @@ date: 2015-05-25 12:11:00 -06:00
 position: 80
 description: Long Twitter, pineapple enzymes, & rubber dinosaurs.
 sponsor: chicken nuggets, french fries, and generally unhealthy foods.
-sponsor-link: 
-sponsor-copy: 
+sponsor-link:
+sponsor-copy:
 season: 4
 episode: 46
 show: 3g3q
@@ -19,11 +19,7 @@ layout: episode
 - ["Random" Sketch from SNL](https://screen.yahoo.com/dino-bones-062536489.html)
 
 ## Andrew: What is the worst good thing to have a 1000 of?
-<<<<<<< HEAD
 -[Puppy Boss](http://shareamazingpictures.com/wp-content/uploads/2012/12/Dog-sitting-like-a-boss.jpg) -[Sled Dogs](http://cutearoo.com/wp-content/uploads/2012/12/Puppy10.jpg)
-=======
-- [Puppy Boss](http://shareamazingpictures.com/wp-content/uploads/2012/12/Dog-sitting-like-a-boss.jpg) -- [Sled Dogs](http://cutearoo.com/wp-content/uploads/2012/12/Puppy10.jpg)
->>>>>>> parent of ddae6ac... Running markdown linter
 
 ## Aaron: If you had to pick one thing to play as your alarm for the rest of your life, and it had to be a TV show theme song, which would you choose?
 - [Earl Sinclair performs Hypnotize by The Notorious B.I.G](https://youtu.be/-v2mvO7Yq48)
