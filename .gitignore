@@ -3,3 +3,13 @@ _site/Gemfile.lock
 _site/
 
 *.scssc
+
+_site/schedule/index.html
+
+_site/live/index.html
+
+_site/index.html
+
+_site/contact/index.html
+
+_site/about/index.html
