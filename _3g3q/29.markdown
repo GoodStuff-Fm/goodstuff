@@ -1,7 +1,7 @@
 ---
 title: S03:E04 - Next Day Ned's
 date: 2015-02-06 12:11:00 -06:00
-position: 30
+position: 96
 description: Exploring the woods, cold pizza, & dolphin tunnels.
 sponsor: WPBH-TV 9 and Punxsutawney Phil.
 sponsor-link: 

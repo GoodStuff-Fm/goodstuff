@@ -1,7 +1,7 @@
 ---
 title: S03:E02 - “So Many Tassels”
 date: 2015-01-19 12:11:00 -06:00
-position: 32
+position: 98
 description: Cyberstalking, being a good listener, & alienation
 sponsor: 
 sponsor-link: 
