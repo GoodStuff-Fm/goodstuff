@@ -7,6 +7,7 @@ description: Part two of the conversation with Adam Clark. Should we even bother
   for meaning in our job? Searching for that feeling of Home. Regret. How does a person
   end up in a corporate job, and is that different from selling out?
 layout: episode
+show: grownups
 ---
 
 * [I Guess We're Grown-Ups Now #9: You've Just Got to Stop Thinking - Goodstuff FM][1]

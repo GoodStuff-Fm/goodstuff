@@ -7,6 +7,7 @@ description: A man builds a podcast, with guests and commentary. A man records a
   so he can hear himself up close. Marylinn, Sherry, Ian, and Chris are talking Zooropa
   until the day begins at midnight so grab the nearest lemon and don’t go wandering
   too far.
+show: atu2
 layout: episode
 ---
 

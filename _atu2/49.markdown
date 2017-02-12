@@ -10,6 +10,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 description: Get on your boots - Liseth, Sherry, and Aaron join Chris to talk about
   No Line on the Horizon, U2's 12th album that came out in 2009.
+show: atu2
 layout: episode
 ---
 

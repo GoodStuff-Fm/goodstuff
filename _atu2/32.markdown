@@ -5,6 +5,7 @@ mp3: https://podcasts-1.feedpress.co/12572/atu2-32.mp3
 episode: 32
 description: 'Aaron, Sherry, and Chris answer #askatU2 questions and talk about the
   Paris concert video announcement, and The Edge’s interview on Off Camera.'
+show: atu2
 layout: episode
 ---
 

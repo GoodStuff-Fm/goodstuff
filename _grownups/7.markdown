@@ -7,6 +7,7 @@ description: Kari talks about the importance of self-care, how to recognize a pe
   crisis before it happens, what to do if it does happen, and how she shouldn’t be
   on your survival team.
 layout: episode
+show: grownups
 ---
 
 [Sponsored in part via Syndicate Ads][1]

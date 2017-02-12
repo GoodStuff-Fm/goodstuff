@@ -8,6 +8,7 @@ description: 'Kari sits down with Todd Peters to talk about about his creative a
   musician, and balance in adult relationships. There’s a lot of laughing, which is
   normal for a conversation with Todd.'
 layout: episode
+show: grownups
 ---
 
 * [Massey &amp; the Fergusons on CBC Music][1]

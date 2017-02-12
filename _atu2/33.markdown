@@ -6,6 +6,7 @@ episode: 33
 description: Tim, Matt, Sherry, and Chris talk about how and when to introduce your
   family to U2, what to do if your family doesn’t like U2 (Chris learned it’s not
   ok to kick them out of the house), and advice for taking kids to U2 concerts.
+show: atu2
 layout: episode
 ---
 

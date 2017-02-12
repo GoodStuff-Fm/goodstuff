@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-18.mp3
 description: Kari and her guest Aditi talk about international travel, local delicacies,
   Airbnb, Jackie Chan’s packing strategies, friend trips, community sourced trip planning,
   and neck pillows.
+show: grownups
 layout: episode
 ---
 

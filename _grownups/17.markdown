@@ -9,6 +9,7 @@ sponsor: HipChat
 sponsor-link: http://synd.co/1xlpYla
 sponsor-copy: HipChat combines team chat, video chat and file sharing into one simple
   application. Start chatting. It’s free. Sponsored via Syndicate
+show: grownups
 layout: episode
 ---
 

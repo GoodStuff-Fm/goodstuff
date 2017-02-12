@@ -6,6 +6,7 @@ mp3: http://podcasts-1.feedpress.co/10589/grownups-16.mp3
 description: 'Kari and Liz James discuss adult ADHD: definitions, advantages, getting
   diagnosed, strategies for thriving with it, fantastic metaphors, treatments, marrying
   well, accidental vacations, and black diamond people.'
+show: grownups
 layout: episode
 ---
 

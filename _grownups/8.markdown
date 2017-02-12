@@ -7,6 +7,7 @@ description: Hilary Nelson and Kari discuss being active in your community and i
   government, sympathy for city counselors, not being an a**hole, and why you should
   vote even if you haven’t done your homework.
 layout: episode
+show: grownups
 ---
 
 [Sponsored in part via Syndicate Ads][1]

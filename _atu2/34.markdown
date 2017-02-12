@@ -7,6 +7,7 @@ description: As part of our U240 celebrations, we're going to talk through each 
   U2's albums and what better place to start than with U2's first album, Boy. Tassoula,
   Matt, Sherry, and Chris share their thoughts on the album song by song as well as
   a bit of the history surrounding its recording and release into the world'
+show: atu2
 layout: episode
 ---
 

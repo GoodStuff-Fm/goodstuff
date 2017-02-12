@@ -6,6 +6,7 @@ episode: 29
 description: Ross and Brian join Matt and Chris to talk about what goes into putting
   together the Tours side of atU2 and include a few snippets of arguments over what
   constitutes a snippet.
+show: atu2
 layout: episode
 ---
 

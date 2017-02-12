@@ -6,6 +6,7 @@ episode: 31
 description: Jill joins us to talk about getting to meet Bono in NYC, Tassoula tells
   us about how she gets to so many U2 shows, Matt gets thunderstruck, and Chris is
   still trying to convince U2 to come to Saskatchewan.
+show: atu2
 layout: episode
 ---
 

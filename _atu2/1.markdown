@@ -4,13 +4,13 @@ title: We’re a Podcast from the Internet. This is Our First Episode. We Hope Y
 date: 2015-07-13 12:11:00 -06:00
 description: Hosts Matt McGee and Chris Enns introduce the what, where, why and how
   of the official podcast of atu2.com.
-sponsor: 
-sponsor-link: 
-sponsor-copy: 
+sponsor:
+sponsor-link:
+sponsor-copy:
 episode: 1
 show: atu2
-mp3: http://podcasts-1.feedpress.co/12572/atu2-1.mp3
 layout: episode
+mp3: http://podcasts-1.feedpress.co/12572/atu2-1.mp3
 ---
 
 * [Discuss this episode](https://www.reddit.com/r/Goodstuff_fm/comments/3dad4n/the_atu2_podcast1_were_a_podcast_from_the/)

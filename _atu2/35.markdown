@@ -5,6 +5,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-35.mp3
 episode: 35
 description: As part of our U240 celebrations, we're going to talk through each of
   U2's albums. U2's second album October is the focus of this episode.
+show: atu2
 layout: episode
 ---
 

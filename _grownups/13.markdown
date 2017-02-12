@@ -7,6 +7,7 @@ description: Jeff Read joins Kari to wonder what midlife really is anyway, and t
   talk about middle-age parenting issues, getting worse at things, and how passion
   for what you do maybe helps you avoid the ol' crisis.
 layout: episode
+show: grownups
 ---
 
 * [Episode #7: An Act of Political Warfare - Goodstuff FM][1]

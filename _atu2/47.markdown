@@ -6,6 +6,7 @@ episode: 47
 description: For our first b-side we convene a panel of folks to chat about The Joshua
   Tree Tour announcement — ticket pricing, availability, and whether Drunk Chicken
   will make an appearance!
+show: atu2
 layout: episode
 ---
 

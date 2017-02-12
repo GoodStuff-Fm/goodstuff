@@ -6,6 +6,7 @@ episode: 46
 description: All that you fashion and all that you make can turn into a 90m discussion
   of All That You Can’t Leave Behind. Ian, Sherry, Tassoula, Marylinn, and Chris spend
   a little while chatting about the ups and downs of U2’s 2000 album.
+show: atu2
 layout: episode
 ---
 

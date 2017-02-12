@@ -11,6 +11,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 description: Jill, Ian, Becky, and Chris take a musical journey through How to Dismantle
   an Atomic Bomb - U2’s 2004 album that helped keep the band on the top of the biggest
   band in the world fight.
+show: atu2
 layout: episode
 ---
 

@@ -8,6 +8,7 @@ description: Kari talks with Adam Clark about the trouble with answering the que
   value to add to the world; not having all the answers; fear of looking like a fool;
   and the importance of just showing up.
 layout: episode
+show: grownups
 ---
 
 * [Adam: What Does It Mean To Do Meaningful Work?][1]

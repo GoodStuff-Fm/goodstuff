@@ -6,6 +6,7 @@ episode: 38
 description: Kenny, Sherry, and Chris continue our album series by discussing this
   live album from U2 released in 1983. Hair, guitar solos, bass intros, and plaid
   t-shirts are all up for debate.
+show: atu2
 layout: episode
 ---
 

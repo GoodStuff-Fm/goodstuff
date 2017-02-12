@@ -6,6 +6,7 @@ episode: 28
 description: Matt and Chris are joined by Beth and Chris from the U2 Tattoo Project
   to talk about the atU2 2016 Fan Survey and give an update on their project. We recorded
   it live on Blab so there’s a video version as well if you prefer to watch.
+show: atu2
 layout: episode
 ---
 

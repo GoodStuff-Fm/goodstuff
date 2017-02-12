@@ -5,6 +5,7 @@ mp3: https://podcasts-1.feedpress.co/12572/atu2-30.mp3
 episode: 30
 description: Kenny, Aaron (Ivan), Sherry, and Chris talk through the next batch of
   survey results from the 2016 atU2 Fan Survey.
+show: atu2
 layout: episode
 ---
 
