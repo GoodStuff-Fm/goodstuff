@@ -83,8 +83,8 @@ collections:
     output: true
 defaults:
 - scope:
-    path: "/3g3q/"
-    type: collections
+    path: 3g3q
+    type: docs
   values:
     colors:
     - red
