@@ -84,16 +84,16 @@ collections:
 defaults:
   -
     scope:
-      path: ''
-      type: "docs"
+      path: ""
+      type: docs
     values:
       layout: "episode"
-      episode: ''
-      show: ''
-      description: ''
-      sponsor: ''
-      sponsor-link: ''
-      sponsor-copy: ''
+      episode: ""
+      show: ""
+      description: ""
+      sponsor: ""
+      sponsor-link: ""
+      sponsor-copy: ""
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: http://goodstuff.fm
 podcast_email: contact@goodstuff.fm
