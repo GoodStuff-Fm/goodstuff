@@ -7,8 +7,8 @@ description: Kari chats with Chris Enns about social media fasting, FOMO/JOMO, f
   in podcasting.
 sponsor: HipChat
 sponsor-link: http://synd.co/1xlpYla
-sponsor-copy: "HipChat combines team chat, video chat and file sharing into one simple
-  application. Start chatting. It's free. Sponsored via Syndicate"
+sponsor-copy: HipChat combines team chat, video chat and file sharing into one simple
+  application. Start chatting. It's free. Sponsored via Syndicate
 layout: episode
 ---
 

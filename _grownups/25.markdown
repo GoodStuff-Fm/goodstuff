@@ -3,14 +3,14 @@ title: Forcing It
 date: 2016-03-05 02:28:00 -06:00
 episode: 25
 mp3: http://podcasts-1.feedpress.co/10589/grownups-25.mp3
-description: "Brook and Kari talk about forcing it with desk legs, friendships, love,
+description: 'Brook and Kari talk about forcing it with desk legs, friendships, love,
   taxes, being disciplined, and work. Also: the question of whether telling 20-somethings
-  to just work hard is good advice."
+  to just work hard is good advice.'
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
-sponsor-copy: "Hosting and feed support provided by Feed.Press. Sign-up today and try
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
-  during checkout to get 10% off your first year."
+  during checkout to get 10% off your first year.
 layout: episode
 ---
 

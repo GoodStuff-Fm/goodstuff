@@ -3,9 +3,9 @@ title: It's like Skiing
 date: 2014-11-13 02:06:00 -06:00
 episode: 8
 mp3: http://podcasts-1.feedpress.co/10589/grownups-8.mp3
-description: "Hilary Nelson and Kari discuss being active in your community and its
+description: Hilary Nelson and Kari discuss being active in your community and its
   government, sympathy for city counselors, not being an a**hole, and why you should
-  vote even if you haven't done your homework."
+  vote even if you haven't done your homework.
 layout: episode
 ---
 

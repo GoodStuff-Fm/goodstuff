@@ -3,9 +3,9 @@ title: Two Years Till Billy Crystal Levels
 date: 2015-01-23 02:12:00 -06:00
 episode: 13
 mp3: http://podcasts-1.feedpress.co/10589/grownups-13.mp3
-description: "Jeff Read joins Kari to wonder what midlife really is anyway, and to
+description: Jeff Read joins Kari to wonder what midlife really is anyway, and to
   talk about middle-age parenting issues, getting worse at things, and how passion
-  for what you do maybe helps you avoid the ol' crisis."
+  for what you do maybe helps you avoid the ol' crisis.
 layout: episode
 ---
 

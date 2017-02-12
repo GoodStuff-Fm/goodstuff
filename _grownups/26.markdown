@@ -3,14 +3,14 @@ title: Good Enough for Vin Diesel
 date: 2016-04-06 02:29:00 -06:00
 episode: 26
 mp3: https://podcasts-1.feedpress.co/10589/grownups-26.mp3
-description: "Kari chats with Victor Yocco about the benefits of stopping drinking,
+description: Kari chats with Victor Yocco about the benefits of stopping drinking,
   the practice of sobriety, how to support people choosing to not drink, fizzy drinks
-  at bars, and when's a good time to ask why someone's not drinking (never)."
+  at bars, and when's a good time to ask why someone's not drinking (never).
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
-sponsor-copy: "Hosting and feed support provided by Feed.Press. Sign-up today and try
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
-  during checkout to get 10% off your first year."
+  during checkout to get 10% off your first year.
 layout: episode
 ---
 

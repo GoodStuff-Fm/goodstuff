@@ -3,14 +3,14 @@ title: Stolen Canadian Accent
 date: 2015-11-07 02:21:00 -06:00
 episode: 20
 mp3: http://podcasts-1.feedpress.co/10589/grownups-20.mp3
-description: "Kari and Brook Shelley talk about mommy/cat blogging/podcasting, going
+description: Kari and Brook Shelley talk about mommy/cat blogging/podcasting, going
   home again, travelling on other people's dime, accents, sci fi lit by women, revisiting
-  old hobbies, and whole other episodes."
+  old hobbies, and whole other episodes.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
-sponsor-copy: "Hosting and feed support provided by Feed.Press. Sign-up today and try
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
-  during checkout to get 10% off your first year."
+  during checkout to get 10% off your first year.
 layout: episode
 ---
 
