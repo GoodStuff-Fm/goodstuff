@@ -95,8 +95,7 @@ Goodstuff Twitter: https://twitter.com/goodstufffm
 twitter: goodstufffm
 logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
-description: The internet’s favorite shows on technology, culture, news, and more.
-  You know, just the good stuff.
+description: A network of good shows with good people doing good things
 copyright: "© 2014–2017 Goodstuff Broadcasting"
 exclude:
 - README.markdown
