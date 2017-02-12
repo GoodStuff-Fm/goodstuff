@@ -3,7 +3,7 @@ title: Brian Hoff
 date: 2012-06-14 12:11:00 -06:00
 position: 11
 description: Brian is a graphic designer living in Brooklyn, New York who loves creating
-  compelling and useful websites and memorable interactions across the web. When he’s
+  compelling and useful websites and memorable interactions across the web. When he's
   not designing, he can be found writing, speaking and occasionally part-time teaching
   at colleges — all on the subject of design.
 sponsor: 
@@ -15,40 +15,40 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-11.mp3
 layout: episode
 ---
 
-* [Brian Hoff ::: Brand and Website Designer](http://brianhoff.net/)
+-[Brian Hoff ::: Brand and Website Designer](http://brianhoff.net/)
 
 
-* [Web Design by Designer, Speaker and Writer Brian Hoff](http://www.thedesigncubicle.com/)
+-[Web Design by Designer, Speaker and Writer Brian Hoff](http://www.thedesigncubicle.com/)
 
 
-* [Dribbble - Brian Hoff](http://dribbble.com/behoff)
+-[Dribbble -Brian Hoff](http://dribbble.com/behoff)
 
 
-* [Typekit](https://typekit.com/)
+-[Typekit](https://typekit.com/)
 
 
-* [Fontdeck web fonts: Real fonts for your website](http://fontdeck.com/)
+-[Fontdeck web fonts: Real fonts for your website](http://fontdeck.com/)
 
 
-* [Fonts.com](http://www.fonts.com/)
+-[Fonts.com](http://www.fonts.com/)
 
 
-* [Trent Walton | Trent Walton's Web Site](http://trentwalton.com/)
+-[Trent Walton | Trent Walton's Web Site](http://trentwalton.com/)
 
 
-* [Freight Sans™ - Webfont & Desktop font « MyFonts](http://www.myfonts.com/fonts/garagefonts/freight-sans/)
+-[Freight Sans™ -Webfont & Desktop font « MyFonts](http://www.myfonts.com/fonts/garagefonts/freight-sans/)
 
 
-* [Free Font PT Sans by Paratype | Font Squirrel](http://www.fontsquirrel.com/fonts/PT-Sans)
+-[Free Font PT Sans by Paratype | Font Squirrel](http://www.fontsquirrel.com/fonts/PT-Sans)
 
 
-* [Project Worksheet](http://bhoff.wufoo.com/forms/project-worksheet/)
+-[Project Worksheet](http://bhoff.wufoo.com/forms/project-worksheet/)
 
 
-* [Dribbble - Analytics by Brian Hoff](http://dribbble.com/shots/229595-Analytics)
+-[Dribbble -Analytics by Brian Hoff](http://dribbble.com/shots/229595-Analytics)
 
 
-* [The Non-Breaking Space Show Interview with Kristina Halvorson](http://nonbreakingspace.tv/kristina-halvorson/)
+-[The Non-Breaking Space Show Interview with Kristina Halvorson](http://nonbreakingspace.tv/kristina-halvorson/)
 
 
-* [Brian Hoff – Rdio](http://www.rdio.com/people/behoff/)
+-[Brian Hoff ‐ Rdio](http://www.rdio.com/people/behoff/)

@@ -2,7 +2,7 @@
 title: Jeremy Keith
 date: 2013-11-19 12:11:00 -06:00
 position: 42
-description: Our talk with Jeremy runs the gamut of the web - progressive enhancement,
+description: Our talk with Jeremy runs the gamut of the web -progressive enhancement,
   depending on a database, sirens, the death of web services, the telegraph, transcriptions,
   CERN and preparing for a great talk.
 sponsor: 
@@ -14,30 +14,30 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-44.mp3
 layout: episode
 ---
 
--  [DOM Scripting by Jeremy Keith](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/ref=sr_1_2?ie=UTF8&qid=1380476765&sr=8-2&keywords=jeremy+keith)
+-[DOM Scripting by Jeremy Keith](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/ref=sr_1_2?ie=UTF8&qid=1380476765&sr=8-2&keywords=jeremy+keith)
 
--  [HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
+-[HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
 
--  [Responsive Day Out](http://responsiveconf.com)
+-[Responsive Day Out](http://responsiveconf.com)
 
--  [Jeremy on CERN](http://adactio.com/journal/6507/)
+-[Jeremy on CERN](http://adactio.com/journal/6507/)
 
--  [Adactico.com](http://adactio.com)
+-[Adactico.com](http://adactio.com)
 
--  [CERN](http://info.cern.ch)
+-[CERN](http://info.cern.ch)
 
--  [Restoring the First Website Project](http://first-website.web.cern.ch/blog/line-mode-browser-dev-days-cern)
+-[Restoring the First Website Project](http://first-website.web.cern.ch/blog/line-mode-browser-dev-days-cern)
 
--  [Kirby](http://getkirby.com/)
+-[Kirby](http://getkirby.com/)
 
--  [Jekyll](http://jekyllrb.com/)
+-[Jekyll](http://jekyllrb.com/)
 
--  [Cloud to My Butt Converter for Chrome](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai?hl=en)
+-[Cloud to My Butt Converter for Chrome](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai?hl=en)
 
--  [The Victorian Internet by Tom Standage](http://www.amazon.com/The-Victorian-Internet-Remarkable-Nineteenth/dp/0802716040)
+-[The Victorian Internet by Tom Standage](http://www.amazon.com/The-Victorian-Internet-Remarkable-Nineteenth/dp/0802716040)
 
--  [Branch](http://branch.com)
+-[Branch](http://branch.com)
 
--  [The Pastry Box Project](http://the-pastry-box-project.net)
+-[The Pastry Box Project](http://the-pastry-box-project.net)
 
--  [Weaving the Web](http://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
+-[Weaving the Web](http://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)

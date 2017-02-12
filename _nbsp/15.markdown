@@ -15,55 +15,55 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-15.mp3
 layout: episode
 ---
 
-* [Dreamweaver CS6: The Missing Manual (Missing Manuals): David Sawyer McFarland: 9781449316174: Amazon.com: Books](http://www.amazon.com/Dreamweaver-CS6-The-Missing-Manual/dp/1449316174)(Missing Manuals)
+-[Dreamweaver CS6: The Missing Manual (Missing Manuals): David Sawyer McFarland: 9781449316174: Amazon.com: Books](http://www.amazon.com/Dreamweaver-CS6-The-Missing-Manual/dp/1449316174)(Missing Manuals)
 
 
-* [Comic-Con Front Page | Comic-Con International: San Diego](http://www.comic-con.org/cci/)
+-[Comic-Con Front Page | Comic-Con International: San Diego](http://www.comic-con.org/cci/)
 
 
-* [All Standards and Drafts - W3C](http://www.w3.org/TR/)
+-[All Standards and Drafts -W3C](http://www.w3.org/TR/)
 
 
-* [Stubbornella » Blog Archive » Our (CSS) Best Practices Are Killing US](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)(CSS)
+-[Stubbornella » Blog Archive » Our (CSS) Best Practices Are Killing US](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)(CSS)
 
 
-* [Talks | Webstock](http://www.webstock.org.nz/talks/)
+-[Talks | Webstock](http://www.webstock.org.nz/talks/)
 
 
-* [Home · stubbornella/oocss Wiki](https://github.com/stubbornella/oocss/wiki)
+-[Home · stubbornella/oocss Wiki](https://github.com/stubbornella/oocss/wiki)
 
 
-* [Stubbornella » Blog Archive » The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
+-[Stubbornella » Blog Archive » The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
 
 
-* [jQuery UI](http://jqueryui.com/)
+-[jQuery UI](http://jqueryui.com/)
 
 
-* [CSS Reset - YUI Library](http://yuilibrary.com/yui/docs/cssreset/)
+-[CSS Reset -YUI Library](http://yuilibrary.com/yui/docs/cssreset/)
 
 
-* [Normalize.css: Make browsers render all elements more consistently.](http://necolas.github.io/normalize.css/)
+-[Normalize.css: Make browsers render all elements more consistently.](http://necolas.github.io/normalize.css/)
 
 
-* [Bootstrap](http://getbootstrap.com/2.3.2/)
+-[Bootstrap](http://getbootstrap.com/2.3.2/)
 
 
-* [Microformats](http://microformats.org/)
+-[Microformats](http://microformats.org/)
 
 
-* [CSS Lint](http://csslint.net/)
+-[CSS Lint](http://csslint.net/)
 
 
-* [Replacing the -9999px hack (new image replacement) – Jeffrey Zeldman Presents The Daily Report](http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/)(new image replacement)
+-[Replacing the -9999px hack (new image replacement) ‐ Jeffrey Zeldman Presents The Daily Report](http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/)(new image replacement)
 
 
-* [Stubbornella » Blog Archive » Don’t Feed the Trolls!](http://www.stubbornella.org/content/2012/05/31/dont-feed-the-trolls/)
+-[Stubbornella » Blog Archive » Don't Feed the Trolls!](http://www.stubbornella.org/content/2012/05/31/dont-feed-the-trolls/)
 
 
-* [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
+-[Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
 
 
-* [Nicole Sullivan (stubbornella) on Twitter](https://twitter.com/stubbornella)(stubbornella)
+-[Nicole Sullivan (stubbornella) on Twitter](https://twitter.com/stubbornella)(stubbornella)
 
 
-* [Stubbornella](http://www.stubbornella.org/content/)
+-[Stubbornella](http://www.stubbornella.org/content/)

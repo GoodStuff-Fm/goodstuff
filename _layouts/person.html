@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Page Information -->
+<!--Page Information -->
 {% include head.html %}
 
 <body>
 
-<!-- Navigation Bar -->
+<!--Navigation Bar -->
 {% include nav.html %}
 
 <div class="container">
@@ -29,14 +29,14 @@
 
 <hr class="page__rule">
 
-<!-- Broadcasts -->
+<!--Broadcasts -->
 <div class="person__broadcasts">Broadcasts</div>
 
   {% for collection in site.collections %}
   {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
   {% assign show = site.data.shows[collection.label] %}
   {% if show.hosts contains page.name %}
-  <!-- Needs to contain, not equal -->
+  <!--Needs to contain, not equal -->
 
 <div class="person__show">
   <ul>
@@ -54,7 +54,7 @@
 
 </div>
 
-<!-- Footer -->
+<!--Footer -->
 {% include footer.html %}
 
 

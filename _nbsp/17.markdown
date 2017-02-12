@@ -14,14 +14,14 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-17.mp3
 layout: episode
 ---
 
--  [Mat on Twitter @wilto](http://twitter.com/wilto)
+-[Mat on Twitter @wilto](http://twitter.com/wilto)
 
--  [Filament Group](http://filamentgroup.com)
+-[Filament Group](http://filamentgroup.com)
 
--  [Move the Web Forward](http://movethewebforward.org)
+-[Move the Web Forward](http://movethewebforward.org)
 
--  [A List Apart](http://www.alistapart.com)
+-[A List Apart](http://www.alistapart.com)
 
--  [JQuery Mobile](http://jquerymobile.com)
+-[JQuery Mobile](http://jquerymobile.com)
 
--  [The Boston Globe](http://bostonglobe.com)
+-[The Boston Globe](http://bostonglobe.com)

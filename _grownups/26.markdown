@@ -5,7 +5,7 @@ episode: 26
 mp3: https://podcasts-1.feedpress.co/10589/grownups-26.mp3
 description: Kari chats with Victor Yocco about the benefits of stopping drinking,
   the practice of sobriety, how to support people choosing to not drink, fizzy drinks
-  at bars, and when’s a good time to ask why someone’s not drinking (never).
+  at bars, and when's a good time to ask why someone's not drinking (never).
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
@@ -14,23 +14,23 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
-* [The Sober Experience: There's Purpose In My Sobriety - CONSCIOUS][1]
+-[The Sober Experience: There's Purpose In My Sobriety -CONSCIOUS][1]
 
-* [The UX of Alcohol Abuse: Reflections on a Year of Sobriety by Victor Yocco | Model View Culture][2]
+-[The UX of Alcohol Abuse: Reflections on a Year of Sobriety by Victor Yocco | Model View Culture][2]
 
-* [The WorkLife HUB | Victor Yocco][3]
+-[The WorkLife HUB | Victor Yocco][3]
 
-* [What it's like to be a recovering alcoholic in an office where booze is everywhere - Vox][4]
+-[What it's like to be a recovering alcoholic in an office where booze is everywhere -Vox][4]
 
-* [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options by Kara Sowles | Model View Culture][5]
+-[Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options by Kara Sowles | Model View Culture][5]
 
-* [Victor Yocco | AlterConf][6]
+-[Victor Yocco | AlterConf][6]
 
-* [Manning | Design for the Mind][7]
+-[Manning | Design for the Mind][7]
 
 Victor's book!
 
-* [Victor Yocco (@VictorYocco) | Twitter][8]
+-[Victor Yocco (@VictorYocco) | Twitter][8]
 
 [1]: http://consciousmagazine.co/the-sober-experience/
 [2]: https://modelviewculture.com/pieces/the-ux-of-alcohol-abuse-reflections-on-a-year-of-sobriety

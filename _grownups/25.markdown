@@ -14,13 +14,13 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
-* [XOXO Outpost][1]
+-[XOXO Outpost][1]
 
-* [GetBullish – Aggressive Lady-Advice][2]
+-[GetBullish ‐ Aggressive Lady-Advice][2]
 
-* [An Open Letter To My CEO — Medium][3]
+-[An Open Letter To My CEO — Medium][3]
 
-* [Brook's arm tattoos][4]
+-[Brook's arm tattoos][4]
 
 [1]: http://outpostpdx.com/
 [2]: http://www.getbullish.com/

@@ -1,31 +1,31 @@
 ---
-title: I Can’t Get This U2 Podcast Off My Phone
+title: I Can't Get This U2 Podcast Off My Phone
 date: 2016-04-07 02:48:00 -06:00
 mp3: https://podcasts-1.feedpress.co/12572/atu2-28.mp3
 episode: 28
 description: Matt and Chris are joined by Beth and Chris from the U2 Tattoo Project
   to talk about the atU2 2016 Fan Survey and give an update on their project. We recorded
-  it live on Blab so there’s a video version as well if you prefer to watch.
+  it live on Blab so there's a video version as well if you prefer to watch.
 layout: episode
 ---
 
-* [Take a Selfie: Join Adam Clayton for Walk In My Shoes Campaign][2]
+-[Take a Selfie: Join Adam Clayton for Walk In My Shoes Campaign][2]
 
-* [U2 Fan Survey 2016: 1st set of results posted][3]
+-[U2 Fan Survey 2016: 1st set of results posted][3]
 
-* [2016 U2 Fan Survey Results - Section 1][4]
+-[2016 U2 Fan Survey Results -Section 1][4]
 
-* [U2 Tattoo Project (@U2tattooproject) | Twitter][5]
+-[U2 Tattoo Project (@U2tattooproject) | Twitter][5]
 
-* [U2 Tattoo Project | Only love can leave such a mark][6]
+-[U2 Tattoo Project | Only love can leave such a mark][6]
 
-* [Video Version - @U2 Podcast: Recording episode #28][1]
+-[Video Version -@U2 Podcast: Recording episode #28][1]
 
-* [How To Dismantle A Siren's Song: The making of a podcast theme | Simon Peyda (1989 – present)][7]
+-[How To Dismantle A Siren's Song: The making of a podcast theme | Simon Peyda (1989 ‐ present)][7]
 
-* [u2.se][8]
+-[u2.se][8]
 
-* [Intro Music by Simon Peyda (@simonpeyda)][9]
+-[Intro Music by Simon Peyda (@simonpeyda)][9]
 
 [1]: https://blab.im/atu2-u2-podcast-recording-episode-28
 [2]: http://www.atu2.com/news/take-a-selfie-join-adam-clayton-for-walk-in-my-shoes-campaign.html

@@ -32,36 +32,36 @@ layout: episode
 * **[13:02](#t=13:02)** #7 Data shield down: Online privacy and data ownership
 * **[20:19](#t=20:19)** #6 Don't be an idiot on the web; Dirty UX tricks and tactics
 * **[28:28](#t=28:28)** #5 Major software version number upgrades
-* **[34:03](#t=34:03)** Guest tweet about modules/components vs. pages
+* **[34:03](#t=34:03)*-Guest tweet about modules/components vs. pages
 * **[36:04](#t=36:04)** JavaScript is history
 * **[40:08](#t=40:08)** #4 Amazon looking to bring shopping into VR
 * **[47:46](#t=47:46)** #3 Superbowl ad prices and viewer ratings
 * **[55:17](#t=55:17)** #2 New iOS update helps find your missing Apple Airpods
 * **[1:00:01](#t=1:00:01)** #1 Fastest growing skills in the last quarter
-* **[1:03:50](#t=1:03:50)** Amazon web services
+* **[1:03:50](#t=1:03:50)*-Amazon web services
 * **[1:05:50](#t=1:05:50)** How Austin, Texas has changed
 
 
 ### LINKS:
 
-* [President Donald Trump on Twitter](https://www.twitter.com/realDonaldTrump)
-* [Dave Pell at Next Draft](http://nextdraft.com/current/)
-* [LinkedIn](https://www.linkedin.com)
-* [Massive Twitter Bot Army Exposed by Its Obsession With Star Wars](https://arxiv.org/pdf/1701.02405v1.pdf)
-* [Robot J. McCarthy](https://www.twitter.com/redscarebot)
-* [Tweetbot](https://tapbots.com/tweetbot/)
-* [CSS Dev Conf](http://cssdevconf.com/)
-* [Dark UX: Dirty Tricks and Tactics to Avoid in 2017](https://www.sitepoint.com/dark-ux-dirty-tricks-and-tactics-to-avoid-in-2017/)
-* [Publishers Clearing House](https://en.wikipedia.org/wiki/Publishers_Clearing_House)
-* [Newsweek](http://www.newsweek.com)
-* [React](https://code.facebook.com/projects/176988925806765/react/)
-* [Amazon job posting suggests plan to bring shopping experiences into VR](https://techcrunch.com/2017/01/19/amazon-job-posting-suggests-plans-to-bring-shopping-experiences-into-vr/)
-* [Spectacles by Snapchat](https://www.spectacles.com)
-* [Doctor Who](http://www.bbcamerica.com/shows/doctor-who)
-* [Left Shark](http://wikipedia.org/wiki/Left_Shark)
-* [Air Pods](http://www.apple.com/airpods/)
-* [Apple Pencil](http://www.apple.com/apple-pencil/)
-* [Lightning To Audio Jack Adapter Cable](http://www.banggood.com/USAMS-US-SJ102-Lightning-To-DC-3_5mm-Audio-Jack-Adapter-Cable-For-iPhone-77-Plus-iPhone-66s-Plus-p-1112075.html)
-* [Fastest-growing skills for Q4](https://www.upwork.com/press/2017/01/26/upwork-reveals-fastest-growing-skills-q4-natural-language-processing-tech-skills-top-list/)
-* [Simon St.Laurent](http://twitter.com/simonstl)
-* [Simon's website](http://simonstl.com)
+-[President Donald Trump on Twitter](https://www.twitter.com/realDonaldTrump)
+-[Dave Pell at Next Draft](http://nextdraft.com/current/)
+-[LinkedIn](https://www.linkedin.com)
+-[Massive Twitter Bot Army Exposed by Its Obsession With Star Wars](https://arxiv.org/pdf/1701.02405v1.pdf)
+-[Robot J. McCarthy](https://www.twitter.com/redscarebot)
+-[Tweetbot](https://tapbots.com/tweetbot/)
+-[CSS Dev Conf](http://cssdevconf.com/)
+-[Dark UX: Dirty Tricks and Tactics to Avoid in 2017](https://www.sitepoint.com/dark-ux-dirty-tricks-and-tactics-to-avoid-in-2017/)
+-[Publishers Clearing House](https://en.wikipedia.org/wiki/Publishers_Clearing_House)
+-[Newsweek](http://www.newsweek.com)
+-[React](https://code.facebook.com/projects/176988925806765/react/)
+-[Amazon job posting suggests plan to bring shopping experiences into VR](https://techcrunch.com/2017/01/19/amazon-job-posting-suggests-plans-to-bring-shopping-experiences-into-vr/)
+-[Spectacles by Snapchat](https://www.spectacles.com)
+-[Doctor Who](http://www.bbcamerica.com/shows/doctor-who)
+-[Left Shark](http://wikipedia.org/wiki/Left_Shark)
+-[Air Pods](http://www.apple.com/airpods/)
+-[Apple Pencil](http://www.apple.com/apple-pencil/)
+-[Lightning To Audio Jack Adapter Cable](http://www.banggood.com/USAMS-US-SJ102-Lightning-To-DC-3_5mm-Audio-Jack-Adapter-Cable-For-iPhone-77-Plus-iPhone-66s-Plus-p-1112075.html)
+-[Fastest-growing skills for Q4](https://www.upwork.com/press/2017/01/26/upwork-reveals-fastest-growing-skills-q4-natural-language-processing-tech-skills-top-list/)
+-[Simon St.Laurent](http://twitter.com/simonstl)
+-[Simon's website](http://simonstl.com)

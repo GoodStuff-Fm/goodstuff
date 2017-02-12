@@ -4,7 +4,7 @@ date: 2014-11-07 02:05:00 -06:00
 episode: 7
 mp3: http://podcasts-1.feedpress.co/10589/grownups-7.mp3
 description: Kari talks about the importance of self-care, how to recognize a personal
-  crisis before it happens, what to do if it does happen, and how she shouldn’t be
+  crisis before it happens, what to do if it does happen, and how she shouldn't be
   on your survival team.
 layout: episode
 ---
@@ -13,21 +13,21 @@ layout: episode
 
 * * *
 
-* [Audre Lorde][2]
+-[Audre Lorde][2]
 
-* [10 Hours of Walking in NYC as a Woman - YouTube][3]
+-[10 Hours of Walking in NYC as a Woman -YouTube][3]
 
 The video that launched some excellent intersectional feminist analysis.
 
-* [Halifax mom modifies marathon in support of sick daughter - The National - CBC Player][4]
+-[Halifax mom modifies marathon in support of sick daughter -The National -CBC Player][4]
 
 A great example of resetting your plans to accommodate life stress
 
-* [About Grace in Small Things][5]
+-[About Grace in Small Things][5]
 
-* [Happy Place | The Latest Funny Tweets][6]
+-[Happy Place | The Latest Funny Tweets][6]
 
-* [Structured Procrastination][7]
+-[Structured Procrastination][7]
 
 [1]: http://synd.co/12rDPby
 [2]: http://en.wikipedia.org/wiki/Audre_Lorde

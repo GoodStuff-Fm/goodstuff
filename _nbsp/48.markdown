@@ -15,14 +15,14 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-48.mp3
 layout: episode
 ---
 
--  [Sketch notes](https://twitter.com/samkap/status/569325916016369664) from this episode
+-[Sketch notes](https://twitter.com/samkap/status/569325916016369664) from this episode
 
--  [Style Guide podcast](styleguides.io/podcast/) podcast by Brad Frost and Anna Debenham
+-[Style Guide podcast](styleguides.io/podcast/) podcast by Brad Frost and Anna Debenham
 
--  [Resources on Front-end Architecture](https://github.com/micahgodbolt/front-end-architecture)
+-[Resources on Front-end Architecture](https://github.com/micahgodbolt/front-end-architecture)
 
--  [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
+-[The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
 
--  [Micah Godbolt on Twitter](https://twitter.com/micahgodbolt)
+-[Micah Godbolt on Twitter](https://twitter.com/micahgodbolt)
 
--  [Sass Bites podcast](http://youtube.com/SassBites)
+-[Sass Bites podcast](http://youtube.com/SassBites)

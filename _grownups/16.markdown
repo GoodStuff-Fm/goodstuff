@@ -9,9 +9,9 @@ description: 'Kari and Liz James discuss adult ADHD: definitions, advantages, ge
 layout: episode
 ---
 
-* [ADHD Is Different for Women — The Atlantic][1]
+-[ADHD Is Different for Women — The Atlantic][1]
 
-* [Rebel With A Label Maker | Mapping clouds since 2009][2]
+-[Rebel With A Label Maker | Mapping clouds since 2009][2]
 
 Liz's blog
 

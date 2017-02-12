@@ -15,10 +15,10 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-18.mp3
 layout: episode
 ---
 
--  [@PlayfulDesign](http://twitter.com/PlayfulDesign)
+-[@PlayfulDesign](http://twitter.com/PlayfulDesign)
 
--  [Playful Design - Creating Game Experiences in Everyday Interfaces](http://rosenfeldmedia.com/books/game-design/)
+-[Playful Design -Creating Game Experiences in Everyday Interfaces](http://rosenfeldmedia.com/books/game-design/)
 
--  [Fitter Critters on Apps for Healthy Kids](http://appsforhealthykids.com/submissions/6134-fitter-critters)
+-[Fitter Critters on Apps for Healthy Kids](http://appsforhealthykids.com/submissions/6134-fitter-critters)
 
--  [FitterCritters.com](http://fittercritters.com/index.php)
+-[FitterCritters.com](http://fittercritters.com/index.php)

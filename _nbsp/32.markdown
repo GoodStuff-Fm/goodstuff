@@ -18,20 +18,20 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-32.mp3
 layout: episode
 ---
 
--  [@goodwitch](https://twitter.com/goodwitch) on Twitter
+-[@goodwitch](https://twitter.com/goodwitch) on Twitter
 
--  [Glendathegood.com](http://glendathegood.com)
+-[Glendathegood.com](http://glendathegood.com)
 
--  [Deque.com](http://deque.com)
+-[Deque.com](http://deque.com)
 
--  [Glenda on LinkedIn](http://www.linkedin.com/in/goodwitch)
+-[Glenda on LinkedIn](http://www.linkedin.com/in/goodwitch)
 
--  [Glenda Watson Hyatt](http://www.doitmyselfblog.com)
+-[Glenda Watson Hyatt](http://www.doitmyselfblog.com)
 
--  [Penn State Accessibility](http://accessibility.psu.edu)
+-[Penn State Accessibility](http://accessibility.psu.edu)
 
--  [Lainey Feingold](http://lflegal.com) Disability Rights Legal Advocacy
+-[Lainey Feingold](http://lflegal.com) Disability Rights Legal Advocacy
 
--  [Federal Judge Rules that ADA Covers Web-only Businesses like Netflix](http://lflegal.com/2012/06/netflix/)
+-[Federal Judge Rules that ADA Covers Web-only Businesses like Netflix](http://lflegal.com/2012/06/netflix/)
 
--  [#a11y search on Twitter](https://twitter.com/search?q=a11y&src=typd)
+-[#a11y search on Twitter](https://twitter.com/search?q=a11y&src=typd)

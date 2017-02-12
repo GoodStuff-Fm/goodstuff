@@ -3,7 +3,7 @@ title: Brad Frost
 date: 2012-04-19 12:11:00 -06:00
 position: 7
 description: Brad is a mobile web strategist and front-end designer at the digital
-  advertising agency R/GA in New York. He’s also the creator of a Mobile Web Best
+  advertising agency R/GA in New York. He's also the creator of a Mobile Web Best
   Practices site, and one of the creative minds behind WTFMobileweb.com and wtfqrcodes.com.
 sponsor: 
 sponsor-link: 
@@ -14,22 +14,22 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-7.mp3
 layout: episode
 ---
 
-* [Brad Frost on Twitter](https://twitter.com/brad_frost)
-* [Brad Frost Web Web Design, Speaking, Consulting, Music and Art](http://bradfrostweb.com/)
-* [R/GA - Full-service interactive, digital advertising & marketing agency](http://www.rga.com/)
-* [Designing with Web Standards - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Designing_with_Web_Standards)
-* [WTF Mobile Web](http://wtfmobileweb.com/)
-* [5by5 The Web Ahead](http://5by5.tv/webahead)
-* [Blog Jen Simmons](http://jensimmons.com/)
-* [Control a game on your browser with an iOS device. HTML5 demo by Webdigi](http://www.webdigi.co.uk/fun/space/)
-* [For a Future-Friendly Web · An A List Apart Article](http://alistapart.com/article/for-a-future-friendly-web)
-* [Future Friendly](http://futurefriendlyweb.com/)
-* [This is the web. Brad Frost Web](http://bradfrostweb.com/blog/post/this-is-the-web/)
-* [Nike Better World. Nike.com](http://www.nike.com/us/en_us/c/better-world/)
-* [Behind The Scenes Of Nike Better World Smashing Coding](http://coding.smashingmagazine.com/2011/07/12/behind-the-scenes-of-nike-better-world/)
-* [Main Page « WordPress Codex](http://codex.wordpress.org/)
-* [Target Expect More. Pay Less.](http://www.target.com/)
-* [Ethan Marcotte is a web designer & developer who lives in Boston.](http://ethanmarcotte.com/)
-* [The Non-Breaking Space Show  Interviews with the web's best and brightest](http://nonbreakingspace.tv/ethan-marcotte/)
-* [Adactio Jeremy Keith](http://adactio.com/)
-* [Jeremy Keith - There Is No Mobile Web - BD Conf, Sept 2011 on Vimeo](https://vimeo.com/32143919)
+-[Brad Frost on Twitter](https://twitter.com/brad_frost)
+-[Brad Frost Web Web Design, Speaking, Consulting, Music and Art](http://bradfrostweb.com/)
+-[R/GA -Full-service interactive, digital advertising & marketing agency](http://www.rga.com/)
+-[Designing with Web Standards -Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Designing_with_Web_Standards)
+-[WTF Mobile Web](http://wtfmobileweb.com/)
+-[5by5 The Web Ahead](http://5by5.tv/webahead)
+-[Blog Jen Simmons](http://jensimmons.com/)
+-[Control a game on your browser with an iOS device. HTML5 demo by Webdigi](http://www.webdigi.co.uk/fun/space/)
+-[For a Future-Friendly Web · An A List Apart Article](http://alistapart.com/article/for-a-future-friendly-web)
+-[Future Friendly](http://futurefriendlyweb.com/)
+-[This is the web. Brad Frost Web](http://bradfrostweb.com/blog/post/this-is-the-web/)
+-[Nike Better World. Nike.com](http://www.nike.com/us/en_us/c/better-world/)
+-[Behind The Scenes Of Nike Better World Smashing Coding](http://coding.smashingmagazine.com/2011/07/12/behind-the-scenes-of-nike-better-world/)
+-[Main Page « WordPress Codex](http://codex.wordpress.org/)
+-[Target Expect More. Pay Less.](http://www.target.com/)
+-[Ethan Marcotte is a web designer & developer who lives in Boston.](http://ethanmarcotte.com/)
+-[The Non-Breaking Space Show  Interviews with the web's best and brightest](http://nonbreakingspace.tv/ethan-marcotte/)
+-[Adactio Jeremy Keith](http://adactio.com/)
+-[Jeremy Keith -There Is No Mobile Web -BD Conf, Sept 2011 on Vimeo](https://vimeo.com/32143919)

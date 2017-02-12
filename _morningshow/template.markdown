@@ -20,7 +20,7 @@ mp3: https://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E12.mp3
 ---
 
 #### Sponsor
-- [Feed.Press](http://feed.press/morningshow) – Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year.
+-[Feed.Press](http://feed.press/morningshow) ‐ Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year.
 
 ---
 
@@ -28,11 +28,11 @@ mp3: https://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E12.mp3
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://morningshow.am/support) to help make this show possible!
 
 #### Get in Touch
-* [Email](mailto:kyle@goodstuff.fm)
-* [Kyle on Twitter](http://twitter.com/dogburps)
-* [Kenny on Twitter](http://twitter.com/pizzarobotics)
-* [Morning Show on Twitter](http://twitter.com/morningshowam)
-* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+-[Email](mailto:kyle@goodstuff.fm)
+-[Kyle on Twitter](http://twitter.com/dogburps)
+-[Kenny on Twitter](http://twitter.com/pizzarobotics)
+-[Morning Show on Twitter](http://twitter.com/morningshowam)
+-[Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
 
 Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
 

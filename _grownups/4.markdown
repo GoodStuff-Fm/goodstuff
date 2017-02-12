@@ -1,51 +1,51 @@
 ---
-title: Try Uni No Wait Don’t Try Uni
+title: Try Uni No Wait Don't Try Uni
 date: 2014-10-03 01:58:00 -06:00
 episode: 4
 mp3: http://podcasts-1.feedpress.co/10589/grownups-4.mp3
 description: 'Kari and her guest Garth Braithwaite talk all things food and being
   a grown-up: managing hangry-ness, marrying into food traditions, living with diabetes,
   LDS food guidelines, what we eat after our kids are in bed, and how to find a sushi
-  mentor. Garth digs how Kari says “avocado.”'
+  mentor. Garth digs how Kari says "avocado."'
 ---
 
-* [America's Test Kitchen - Recipes That Work, TV Show Episodes, Kitchen Equipment Reviews, Taste Tests, How to Cook and Cooking Videos][1]
+-[America's Test Kitchen -Recipes That Work, TV Show Episodes, Kitchen Equipment Reviews, Taste Tests, How to Cook and Cooking Videos][1]
 
-* [Perfect Chocolate Chip Cookies Recipe - Food.com][2]
+-[Perfect Chocolate Chip Cookies Recipe -Food.com][2]
 
-* [ଅନିଲ on Twitter: "I feel fortunate living in the window after automated agriculture made meat affordable but before its impact is 100% ethically inexcusable."][3]
+-[ଅନିଲ on Twitter: "I feel fortunate living in the window after automated agriculture made meat affordable but before its impact is 100% ethically inexcusable."][3]
 
-* [Food, Inc. (2008) - IMDb][4]
+-[Food, Inc. (2008) -IMDb][4]
 
-* [Happy Feet (2006) - IMDb][5]
+-[Happy Feet (2006) -IMDb][5]
 
 The bait and switch of children's movies.
 
-* [The InkTober Initiative - Mr Jake Parker][6]
+-[The InkTober Initiative -Mr Jake Parker][6]
 
-* [Collaborative Design in the Open][7]
+-[Collaborative Design in the Open][7]
 
 Garth's talk at Adobe Max
 
-* [ConvergeRVA - October 10th 2014 - Richmond Virginia][8]
+-[ConvergeRVA -October 10th 2014 -Richmond Virginia][8]
 
 Garth's talk at Converge, "Designers Can Open Source"
 
-* [All Things Open | Garth Braithwaite][9]
+-[All Things Open | Garth Braithwaite][9]
 
 Garth is also talking at All Things Open
 
-* [Design Open | Home][10]
+-[Design Open | Home][10]
 
 Garth's project about designing in open source projects.
 
 #####  [Open Source Design Is Now Design Open — Medium][11]
 
-* [The Nightscout Project | We Are Not Waiting][12]
+-[The Nightscout Project | We Are Not Waiting][12]
 
 An amazing volunteer-driven open source project for accessing data from blood sugar monitors.
 
-* [nightscout on GitHub][13]
+-[nightscout on GitHub][13]
 
 [1]: http://www.americastestkitchen.com/
 [2]: http://www.food.com/recipe/perfect-chocolate-chip-cookies-americas-test-kitchen-387119

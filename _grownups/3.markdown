@@ -5,7 +5,7 @@ episode: 3
 mp3: http://podcasts-1.feedpress.co/10589/grownups-3.mp3
 description: Kari talks with Sheena Greer about divorce, second weddings, the care
   and feeding of second marriages, blending families, and giving yourself gifts instead
-  of treats. And how Sheena’s life goals include being a member of Run-DMC.
+  of treats. And how Sheena's life goals include being a member of Run-DMC.
 sponsor: Campaign Monitor
 sponsor-link: http://www.campaignmonitor.com/
 sponsor-copy: Tell them you heard about it on Goodstuff
@@ -13,25 +13,25 @@ show: grownups
 layout: episode
 ---
 
-* [Sheena Greer (@colludos) | Twitter](https://twitter.com/colludos)
+-[Sheena Greer (@colludos) | Twitter](https://twitter.com/colludos)
 
-* [Colludo](http://colludo.ca/)
+-[Colludo](http://colludo.ca/)
 Sheena's business website
 
-* [Sheena Greer | clever communicator & steadfast strategist | LinkedIn](http://www.linkedin.com/today/author/170748221-Sheena-Greer)
+-[Sheena Greer | clever communicator & steadfast strategist | LinkedIn](http://www.linkedin.com/today/author/170748221-Sheena-Greer)
 Sheena's amazing writing.
 
-* [Wedding photo of Sheena and Phil by Kathleen Hinkel](https://twitter.com/colludos/status/514148433217585152)
+-[Wedding photo of Sheena and Phil by Kathleen Hinkel](https://twitter.com/colludos/status/514148433217585152)
 
-* [Vancity Visuals - Kathleen Hinkel Photography](http://www.kathleenhinkelphotography.com/portfolio.html?folio=portfolios)
+-[Vancity Visuals -Kathleen Hinkel Photography](http://www.kathleenhinkelphotography.com/portfolio.html?folio=portfolios)
 Kathleen did Sheena and Phil's engagement and wedding photography
 
-* [The Wedding Industrial Complex, As It Were -- A Practical Wedding](http://apracticalwedding.com/2009/04/wedding-industrial-complex-as-it-were/)
+-[The Wedding Industrial Complex, As It Were --A Practical Wedding](http://apracticalwedding.com/2009/04/wedding-industrial-complex-as-it-were/)
 
-* [Father of the Bride (1991) - IMDb](http://www.imdb.com/title/tt0101862/)
+-[Father of the Bride (1991) -IMDb](http://www.imdb.com/title/tt0101862/)
 
-* [Economics](http://economics.bandcamp.com/)
+-[Economics](http://economics.bandcamp.com/)
 Economics is Dean, Sheena's first husband. His music is pretty great.
 
-* [dooce® | I'm Heather B. Armstrong. This is my website.](http://dooce.com/)
-Acknowledgement-of-the-episode - very inspirational to me as a woman out and about on the Web.
+-[dooce® | I'm Heather B. Armstrong. This is my website.](http://dooce.com/)
+Acknowledgement-of-the-episode -very inspirational to me as a woman out and about on the Web.

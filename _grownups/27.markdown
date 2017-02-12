@@ -4,7 +4,7 @@ date: 2016-04-18 02:31:00 -06:00
 episode: 27
 mp3: https://media.zencast.fm/i-guess-were-grown-ups-now/26.mp3
 description: |-
-  For Grown-Ups' first threesome, Kari and Brook are joined by Kayleigh to talk about polyamorism, paramours and metamours and poly unicorns, cis/straight and queer poly, models and structures of poly relationships, how to (and how not to) go polyamorous, jealousy, compersion, and how poly is like Agile. Turns out, Kari’s the only one who’s seen Three’s Company.
+  For Grown-Ups' first threesome, Kari and Brook are joined by Kayleigh to talk about polyamorism, paramours and metamours and poly unicorns, cis/straight and queer poly, models and structures of poly relationships, how to (and how not to) go polyamorous, jealousy, compersion, and how poly is like Agile. Turns out, Kari's the only one who's seen Three's Company.
 
   Also, we talk about butts.
 sponsor: Feed.Press
@@ -15,11 +15,11 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
-* [Kayleigh on Twitter][1]
+-[Kayleigh on Twitter][1]
 
-* [OUTSaskatoon][2]
+-[OUTSaskatoon][2]
 
-* [When someone selects "it's complicated," just think of this chart.][3]
+-[When someone selects "it's complicated," just think of this chart.][3]
 
 Amazing.
 

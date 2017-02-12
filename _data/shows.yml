@@ -86,7 +86,7 @@ nbsp:
   description: Seeking out the best, brightest, and smartest creative people on digital art, design, and development. From workflows to life hacks, we examine why they do what they do and how they did it.
   artwork: "/uploads/artwork-nbsp.jpg"
   color: #4EBA64
-  category1: "Technology - Tech News"
+  category1: "Technology -Tech News"
   category2: "Arts"
   category3: "Technology"
   keywords: tech, technology, web, design, interviews
@@ -102,7 +102,6 @@ master:
   explicit: explicit
   name: Goodstuff Broadcasting Master Audio Feed
   lang: EN
-  explicit: clean
   hosts: Goodstuff Broadcasting
   description: All episodes of all shows on Goodstuff
   artwork: "/uploads/artwork-master.jpg"
@@ -124,7 +123,6 @@ atu2:
   explicit: clean
   name: The atU2 Podcast
   lang: EN
-  explicit: clean
   collection: atu2
   hosts: Chris Enns and Matt McGee
   description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
@@ -210,7 +208,7 @@ smym:
   email: chris+smym@goodstuff.fm
   keywords: technology, how-to, podcasting
   category1: "Technology"
-  category2: "Technology - Podcasting"
+  category2: "Technology -Podcasting"
   category3:
   category4:
   category5:
@@ -224,7 +222,7 @@ specials:
   explicit: explicit
   collection: specials
   hosts: Goodstuff Hosts
-  description: Goodstuff special events - random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
+  description: Goodstuff special events -random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
   artwork: "/uploads/artwork-specials.jpg"
   color: #D85647
   show-twitter: "@GoodstuffFM"

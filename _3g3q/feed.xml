@@ -2,7 +2,7 @@
 title: Feed
 show: 3g3q
 ---
-
+<!--Old
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
@@ -66,5 +66,85 @@ show: 3g3q
 {% endunless %}
 {% endfor %}
 
+</channel>
+</rss>
+-->
+
+
+
+{% assign show = site.data.shows[page.show] %}
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+<channel>
+<title>{{ show.name | xml_escape }}</title>
+<atom:link href="{{ site.url }}/{{ show.collection }}/feed.xml" rel="self" type="application/rss+xml" />
+<link>{{ site.url }}</link>
+<description>{{ show.description | xml_escape }}</description>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>{{ show.description | xml_escape }}</itunes:summary>
+<itunes:author>{{ show.author }}</itunes:author>
+<itunes:explicit>{{ show.explicit }}</itunes:explicit>
+<itunes:image href="{{ site.url }}{{ show.artwork }}" />
+<itunes:owner>
+<itunes:name>{{ site.podcast_owner }}</itunes:name>
+<itunes:email>{{ site.podcast_email }}</itunes:email>
+</itunes:owner>
+<managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
+<itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
+<image>
+<title>{{ show.name | xml_escape }}</title>
+<url>{{ site.url }}{{ show.artwork }}</url>
+<link>{{ site.url }}</link>
+</image>
+<itunes:category text="{{ show.category1 }}">
+<itunes:category text="{{ show.category2 }}" />
+<itunes:category text="{{ show.category2 }}" />
+</itunes:category>
+{% for doc in site[show.collection] %}
+{% unless doc.title == 'Feed' %}
+  <item>
+    <title>{{ doc.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ doc.url }}</link>
+    <comments>{{ site.url }}{{ doc.url }}#notes</comments>
+    <pubDate>{{ doc.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+    <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
+{% for category in doc.categories %}
+    <category><![CDATA[{{ category | cdata_escape }}]]></category>
+{% endfor %}
+{% for category in doc.tags %}
+    <category><![CDATA[{{ category | cdata_escape }}]]></category>
+{% endfor %}
+    <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
+    <description>
+        <![CDATA[{{ doc.decription | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+    </description>
+    <content:encoded>
+        <![CDATA[{{ doc.content | expand_urls: site.url | cdata_escape }}]]>
+    </content:encoded>
+
+    <enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
+    <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
+    <itunes:author>{{ show.hosts }}</itunes:author>
+    <itunes:image href="{{ site.url }}{{ doc.artwork }}" />
+    <itunes:explicit>{{ doc.explicit }}</itunes:explicit>
+    <itunes:duration>{{ doc.duration }}</itunes:duration>
+  </item>
+{% endunless %}
+{% endfor %}
 </channel>
 </rss>

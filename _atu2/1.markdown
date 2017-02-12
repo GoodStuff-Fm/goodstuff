@@ -1,5 +1,5 @@
 ---
-title: We’re a Podcast from the Internet. This is Our First Episode. We Hope You Like
+title: We're a Podcast from the Internet. This is Our First Episode. We Hope You Like
   It.
 date: 2015-07-13 12:11:00 -06:00
 description: Hosts Matt McGee and Chris Enns introduce the what, where, why and how
@@ -13,8 +13,8 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-1.mp3
 layout: episode
 ---
 
-* [Discuss this episode](https://www.reddit.com/r/Goodstuff_fm/comments/3dad4n/the_atu2_podcast1_were_a_podcast_from_the/)
-* [U2 on Song Exploder Discussing Cedarwood Road](http://songexploder.net/u2)
-* [About @U2: Staff Directory](http://www.atu2.com/contact/)
-* [The Cutting Room » ATU2.com 20th Anniversary Party feat. The Unforgettable Fire – Tickets – The Cutting Room – New York, NY – July 29th, 2015](http://tickets.thecuttingroomnyc.com/event/829715-atu2com-20th-anniversary-party-new-york/)
-* [Unforgettable Fire - NYC Based U2 Tribute Band](http://www.uf2.com/)
+-[Discuss this episode](https://www.reddit.com/r/Goodstuff_fm/comments/3dad4n/the_atu2_podcast1_were_a_podcast_from_the/)
+-[U2 on Song Exploder Discussing Cedarwood Road](http://songexploder.net/u2)
+-[About @U2: Staff Directory](http://www.atu2.com/contact/)
+-[The Cutting Room » ATU2.com 20th Anniversary Party feat. The Unforgettable Fire ‐ Tickets ‐ The Cutting Room ‐ New York, NY ‐ July 29th, 2015](http://tickets.thecuttingroomnyc.com/event/829715-atu2com-20th-anniversary-party-new-york/)
+-[Unforgettable Fire -NYC Based U2 Tribute Band](http://www.uf2.com/)

@@ -5,7 +5,7 @@ episode: 24
 mp3: http://podcasts-1.feedpress.co/10589/grownups-24.mp3
 description: Brook and Kari talk about the ups and downs of volunteering, kids volunteering
   badly, empathy and relationship building, selflessness and selfishness, how broken
-  the system can be, doing “little” things, giving yourself credit, volunteering at
+  the system can be, doing "little" things, giving yourself credit, volunteering at
   work.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
@@ -15,11 +15,11 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
-* [The 2013 Texas filibuster for reproductive rights][1]
+-[The 2013 Texas filibuster for reproductive rights][1]
 
-* [Basic Rights Oregon][2]
+-[Basic Rights Oregon][2]
 
-* [Women's Foundation of Oregon][3]
+-[Women's Foundation of Oregon][3]
 
 [1]: https://en.wikipedia.org/wiki/Wendy_Davis_(politician)#2013_filibuster
 [2]: http://www.basicrights.org/

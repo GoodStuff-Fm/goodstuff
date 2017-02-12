@@ -14,64 +14,64 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-47.mp3
 layout: episode
 ---
 
-* [GitHub](https://github.com/)
+-[GitHub](https://github.com/)
 
 
-* [Austin Center for Design | An educational institution in Austin, Texas, teaching Interaction Design and Social Entrepreneurship](http://www.ac4d.com/)
+-[Austin Center for Design | An educational institution in Austin, Texas, teaching Interaction Design and Social Entrepreneurship](http://www.ac4d.com/)
 
 
-* [Red Deer College](http://rdc.ab.ca/)
+-[Red Deer College](http://rdc.ab.ca/)
 
 
-* [Collection](http://www.curioroad.com/collection/)
+-[Collection](http://www.curioroad.com/collection/)
 
 
-* [Rosenfeld Media | Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/)
+-[Rosenfeld Media | Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/)
 
 
-* [GDC: Graphic Designers of Canada](http://gdc.net//)
+-[GDC: Graphic Designers of Canada](http://gdc.net//)
 
 
-* [TEDxRedDeer - Steve Fisher - What Can We Learn From Open Source - YouTube](https://www.youtube.com/watch?v=sK3YH3-5nDo)
+-[TEDxRedDeer -Steve Fisher -What Can We Learn From Open Source -YouTube](https://www.youtube.com/watch?v=sK3YH3-5nDo)
 
 
-* [Hello Fisher - Steve Fisher - Content Strategist and Responsive User Experience Design for the Web](http://hellofisher.com/)
+-[Hello Fisher -Steve Fisher -Content Strategist and Responsive User Experience Design for the Web](http://hellofisher.com/)
 
 
-* [Yellow Pencil | Future Friendly Web Design & Development](http://www.yellowpencil.com/)
+-[Yellow Pencil | Future Friendly Web Design & Development](http://www.yellowpencil.com/)
 
 
-* [Style Tiles](http://styletil.es/)
+-[Style Tiles](http://styletil.es/)
 
 
-* [Interactive Style Tiles - The Republic of Quality Blog - Republic of Quality](http://www.republicofquality.com/style-tiles/)
+-[Interactive Style Tiles -The Republic of Quality Blog -Republic of Quality](http://www.republicofquality.com/style-tiles/)
 
 
-* [Brad Frost Web | Web Design, Speaking, Consulting, Music and Art](http://bradfrostweb.com/)
+-[Brad Frost Web | Web Design, Speaking, Consulting, Music and Art](http://bradfrostweb.com/)
 
 
-* [Our New Responsive Design Deliverable: The Style Prototype | Sparkbox | Web Design and Development](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
+-[Our New Responsive Design Deliverable: The Style Prototype | Sparkbox | Web Design and Development](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
 
 
-* [Republic of Quality - Responsive Web Design Process](http://responsiveprocess.com/)
+-[Republic of Quality -Responsive Web Design Process](http://responsiveprocess.com/)
 
 
-* [The Shape of Design - A book by Frank Chimero](http://shapeofdesignbook.com/)
+-[The Shape of Design -A book by Frank Chimero](http://shapeofdesignbook.com/)
 
 
-* [Anatomy of a Mobile-First Responsive Web Design | Brad Frost Web](http://bradfrostweb.com/blog/mobile/anatomy-of-a-mobile-first-responsive-web-design/)
+-[Anatomy of a Mobile-First Responsive Web Design | Brad Frost Web](http://bradfrostweb.com/blog/mobile/anatomy-of-a-mobile-first-responsive-web-design/)
 
 
-* [CodePen - Front End Developer Playground & Code Editor in the Browser](http://codepen.io/)
+-[CodePen -Front End Developer Playground & Code Editor in the Browser](http://codepen.io/)
 
 
-* [Encarta - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Encarta)
+-[Encarta -Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Encarta)
 
 
-* [The open source way](http://www.theopensourceway.org/)
+-[The open source way](http://www.theopensourceway.org/)
 
 
-* [Karen McGrane - Confab Events](http://confabevents.com/past-events/minneapolis-2013/speakers/karen-mcgrane/index.html)
+-[Karen McGrane -Confab Events](http://confabevents.com/past-events/minneapolis-2013/speakers/karen-mcgrane/index.html)
 
 
-* [Steve Fisher (hellofisher) on Twitter](https://twitter.com/hellofisher)(hellofisher)
+-[Steve Fisher (hellofisher) on Twitter](https://twitter.com/hellofisher)(hellofisher)

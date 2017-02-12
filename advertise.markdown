@@ -11,8 +11,8 @@ We typically sell our sponsorships on a run-of-network basis, which means your a
 
 ## Sponsorships typically include:
 
-* A mention during the introduction of the show.
-* A 2-3 minute spot in the mid-roll of the show (depending on the show)
+-A mention during the introduction of the show.
+-A 2-3 minute spot in the mid-roll of the show (depending on the show)
 * Thanks at the end of the show
 * Link in the episode page and RSS feed
 * Run-of-network sponsorships also receive a tweet at the beginning and end of each week from the [Goodstuff.fm Twitter account][1].

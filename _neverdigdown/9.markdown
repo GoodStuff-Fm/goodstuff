@@ -27,9 +27,9 @@ They say to write what you know, so I wrote a book about Minecraft. Well, part o
 
 [Minecraft Handbook 4: The Construction Handbook](http://www.amazon.ca/gp/product/1405268425/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=1405268425&linkCode=as2&tag=farawsoclos0a-20)
 
-[Iron Golem - Minecraft Wiki](http://minecraft.gamepedia.com/Iron_Golem)
+[Iron Golem -Minecraft Wiki](http://minecraft.gamepedia.com/Iron_Golem)
 
-[Adventure - Minecraft Wiki](http://minecraft.gamepedia.com/Adventure)
+[Adventure -Minecraft Wiki](http://minecraft.gamepedia.com/Adventure)
 
 Adventure mode is a game mode intended for player-created maps by limiting some of the gameplay in Minecraft, in which the player cannot directly destroy most blocks to avoid spoiling adventure maps or griefing servers. Most blocks cannot be destroyed without the proper items. However, players can still craft items and interact with mobs, item frames, and paintings.
 
@@ -37,60 +37,60 @@ Adventure mode is a game mode intended for player-created maps by limiting some 
 
 I left the mojang office for the last time, and didn't properly say bye because everything is strange.
 
-[Eye of Ender - Minecraft Wiki](http://minecraft.gamepedia.com/Eye_of_Ender)
+[Eye of Ender -Minecraft Wiki](http://minecraft.gamepedia.com/Eye_of_Ender)
 
 An Eye of Ender (or Ender Eye) is a craftable item used to locate and activate End portals within Strongholds.
 
-[Ender Pearl - Minecraft Wiki](http://minecraft.gamepedia.com/Ender_Pearl)
+[Ender Pearl -Minecraft Wiki](http://minecraft.gamepedia.com/Ender_Pearl)
 
 An Ender Pearl is an item which is used to teleport.
 
-[Enderman - Minecraft Wiki](http://minecraft.gamepedia.com/Enderman)
+[Enderman -Minecraft Wiki](http://minecraft.gamepedia.com/Enderman)
 
 Endermen are unique neutral mobs that can teleport.
 
-[Stronghold - Minecraft Wiki](http://minecraft.gamepedia.com/Stronghold)
+[Stronghold -Minecraft Wiki](http://minecraft.gamepedia.com/Stronghold)
 
 Strongholds are structures that occur naturally underground, and are primarily important because they house End Portals. Strongholds can be located using Eyes of Ender.
 
-[End Portal - Minecraft Wiki](http://minecraft.gamepedia.com/End_Portal)
+[End Portal -Minecraft Wiki](http://minecraft.gamepedia.com/End_Portal)
 
 An End Portal (sometimes called Ender Portal) is a naturally occurring structure that is used to travel into The End. It can only be found in strongholds, and consists of 12 End Portal blocks, organized into a horizontal ring shape five blocks square. Each frame block requires an Eye of Ender to activate the portal.
 
-[The End - Minecraft Wiki](http://minecraft.gamepedia.com/The_End)
+[The End -Minecraft Wiki](http://minecraft.gamepedia.com/The_End)
 
 The End is a dimension with a stark, empty plane containing a single floating planet-like island made of a unique material known as end stone, dotted with obsidian pillars. These islands float in the Void.
 
-[Silverfish - Minecraft Wiki](http://minecraft.gamepedia.com/Silverfish)
+[Silverfish -Minecraft Wiki](http://minecraft.gamepedia.com/Silverfish)
 
 Silverfish are small, bug-like hostile mobs.
 
-[Ocean monument - Minecraft Wiki](http://minecraft.gamepedia.com/Ocean_monument)
+[Ocean monument -Minecraft Wiki](http://minecraft.gamepedia.com/Ocean_monument)
 
 Ocean Monuments are naturally generated underwater structures that appear in deep oceans, sometimes intruding into nearby regular oceans. Monuments are inhabited by guardians and up to three elder guardians.
 
-[Enchanting - Minecraft Wiki](http://minecraft.gamepedia.com/Depth_strider#Depth_Strider)
+[Enchanting -Minecraft Wiki](http://minecraft.gamepedia.com/Depth_strider#Depth_Strider)
 
 Increases underwater movement speed
 
-[Potion - Minecraft Wiki](http://minecraft.gamepedia.com/Potion_of_Water_Breathing#Potion_of_Water_Breathing)
+[Potion -Minecraft Wiki](http://minecraft.gamepedia.com/Potion_of_Water_Breathing#Potion_of_Water_Breathing)
 
 Prevents the oxygen bar from decreasing and slightly increases visibility while underwater.
 
-[Computer Built in Minecraft Has RAM, Performs Division - The Escapist](http://www.escapistmagazine.com/news/view/109385-Computer-Built-in-Minecraft-Has-RAM-Performs-Division)
+[Computer Built in Minecraft Has RAM, Performs Division -The Escapist](http://www.escapistmagazine.com/news/view/109385-Computer-Built-in-Minecraft-Has-RAM-Performs-Division)
 
 The CPU built with redstone circuitry can load code into its RAM and even print results on a screen.
 
-[▶ Minecraft CPU brief overview - YouTube](https://www.youtube.com/watch?v=yuMlhKI-pzE)
+[▶ Minecraft CPU brief overview -YouTube](https://www.youtube.com/watch?v=yuMlhKI-pzE)
 
 a CPU i made inside Minecraft.
 
-[▶ Minecraft CPU performing DIVISION - YouTube](https://www.youtube.com/watch?v=HnrO3cStWOI&src_vid=yuMlhKI-pzE&feature=iv&annotation_id=annotation_503121)
+[▶ Minecraft CPU performing DIVISION -YouTube](https://www.youtube.com/watch?v=HnrO3cStWOI&src_vid=yuMlhKI-pzE&feature=iv&annotation_id=annotation_503121)
 
 in this video, my minecraft CPU runs a program i wrote for it that divides two numbers given by the user.
 
-[The Diamond Age - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/The_Diamond_Age)
+[The Diamond Age -Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/The_Diamond_Age)
 
 The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction bildungsroman or coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life.
 
-[Turing machine - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Turing_machine)
+[Turing machine -Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Turing_machine)

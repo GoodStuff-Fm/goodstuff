@@ -6,7 +6,7 @@
 
     {% include head.html %}
 
-    <!-- Twitter Card -->
+    <!--Twitter Card -->
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
     <meta name="twitter:card" content="player" />
     <meta name="twitter:site" content="{{ show.show-twitter }}" />
@@ -26,7 +26,7 @@
     {% include nav.html %}
     <div class="container">
 
-<!-- Show Information -->
+<!--Show Information -->
       <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
       <ul class="episode__show">
         <li class="episode__show__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50"/></a></li>
@@ -40,7 +40,7 @@
         </li>
       </ul>
 
-<!-- Next and Previous Episodes Link -->
+<!--Next and Previous Episodes Link -->
       <div class="episode__navigation">
 
         {% if page.next.url and page.previous.url and page.next.title != 'Feed' %}
@@ -53,7 +53,7 @@
 
         <hr class="page__rule" />
 
-<!-- Episode Information -->
+<!--Episode Information -->
       <div class="episode__title">
         {{ page.title }}
       </div>
@@ -90,20 +90,20 @@
 
         <ul class="episode__player__links">
           <li><a href="{{ page.mp3 }}"><i class="fa fa-download fa-1x" aria-hidden="true"></i>Download MP3</a></li>
-          <li><a href="http://twitter.com/intent/tweet?text={{ show.name }} {{ page.episode }}: {{ page.title }} on @GoodstuffFM - goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-twitter fa-1x"></i>Share on Twitter</a></li>
+          <li><a href="http://twitter.com/intent/tweet?text={{ show.name }} {{ page.episode }}: {{ page.title }} on @GoodstuffFM -goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-twitter fa-1x"></i>Share on Twitter</a></li>
           <li><a href="http://www.facebook.com/sharer/sharer.php?u=http://goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-facebook fa-1x"></i>Share on Facebook</a></li>
         </ul>
 
         <hr class="page__rule" />
       {% endif %}
 
-<!-- Page Content -->
+<!--Page Content -->
 
       <div class="episode__header">
         Links and Show Notes
       </div>
 
-      <div class="episode__content">
+      <div class="episode__content" id="notes">
         {{ page.content }}
       </div>
 

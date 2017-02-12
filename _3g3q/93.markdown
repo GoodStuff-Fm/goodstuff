@@ -1,5 +1,5 @@
 ---
-title: S06:E08.5 - Lertning Rernd
+title: S06:E08.5 -Lertning Rernd
 date: 2016-03-04 22:42:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E08_5.mp3
 episode: 93
@@ -10,44 +10,38 @@ description: Questioning questions, inside jokes, and Flavortown.
 
 # Questions
 
-* **"Riddle me this: Why should we question everything?"** [—jondaiello via Twister][2]
-* **"What's your favorite perdcast inside joke?"** [—@isthistheshow via Twooter][3]
-* **"How often do you visit Flavortown?"** [—ahuster via StuffySlack][4]
-    * [Try, Try Again - a Movie Club][5]
+-**"Riddle me this: Why should we question everything?"**-[—jondaiello via Twister][2]
+-**"What's your favorite perdcast inside joke?"**-[—@isthistheshow via Twooter][3]
+-**"How often do you visit Flavortown?"**-[—ahuster via StuffySlack][4]
+  -[Try, Try Again -a Movie Club][5]
 
-# Followup & Feedback
+# Followup &amp; Feedback
 
-* Disneyland sympathies
-* Up-and-down ride
-* Music beds
-* Fuller House
+-Disneyland sympathies
+-Up-and-down ride
+-Music beds
+-Fuller House
 
 ***
 
 # Follow Us
-* Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
-* Andrew: [@A_Sav](http://twitter.com/a_sav)
-* Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
+-Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
+-Andrew: [@A_Sav](http://twitter.com/a_sav)
+-Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
 
 # Braaaaaand Engagement
-* [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
-* Call/text us: 760-881-4382
-* [Ask on Tumblr](http://3g3q.co/ask)
-* Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
+-[#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
+-Call/text us: 760-881-4382
+-[Ask on Tumblr](http://3g3q.co/ask)
+-Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
 
 ***
 
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
-The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
+The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
 
 [1]: http://l.gdwn.co/1jkmQ.jpg
 [2]: https://twitter.com/408611390/status/700747271541911552
 [3]: https://twitter.com/4251346693/status/700765030409592832
 [4]: http://www.trustedglobaladvisors.com/Andrew-Schuster.e355827.htm
 [5]: https://trytryagain.simplecast.fm
-[6]: http://twitter.com/aaronlmgoodwin
-[7]: http://twitter.com/a_sav
-[8]: http://twitter.com/thatadamkid
-[9]: http://3g3q.co/ask
-[10]: http://www.patreon.com/3g3q
-[11]: http://goodstuff.fm/3g3q/ 

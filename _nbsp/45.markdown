@@ -14,48 +14,48 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-45.mp3
 layout: episode
 ---
 
--  [Paravel](http://paravelinc.com)
+-[Paravel](http://paravelinc.com)
 
--  [Trent Walton](http://trentwalton.com)
+-[Trent Walton](http://trentwalton.com)
 
--  [E4H](http://environmentsforhumans.com)
+-[E4H](http://environmentsforhumans.com)
 
--  [Carl Smith](http://www.ngenworks.com)
+-[Carl Smith](http://www.ngenworks.com)
 
--  [Remote by 37Signals](http://37signals.com/remote/)
+-[Remote by 37Signals](http://37signals.com/remote/)
 
--  [Captial Factory in Austin, Texas](http://capitalfactory.com)
+-[Captial Factory in Austin, Texas](http://capitalfactory.com)
 
--  [Evernote](https://evernote.com)
+-[Evernote](https://evernote.com)
 
--  [CSSDevConf](http://2013.cssdevconf.com)
+-[CSSDevConf](http://2013.cssdevconf.com)
 
--  [Mailbox.app](https://itunes.apple.com/ca/app/mailbox/id576502633?mt=8&uo=4&at=10l4Ki)
+-[Mailbox.app](https://itunes.apple.com/ca/app/mailbox/id576502633?mt=8&uo=4&at=10l4Ki)
 
--  [Social Notworking](https://medium.com/better-humans/6b51342bc0d1) by Brad Smith
+-[Social Notworking](https://medium.com/better-humans/6b51342bc0d1) by Brad Smith
 
--  [Slow television](http://en.wikipedia.org/wiki/Slow_television)
+-[Slow television](http://en.wikipedia.org/wiki/Slow_television)
 
--  [Star Trek The Next Generation 24hr Background Noise](https://www.youtube.com/watch?v=ZPoqNeR3_UA)
+-[Star Trek The Next Generation 24hr Background Noise](https://www.youtube.com/watch?v=ZPoqNeR3_UA)
 
--  [Jonathan Snook](http://snook.ca)
+-[Jonathan Snook](http://snook.ca)
 
--  [Brad Frost](http://bradfrostweb.com)
+-[Brad Frost](http://bradfrostweb.com)
 
--  [SASS](http://sass-lang.com)
+-[SASS](http://sass-lang.com)
 
--  [Grunt.js](http://gruntjs.com)
+-[Grunt.js](http://gruntjs.com)
 
--  [Accessibilty Project](https://github.com/a11yproject/a11yproject.com/)
+-[Accessibilty Project](https://github.com/a11yproject/a11yproject.com/)
 
--  [HealthCare.gov](https://www.healthcare.gov)
+-[HealthCare.gov](https://www.healthcare.gov)
 
--  [Shop Talk Show](http://shoptalkshow.com)
+-[Shop Talk Show](http://shoptalkshow.com)
 
--  [@davatron5000](https://twitter.com/davatron5000)
+-[@davatron5000](https://twitter.com/davatron5000)
 
--  [Dave on Github](https://github.com/davatron5000)
+-[Dave on Github](https://github.com/davatron5000)
 
--  [@samkap](https://twitter.com/samkap)
+-[@samkap](https://twitter.com/samkap)
 
--  [@teleject](https://twitter.com/teleject)
+-[@teleject](https://twitter.com/teleject)

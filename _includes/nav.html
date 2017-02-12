@@ -1,16 +1,35 @@
 <div class="container__wide__dark">
   <nav role="navigation" class="header">
     <ul class="header__list">
-      <!-- Goodstuff Logo -->
+      <!--Goodstuff Logo -->
       <li class="header__list__item">
         <a href="/"><img src="{{ site.logo-small }}" class="header__list__logo" alt="{{ site.title }}" /></a>
       </li>
-      <!-- Page Loop -->
-        {% for item in site.data.navigation.header %}
+      <!--Page Loop -->
         <li class="header__list__item">
-          <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
+          <a href="/about/" class="header__list__link">About</a>
         </li>
-        {% endfor %}
+        <li class="header__list__item">
+          <a href="/broadcasts/" class="header__list__link">Broadcasts</a>
+        </li>
+        <li class="header__list__item">
+          <a href="/people/" class="header__list__link">People</a>
+        </li>
+        <li class="header__list__item">
+          <a href="/support/" class="header__list__link">Support</a>
+        </li>
+        <li class="header__list__item">
+          <a href="/posts/" class="header__list__link">Posts</a>
+        </li>
+        <li class="header__list__item">
+          <a href="/contact/" class="header__list__link">Contact</a>
+        </li>
+        <li class="header__list__item">
+          <a href="/schedule/" class="header__list__link">Schedule</a>
+        </li>
+        <li class="header__list__item">
+          <a href="/advertise/" class="header__list__link">Advertise</a>
+        </li>
 
         {% for collection in site.collections %}
         {% if collection.live == true %}

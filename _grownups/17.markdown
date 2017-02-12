@@ -8,27 +8,27 @@ description: Kari chats with Chris Enns about social media fasting, FOMO/JOMO, f
 sponsor: HipChat
 sponsor-link: http://synd.co/1xlpYla
 sponsor-copy: HipChat combines team chat, video chat and file sharing into one simple
-  application. Start chatting. It’s free. Sponsored via Syndicate
+  application. Start chatting. It's free. Sponsored via Syndicate
 layout: episode
 ---
 
-* [Chris Enns (@iChris) | Twitter][1]
+-[Chris Enns (@iChris) | Twitter][1]
 
-* [Daily(ish) - Goodstuff FM][2]
+-[Daily(ish) -Goodstuff FM][2]
 
-* [Too Lazy to Blog Episode 11 with Kari Halsted | SSKTN][3]
+-[Too Lazy to Blog Episode 11 with Kari Halsted | SSKTN][3]
 
-* [Scribbling.net | The Great Twitter Unfollow][4]
+-[Scribbling.net | The Great Twitter Unfollow][4]
 
-* [Fear of missing out - Wikipedia, the free encyclopedia][5]
+-[Fear of missing out -Wikipedia, the free encyclopedia][5]
 
-* [Satisficing: Increase Your Happiness By Learning to Settle for "Good Enough"][6]
+-[Satisficing: Increase Your Happiness By Learning to Settle for "Good Enough"][6]
 
-* [Jubilee (biblical) - Wikipedia, the free encyclopedia][7]
+-[Jubilee (biblical) -Wikipedia, the free encyclopedia][7]
 
-* [garfield minus garfield][8]
+-[garfield minus garfield][8]
 
-* [Chris' blog at chrisenns.com: Faraway, So Close][9]
+-[Chris' blog at chrisenns.com: Faraway, So Close][9]
 
 [1]: https://twitter.com/ichris
 [2]: http://goodstuff.fm/dailyish

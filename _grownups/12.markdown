@@ -4,17 +4,17 @@ date: 2015-01-14 02:10:00 -06:00
 episode: 12
 mp3: http://podcasts-1.feedpress.co/10589/grownups-12.mp3
 description: Kari talks about the benefits of speaking out, and also the benefits
-  of shutting up. And about potential future topics for I Guess We’re Grown-Ups Now.
+  of shutting up. And about potential future topics for I Guess We're Grown-Ups Now.
 layout: episode
 ---
 
-* [It Gets Better Project][1]
+-[It Gets Better Project][1]
 
-* [Speaking While Female - NYTimes.com][2]
+-[Speaking While Female -NYTimes.com][2]
 
 When a woman speaks in a professional setting, she walks a tightrope. Either she's barely heard or she's judged as too aggressive. When a man says virtually the same thing, heads nod in appreciation for his fine idea. As a result, women often decide that saying less is more.
 
-* [On not doing things. | the other hilary][3]
+-[On not doing things. | the other hilary][3]
 
 I'm reading so, so much from women of colour on Twitter and my problems are nothing, my complaints infinitesimal in comparison. I am trying to support, to decenter myself in discussions and this is new territory for me to navigate as an opinion(ated) writer. I hate how much I use "I". It's always bothered me.
 
