@@ -26,12 +26,15 @@ Once you have finished editing your episode, you must press the green **Save** b
 
 ### New Documents
 
+![Title](https://cl.ly/2Z3R1j3h1T1l/Screen%20Shot%202017-02-12%20at%201.22.34%20AM.png)
 #### Title
 This is the actual title of your episode in words (ex. Unleashing Revolutionary Architectures with Cats)
 
-#### URL
-This is the permalink for your episode on Goodstuff. Make sure the permalink is the same as the episode number set in `episode`
+![Path](https://cl.ly/2k1Y1F1r0w3O/Screen%20Shot%202017-02-12%20at%201.23.52%20AM.png)
+#### Path
+This is the permalink for your episode on Goodstuff. You set this by clicking the edit icon (pencil). Make sure the path is the same as the episode number set in `episode` (ex. 103)
 
+![Date](https://cl.ly/061V2P131D1x/Screen%20Shot%202017-02-12%20at%201.25.13%20AM.png)
 #### Date
 This is the date that the episode is to be published. This will be the date displayed on the website, the feed, and podcast players.
 
