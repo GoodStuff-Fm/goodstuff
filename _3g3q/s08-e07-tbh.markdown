@@ -1,0 +1,60 @@
+---
+title: S08:E07 - “TBH”
+date: 2017-02-11 22:36:00 -06:00
+mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S08E07.mp3
+show: 3g3q
+description: Soap fights, shoe shame, & a court caper
+sponsor: truth, justice, and the American Way
+sponsor-link: 
+sponsor-copy: 
+layout: episode
+---
+
+![Episode Artwork][1]
+
+# Questions
+
+## Andrew: What moment were you most proud of yourself?
+
+* Bed, Bath, and Beyond 
+* Arkansas Blackfish
+* Mario Wizard
+
+## Aaron: What "little white lie" have you regretted?
+
+* Shoe Issue
+* Sprechen Sie Deutsch?
+* Expert Witness 
+
+## Adam: What celebrity do you most want to have dinner with?
+
+* His Royal Highness
+* Xenu
+* Goop
+
+# Follow Us
+
+* Aaron: [@AaronLMGoodwin][2]
+* Andrew: [@A_Sav][3]
+* Adam: [@ThatAdamKid][4]
+
+# Braaaaaand Engagement
+
+* #Ask3G on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr][5]
+* Get exclusive content at [patreon.com][6]
+
+***
+
+##  [Listen to other great shows on Goodstuff.fm][7]
+
+The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
+
+[1]: http://l.gdwn.co/BGVe.JPG
+[2]: http://twitter.com/aaronlmgoodwin
+[3]: http://twitter.com/a_sav
+[4]: http://twitter.com/thatadamkid
+[5]: http://3g3q.co/ask
+[6]: http://www.patreon.com/3g3q
+[7]: http://goodstuff.fm/3g3q/ http://www.goodstuff.fm
