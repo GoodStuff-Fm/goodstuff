@@ -1,0 +1,19 @@
+---
+title: Cry You Later
+date: 2017-02-09 23:19:00 -06:00
+episode: 31
+show: grownups
+description: Brook and Kari discuss crying, particularly at work, and what it means,
+  why we do it, and what to do if you see someone doing it.
+mp3: http://podcasts-1.feedpress.co/10589/grownups-31.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/grownups
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code grownups
+  during checkout to get 10% off your first year.
+layout: episode
+---
+
+[CBC Listen | The Current | Crying at work could damage your career, study suggests](http://www.cbc.ca/listen/shows/the-current/segment/11195443)
+
+Naaaahhhhh
