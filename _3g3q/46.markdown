@@ -4,8 +4,8 @@ date: 2015-05-25 12:11:00 -06:00
 position: 80
 description: Long Twitter, pineapple enzymes, & rubber dinosaurs.
 sponsor: chicken nuggets, french fries, and generally unhealthy foods.
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 46
 show: 3g3q

@@ -3,9 +3,9 @@ title: S03:E07.5 - “Feeling Sexy”
 date: 2015-02-27 12:11:00 -06:00
 position: 92
 description: Music, Attractiveness, and Math
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 season: 3
 episode: 34
 show: 3g3q

@@ -3,9 +3,9 @@ title: S04:E11.5 - "Too Old For This"
 date: 2015-08-08 12:11:00 -06:00
 position: 66
 description: Lightning round
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 60
 show: 3g3q
