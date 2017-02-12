@@ -18,20 +18,33 @@ To manage your show and view episodes, you'll select the Collection with your sh
 If you'd like to access and manage your show more directly, you can bookmark the collection/show's URL in Siteleaf.
 
 ### Creating an Episode
-To create a new episode, you'll click on **New document** on the top right of your show's collection. This will display a screen with all of the fields you need for your show to be posted.
+To create a new episode, you'll click on **New document** on the top right of your show's collection.
 
 You can also bookmark this page if you'd like to go directly to creating a new episode.
 
 Once you have finished editing your episode, you must press the green **Save** button. This does not publish the episode. You will need to then press the **Publish Changes** button on the top right to publish your episode.
 
+### New Documents
+
 #### Title
 This is the actual title of your episode in words (ex. Unleashing Revolutionary Architectures with Cats)
+
+#### URL
+This is the permalink for your episode on Goodstuff. Make sure the permalink is the same as the episode number set in `episode`
 
 #### Date
 This is the date that the episode is to be published. This will be the date displayed on the website, the feed, and podcast players.
 
+#### Layout
+Under **Advanced Settings** you will need to set the `layout` to "episode"
+
 #### Content
 This is where you will put *all* of your show notes, links, and images you want to add to your show. You can add this content using the buttons on Siteleaf, add markdown manually, or use their (beta) visual editor.
+
+### Your episode must have the following metadata:
+
+#### show
+This is the url your show uses to post the episode (ex. 3g3q, grownups, atu2, nbsp)
 
 #### mp3
 This is where you put the URL of your episode audio (ex. http://podcasts-1.feedpress.co/10588/morningshow-320.mp3). The site only supports mp3s for now.
@@ -51,8 +64,7 @@ This is the URL for your sponsor.
 #### sponsor-copy
 This is the short paragraph that accompanies your sponsor name/link. This should be written in plain text and *cannot* include links or other formatting.
 
-#### show
-This is the url your show uses to post the episode (ex. 3g3q, grownups, atu2, nbsp)
-
-### Publishing an Episode
+## Publishing an Episode
 Once you have finished adding and saving your latest episode, you will need to publish these changes to the site. This will cause the whole site to be rebuilt and published. Any additional changes will need to follow this same process.
+
+Press the **Publish** button on the top right to publish your episode.
