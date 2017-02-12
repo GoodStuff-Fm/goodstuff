@@ -83,7 +83,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: 3g3q
+    path: "/3g3q/:path"
     type: collections
   values:
     colors:
@@ -107,14 +107,6 @@ logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
 description: A network of good shows with good people doing good things
 copyright: "© 2014–2017 Goodstuff Broadcasting"
-defaults:
-  -
-    scope:
-      path: "/3g3q/:path"
-      type: "collections"
-    values:
-      colors: ["red", "green", "blue"]
-      layout: "episode"
 exclude:
 - README.markdown
 - Gemfile.lock
