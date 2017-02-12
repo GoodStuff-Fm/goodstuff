@@ -6,6 +6,7 @@ episode: 125
 description: Soap fights, shoe shame, & a court caper
 sponsor: truth, justice, and the American Way
 layout: episode
+show: 3g3q
 ---
 
 ![Image](http://l.gdwn.co/BGVe.JPG)

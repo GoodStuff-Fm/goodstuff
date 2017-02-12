@@ -3,6 +3,8 @@ title: S05:E05.5 - Lightning Round
 date: 2015-11-12 23:36:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/19899.mp3
 episode: 70
+show: 3g3q
+layout: episode
 description: Lightning round & followup.
 ---
 
@@ -21,7 +23,7 @@ description: Lightning round & followup.
 # Followup & Feedback
 
 * [Yehaw on Transmission Nov 10][5]
-* Informational JPEGs 
+* Informational JPEGs
     * [Jennifer Tennifer][6]
     * [Hank Hill via @ahuster in slack][7]
 * [Email followup from S02:E08][8]
@@ -57,4 +59,4 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [10]: http://twitter.com/a_sav
 [11]: http://twitter.com/thatadamkid
 [12]: http://www.patreon.com/3g3q
-[13]: http://goodstuff.fm/3g3q/ 
+[13]: http://goodstuff.fm/3g3q/

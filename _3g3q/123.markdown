@@ -3,6 +3,8 @@ title: S08:E05.5 - Lightning Round
 date: 2016-12-11 02:33:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S08E05_5.mp3
 episode: 123
+show: 3g3q
+layout: episode
 description: Picking president, seasonality, & forgetting.
 sponsor: Our fantastic patrons.
 sponsor-link: http://www.patreon.com/3g3q

@@ -3,6 +3,8 @@ title: S06:E08.5 - Lertning Rernd
 date: 2016-03-04 22:42:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E08_5.mp3
 episode: 93
+show: 3g3q
+layout: episode
 description: Questioning questions, inside jokes, and Flavortown.
 ---
 
@@ -50,4 +52,4 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [8]: http://twitter.com/thatadamkid
 [9]: http://3g3q.co/ask
 [10]: http://www.patreon.com/3g3q
-[11]: http://goodstuff.fm/3g3q/ 
+[11]: http://goodstuff.fm/3g3q/

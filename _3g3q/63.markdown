@@ -3,6 +3,8 @@ title: S05:E02 - “Side Room to the Gym Daycare”
 date: 2015-10-12 23:46:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/18362.mp3
 episode: 63
+show: 3g3q
+layout: episode
 description: First level failure, edible drumsticks, & lime-green joysticks.
 sponsor: 256 colors, rumble packs, and insert sega sound here.
 ---

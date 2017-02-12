@@ -3,6 +3,8 @@ title: S06E02.5 - Lightning Round
 date: 2016-01-22 22:59:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E02_5.mp3
 episode: 82
+show: 3g3q
+layout: episode
 description: Lightning round
 ---
 
@@ -43,4 +45,4 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [5]: http://twitter.com/a_sav
 [6]: http://twitter.com/thatadamkid
 [7]: http://www.patreon.com/3g3q
-[8]: http://goodstuff.fm/3g3q/ 
+[8]: http://goodstuff.fm/3g3q/

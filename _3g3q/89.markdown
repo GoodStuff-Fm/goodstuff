@@ -3,11 +3,13 @@ title: S06:E06 - “Pip Pip, Cheerio”
 date: 2016-02-16 22:48:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E06.mp3
 episode: 89
+show: 3g3q
+layout: episode
 description: Victorian Culottes, plastic punk, & duels
 sponsor: The Graham Diet, a regimen to suppress unhealthy carnal urges, the source
   of many maladies according the renowned Reverend Sylvester Graham.
 sponsor-link: https://youtu.be/0q_P-565WhU
-sponsor-copy: " "
+sponsor-copy: 
 ---
 
 ![Episode Artwork][1]

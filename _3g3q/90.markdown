@@ -3,6 +3,8 @@ title: S06:E06.5 - Lightning Round
 date: 2016-02-19 22:47:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E06_5.mp3
 episode: 90
+show: 3g3q
+layout: episode
 description: Pet dreams, Ohio rivers, & Adam talks
 ---
 
@@ -49,4 +51,4 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [9]: http://twitter.com/thatadamkid
 [10]: http://3g3q.co/ask
 [11]: http://www.patreon.com/3g3q
-[12]: http://goodstuff.fm/3g3q/ 
+[12]: http://goodstuff.fm/3g3q/

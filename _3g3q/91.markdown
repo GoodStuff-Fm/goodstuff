@@ -2,6 +2,8 @@
 title: S06:E07 - “Karma Winds”
 date: 2016-02-25 22:46:00 -06:00
 episode: 91
+show: 3g3q
+layout: episode
 description: Dutch ovens, camp court, & windows down.
 sponsor: Pine cones, grassy knolls, and Beyonce Knowles.
 ---

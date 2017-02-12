@@ -3,6 +3,8 @@ title: S05:E03 - “Hidey Hole”
 date: 2015-11-02 23:43:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/19447.mp3
 episode: 65
+show: 3g3q
+layout: episode
 description: Dollars-to-donuts, Rock stars, & editing life
 sponsor: pumpkin spice, pumpkin pie, and the great pumpkin, Charlie Brown.
 ---

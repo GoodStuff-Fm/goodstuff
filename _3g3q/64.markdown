@@ -3,6 +3,8 @@ title: S05:E02.5 - “Lightning Round”
 date: 2015-10-15 23:45:00 -06:00
 mp3: http://podcasts-1.feedpress.co/13789/18519.mp3
 episode: 64
+show: 3g3q
+layout: episode
 description: Lightning round with special guest Mike Beasterfeld
 ---
 
@@ -30,7 +32,7 @@ description: Lightning round with special guest Mike Beasterfeld
 # Followup & Feedback
 
 * [Taz in Escape from Mars][11]
-* Andrew Huster's text adventure: Side Room to the Gym Daycare 
+* Andrew Huster's text adventure: Side Room to the Gym Daycare
     * [Part 1][12]
     * [Part 2][13]
     * [Part 3][14]
@@ -42,10 +44,10 @@ description: Lightning round with special guest Mike Beasterfeld
     * [Part 9][20]
     * [Part 10][21]
     * [Part 11][22]
-* Andrew is a warlock, setting things on fire through podcasts 
+* Andrew is a warlock, setting things on fire through podcasts
     * [Tweet 1][23]
     * [Tweet 2][24]
-* The great calorie debacle of 2015 
+* The great calorie debacle of 2015
     * [Ben Crumpton corrected us that kCal = Calorie][25]
 
 ***
