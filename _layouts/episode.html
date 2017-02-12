@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
 
-    {% assign show = site.data.shows[page.show] %}
+  <head>
 
     {% include head.html %}
 
@@ -21,10 +20,11 @@
 
   </head>
 
-
   <body>
     {% include nav.html %}
     <div class="container">
+
+      {% assign show = site.data.shows[page.show] %}
 
 <!--Show Information -->
       <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
