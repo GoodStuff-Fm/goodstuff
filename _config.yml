@@ -62,7 +62,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people/:title"
+    permalink: "/people/:path"
   posts:
     title: Posts
     output: true
@@ -82,18 +82,14 @@ collections:
     title: Uploads
     output: true
 defaults:
--scope:
-    path: ''
-    type: posts
-    values:
-      layout: post
-      permalink: "/posts/:title"
--scope:
+-
+  scope:
     path: ''
     type: pages
   values:
     layout: page
--scope:
+-
+  scope:
     path: ''
     type: morningshow
   values:
@@ -107,7 +103,8 @@ defaults:
       try FeedPress on a 14 day trial (no contracts or commitments). Use promo code
       `morningshow` during checkout to get 10% off your first year.
     show: morningshow
--scope:
+-
+  scope:
     path: ''
     type: atu2
   values:
@@ -121,7 +118,8 @@ defaults:
       try FeedPress on a 14 day trial (no contracts or commitments). Use promo code
       `atu2` during checkout to get 10% off your first year.
     show: atu2
--scope:
+-
+  scope:
     path: ''
     type: 3g3q
   values:
@@ -134,7 +132,8 @@ defaults:
     sponsor-copy: Join them on Patreon to get access to exclusive bonus material,
       access to the StuffySlack, and other extras.
     show: 3g3q
--scope:
+-
+  scope:
     path: ''
     type: grownups
   values:
@@ -148,7 +147,8 @@ defaults:
       code *grownups* during checkout to get 10% off your first year.
     show: grownups
     layout: episode
--scope:
+-
+  scope:
     path: ''
     type: dailyish
   values:
@@ -176,14 +176,7 @@ logo: "/assets/logo.svg"
 description: The internet's favorite shows on technology, culture, news, and more.
   You know, just the good stuff.
 copyright: "© 2014‐2017 Goodstuff Broadcasting"
-exclude:
--README.markdown
--Gemfile.lock
--Gemfile
 sass:
-  sass_dir: "./styles"
-include:
--twitter
-gems:
--jekyll-sitemap
--jekyll-seo-tag
+    sass_dir: "./styles"
+include: [twitter]
+gems: [jekyll-sitemap, jekyll-seo-tag]
