@@ -3,9 +3,9 @@ title: S04:E08.5 - "Nightlife On Mars"
 date: 2015-07-09 12:11:00 -06:00
 position: 5
 description: Lightning Round with Andrew Huster
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 55
 show: 3g3q

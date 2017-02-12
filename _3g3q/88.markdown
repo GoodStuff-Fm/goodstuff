@@ -6,7 +6,6 @@ episode: 88
 description: Barnyard snoring, grandmas, & showtunes
 ---
 
-
 ![episode art][1]
 
 # Questions

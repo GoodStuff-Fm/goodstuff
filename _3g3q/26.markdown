@@ -4,8 +4,8 @@ date: 2015-01-12 12:11:00 -06:00
 position: 33
 description: Altitude training, helping honeymooners, & Juggalo Journos.
 sponsor: Head-sized burritos, Adam's easy semester, & Haterade.
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 3
 episode: 26
 show: 3g3q

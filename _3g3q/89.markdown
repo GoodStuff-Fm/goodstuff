@@ -10,7 +10,6 @@ sponsor-link: https://youtu.be/0q_P-565WhU
 sponsor-copy: " "
 ---
 
-
 ![Episode Artwork][1]
 
 # Questions
