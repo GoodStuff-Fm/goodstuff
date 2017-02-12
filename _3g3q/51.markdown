@@ -3,9 +3,9 @@ title: S04:E06.5 -"Anything Oatmeal"
 date: 2015-06-19 12:11:00 -06:00
 position: 9
 description: Lightning Round with Mikey Reiach.
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 season: 4
 episode: 51
 show: 3g3q

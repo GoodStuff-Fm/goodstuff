@@ -4,8 +4,8 @@ date: 2015-03-20 12:11:00 -06:00
 position: 21
 description: trains, ultra-passive voice, and morning lifehacks.
 sponsor: WPBH-TV 9 and Punxsutawney Phil.
-sponsor-link:
-sponsor-copy:
+sponsor-link: 
+sponsor-copy: 
 season: 3
 episode: 39
 show: 3g3q
