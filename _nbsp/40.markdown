@@ -14,24 +14,24 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-40.mp3
 layout: episode
 ---
 
--[Snook.ca](http://snook.ca/)
+-  [Snook.ca](http://snook.ca/)
 
--[Shopify.com](http://www.shopify.com),  [Shopify](http://www.linkedin.com/company/shopify)
+-  [Shopify.com](http://www.shopify.com),  [Shopify](http://www.linkedin.com/company/shopify)
 
--[Snook Speaking](http://snook.ca/pages/speaking)
+-  [Snook Speaking](http://snook.ca/pages/speaking)
 
--[Art and Science of CSS](http://www.amazon.com/Art-Science-CSS-Jonathan-Snook/dp/B00D9TSAZG/ref=sr_1_1?s=books&ie=UTF8&qid=1376600577&sr=1-1)
+-  [Art and Science of CSS](http://www.amazon.com/Art-Science-CSS-Jonathan-Snook/dp/B00D9TSAZG/ref=sr_1_1?s=books&ie=UTF8&qid=1376600577&sr=1-1)
 
--[Accelerated DOM Scripting](http://www.amazon.com/gp/product/1590597648/702-3295721-8680041?ie=UTF8&tag=snookca0f-20&linkCode=xm2&camp=15121&creativeASIN=1590597648)
+-  [Accelerated DOM Scripting](http://www.amazon.com/gp/product/1590597648/702-3295721-8680041?ie=UTF8&tag=snookca0f-20&linkCode=xm2&camp=15121&creativeASIN=1590597648)
 
--[SMACSS: Scalable and Modular Architecture for CSS](http://smacss.com/)
+-  [SMACSS: Scalable and Modular Architecture for CSS](http://smacss.com/)
 
--[Snook's How to Write A Book Slidedeck](https://speakerdeck.com/snookca/how-to-write-a-book)
+-  [Snook’s How to Write A Book Slidedeck](https://speakerdeck.com/snookca/how-to-write-a-book)
 
--[OOCSS](http://www.slideshare.net/stubbornella/what-is-object-oriented-css)
+-  [OOCSS](http://www.slideshare.net/stubbornella/what-is-object-oriented-css)
 
--[Brad Frost Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+-  [Brad Frost Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 
--[Trent Walton on Paravel's Microsoft.com redesign](http://trentwalton.com/2012/10/03/a-new-microsoft-com/)
+-  [Trent Walton on Paravel’s Microsoft.com redesign](http://trentwalton.com/2012/10/03/a-new-microsoft-com/)
 
--[@snookca](https://twitter.com/snookca)
+-  [@snookca](https://twitter.com/snookca)

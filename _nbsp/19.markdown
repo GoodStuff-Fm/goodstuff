@@ -4,7 +4,7 @@ date: 2012-10-04 12:11:00 -06:00
 position: 19
 description: |-
   Matt is a designer and one of the founders of Bearded. He has a great love for letterpress printing, and is an advocate for collaboration in design, and has been published in A List Apart and .net magazine.
-  Matt's one of the creators of Wood Type Revival, a successfully Kickstarter-funded project which seeks out lost historic wood type and converts it into digital fonts for modern designers.
+  Matt’s one of the creators of Wood Type Revival, a successfully Kickstarter-funded project which seeks out lost historic wood type and converts it into digital fonts for modern designers.
 sponsor: 
 sponsor-link: 
 sponsor-copy: ''
@@ -14,36 +14,36 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-19.mp3
 layout: episode
 ---
 
--[Carnegie Mellon University](http://www.cmu.edu/index.shtml)
+-  [Carnegie Mellon University](http://www.cmu.edu/index.shtml)
 
--[Drupal](http://drupal.org)
+-  [Drupal](http://drupal.org)
 
--[Ethan Marcotte](http://ethanmarcotte.com)
+-  [Ethan Marcotte](http://ethanmarcotte.com)
 
--[Responsive Design by Ethan Marcotte](http://www.abookapart.com/products/responsive-web-design)
+-  [Responsive Design by Ethan Marcotte](http://www.abookapart.com/products/responsive-web-design)
 
--[Ethan Marcotte interview on Non-Breaking Space](http://nonbreakingspace.tv/ethan-marcotte/)
+-  [Ethan Marcotte interview on Non-Breaking Space](http://nonbreakingspace.tv/ethan-marcotte/)
 
--[Testing Websites in Game Console Browsers](http://www.alistapart.com/articles/testing-websites-in-game-console-browsers/)
+-  [Testing Websites in Game Console Browsers](http://www.alistapart.com/articles/testing-websites-in-game-console-browsers/)
 
--[Apple Remote for iOS](http://itunes.apple.com/us/app/remote/id284417350?mt=8)
+-  [Apple Remote for iOS](http://itunes.apple.com/us/app/remote/id284417350?mt=8)
 
--[Andy Clarke on Twitter](http://twitter.com/Malarkey/status/246583169409773568)
+-  [Andy Clarke on Twitter](http://twitter.com/Malarkey/status/246583169409773568)
 
--[SCSS](http://sass-lang.com)
+-  [SCSS](http://sass-lang.com)
 
--[Samantha Warren&rsquo;s interview on Non-Breaking Space](http://nonbreakingspace.tv/samantha-warren/)
+-  [Samantha Warren&rsquo;s interview on Non-Breaking Space](http://nonbreakingspace.tv/samantha-warren/)
 
--[Style Tiles and How They Work](http://www.alistapart.com/articles/style-tiles-and-how-they-work/) on A List Apart
+-  [Style Tiles and How They Work](http://www.alistapart.com/articles/style-tiles-and-how-they-work/) on A List Apart
 
--[Pittsburgh Children&rsquo;s Museum](https://pittsburghkids.org)
+-  [Pittsburgh Children&rsquo;s Museum](https://pittsburghkids.org)
 
--[Stop Pissing Off Your Designers](http://viget.com/extend/stop-pissing-off-your-designers) article on Viget
+-  [Stop Pissing Off Your Designers](http://viget.com/extend/stop-pissing-off-your-designers) article on Viget
 
--[Wood Type Revival](http://www.woodtyperevival.com)
+-  [Wood Type Revival](http://www.woodtyperevival.com)
 
--[CKEditor](http://ckeditor.com)
+-  [CKEditor](http://ckeditor.com)
 
--[United Pixel Workers](http://www.unitedpixelworkers.com/products/wood-type-revival) Tshirts
+-  [United Pixel Workers](http://www.unitedpixelworkers.com/products/wood-type-revival) Tshirts
 
--[@elefontpress](http://twitter.com/elefontpress) /  [@beardedstudio](http://twitter.com/beardedstudio)
+-  [@elefontpress](http://twitter.com/elefontpress) /  [@beardedstudio](http://twitter.com/beardedstudio)

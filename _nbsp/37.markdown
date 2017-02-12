@@ -13,36 +13,36 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-37.mp3
 layout: episode
 ---
 
--[Savory.io](http://savory.io)
+-  [Savory.io](http://savory.io)
 
--[Vox Media](http://voxmedia.com)
+-  [Vox Media](http://voxmedia.com)
 
--[SBNation.com](http://sbnation.com/)
+-  [SBNation.com](http://sbnation.com/)
 
--[The Verge](http://theverge.com/)
+-  [The Verge](http://theverge.com/)
 
--[Talking heads: how a late-night hack turned into Facebook's next big thing](http://www.theverge.com/2013/4/16/4205000/talking-heads-how-a-late-night-hack-turned-into-facebooks-next-big-thing)
+-  [Talking heads: how a late-night hack turned into Facebook’s next big thing](http://www.theverge.com/2013/4/16/4205000/talking-heads-how-a-late-night-hack-turned-into-facebooks-next-big-thing)
 
--[SASS](http://sass-lang.com)
+-  [SASS](http://sass-lang.com)
 
--[Jason Santa Maria](http://jasonsantamaria.com)
+-  [Jason Santa Maria](http://jasonsantamaria.com)
 
--[Snowfall on The New York Times](http://www.nytimes.com/projects/2012/snow-fall/)
+-  [Snowfall on The New York Times](http://www.nytimes.com/projects/2012/snow-fall/)
 
--[Tree Saver](http://treesaver.net)
+-  [Tree Saver](http://treesaver.net)
 
--[@codingdesigner / Mason Wendell](https://twitter.com/codingdesigner)
+-  [@codingdesigner / Mason Wendell](https://twitter.com/codingdesigner)
 
--[Compass](http://compass-style.org)
+-  [Compass](http://compass-style.org)
 
--[Singularity](https://github.com/Team-Sass/Singularity)
+-  [Singularity](https://github.com/Team-Sass/Singularity)
 
--[Codekit](http://incident57.com/codekit/)
+-  [Codekit](http://incident57.com/codekit/)
 
--[Team Sass on GitHub](https://github.com/team-sass)
+-  [Team Sass on GitHub](https://github.com/team-sass)
 
--[Brad Frost on Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+-  [Brad Frost on Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 
--[Scott Kellum on GitHub](http://www.github.com/scottkellum)
+-  [Scott Kellum on GitHub](http://www.github.com/scottkellum)
 
--[ScottKellum.com](http://scottkellum.com)
+-  [ScottKellum.com](http://scottkellum.com)

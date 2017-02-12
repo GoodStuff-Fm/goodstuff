@@ -5,7 +5,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-44.mp3
 episode: 44
 description: A man builds a podcast, with guests and commentary. A man records a conversation
   so he can hear himself up close. Marylinn, Sherry, Ian, and Chris are talking Zooropa
-  until the day begins at midnight so grab the nearest lemon and don't go wandering
+  until the day begins at midnight so grab the nearest lemon and don’t go wandering
   too far.
 layout: episode
 ---
@@ -16,48 +16,48 @@ Guest Starring: Sherry Lawrence and Marylinn Maione
 
 # Jump to the discussion on
 
--[**19:57][1]** Zooropa
--[**28:00][2]** Babyface
--[**30:58][3]** Numb
--[**36:27][4]** Lemon
--[**42:09][5]** Stay
--[**47:06][6]** Daddy's Gonna Pay for Your Crashed Car
--[**50:40][7]** Some Days Are Better Than Others
--[**53:06][8]** The First Time
--[**59:28][9]** Dirty Day
--[**1:04:15][10]** The Wanderer
+* [**19:57][1]** Zooropa
+* [**28:00][2]** Babyface
+* [**30:58][3]** Numb
+* [**36:27][4]** Lemon
+* [**42:09][5]** Stay
+* [**47:06][6]** Daddy's Gonna Pay for Your Crashed Car
+* [**50:40][7]** Some Days Are Better Than Others
+* [**53:06][8]** The First Time
+* [**59:28][9]** Dirty Day
+* [**1:04:15][10]** The Wanderer
 
 ***
 
--[Jimmy Kimmel Live -YouTube][11]
+* [Jimmy Kimmel Live - YouTube][11]
 
--["We're Going to Hell" by The (RED) Pack -YouTube][12]
+* ["We're Going to Hell" by The (RED) Pack - YouTube][12]
 
--[Bono Offering Private U2 Performance -YouTube][13]
+* [Bono Offering Private U2 Performance - YouTube][13]
 
--[Bono &amp; Halsey Duet "What a Year This Has Been!" -YouTube][14]
+* [Bono &amp; Halsey Duet "What a Year This Has Been!" - YouTube][14]
 
--[Have Tea with Bono &amp; Julia Roberts -YouTube][15]
+* [Have Tea with Bono &amp; Julia Roberts - YouTube][15]
 
--[Chris Enns on Twitter: "Where does one find a bathtub like Bono's? https://t.co/4Iyq58Wu6i"][16]
+* [Chris Enns on Twitter: "Where does one find a bathtub like Bono's? https://t.co/4Iyq58Wu6i"][16]
 
--[Theoretically Speaking... Rhythmic Representations of Uncertainty in 'Zooropa'][17]
+* [Theoretically Speaking... Rhythmic Representations of Uncertainty in 'Zooropa'][17]
 
--[Like a Song: Zooropa by Marylinn][18]
+* [Like a Song: Zooropa by Marylinn][18]
 
--[Like a Song: Lemon by Ian Ryan][19]
+* [Like a Song: Lemon by Ian Ryan][19]
 
--[U2's 'Zooropa' Almost Killed Their Career 20 Years Ago Today | SPIN][20]
+* [U2's 'Zooropa' Almost Killed Their Career 20 Years Ago Today | SPIN][20]
 
--[The @U2 Interview: Flood][21]
+* [The @U2 Interview: Flood][21]
 
--[The @U2 Interview: Marc Marot (Pt. 1)][22]
+* [The @U2 Interview: Marc Marot (Pt. 1)][22]
 
--[Transcript: Interview With Mark Neale, Director of 'No Maps for These Territories'][23]
+* [Transcript: Interview With Mark Neale, Director of 'No Maps for These Territories'][23]
 
--[atu2.com -Sherry (@atu2comSherry) | Twitter][24]
+* [atu2.com - Sherry (@atu2comSherry) | Twitter][24]
 
--[Discuss this episode in our subreddit][25]
+* [Discuss this episode in our subreddit][25]
 
 [1]: http://goodstuff.fm/atu2/#t=19:57
 [2]: http://goodstuff.fm/atu2/#t=28:00

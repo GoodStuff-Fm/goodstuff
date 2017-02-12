@@ -15,22 +15,22 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-42.mp3
 layout: episode
 ---
 
--[KarenMcGrane.com](http://karenmcgrane.com)
+-  [KarenMcGrane.com](http://karenmcgrane.com)
 
--[Karen McGrane on AppDotNet](https://alpha.app.net/karenmcgrane)
+-  [Karen McGrane on AppDotNet](https://alpha.app.net/karenmcgrane)
 
--[Karen McGrane on Twitter](http://twitter.com/karenmcgrane)
+-  [Karen McGrane on Twitter](http://twitter.com/karenmcgrane)
 
--[Razorfish](http://www.razorfish.com)
+-  [Razorfish](http://www.razorfish.com)
 
--[SVA](http://www.sva.edu)
+-  [SVA](http://www.sva.edu)
 
--[Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile)
+-  [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile)
 
--[Bond Art & Science](http://bondartscience.com)
+-  [Bond Art & Science](http://bondartscience.com)
 
--[Amazon](http://www.amazon.com)
+-  [Amazon](http://www.amazon.com)
 
--[Bill Smartt -speaking coach](http://smartttalk.com)
+-  [Bill Smartt - speaking coach](http://smartttalk.com)
 
--[Karen McGrane on Lanyrd](http://lanyrd.com/profile/karenmcgrane/)
+-  [Karen McGrane on Lanyrd](http://lanyrd.com/profile/karenmcgrane/)

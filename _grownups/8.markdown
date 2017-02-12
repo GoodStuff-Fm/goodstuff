@@ -1,11 +1,11 @@
 ---
-title: It's like Skiing
+title: It’s like Skiing
 date: 2014-11-13 02:06:00 -06:00
 episode: 8
 mp3: http://podcasts-1.feedpress.co/10589/grownups-8.mp3
 description: Hilary Nelson and Kari discuss being active in your community and its
   government, sympathy for city counselors, not being an a**hole, and why you should
-  vote even if you haven't done your homework.
+  vote even if you haven’t done your homework.
 layout: episode
 ---
 
@@ -13,23 +13,23 @@ layout: episode
 
 ***
 
--[Hilary. (@theotherHilary) | Twitter][2]
+* [Hilary. (@theotherHilary) | Twitter][2]
 
--[City of Saskatoon][3]
+* [City of Saskatoon][3]
 
--[That Margaret Mead quote][4]
+* [That Margaret Mead quote][4]
 
 Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 
--[Sheila Copps says she was sexually assaulted by fellow politician, raped by someone she knew | National Post][5]
+* [Sheila Copps says she was sexually assaulted by fellow politician, raped by someone she knew | National Post][5]
 
--[In the Loop (2009) -IMDb][6]
+* [In the Loop (2009) - IMDb][6]
 
--[Dave (1993) -IMDb][7]
+* [Dave (1993) - IMDb][7]
 
--[Our YXE | An ongoing discussion about urbanism in Saskatoon][8]
+* [Our YXE | An ongoing discussion about urbanism in Saskatoon][8]
 
--[theotherhilary.ca | a general interest site by Hilary.][9]
+* [theotherhilary.ca | a general interest site by Hilary.][9]
 
 [1]: http://synd.co/12rDPby
 [2]: https://twitter.com/theotherHilary

@@ -4,7 +4,7 @@ date: 2015-11-07 02:21:00 -06:00
 episode: 20
 mp3: http://podcasts-1.feedpress.co/10589/grownups-20.mp3
 description: Kari and Brook Shelley talk about mommy/cat blogging/podcasting, going
-  home again, travelling on other people's dime, accents, sci fi lit by women, revisiting
+  home again, travelling on other people’s dime, accents, sci fi lit by women, revisiting
   old hobbies, and whole other episodes.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
@@ -14,37 +14,37 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
--[brook shelley (@brookshelley) | Twitter][1]
+* [brook shelley (@brookshelley) | Twitter][1]
 
--[XOXO Festival][2]
+* [XOXO Festival][2]
 
 Brook and Kari and 1000 of their closest internet friends went to this amazing art and technology conference
 
--[Heather Armstrong, Dooce -XOXO Festival (2015) -YouTube][3]
+* [Heather Armstrong, Dooce - XOXO Festival (2015) - YouTube][3]
 
 A couple NSFW slides in here. Why are you listening to this podcast at work anyway?
 
--[Last Week Tonight with John Oliver: Canadian Election (HBO) -YouTube][4]
+* [Last Week Tonight with John Oliver: Canadian Election (HBO) - YouTube][4]
 
 John Oliver brings the US up to date with the recent Canadian election. Features a stair-falling trick by our new illustrious leader.
 
--[I Guess We're Grown-Ups Now #19: The Dark Side of Decisiveness -Goodstuff FM][5]
+* [I Guess We're Grown-Ups Now #19: The Dark Side of Decisiveness - Goodstuff FM][5]
 
 Last episode, wherein Hilary posed a question for Brook.
 
--[Michelle Tea -Wikipedia, the free encyclopedia][6]
+* [Michelle Tea - Wikipedia, the free encyclopedia][6]
 
 Author of "Mermaid in Chelsea Creek" and more
 
--[The Summer Prince: Alaya Dawn Johnson][7]
+* [The Summer Prince: Alaya Dawn Johnson][7]
 
 Kari's sci fi recommendation
 
--[By Ann Leckie -Ancillary Justice: Ann Leckie][8]
+* [By Ann Leckie - Ancillary Justice: Ann Leckie][8]
 
 Brook's sci fi recommendation.
 
--[Lean Out][9]
+* [Lean Out][9]
 
 Brook's book that she is in. Buy! Read!
 

@@ -3,8 +3,8 @@ title: Ryan Irelan
 date: 2013-02-14 12:11:00 -06:00
 position: 27
 description: |-
-  Ryan is presently the Vice President of Technology at Happy Cog. He's also the owner of Mijingo, a publisher of training materials for web people.
-  Ryan is also the publisher of EE Insider.com, a news and information website about Expression Engine. He's also the author of ExpressionEngine 2: A Quick-Start Guide.
+  Ryan is presently the Vice President of Technology at Happy Cog. He’s also the owner of Mijingo, a publisher of training materials for web people.
+  Ryan is also the publisher of EE Insider.com, a news and information website about Expression Engine. He’s also the author of ExpressionEngine 2: A Quick-Start Guide.
 sponsor: 
 sponsor-link: 
 sponsor-copy: ''
@@ -14,88 +14,88 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-28.mp3
 layout: episode
 ---
 
--[CSS3 The Missing Manual](http://shop.oreilly.com/product/0636920024996.do)
+-  [CSS3 The Missing Manual](http://shop.oreilly.com/product/0636920024996.do)
 
--[Greg Storey](http://www.gregstorey.com) /  [@brilliantcrank](https://twitter.com/brilliantcrank) /  [Airbag Industries](http://www.airbagindustries.com)
+-  [Greg Storey](http://www.gregstorey.com) /  [@brilliantcrank](https://twitter.com/brilliantcrank) /  [Airbag Industries](http://www.airbagindustries.com)
 
--[EE Insider](http://eeinsider.com)
+-  [EE Insider](http://eeinsider.com)
 
--[Mijingo.com](http://mijingo.com)
+-  [Mijingo.com](http://mijingo.com)
 
--[Happy Cog](http://happycog.com)
+-  [Happy Cog](http://happycog.com)
 
--[Expression Engine](http://ellislab.com/expressionengine)
+-  [Expression Engine](http://ellislab.com/expressionengine)
 
--[WooThemes](http://www.woothemes.com)
+-  [WooThemes](http://www.woothemes.com)
 
--[A List Apart](http://alistapart.com)
+-  [A List Apart](http://alistapart.com)
 
--[Code Igniter](http://ellislab.com/codeigniter)
+-  [Code Igniter](http://ellislab.com/codeigniter)
 
--[Laravel](http://laravel.com)
+-  [Laravel](http://laravel.com)
 
--[Python](http://www.python.org)
+-  [Python](http://www.python.org)
 
--[Django](https://www.djangoproject.com)
+-  [Django](https://www.djangoproject.com)
 
--[Ruby on Rails](http://rubyonrails.org)
+-  [Ruby on Rails](http://rubyonrails.org)
 
--[Sinatra](http://www.sinatrarb.com)
+-  [Sinatra](http://www.sinatrarb.com)
 
--[Hub Spot](http://www.hubspot.com)
+-  [Hub Spot](http://www.hubspot.com)
 
--[Jekyll](http://jekyllrb.com)
+-  [Jekyll](http://jekyllrb.com)
 
--[Jekyll on Github](https://github.com/mojombo/jekyll)
+-  [Jekyll on Github](https://github.com/mojombo/jekyll)
 
--[Markdown](http://daringfireball.net/projects/markdown/) /  [The Basics of Markdown](http://mijingo.com/products/screencasts/basics-of-markdown/)
+-  [Markdown](http://daringfireball.net/projects/markdown/) /  [The Basics of Markdown](http://mijingo.com/products/screencasts/basics-of-markdown/)
 
--[Movabletype](http://www.movabletype.org)
+-  [Movabletype](http://www.movabletype.org)
 
--[Static Websites with Jekyll training video on Mijingo](http://mijingo.com/products/screencasts/static-websites-with-jekyll/)
+-  [Static Websites with Jekyll training video on Mijingo](http://mijingo.com/products/screencasts/static-websites-with-jekyll/)
 
--[Dave Rupert](http://daverupert.com)
+-  [Dave Rupert](http://daverupert.com)
 
--[Mijingo](http://mijingo.com)
+-  [Mijingo](http://mijingo.com)
 
--[Pragmatic Programmers](http://pragprog.com)
+-  [Pragmatic Programmers](http://pragprog.com)
 
--[Fastspring](http://www.fastspring.com)
+-  [Fastspring](http://www.fastspring.com)
 
--[Store on Expression Engine](http://exp-resso.com/store)
+-  [Store on Expression Engine](http://exp-resso.com/store)
 
--[Vimeo Pro](https://vimeo.com/pro)
+-  [Vimeo Pro](https://vimeo.com/pro)
 
--[Link Vault Expression Engine](http://devot-ee.com/add-ons/link-vault)
+-  [Link Vault Expression Engine](http://devot-ee.com/add-ons/link-vault)
 
--[TextExpander](http://smilesoftware.com/TextExpander/index.html)
+-  [TextExpander](http://smilesoftware.com/TextExpander/index.html)
 
--[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+-  [Keyboard Maestro](http://www.keyboardmaestro.com/main/)
 
--[Reeder](http://reederapp.com)
+-  [Reeder](http://reederapp.com)
 
--[NVAlt](http://brettterpstra.com/projects/nvalt/)
+-  [NVAlt](http://brettterpstra.com/projects/nvalt/)
 
--[Dropbox](https://www.dropbox.com)
+-  [Dropbox](https://www.dropbox.com)
 
--[Notesy](http://notesy-app.com)
+-  [Notesy](http://notesy-app.com)
 
--[Omnifocus](http://www.omnigroup.com/products/omnifocus/)
+-  [Omnifocus](http://www.omnigroup.com/products/omnifocus/)
 
--[Sublime Text](http://www.sublimetext.com)
+-  [Sublime Text](http://www.sublimetext.com)
 
--[Textmate](http://macromates.com)
+-  [Textmate](http://macromates.com)
 
--[BBEdit](http://www.barebones.com/products/bbedit/index.html)
+-  [BBEdit](http://www.barebones.com/products/bbedit/index.html)
 
--[1Password](https://agilebits.com/onepassword)
+-  [1Password](https://agilebits.com/onepassword)
 
--[1Password for iPhone](https://agilebits.com/onepassword/ios)
+-  [1Password for iPhone](https://agilebits.com/onepassword/ios)
 
--[Devonthink Pro](http://www.devontechnologies.com/products/devonthink/overview.html)
+-  [Devonthink Pro](http://www.devontechnologies.com/products/devonthink/overview.html)
 
--[My Paperless Trail](http://cognition.happycog.com/article/my-paperless-trail)
+-  [My Paperless Trail](http://cognition.happycog.com/article/my-paperless-trail)
 
--[Evernote](http://evernote.com)
+-  [Evernote](http://evernote.com)
 
--[@ryanirelan](http://twitter.com/ryanirelan)
+-  [@ryanirelan](http://twitter.com/ryanirelan)

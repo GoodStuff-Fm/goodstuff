@@ -14,15 +14,15 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 layout: episode
 ---
 
--[I Guess We're Grown-Ups Now #8: It's like Skiing][1]
+* [I Guess We're Grown-Ups Now #8: It's like Skiing][1]
 
 Hilary's previous appearance on IGWGUN, about civic politics.
 
--[I Guess We're Grown-Ups Now #7: An Act of Political Warfare][2]
+* [I Guess We're Grown-Ups Now #7: An Act of Political Warfare][2]
 
 Kari talks self-care.
 
--[Hilary (@theotherHilary) | Twitter][3]
+* [Hilary (@theotherHilary) | Twitter][3]
 
 [1]: http://goodstuff.fm/grownups/8
 [2]: http://goodstuff.fm/grownups/7

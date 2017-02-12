@@ -1,8 +1,12 @@
 ---
-title: S03:E02 -"So Many Tassels"
+title: S03:E02 - “So Many Tassels”
 date: 2015-01-19 12:11:00 -06:00
 position: 32
+<<<<<<< HEAD
 description: Cyberstalking, being a good listener, &amp; alienation
+=======
+description: Cyberstalking, being a good listener, & alienation
+>>>>>>> parent of ddae6ac... Running markdown linter
 sponsor: 
 sponsor-link: 
 sponsor-copy: 
@@ -13,18 +17,18 @@ mp3: http://podcasts-1.feedpress.co/13789/8108.mp3
 layout: episode
 ---
 
-# Followup &amp; Feedback
--[Rate us to keep season 3 alive](http://3g3q.co/rate)
--[All of the Above (podcast)](http://www.alloftheabove.audio)(podcast)
--[Better Know A Jackal](http://www.jackals.us/better-know-a-jackal)
+# Followup & Feedback
+- [Rate us to keep season 3 alive](http://3g3q.co/rate)
+- [All of the Above (podcast)](http://www.alloftheabove.audio)(podcast)
+- [Better Know A Jackal](http://www.jackals.us/better-know-a-jackal)
 
 # Questions
 
 ## Andrew: What is something you've done that made you realize you might be creepy?
--["It's a Good Life" (The Twilight Zone)](http://en.wikipedia.org/wiki/It's_a_Good_Life_(The_Twilight_Zone))(The Twilight Zone)
+- ["It's a Good Life" (The Twilight Zone)](http://en.wikipedia.org/wiki/It's_a_Good_Life_(The_Twilight_Zone))(The Twilight Zone)
 
 ## Aaron: what's something that always seems to alienate you?
--[Previously, we discussed camping on S02:E09 "Abs All The Way Down](http://3g3q.co/209)
+- [Previously, we discussed camping on S02:E09 "Abs All The Way Down](http://3g3q.co/209)
 
 ## Adam: Why do you podcast?
 
@@ -32,16 +36,16 @@ layout: episode
 
 # Follow Us
 
--Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
--Andrew: [@A_Sav](http://twitter.com/a_sav)
--Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
+- Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
+- Andrew: [@A_Sav](http://twitter.com/a_sav)
+- Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
 
 # Braaaaaand Engagement
 
--[#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
--Call/text us: 760-881-4382
--[Ask on Tumblr](http://3g3q.co/ask)
--Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
+- [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
+- Call/text us: 760-881-4382
+- [Ask on Tumblr](http://3g3q.co/ask)
+- Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
 
 ***
 

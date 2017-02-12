@@ -13,56 +13,56 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-34.mp3
 layout: episode
 ---
 
--[@samkap](https://twitter.com/samkap)
+-  [@samkap](https://twitter.com/samkap)
 
--[RachelNabors.com](http://www.rachelnabors.com)
+-  [RachelNabors.com](http://www.rachelnabors.com)
 
--[Rachel on Dribbble](http://dribbble.com/rachelthegreat)
+-  [Rachel on Dribbble](http://dribbble.com/rachelthegreat)
 
--[The CSS Cookbook](http://shop.oreilly.com/product/9780596005764.do)
+-  [The CSS Cookbook](http://shop.oreilly.com/product/9780596005764.do)
 
--[Responsive Web Design by Ethan Marcotte](http://www.abookapart.com/products/responsive-web-design)
+-  [Responsive Web Design by Ethan Marcotte](http://www.abookapart.com/products/responsive-web-design)
 
--[Gurl.com](http://www.gurl.com)
+-  [Gurl.com](http://www.gurl.com)
 
--[RacheltheGreat.com](http://www.rachelthegreat.com)
+-  [RacheltheGreat.com](http://www.rachelthegreat.com)
 
--[Chasing Amy](http://www.imdb.com/title/tt0118842/)
+-  [Chasing Amy](http://www.imdb.com/title/tt0118842/)
 
--[MangaPunk.com](http://mangapunk.com)
+-  [MangaPunk.com](http://mangapunk.com)
 
--[Drupal](http://drupal.org)
+-  [Drupal](http://drupal.org)
 
--[Prince of Cats](http://princeofcats.thecomicstrip.org/comics/first)
+-  [Prince of Cats](http://princeofcats.thecomicstrip.org/comics/first)
 
--[Manga Studio](http://manga.smithmicro.com)
+-  [Manga Studio](http://manga.smithmicro.com)
 
--[Adobe Max](http://max.adobe.com)
+-  [Adobe Max](http://max.adobe.com)
 
--[Adobe Shows off Bluetooth "Project Mighty" pen and Napoleon digital rule](http://9to5mac.com/2013/05/06/adobe-shows-off-bluetooth-project-mighty-pen-with-customized-settings-stored-in-the-cloud-napolean-digital-ruler/)
+-  [Adobe Shows off Bluetooth “Project Mighty” pen and Napoleon digital rule](http://9to5mac.com/2013/05/06/adobe-shows-off-bluetooth-project-mighty-pen-with-customized-settings-stored-in-the-cloud-napolean-digital-ruler/)
 
--[Wacom](http://www.wacom.com)
+-  [Wacom](http://www.wacom.com)
 
--[Adobe Edge Animate](http://html.adobe.com/edge/animate/)
+-  [Adobe Edge Animate](http://html.adobe.com/edge/animate/)
 
--[HTML5 Rocks](http://www.html5rocks.com/en/)
+-  [HTML5 Rocks](http://www.html5rocks.com/en/)
 
--[Estelle Weyl on Github](http://estelle.github.io)
+-  [Estelle Weyl on Github](http://estelle.github.io)
 
--[Rachel Nabors on Github](https://github.com/rachelnabors)
+-  [Rachel Nabors on Github](https://github.com/rachelnabors)
 
--[Codepen.io](http://codepen.io)
+-  [Codepen.io](http://codepen.io)
 
--[Rachel on Codepen](http://codepen.io/rachelnabors)
+-  [Rachel on Codepen](http://codepen.io/rachelnabors)
 
--[Tuna Codepen animation](http://codepen.io/rachelnabors/pen/zHeir)
+-  [Tuna Codepen animation](http://codepen.io/rachelnabors/pen/zHeir)
 
--[JS for Cats](http://jsforcats.com)
+-  [JS for Cats](http://jsforcats.com)
 
--[Javascript for Designers by Rachel Nabors](http://www.rachelnabors.com/2013/01/javascript-study-for-designers/)
+-  [Javascript for Designers by Rachel Nabors](http://www.rachelnabors.com/2013/01/javascript-study-for-designers/)
 
--[Javascript Enlightenment by Cody Lindley](http://www.javascriptenlightenment.com)
+-  [Javascript Enlightenment by Cody Lindley](http://www.javascriptenlightenment.com)
 
--[rachelnabors.com](http://www.rachelnabors.com)
+-  [rachelnabors.com](http://www.rachelnabors.com)
 
--[@rachelnabors](https://twitter.com/rachelnabors)
+-  [@rachelnabors](https://twitter.com/rachelnabors)

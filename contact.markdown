@@ -10,9 +10,9 @@ We love hearing from our amazing listeners. We'll do our best to respond as soon
 
 #### General Contact Links
 
--[General Feedback][1]
--[Contact Chris Enns][2]
--[Contact Kyle Roderick][3]
+* [General Feedback][1]
+* [Contact Chris Enns][2]
+* [Contact Kyle Roderick][3]
 
 #### Advertising
 

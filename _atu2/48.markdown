@@ -9,13 +9,13 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "atu2"
   during checkout to get 10% off your first year.
 description: Jill, Ian, Becky, and Chris take a musical journey through How to Dismantle
-  an Atomic Bomb -U2's 2004 album that helped keep the band on the top of the biggest
+  an Atomic Bomb - U2’s 2004 album that helped keep the band on the top of the biggest
   band in the world fight.
 layout: episode
 ---
 
--[Like a Song -Sometimes You Can't Make it On Your Own](http://www.atu2.com/news/like-a-song-sometimes-you-cant-make-it-on-your-own-1.html)
--[Like a Video -Original of the Species](http://www.atu2.com/news/like-a-video-original-of-the-species.html)
--[Chris' trip to Montreal for Vertigo Tour](https://www.flickr.com/photos/lemon/albums/72157594158298548)
--[Sometimes You Can't Make it On Your Own](https://vimeo.com/13210965)
--[Becky on the time she met Bono and Edge](https://twitter.com/bmyers/status/821058993426731008)
+* [Like a Song - Sometimes You Can’t Make it On Your Own](http://www.atu2.com/news/like-a-song-sometimes-you-cant-make-it-on-your-own-1.html)
+* [Like a Video - Original of the Species](http://www.atu2.com/news/like-a-video-original-of-the-species.html)
+* [Chris’ trip to Montreal for Vertigo Tour](https://www.flickr.com/photos/lemon/albums/72157594158298548)
+* [Sometimes You Can’t Make it On Your Own](https://vimeo.com/13210965)
+* [Becky on the time she met Bono and Edge](https://twitter.com/bmyers/status/821058993426731008)

@@ -14,38 +14,38 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-46.mp3
 layout: episode
 ---
 
--[@jensimmons](https://twitter.com/jensimmons)
+-  [@jensimmons](https://twitter.com/jensimmons)
 
--[Artifact Conference](http://artifactconf.com)
+-  [Artifact Conference](http://artifactconf.com)
 
--[In Control Conference](http://2014.incontrolconference.com)
+-  [In Control Conference](http://2014.incontrolconference.com)
 
--[An Event Apart](http://aneventapart.com)
+-  [An Event Apart](http://aneventapart.com)
 
--[Rosco Fog](http://www.rosco.com/fog/)
+-  [Rosco Fog](http://www.rosco.com/fog/)
 
--[Codepen](http://codepen.io)
+-  [Codepen](http://codepen.io)
 
--[The Web Ahead](http://5by5.tv/webahead)
+-  [The Web Ahead](http://5by5.tv/webahead)
 
--[Shawn O'Keefe on NBSPTV](http://nonbreakingspace.tv/shawn-okeefe/)
+-  [Shawn O’Keefe on NBSPTV](http://nonbreakingspace.tv/shawn-okeefe/)
 
--[Indie Web Camp](http://indiewebcamp.com)
+-  [Indie Web Camp](http://indiewebcamp.com)
 
--[Jeremy Keith on The Non-Breaking Space Show](http://nonbreakingspace.tv/jeremy-keith/)
+-  [Jeremy Keith on The Non-Breaking Space Show](http://nonbreakingspace.tv/jeremy-keith/)
 
--[Jeffery Zeldman](http://www.zeldman.com)
+-  [Jeffery Zeldman](http://www.zeldman.com)
 
--[Gowalla](http://en.wikipedia.org/wiki/Gowalla)
+-  [Gowalla](http://en.wikipedia.org/wiki/Gowalla)
 
--[Tantek Çelik](http://tantek.com)
+-  [Tantek Çelik](http://tantek.com)
 
--[Jason Santa Maria](http://jasonsantamaria.com)
+-  [Jason Santa Maria](http://jasonsantamaria.com)
 
--[Dropbox](http://db.tt/czHe7sK)
+-  [Dropbox](http://db.tt/czHe7sK)
 
--[Arq](http://www.haystacksoftware.com/arq/index.php)
+-  [Arq](http://www.haystacksoftware.com/arq/index.php)
 
--[Organizing with Evernote](http://www.nytimes.com/2013/12/12/technology/personaltech/getting-organized-with-evernote.html?smid=tw-share&_r=1&)
+-  [Organizing with Evernote](http://www.nytimes.com/2013/12/12/technology/personaltech/getting-organized-with-evernote.html?smid=tw-share&_r=1&)
 
--[Louis CK](https://buy.louisck.net)
+-  [Louis CK](https://buy.louisck.net)

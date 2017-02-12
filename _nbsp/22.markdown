@@ -15,16 +15,16 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-22.mp3
 layout: episode
 ---
 
--[Tab&rsquo;s site xanthir.com](http://www.xanthir.com/blog/)
+-  [Tab&rsquo;s site xanthir.com](http://www.xanthir.com/blog/)
 
--[@tabatkins](http://twitter.com/tabatkins)
+-  [@tabatkins](http://twitter.com/tabatkins)
 
--[Tantek Çelik](http://tantek.com)
+-  [Tantek Çelik](http://tantek.com)
 
--[Flexible Box Layout Module](http://dev.w3.org/csswg/css3-flexbox/)
+-  [Flexible Box Layout Module](http://dev.w3.org/csswg/css3-flexbox/)
 
--[UXSummit](http://www.environmentsforhumans.com/ux-web-summit/)
+-  [UXSummit](http://www.environmentsforhumans.com/ux-web-summit/)
 
--[Mailchimp](http://mailchimp.com)
+-  [Mailchimp](http://mailchimp.com)
 
--[Kyle Simpson](http://getify.me)
+-  [Kyle Simpson](http://getify.me)

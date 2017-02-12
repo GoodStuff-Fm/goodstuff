@@ -23,7 +23,7 @@ body {
    ========================================================================== */
 
 /**
- -Add the correct display in IE 9-.
+ * Add the correct display in IE 9-.
  * 1. Add the correct display in Edge, IE, and Firefox.
  * 2. Add the correct display in IE.
  */
@@ -44,7 +44,7 @@ summary { /* 1 */
 }
 
 /**
- -Add the correct display in IE 9-.
+ * Add the correct display in IE 9-.
  */
 
 audio,
@@ -55,7 +55,7 @@ video {
 }
 
 /**
- -Add the correct display in iOS 4-7.
+ * Add the correct display in iOS 4-7.
  */
 
 audio:not([controls]) {
@@ -64,7 +64,7 @@ audio:not([controls]) {
 }
 
 /**
- -Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
 
 progress {
@@ -72,7 +72,7 @@ progress {
 }
 
 /**
- -Add the correct display in IE 10-.
+ * Add the correct display in IE 10-.
  * 1. Add the correct display in IE.
  */
 
@@ -128,7 +128,7 @@ strong {
 }
 
 /**
- -Add the correct font weight in Chrome, Edge, and Safari.
+ * Add the correct font weight in Chrome, Edge, and Safari.
  */
 
 b,
@@ -137,7 +137,7 @@ strong {
 }
 
 /**
- -Add the correct font style in Android 4.3-.
+ * Add the correct font style in Android 4.3-.
  */
 
 dfn {
@@ -145,7 +145,7 @@ dfn {
 }
 
 /**
- -Correct the font size and margin on `h1` elements within `section` and
+ * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
@@ -155,7 +155,7 @@ h1 {
 }
 
 /**
- -Add the correct background and color in IE 9-.
+ * Add the correct background and color in IE 9-.
  */
 
 mark {
@@ -164,7 +164,7 @@ mark {
 }
 
 /**
- -Add the correct font size in all browsers.
+ * Add the correct font size in all browsers.
  */
 
 small {
@@ -211,7 +211,7 @@ svg:not(:root) {
   overflow: hidden;
 }
 
-/-Grouping content
+/* Grouping content
    ========================================================================== */
 
 /**
@@ -228,7 +228,7 @@ samp {
 }
 
 /**
- -Add the correct margin in IE 8.
+ * Add the correct margin in IE 8.
  */
 
 figure {
@@ -327,7 +327,7 @@ button:-moz-focusring,
 }
 
 /**
- -Change the border, margin, and padding in all browsers (opinionated).
+ * Change the border, margin, and padding in all browsers (opinionated).
  */
 
 fieldset {
@@ -372,7 +372,7 @@ textarea {
 }
 
 /**
- -Correct the cursor style of increment and decrement buttons in Chrome.
+ * Correct the cursor style of increment and decrement buttons in Chrome.
  */
 
 [type="number"]::-webkit-inner-spin-button,
@@ -400,7 +400,7 @@ textarea {
 }
 
 /**
- -Correct the text style of placeholders in Chrome, Edge, and Safari.
+ * Correct the text style of placeholders in Chrome, Edge, and Safari.
  */
 
 ::-webkit-input-placeholder {

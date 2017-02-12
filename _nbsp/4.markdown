@@ -3,7 +3,7 @@ title: Chris Coyier and Dave Rupert (ShopTalk Crossover)
 date: 2012-03-06 12:11:00 -06:00
 position: 4
 description: |-
-  Our guests for our fourth episode are Chris Coyier and Dave Rupert, the hosts of the popular web design podcast Shoptalk. Chris is well known for his prolific posts and screencasts at CSS-Tricks.com. He's a designer for Wufoo.com, speaker on all things web.
+  Our guests for our fourth episode are Chris Coyier and Dave Rupert, the hosts of the popular web design podcast Shoptalk. Chris is well known for his prolific posts and screencasts at CSS-Tricks.com. He’s a designer for Wufoo.com, speaker on all things web.
   Dave Rupert is the lead developer for Paravel, a web design and branding agency located in Austin, Texas.
 sponsor: 
 sponsor-link: 
@@ -14,24 +14,24 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-4.mp3
 layout: episode
 ---
 
--[WTF QR CODES](http://wtfqrcodes.com/)
--[CoffeeScript](http://coffeescript.org/)
--[Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
--[Getting started Less.js](http://lesscss.org/)
--[Compass Home Compass Documentation](http://compass-style.org/)
--[#88: Intro to Compass/Sass CSS-Tricks](http://css-tricks.com/video-screencasts/88-intro-to-compass-sass/)
--[MAMP & MAMP PRO](http://www.mamp.info/en/)
--[#86: First Moments with MAMP CSS-Tricks](http://css-tricks.com/video-screencasts/86-mamp/)
--[LiveReload](http://livereload.com/)
--[#107: LiveReload, a Menu Bar App for Preprocessors and Speedy Development CSS-Tricks](http://css-tricks.com/video-screencasts/107-livereload/)
--[CodeKit: THE Mac App For Web Developers](http://incident57.com/codekit/)
--[Jade -Template Engine](http://jade-lang.com/)
--[GitHub](https://github.com/)
--[Home -Dropbox](http://db.tt/czHe7sK)
--[GitHub for Mac](http://mac.github.com/)
--[Create a new fiddle -JSFiddle](http://jsfiddle.net/)
--[Welcome to JS Bin -JS Bin](http://jsbin.com/welcome/1/edit)
--[Chris Coyier  on Twitter](https://twitter.com/chriscoyier)
--[chriscoyier ](https://github.com/chriscoyier)
--[Dave Rupert  on Twitter](https://twitter.com/davatron5000)
--[davatron5000 ](https://github.com/davatron5000)
+* [WTF QR CODES](http://wtfqrcodes.com/)
+* [CoffeeScript](http://coffeescript.org/)
+* [Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
+* [Getting started Less.js](http://lesscss.org/)
+* [Compass Home Compass Documentation](http://compass-style.org/)
+* [#88: Intro to Compass/Sass CSS-Tricks](http://css-tricks.com/video-screencasts/88-intro-to-compass-sass/)
+* [MAMP & MAMP PRO](http://www.mamp.info/en/)
+* [#86: First Moments with MAMP CSS-Tricks](http://css-tricks.com/video-screencasts/86-mamp/)
+* [LiveReload](http://livereload.com/)
+* [#107: LiveReload, a Menu Bar App for Preprocessors and Speedy Development CSS-Tricks](http://css-tricks.com/video-screencasts/107-livereload/)
+* [CodeKit: THE Mac App For Web Developers](http://incident57.com/codekit/)
+* [Jade - Template Engine](http://jade-lang.com/)
+* [GitHub](https://github.com/)
+* [Home - Dropbox](http://db.tt/czHe7sK)
+* [GitHub for Mac](http://mac.github.com/)
+* [Create a new fiddle - JSFiddle](http://jsfiddle.net/)
+* [Welcome to JS Bin - JS Bin](http://jsbin.com/welcome/1/edit)
+* [Chris Coyier  on Twitter](https://twitter.com/chriscoyier)
+* [chriscoyier ](https://github.com/chriscoyier)
+* [Dave Rupert  on Twitter](https://twitter.com/davatron5000)
+* [davatron5000 ](https://github.com/davatron5000)

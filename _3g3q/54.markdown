@@ -1,8 +1,8 @@
 ---
-title: S04:E08 -"Donuts Per Capita"
+title: S04:E08 - "Donuts Per Capita"
 date: 2015-06-29 12:11:00 -06:00
 position: 6
-description: 1776, a river of bullets, &amp; browsing sheep.
+description: 1776, a river of bullets, & browsing sheep.
 sponsor: complaining loudly about minor inconveniences.
 sponsor-link: 
 sponsor-copy: 
@@ -16,49 +16,49 @@ layout: episode
 # Questions
 
 ## Aaron: What's your favorite patriotic movie?
--[Independence Day: Resurgence (Wiki)](https://en.wikipedia.org/wiki/Independence_Day:_Resurgence)(Wiki)
--[For God's Sake John Sit Down](https://youtu.be/DqAdlkJDt7k)
--[The Patriot](http://www.imdb.com/title/tt0187393/)
--[Last of THe Mohicans](http://www.imdb.com/title/tt0104691/)
+- [Independence Day: Resurgence (Wiki)](https://en.wikipedia.org/wiki/Independence_Day:_Resurgence)(Wiki)
+- [For God's Sake John Sit Down](https://youtu.be/DqAdlkJDt7k)
+- [The Patriot](http://www.imdb.com/title/tt0187393/)
+- [Last of THe Mohicans](http://www.imdb.com/title/tt0104691/)
 
 ## Adam: What is the most 'Murica thing about you?
--"Primum Habent Mensa"
--[Stoneware Grease Keeper](http://amzn.com/B0017TZSU0)
--[The Paleo Diet](http://robbwolf.com/category/paleo-diet-basics/)
--[Baconaisse](https://baconsalt.3dcartstores.com/Baconnaise-3-pack_p_34.html)
--[A10 Warthog](https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II)
--[M1 Abrams](https://en.wikipedia.org/wiki/M1_Abrams)
--[SADARM](https://en.wikipedia.org/wiki/Sense_and_Destroy_ARMor)
--[SADM](https://en.wikipedia.org/wiki/Special_Atomic_Demolition_Munition)
+- "Primum Habent Mensa"
+- [Stoneware Grease Keeper](http://amzn.com/B0017TZSU0)
+- [The Paleo Diet](http://robbwolf.com/category/paleo-diet-basics/)
+- [Baconaisse](https://baconsalt.3dcartstores.com/Baconnaise-3-pack_p_34.html)
+- [A10 Warthog](https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II)
+- [M1 Abrams](https://en.wikipedia.org/wiki/M1_Abrams)
+- [SADARM](https://en.wikipedia.org/wiki/Sense_and_Destroy_ARMor)
+- [SADM](https://en.wikipedia.org/wiki/Special_Atomic_Demolition_Munition)
 
 ## Andrew: If you were kicked out of the US, which country would you want to be a citizen of instead?
--[Visit Middle Earth](http://www.newzealand.com/int/lord-of-the-rings/)
--[20 sheep to every person](http://www.stats.govt.nz/browse_for_stats/population/mythbusters/3million-people-60million-sheep.aspx)
--[Danish Pastry](https://en.wikipedia.org/wiki/Danish_pastry)
--[BBC TV](http://www.bbc.co.uk/iplayer)
--[Netflix Top Gear](http://www.businessinsider.com/jeremy-clarkson-confirms-new-car-show-with-former-top-gear-mates-2015-6?op=1)
+- [Visit Middle Earth](http://www.newzealand.com/int/lord-of-the-rings/)
+- [20 sheep to every person](http://www.stats.govt.nz/browse_for_stats/population/mythbusters/3million-people-60million-sheep.aspx)
+- [Danish Pastry](https://en.wikipedia.org/wiki/Danish_pastry)
+- [BBC TV](http://www.bbc.co.uk/iplayer)
+- [Netflix Top Gear](http://www.businessinsider.com/jeremy-clarkson-confirms-new-car-show-with-former-top-gear-mates-2015-6?op=1)
 
-# Followup &amp; Feedback
--Tenth Kingdom is a big hit!
--[Mentioned on Transmission](http://goodstuff.fm/transmission/177)
--[Money Poll](http://www.buddybox.me/discussion/67/money-poll)
--[The Summer WIthout Video](http://www.buddybox.me/discussion/59/the-summer-video-project)
--[The Huster Seal of Approval](http://l.gdwn.co/1hCfW)
+# Followup & Feedback
+- Tenth Kingdom is a big hit!
+- [Mentioned on Transmission](http://goodstuff.fm/transmission/177)
+- [Money Poll](http://www.buddybox.me/discussion/67/money-poll)
+- [The Summer WIthout Video](http://www.buddybox.me/discussion/59/the-summer-video-project)
+- [The Huster Seal of Approval](http://l.gdwn.co/1hCfW)
 
 ***
 
 # Follow Us
--Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
--Andrew: [@A_Sav](http://twitter.com/a_sav)
--Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
+* Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
+* Andrew: [@A_Sav](http://twitter.com/a_sav)
+* Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
 
 # Braaaaaand Engagement
--[#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
--Call/text us: 760-881-4382
--[Ask on Tumblr](http://3g3q.co/ask)
--Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
+* [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr](http://3g3q.co/ask)
+* Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
 
 ***
 
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
-The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
+The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.

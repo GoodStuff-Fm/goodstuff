@@ -3,7 +3,7 @@ title: "$2.5 Billion Gets You Slimmer Arms"
 date: 2014-09-16 12:11:00 -06:00
 description: Mojang gets bought by Microsoft, Twitch gets bought by Amazon and we're
   only on day 3! Strip mining, walkabouts and books and enchantments are covered on
-  this episode -plus we need your help naming things!
+  this episode - plus we need your help naming things!
 sponsor: Campaign Monitor
 sponsor-link: http://campaignmonitor.com
 sponsor-copy: Tell them you heard about it on Goodstuff
@@ -13,28 +13,28 @@ mp3:
 layout: episode
 ---
 
-[The Official Twitch Blog A Letter from the CEO -August 25, 2014 » The Official Twitch Blog](http://blog.twitch.tv/2014/08/a-letter-from-the-ceo-august-25-2014/)
+[The Official Twitch Blog A Letter from the CEO - August 25, 2014 » The Official Twitch Blog](http://blog.twitch.tv/2014/08/a-letter-from-the-ceo-august-25-2014/)
 
-[Yes, we're being bought by Microsoft -Mojang](https://mojang.com/2014/09/yes-were-being-bought-by-microsoft/)
+[Yes, we’re being bought by Microsoft - Mojang](https://mojang.com/2014/09/yes-were-being-bought-by-microsoft/)
 
-[Mojang (Minecraft) Bought by Microsoft -Faraway, So Close](http://www.chrisenns.com/2014/09/mojang-minecraft-bought-by-microsoft/)(Minecraft)
+[Mojang (Minecraft) Bought by Microsoft - Faraway, So Close](http://www.chrisenns.com/2014/09/mojang-minecraft-bought-by-microsoft/)(Minecraft)
 
-[I'm leaving Mojang -Notch](http://pastebin.com/n1qTeikM)
+[I'm leaving Mojang - Notch](http://pastebin.com/n1qTeikM)
 
-[Mojang -Minecraft skins](https://help.mojang.com/customer/portal/articles/979200-minecraft-skins)
+[Mojang - Minecraft skins](https://help.mojang.com/customer/portal/articles/979200-minecraft-skins)
 
 [Minecraft Skin Creator for iOS](https://itunes.apple.com/ca/app/minecraft-skin-studio-official/id563546294?mt=8&uo=4&at=10l4Ki)
 
-[Minecraft Skins -The Skindex](http://www.minecraftskins.com/)
+[Minecraft Skins - The Skindex](http://www.minecraftskins.com/)
 
-[Rabbit -Minecraft Wiki](http://minecraft.gamepedia.com/Rabbit)
+[Rabbit - Minecraft Wiki](http://minecraft.gamepedia.com/Rabbit)
 
-[Acixs -$2 Minecraft Server Hosting](http://acixs.com/)
+[Acixs - $2 Minecraft Server Hosting](http://acixs.com/)
 
 [Minecraft Realms](https://minecraft.net/realms)
 
-[Minecraft Maps -Adventure Maps -Temple of Nox](http://www.minecraftmaps.com/adventure-maps/temple-of-nox/)
+[Minecraft Maps - Adventure Maps - Temple of Nox](http://www.minecraftmaps.com/adventure-maps/temple-of-nox/)
 
-[iFunBox for Windows -File Manager, Browser, Explorer, Transferer for iPhone, iPad and iPod Touch](http://www.i-funbox.com/)
+[iFunBox for Windows - File Manager, Browser, Explorer, Transferer for iPhone, iPad and iPod Touch](http://www.i-funbox.com/)
 
-[Never Dig Down #5: $2.5 Billion Gets You Slimmer Arms -Goodstuff FM](http://goodstuff.fm/neverdigdown/5)
+[Never Dig Down #5: $2.5 Billion Gets You Slimmer Arms - Goodstuff FM](http://goodstuff.fm/neverdigdown/5)

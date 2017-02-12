@@ -3,10 +3,15 @@ title: Turn in Your @U2 Card Right Now — A Discussion of Boy
 date: 2016-06-30 02:56:00 -06:00
 mp3: http://podcasts-1.feedpress.co/12572/atu2-34.mp3
 episode: 34
+<<<<<<< HEAD
 description: As part of our U240 celebrations, we're going to talk through each of
   U2's albums and what better place to start than with U2's first album, Boy. Tassoula,
+=======
+description: 'As part of our #U240 celebrations, we’re going to talk through each
+  of U2’s albums and what better place to start than with U2’s first album, Boy. Tassoula,
+>>>>>>> parent of ddae6ac... Running markdown linter
   Matt, Sherry, and Chris share their thoughts on the album song by song as well as
-  a bit of the history surrounding its recording and release into the world.
+  a bit of the history surrounding its recording and release into the world'
 layout: episode
 ---
 
@@ -14,65 +19,65 @@ Guest Starring: Tassoula Kokkoris and Sherry Lawrence
 
 ***
 
--[» Build a Well For Bono's Birthday 2016][1]
+* [» Build a Well For Bono's Birthday 2016][1]
 
--[The atU2 Podcast #8: A Campfire Moment With Uncle Bono -Goodstuff FM][2]
+* [The atU2 Podcast #8: A Campfire Moment With Uncle Bono - Goodstuff FM][2]
 
--[The atU2 Podcast #17: And Then I Whacked Noel Gallagher -Goodstuff FM][3]
+* [The atU2 Podcast #17: And Then I Whacked Noel Gallagher - Goodstuff FM][3]
 
--[@U2's Guide to U2's Dublin][4]
+* [@U2's Guide to U2's Dublin][4]
 
--[Dublin Visitor's Guide][5]
+* [Dublin Visitor's Guide][5]
 
--[@U2's Guide to U2's Dublin][4]
+* [@U2's Guide to U2's Dublin][4]
 
--[Herbert Grönemeyer und Bono -Mensch -YouTube][6]
+* [Herbert Grönemeyer und Bono - Mensch - YouTube][6]
 
--[Bono, Chris Martin and more to remake 'Do They Know It's Christmas' | New York Post][7]
+* [Bono, Chris Martin and more to remake 'Do They Know It's Christmas' | New York Post][7]
 
--[Wyclef -New Day -YouTube][8]
+* [Wyclef - New Day - YouTube][8]
 
--[U2's The Edge on HBO's 'Innocence + Experience' Paris Gig, Eagles of Death Metal and New Album | Billboard][9]
+* [U2's The Edge on HBO's 'Innocence + Experience' Paris Gig, Eagles of Death Metal and New Album | Billboard][9]
 
--[U2 -A Diary -Perfect Gift for U2 Fans][10]
+* [U2 - A Diary - Perfect Gift for U2 Fans][10]
 
--[U2 &gt; Discography &gt; Albums &gt; Boy][11]
+* [U2 &gt; Discography &gt; Albums &gt; Boy][11]
 
--[U2 by U2: U2, Neil McCormick: 9780061903854: Books -Amazon.ca][12]
+* [U2 by U2: U2, Neil McCormick: 9780061903854: Books - Amazon.ca][12]
 
--[Boy (Remastered)][13]
+* [Boy (Remastered)][13]
 
--[Boy (Deluxe Edition) [Remastered]][14]
+* [Boy (Deluxe Edition) [Remastered]][14]
 
--[Steve Lillywhite CBE (@Sillywhite) | Twitter][15]
+* [Steve Lillywhite CBE (@Sillywhite) | Twitter][15]
 
--[U2: A Diary: Matt McGee: 9781847721082: Amazon.com: Books][16]
+* [U2: A Diary: Matt McGee: 9781847721082: Amazon.com: Books][16]
 
--[U2: A Diary: Amazon.co.uk: Matt McGee: 9781849388474: Books][17]
+* [U2: A Diary: Amazon.co.uk: Matt McGee: 9781849388474: Books][17]
 
--[U2 -A Diary: Matt McGee: 9781847721082: Books -Amazon.ca][18]
+* [U2 - A Diary: Matt McGee: 9781847721082: Books - Amazon.ca][18]
 
--[Buy or Win: Stealing Hearts at a Traveling Show -U2 Graphic Design Book][19]
+* [Buy or Win: Stealing Hearts at a Traveling Show - U2 Graphic Design Book][19]
 
--[The Picture of Dorian Gray -Wikipedia, the free encyclopedia][20]
+* [The Picture of Dorian Gray - Wikipedia, the free encyclopedia][20]
 
--[A Clockwork Orange (1971) -IMDb][21]
+* [A Clockwork Orange (1971) - IMDb][21]
 
--[Lord of the Flies -Wikipedia, the free encyclopedia][22]
+* [Lord of the Flies - Wikipedia, the free encyclopedia][22]
 
--[Bono remembers U2's 'Boy'][23]
+* [Bono remembers U2's 'Boy'][23]
 
--[The Edge | Off Camera with Sam Jones][24]
+* [The Edge | Off Camera with Sam Jones][24]
 
--[AchtungBaby.com ‐ Celebrating 25 years of the Best. Album. Ever.][25]
+* [AchtungBaby.com – Celebrating 25 years of the Best. Album. Ever.][25]
 
--[tassoula (@tassoula) | Twitter][26]
+* [tassoula (@tassoula) | Twitter][26]
 
--[Matt McGee (@mattmcgee) | Twitter][27]
+* [Matt McGee (@mattmcgee) | Twitter][27]
 
--[atu2.com -Sherry (@atu2comSherry) | Twitter][28]
+* [atu2.com - Sherry (@atu2comSherry) | Twitter][28]
 
--[Chris Enns (@iChris) | Twitter][29]
+* [Chris Enns (@iChris) | Twitter][29]
 
 [1]: http://africanwellfund.org/bono-well-2016/
 [2]: http://goodstuff.fm/atu2/8

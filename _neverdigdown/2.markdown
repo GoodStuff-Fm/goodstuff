@@ -1,9 +1,9 @@
 ---
-title: Loading Chunks -The Basics of Minecraft
+title: Loading Chunks - The Basics of Minecraft
 date: 2014-07-29 12:11:00 -06:00
-description: We cover the basics of Minecraft -why, how much, what do you need and
+description: We cover the basics of Minecraft - why, how much, what do you need and
   why is it so popular? We open up the listener mail and answer a couple questions.
-  We also talk Minecraft world news -Star Wars, Captive Minecraft and Herobrine.
+  We also talk Minecraft world news - Star Wars, Captive Minecraft and Herobrine.
 sponsor: Campaign Monitor
 sponsor-link: http://campaignmonitor.com
 sponsor-copy: Tell them you heard about it on Goodstuff
@@ -13,13 +13,13 @@ mp3:
 layout: episode
 ---
 
-[Chunk Loader -Feed The Beast Wiki](http://feed-the-beast.wikia.com/wiki/Chunk_Loader)
+[Chunk Loader - Feed The Beast Wiki](http://feed-the-beast.wikia.com/wiki/Chunk_Loader)
 
-[Minecraft Comes Alive v4.0.4 (Two Million Downloads!) -Minecraft Mods -Mapping and Modding -Minecraft Forum -Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280154-minecraft-comes-alive-v4-0-4-two-million-downloads)
+[Minecraft Comes Alive v4.0.4 (Two Million Downloads!) - Minecraft Mods - Mapping and Modding - Minecraft Forum - Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280154-minecraft-comes-alive-v4-0-4-two-million-downloads)
 
 [Minecraft Signs (MinecraftSigns) on Twitter](https://twitter.com/MinecraftSigns)
 
-[Herobrine -Minecraft Wiki](http://minecraft.gamepedia.com/Herobrine)
+[Herobrine - Minecraft Wiki](http://minecraft.gamepedia.com/Herobrine)
 
 Herobrine
 
@@ -27,9 +27,9 @@ Herobrine
 
 everyone treatsme like a idiot   and I justHATE it. So now
 
-[✖ Minecraft -Star Wars -'A New Hope' -OFFICIAL TRAILER 1 -YouTube](https://www.youtube.com/watch?v=zbZavIZJC8k)
+[✖ Minecraft - Star Wars - 'A New Hope' - OFFICIAL TRAILER 1 - YouTube](https://www.youtube.com/watch?v=zbZavIZJC8k)
 
-[Minecraft ‐ Star Wars ‐ A New Hope -Precisely Recreating 'Star Wars ‐ A New Hope' in Minecraft.](http://paradisedecay.wordpress.com/)
+[Minecraft – Star Wars – A New Hope - Precisely Recreating 'Star Wars – A New Hope' in Minecraft.](http://paradisedecay.wordpress.com/)
 
 [Captive Minecraft — The Farlanders](http://thefarlanders.com/captiveminecraft)
 
@@ -37,7 +37,7 @@ everyone treatsme like a idiot   and I justHATE it. So now
 
 Captive Minecraft II is the successor to the original Captive Minecraft, released in May 2014.  This new vanilla game type traps you in a 1x1 box using 1.8's World Border feature.  For each Minecraft Achievement you get, the World Border widens by half a block in each direction.  As your captive world slowly expands, you gain access to more and more resources and hidden secrets.
 
-[Achievements -Minecraft Wiki](http://minecraft.gamepedia.com/Achievements)
+[Achievements - Minecraft Wiki](http://minecraft.gamepedia.com/Achievements)
 
 Achievements are a way to gradually guide new players into Minecraft and give them challenges to complete. There are currently 33 achievements in the PC edition, 20 achievements in the Xbox 360 Edition and 29 trophies in PlayStation 3 Edition.
 
@@ -47,14 +47,14 @@ Achievements are a way to gradually guide new players into Minecraft and give th
 
 [Buy Minecraft for Sony PS3](https://store.sonyentertainmentnetwork.com/#!/ca-en/games/minecraft-playstation3-edition/cid=UP4433-NPUB31419_00-TRIALUPGRADE0001)
 
-[Minecraft -Pocket Edition -Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)
+[Minecraft - Pocket Edition - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)
 
 [Buy Minecraft for iPhone or iPad](https://itunes.apple.com/ca/app/minecraft-pocket-edition/id479516143?mt=8&uo=4&at=10l4Ki)
 
 [Minecraft Demo](https://minecraft.net/demo)
 
-[List of best-selling PC games -Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/List_of_best-selling_PC_games)
+[List of best-selling PC games - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/List_of_best-selling_PC_games)
 
-[iChris Plays Minecraft -How to Buy and Install Minecraft](http://youtu.be/Wkh0M1MnJX8?list=UUo6gEbK43Cbna6l_XwEf2DA)
+[iChris Plays Minecraft - How to Buy and Install Minecraft](http://youtu.be/Wkh0M1MnJX8?list=UUo6gEbK43Cbna6l_XwEf2DA)
 
 [Minecraft Realms](https://minecraft.net/realms)

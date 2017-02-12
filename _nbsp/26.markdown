@@ -3,7 +3,7 @@ title: Jennifer Robbins
 date: 2013-01-17 00:43:00 -06:00
 position: 48
 description: |-
-  Jennifer Robbins has been a Web designer since 1993. She designed the web's first commercial site, O'Reilly's Global Network Navigator.
+  Jennifer Robbins has been a Web designer since 1993. She designed the web’s first commercial site, O'Reilly’s Global Network Navigator.
 
   A graduate of the University of Notre Dame, Robbins is the author of Web Design in a Nutshell, Learning Web Design, and HTML and XHTML Pocket Reference. She has also written corporate identity style guides for clients such as Harcourt Publishing, Americanexpress.com, and Orange Imagineering.
 
@@ -20,44 +20,44 @@ episode: 26
 layout: episode
 ---
 
--[@jenville](http://twitter.com/jenville)
+-  [@jenville](http://twitter.com/jenville)
 
--[Blog](http://www.jenville.com)
+-  [Blog](http://www.jenville.com)
 
--Book -[Learning Web Design](http://www.learningwebdesign.com)
+- Book -  [Learning Web Design](http://www.learningwebdesign.com)
 
--[Cooking with Rockstars](http://cookingwithrockstars.com)
+-  [Cooking with Rockstars](http://cookingwithrockstars.com)
 
--Book  [CSS Cookbook](http://shop.oreilly.com/product/9780596155940.do)
+- Book  [CSS Cookbook](http://shop.oreilly.com/product/9780596155940.do)
 
--Book  [CSS: The Missing Manual](http://shop.oreilly.com/product/9780596802455.do)
+- Book  [CSS: The Missing Manual](http://shop.oreilly.com/product/9780596802455.do)
 
--[@wilto](https://twitter.com/wilto)
+-  [@wilto](https://twitter.com/wilto)
 
--Book -[Deconstructing Web Graphics](http://www.amazon.com/Deconstructing-Web-Graphics-Lynda-Weinman/dp/1562056417)
+- Book -  [Deconstructing Web Graphics](http://www.amazon.com/Deconstructing-Web-Graphics-Lynda-Weinman/dp/1562056417)
 
--[ASCIIDoc](http://www.methods.co.nz/asciidoc/)
+-  [ASCIIDoc](http://www.methods.co.nz/asciidoc/)
 
--[Hadoop](http://hadoop.apache.org)
+-  [Hadoop](http://hadoop.apache.org)
 
--[Scott Jenson](https://twitter.com/scottjenson)
+-  [Scott Jenson](https://twitter.com/scottjenson)
 
--[Netflix](https://signup.netflix.com)
+-  [Netflix](https://signup.netflix.com)
 
--[Evernote](http://evernote.com)
+-  [Evernote](http://evernote.com)
 
--[Articfact Conference](http://artifactconf.com)
+-  [Articfact Conference](http://artifactconf.com)
 
--[Artifact Conference on Twitter](http://twitter.com/artifactconf)
+-  [Artifact Conference on Twitter](http://twitter.com/artifactconf)
 
--[InControl Conference](http://incontrolconference.com)
+-  [InControl Conference](http://incontrolconference.com)
 
--[AIGA](http://www.aiga.org)
+-  [AIGA](http://www.aiga.org)
 
--[Cooking with Rockstars](http://cookingwithrockstars.com)
+-  [Cooking with Rockstars](http://cookingwithrockstars.com)
 
--[Jack Black on Cooking with Rockstars](http://cookingwithrockstars.com/artist/jack-black)
+-  [Jack Black on Cooking with Rockstars](http://cookingwithrockstars.com/artist/jack-black)
 
--[Ben Gibbard on Cooking with Rockstars](http://cookingwithrockstars.com/artist/ben-gibbard-death-cab-cutie-postal-service)
+-  [Ben Gibbard on Cooking with Rockstars](http://cookingwithrockstars.com/artist/ben-gibbard-death-cab-cutie-postal-service)
 
--[Liam Lynch](http://en.wikipedia.org/wiki/Liam_Lynch_(musician))
+-  [Liam Lynch](http://en.wikipedia.org/wiki/Liam_Lynch_(musician))

@@ -1,0 +1,29 @@
+header:
+- title: About
+  url: /about/
+- title: Broadcasts
+  url: /broadcasts/
+- title: People
+  url: /people/
+- title: Support
+  url: /support/
+- title: Posts
+  url: /posts/
+- title: Contact
+  url: /contact/
+- title: Schedule
+  url: /schedule/
+- title: Advertise
+  url: /advertise/
+
+footer:
+- title: iTunes
+  url: https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2
+- title: Goodstuff on Reddit
+  url: https://www.reddit.com/r/Goodstuff_fm/
+- title: Stuffybot
+  url: http://stuffybot.goodstuff.fm
+- title: Master Feed
+  url: /master/feed/
+- title: Support our Shows
+  url: /support/

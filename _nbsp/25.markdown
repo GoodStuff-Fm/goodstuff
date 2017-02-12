@@ -13,56 +13,56 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-25.mp3
 layout: episode
 ---
 
--[ShopTalkShow podcast](http://shoptalkshow.com)
+-  [ShopTalkShow podcast](http://shoptalkshow.com)
 
--[Shop Talk Show crossover episode](http://shoptalkshow.com/episodes/008-with-schmitt-enns-and-mcfarland/)
+-  [Shop Talk Show crossover episode](http://shoptalkshow.com/episodes/008-with-schmitt-enns-and-mcfarland/)
 
--[CSS-tricks.com](http://css-tricks.com)
+-  [CSS-tricks.com](http://css-tricks.com)
 
--[Turbo Pascal](http://en.wikipedia.org/wiki/Turbo_Pascal)
+-  [Turbo Pascal](http://en.wikipedia.org/wiki/Turbo_Pascal)
 
--[The Big Web Show interview with Chris Coyier](http://5by5.tv/bigwebshow/74)
+-  [The Big Web Show interview with Chris Coyier](http://5by5.tv/bigwebshow/74)
 
--[Survey Monkey](http://www.surveymonkey.com)
+-  [Survey Monkey](http://www.surveymonkey.com)
 
--[Wufoo](http://wufoo.com)
+-  [Wufoo](http://wufoo.com)
 
--[Codepen.io](http://codepen.io)
+-  [Codepen.io](http://codepen.io)
 
--[Chriscoyer.net/about](http://chriscoyier.net/about/)
+-  [Chriscoyer.net/about](http://chriscoyier.net/about/)
 
--[Dan Cederholm Interview on Non-Breaking Space](http://nonbreakingspace.tv/dan-cederholm/)
+-  [Dan Cederholm Interview on Non-Breaking Space](http://nonbreakingspace.tv/dan-cederholm/)
 
--[JSFiddle](http://jsfiddle.net)
+-  [JSFiddle](http://jsfiddle.net)
 
--[Codepen Comic CSS](http://codepen.io/fliptheweb/pen/BAFjo)
+-  [Codepen Comic CSS](http://codepen.io/fliptheweb/pen/BAFjo)
 
--[Codemirror](http://codemirror.net)
+-  [Codemirror](http://codemirror.net)
 
--[@alexquez](http://twitter.com/alexquez)
+-  [@alexquez](http://twitter.com/alexquez)
 
--[@timsabat](http://twitter.com/timsabat)
+-  [@timsabat](http://twitter.com/timsabat)
 
--[jsbin.com](http://jsbin.com)
+-  [jsbin.com](http://jsbin.com)
 
--[Rdio](http://www.rdio.com)
+-  [Rdio](http://www.rdio.com)
 
--[Web Developer Economics: One Off Software Costs](http://css-tricks.com/web-developer-economics-one-off-software-costs/)
+-  [Web Developer Economics: One Off Software Costs](http://css-tricks.com/web-developer-economics-one-off-software-costs/)
 
--[Web Developer Economics: Hardware Costs](http://css-tricks.com/web-developer-economics-hardware-costs/)
+-  [Web Developer Economics: Hardware Costs](http://css-tricks.com/web-developer-economics-hardware-costs/)
 
--[Web Developer Economics: Wrap up](http://css-tricks.com/web-developer-economics-the-wrapup/)
+-  [Web Developer Economics: Wrap up](http://css-tricks.com/web-developer-economics-the-wrapup/)
 
--[Skydrive](http://windows.microsoft.com/en-US/skydrive/download)
+-  [Skydrive](http://windows.microsoft.com/en-US/skydrive/download)
 
--[Google Drive](https://www.google.com/intl/en_US/drive/start/index.html?authuser=0)
+-  [Google Drive](https://www.google.com/intl/en_US/drive/start/index.html?authuser=0)
 
--[Spoon Graphics](http://blog.spoongraphics.co.uk) and  [post about the redesign](http://blog.spoongraphics.co.uk/latest_news/blog-spoongraphics-redesigned-welcome-to-version-6)
+-  [Spoon Graphics](http://blog.spoongraphics.co.uk) and  [post about the redesign](http://blog.spoongraphics.co.uk/latest_news/blog-spoongraphics-redesigned-welcome-to-version-6)
 
--[Google Canary](https://tools.google.com/dlpage/chromesxs)
+-  [Google Canary](https://tools.google.com/dlpage/chromesxs)
 
--[CodeKit](http://incident57.com/codekit/)
+-  [CodeKit](http://incident57.com/codekit/)
 
--[@chriscoyier](http://twitter.com/chriscoyier)
+-  [@chriscoyier](http://twitter.com/chriscoyier)
 
--[Dribbble](http://dribbble.com/chriscoyier)
+-  [Dribbble](http://dribbble.com/chriscoyier)

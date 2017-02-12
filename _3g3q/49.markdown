@@ -1,5 +1,5 @@
 ---
-title: S04:E05 -"Celebrity Warship"
+title: S04:E05 - "Celebrity Warship"
 date: 2015-06-08 12:11:00 -06:00
 position: 11
 description: Beyonce II Jenner, Nappy-Q, and word paintings
@@ -16,29 +16,29 @@ layout: episode
 # Questions
 
 ## Andrew: what activity done by most adults do you not understand?
--ABWFW
--[Sovereign Citizens](https://en.wikipedia.org/wiki/Sovereign_citizen_movement)
+- ABWFW
+- [Sovereign Citizens](https://en.wikipedia.org/wiki/Sovereign_citizen_movement)
 
 ## Aaron: If you could create a theme park, what would be its theme?
--[Jurassic Park](http://www.imdb.com/title/tt0107290/)
+- [Jurassic Park](http://www.imdb.com/title/tt0107290/)
 
 ## Adam: What thing would you most like to be really good at?
--[Lifehacks for remembering names](http://lifehacker.com/5626604/how-to-remember-and-deal-with-peoples-names)
+- [Lifehacks for remembering names](http://lifehacker.com/5626604/how-to-remember-and-deal-with-peoples-names)
 
 ***
 
 # Follow Us
--Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
--Andrew: [@A_Sav](http://twitter.com/a_sav)
--Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
+* Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
+* Andrew: [@A_Sav](http://twitter.com/a_sav)
+* Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
 
 # Braaaaaand Engagement
--[#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
--Call/text us: 760-881-4382
--[Ask on Tumblr](http://3g3q.co/ask)
--Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
+* [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr](http://3g3q.co/ask)
+* Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
 
 ***
 
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
-The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
+The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
