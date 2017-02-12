@@ -100,7 +100,7 @@ copyright: "© 2014–2017 Goodstuff Broadcasting"
 defaults:
   -
     scope:
-      path: "3g3q"
+      path: "/3g3q/:path"
       type: "collections"
     values:
       colors: ["red", "green", "blue"]
