@@ -54,9 +54,3 @@ layout: episode
 * [Subscribe to our YouTube channel for on-demand video](https://www.youtube.com/user/goodstuffdotfm)
 
 * [Subscribe to this podcast in iTunes](https://itunes.apple.com/ca/podcast/pdcst/id815675012)
-
-# Watch the Video Version Here
-
-*The actual show starts around the 12 minute mark.*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QbB6XoqkTQ0" frameborder="0" allowfullscreen></iframe>
