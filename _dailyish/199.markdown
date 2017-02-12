@@ -1,0 +1,65 @@
+---
+title: Artisanally Crafted Computers
+date: 2017-02-08 23:08:00 -06:00
+show: dailyish
+description: I’m joined by Dave Rupert to talk about his move from Mac to Windows
+  and why it’s not such a scary idea after all. Or is it? (cue ominious music)
+mp3: http://podcasts-1.feedpress.co/10587/dailyish-199.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/dailyish
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code * dailyish*
+  during checkout to get 10% off your first year.
+layout: episode
+---
+
+* 📹 [Watch the video version on YouTube][1]
+* [Discuss this in our Subreddit][2]
+* [Dave Goes Windows?][3]
+* [Dave is Going Windows][4]
+* [Developing on Windows][5]
+* [Dave Goes Windows Check-in][6]
+* [Dave Builds a PC][7]
+* [Dave's Build on PCPartsPicker.com][8]
+* [Dave Goes Windows Finale][9]
+* [ShopTalk Show - Dave Goes Windows][10]
+* [ShopTalk Show - Dave Goes Windows Wrap Up][11]
+* [Ultimate Value Gaming Build Guide - LinusTechTips][12]
+* 🎮 [Overwatch][13]
+* [@Davatron5000][14]
+* [DaveRupert.com][15]
+* [ShopTalk Show][16]
+* [Paravel][17]
+
+# Subscribe to all the things
+
+* [Subscribe to our Twitch channel for live video streams][18]
+* [Subscribe to our YouTube channel for on-demand video][19]
+* [Subscribe to this podcast in iTunes][20]
+
+# Watch the Video Version Here
+
+_The actual show starts around the 12 minute mark._
+
+***
+
+[1]: https://www.youtube.com/watch?v=QbB6XoqkTQ0
+[2]: https://www.reddit.com/r/Goodstuff_fm/comments/5spp53/dailyish_199_artisanally_crafted_computers/
+[3]: https://daverupert.com/2015/04/davegoeswindows/
+[4]: https://daverupert.com/2015/08/dave-is-going-windows/
+[5]: https://daverupert.com/2015/08/developing-on-windows/
+[6]: https://daverupert.com/2016/01/davegoeswindows-checkin/
+[7]: https://daverupert.com/2016/12/dave-builds-a-pc/
+[8]: https://pcpartpicker.com/user/davatron5000/saved/HGV3CJ
+[9]: https://daverupert.com/2016/07/davegoeswindows-finale/
+[10]: http://shoptalkshow.com/episodes/186-dave-goes-windows/
+[11]: http://shoptalkshow.com/episodes/225-davegoeswindows-wrap/
+[12]: https://www.youtube.com/watch?v=vbDiSMQ_L_k
+[13]: https://playoverwatch.com/en-us/
+[14]: https://twitter.com/davatron5000
+[15]: https://daverupert.com
+[16]: http://shoptalkshow.com/
+[17]: http://paravelinc.com
+[18]: https://www.twitch.tv/goodstuff_fm
+[19]: https://www.youtube.com/user/goodstuffdotfm
+[20]: https://itunes.apple.com/ca/podcast/pdcst/id815675012
