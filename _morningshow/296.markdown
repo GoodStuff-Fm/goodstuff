@@ -6,6 +6,7 @@ tags:
 - sushi
 - pizza
 - Food Friday
+position: 35
 episode: '296'
 description: So many kinds of pizza - so little time, What condiments do you put on
   a sushi hamburger?, Gordon Ramsay loves glazed ham, Your phone case is alive, Pepper-spray

@@ -1,5 +1,6 @@
 ---
 title: '329'
+position: 68
 ---
 
 * [Kenny on Periscope: "Google Home unboxing."](https://www.periscope.tv/pizzarobotics/1BdxYdgYXoAJX?t=3)

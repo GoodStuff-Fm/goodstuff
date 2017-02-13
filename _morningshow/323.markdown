@@ -1,5 +1,6 @@
 ---
 title: '323'
+position: 62
 ---
 
 * [The Microsoft Band is dead - The Verge](http://www.theverge.com/circuitbreaker/2016/10/3/13152590/microsoft-band-discontinued)

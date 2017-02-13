@@ -6,6 +6,7 @@ tags:
 - Facebook
 - Popsicles
 - Food Friday
+position: 54
 episode: '315'
 description: Disneyland food tours, thick and eggy, ride the Dole Whip, palms full
   of churrrrrrrrros, the results of Record of the Week, and more!
