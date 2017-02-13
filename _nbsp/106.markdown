@@ -2,7 +2,9 @@
 title: Dudley Storey — Using SVG
 date: 2017-02-13 12:11:00 -06:00
 position: 1
-description: Dudley Storey is a Smashing Magazine contributing editor, teacher and speaker, his new book  _Using SVG with CSS3 and HTML5_ is scheduled to be released later this Spring.
+description: Dudley Storey is a Smashing Magazine contributing editor, teacher and
+  speaker, his new book  _Using SVG with CSS3 and HTML5_ is scheduled to be released
+  later this Spring.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
