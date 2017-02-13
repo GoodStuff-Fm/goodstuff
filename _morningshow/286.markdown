@@ -1,8 +1,15 @@
 ---
 title: Interior Crocodile Alligator
-date: 2016-03-18 13:52:00 Z
+date: 2016-03-18 07:52:00 -06:00
+tags:
+- Food Friday
+- waffles
+- crocodiles
+- Chipotle
 episode: '286'
-description: "Take your horse to Prom, Crocodiles are not alligators, Hammock and rocking chair finally combine, Check out this meat vending machine, We eat Sriracha Peas and have bad breath, and more."
+description: Take your horse to Prom, Crocodiles are not alligators, Hammock and rocking
+  chair finally combine, Check out this meat vending machine, We eat Sriracha Peas
+  and have bad breath, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-286.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- waffles
-- crocodiles
-- Chipotle
 ---
 
 * [Spotify agrees to pay millions for unmatched royalties](http://www.engadget.com/2016/03/17/spotify-agrees-to-pay-millions-for-unmatched-royalties/)

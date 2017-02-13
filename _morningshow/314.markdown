@@ -1,8 +1,15 @@
 ---
-title: "π"
-date: 2016-08-23 04:24:00 Z
+title: π
+date: 2016-08-22 22:24:00 -06:00
+tags:
+- Android
+- sandwich
+- startups
+- Playstation
 episode: '314'
-description: "Eat some Nougat and a Cuban Sandwich today, Playstation plus 10 dollars, Barbra drops the ball and a date, Y Combinator gives us things we didn't ask for, Records of the Week, and more."
+description: Eat some Nougat and a Cuban Sandwich today, Playstation plus 10 dollars,
+  Barbra drops the ball and a date, Y Combinator gives us things we didn't ask for,
+  Records of the Week, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-314.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Android
-- sandwich
-- startups
-- Playstation
 ---
 
 * [Android 7.0 Nougat Begins Official Rollout To Google Nexus Devices - ARC - ARC](https://arc.applause.com/2016/08/22/android-7-0-nougat-officially-available/)

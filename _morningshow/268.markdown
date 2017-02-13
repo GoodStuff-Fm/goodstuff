@@ -1,8 +1,16 @@
 ---
 title: MILO and Beans
-date: 2016-02-05 18:00:00 Z
+date: 2016-02-05 12:00:00 -06:00
+tags:
+- Food Friday
+- pizza
+- tacos
+- football
 episode: '268'
-description: "Little Caesars is bringing back an instant classic, How are you watching the Super Bowl this weekend?, Get Sriracha in a convenient little packet, Kit Kats without wafers are a tragedy, Go ahead and ask Alexa for a pizza - it’ll work now, and more."
+description: Little Caesars is bringing back an instant classic, How are you watching
+  the Super Bowl this weekend?, Get Sriracha in a convenient little packet, Kit Kats
+  without wafers are a tragedy, Go ahead and ask Alexa for a pizza - it’ll work now,
+  and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-268.mp3
@@ -11,11 +19,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- pizza
-- tacos
-- football
 ---
 
 ## Support Us

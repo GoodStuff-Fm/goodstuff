@@ -1,8 +1,15 @@
 ---
 title: Jesse Chonut
-date: 2016-07-23 04:07:00 Z
+date: 2016-07-22 22:07:00 -06:00
+tags:
+- Food Friday
+- robots
+- Goofy
+- Pokemon
 episode: '311'
-description: "Put some Nougat in a VCR and play an XboxOneS, Turkeys are good at freezing, Stuffed animals setting records, Mall cop terrorizes toddlers, A Goofy Movie still holds up, Food Friday, and more."
+description: Put some Nougat in a VCR and play an XboxOneS, Turkeys are good at freezing,
+  Stuffed animals setting records, Mall cop terrorizes toddlers, A Goofy Movie still
+  holds up, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-311.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- robots
-- Goofy
-- Pokemon
 ---
 
 * [Daily(ish) 174: Wiener Talk - Goodstuff FM](http://goodstuff.fm/dailyish/174)

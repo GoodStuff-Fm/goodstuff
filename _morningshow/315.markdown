@@ -1,8 +1,14 @@
 ---
 title: The Flobster Roll
-date: 2016-08-26 15:42:00 Z
+date: 2016-08-26 09:42:00 -06:00
+tags:
+- Disneyland
+- Facebook
+- Popsicles
+- Food Friday
 episode: '315'
-description: "Disneyland food tours, thick and eggy, ride the Dole Whip, palms full of churrrrrrrrros, the results of Record of the Week, and more!"
+description: Disneyland food tours, thick and eggy, ride the Dole Whip, palms full
+  of churrrrrrrrros, the results of Record of the Week, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-315.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Disneyland
-- Facebook
-- Popsicles
-- Food Friday
 ---
 
 * [The Best Food At Disneyland: 15 Amazing Things To Eat At The Park](http://uproxx.com/life/best-food-at-disneyland-park-california/2/)

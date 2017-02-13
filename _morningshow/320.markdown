@@ -1,8 +1,15 @@
 ---
 title: Eiffel 6500
-date: 2016-09-13 03:46:00 Z
+date: 2016-09-12 21:46:00 -06:00
+tags:
+- Uber
+- blue jeans
+- dinosaur
+- Food Friday
 episode: '320'
-description: "Do you like longer tweets?, Everybody self-drive tonight, The oldest blue jeans are the best blue jeans, Random music is rad, Dinosaur with guts, Food Friday, and more!"
+description: Do you like longer tweets?, Everybody self-drive tonight, The oldest
+  blue jeans are the best blue jeans, Random music is rad, Dinosaur with guts, Food
+  Friday, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-320.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Uber
-- blue jeans
-- dinosaur
-- Food Friday
 ---
 
 * [Twitter's new, longer tweets are coming September 19th - The Verge](http://www.theverge.com/2016/9/12/12891562/twitter-tweets-140-characters-expand-photos)

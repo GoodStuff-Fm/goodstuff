@@ -1,7 +1,8 @@
 ---
 title: The Canker Store
-date: 2016-01-03 21:37:00 Z
-description: "It’s 2017! We’re back! We talk about mouth sore treatments, minivans, Mariah Carey the Time Traveler, and future foods."
+date: 2016-01-03 15:37:00 -06:00
+description: It’s 2017! We’re back! We talk about mouth sore treatments, minivans,
+  Mariah Carey the Time Traveler, and future foods.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

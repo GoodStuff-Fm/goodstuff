@@ -1,8 +1,14 @@
 ---
 title: Scholastic Snack Stick Stock
-date: 2016-09-23 17:51:00 Z
+date: 2016-09-23 11:51:00 -06:00
+tags:
+- Apple
+- Google
+- hotdogs
+- hamburgers
 episode: '322'
-description: "Check out our new Hamdog Franchise, rub some Allo on that sick burn, scary road rage stories with grandpa Kyle, and more!"
+description: Check out our new Hamdog Franchise, rub some Allo on that sick burn,
+  scary road rage stories with grandpa Kyle, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-322.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Apple
-- Google
-- hotdogs
-- hamburgers
 ---
 
 * [Allo: Google again moves deck chairs on its sinking Titanic in the messaging wars](http://marketingland.com/allo-google-titanic-messaging-192477)

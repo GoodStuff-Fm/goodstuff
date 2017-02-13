@@ -1,8 +1,15 @@
 ---
 title: Icelandic Phone Book
-date: 2016-04-13 15:10:00 Z
+date: 2016-04-13 09:10:00 -06:00
+tags:
+- Kindle
+- Scrabble
+- space
+- 2 Stupid Games
 episode: '295'
-description: "Amazon really wants us to read, Facebook is trying to revive chatbots, Spell some weird words for points today, Two stupid dogs inside a car can work a car horn, 2 Stupid Games, and more."
+description: Amazon really wants us to read, Facebook is trying to revive chatbots,
+  Spell some weird words for points today, Two stupid dogs inside a car can work a
+  car horn, 2 Stupid Games, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-295.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Kindle
-- Scrabble
-- space
-- 2 Stupid Games
 ---
 
 * [There will be a bot for everything - The Verge](http://www.theverge.com/2016/4/12/11416122/there-will-be-a-bot-for-everything)

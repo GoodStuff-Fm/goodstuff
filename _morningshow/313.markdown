@@ -1,8 +1,15 @@
 ---
 title: Happy Birthday, Chris
-date: 2016-08-19 04:33:00 Z
+date: 2016-08-18 22:33:00 -06:00
+tags:
+- pizza
+- birthday
+- Food Friday
+- stomach
 episode: '313'
-description: "Happy Birthday, Chris! Hot & Spicy Bathroom Trips, Tums Pizza, Frozen Cabbages, Goldfish Meat, Indiana Jones And The 25 Foot Whip, The Grandma Slice, and more!"
+description: Happy Birthday, Chris! Hot & Spicy Bathroom Trips, Tums Pizza, Frozen
+  Cabbages, Goldfish Meat, Indiana Jones And The 25 Foot Whip, The Grandma Slice,
+  and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-313.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- pizza
-- birthday
-- Food Friday
-- stomach
 ---
 
 ## Lead Stories

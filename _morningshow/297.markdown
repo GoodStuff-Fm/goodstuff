@@ -1,8 +1,15 @@
 ---
 title: It's Called a Cull
-date: 2016-04-19 12:48:00 Z
+date: 2016-04-19 06:48:00 -06:00
+tags:
+- Amazon
+- garlic
+- sheep
+- Trivia
 episode: '297'
-description: "We're finally available on Google Play Music, Get a quick nap in after your coffee, That's why they call them 'blades', Watch some bulldozers fight over control of a construction yard, Tuesday Trivia, and more."
+description: We're finally available on Google Play Music, Get a quick nap in after
+  your coffee, That's why they call them 'blades', Watch some bulldozers fight over
+  control of a construction yard, Tuesday Trivia, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-297.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Amazon
-- garlic
-- sheep
-- Trivia
 ---
 
 * [Amazon Echo: Always ready, connected, and fast. Just ask.](http://www.amazon.com/dp/B00X4WHP5E/?tag=kinjadeals-20&ascsubtag=c4e45463209dc09b80c9142b181c70a43185bc90&rawdata=%5Br%7Chttp%3A%2F%2Ffeedly.com%2Fi%2Fmy%5Bt%7Cmod-button%5Bp%7C1771762278%5Ba%7CB00X4WHP5E%5Bau%7C5727177402741770316%5Bb%7Cdeals)

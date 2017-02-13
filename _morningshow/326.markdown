@@ -1,8 +1,16 @@
 ---
 title: Multiplayer Piano
-date: 2016-10-28 18:41:00 Z
+date: 2016-10-28 12:41:00 -06:00
+tags:
+- Halloween
+- Would You Rather
+- High or Low
+- Choose Your Own Adventure
 episode: '326'
-description: "When hinges creak in doorless chambers, and strange and frightening sounds echo through the halls. Whenever candlelights flicker where the air is deathly still. That is the time when ghosts are present, practicing their terror with ghoulish delight!"
+description: When hinges creak in doorless chambers, and strange and frightening sounds
+  echo through the halls. Whenever candlelights flicker where the air is deathly still.
+  That is the time when ghosts are present, practicing their terror with ghoulish
+  delight!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-326.mp3
@@ -11,11 +19,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Halloween
-- Would You Rather
-- High or Low
-- Choose Your Own Adventure
 ---
 
 * [Multiplayer Piano](http://www.multiplayerpiano.com/MorningShow)

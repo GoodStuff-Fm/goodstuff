@@ -1,8 +1,14 @@
 ---
 title: Mercury Shrimp
-date: 2016-05-10 17:01:00 Z
+date: 2016-05-10 11:01:00 -06:00
+tags:
+- Tuesday Trivia
+- donut
+- Office
+- shrimp
 episode: '304'
-description: "Shrimp-filled donuts from the ramen factory, chocolate leather holding a baguette, British Highlighters, Tuesday Trivia, and more!"
+description: Shrimp-filled donuts from the ramen factory, chocolate leather holding
+  a baguette, British Highlighters, Tuesday Trivia, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-304.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Tuesday Trivia
-- donut
-- Office
-- shrimp
 ---
 
 * [Transit of Mercury across the sun begins - CBS News](http://www.cbsnews.com/news/transit-of-mercury-across-the-sun-begins/)

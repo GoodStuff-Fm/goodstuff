@@ -1,8 +1,15 @@
 ---
 title: Potoooooooo
-date: 2016-07-11 13:07:00 Z
+date: 2016-07-11 07:07:00 -06:00
+tags:
+- 2 Stupid Games
+- pizza
+- butter
+- pickles
 episode: '310'
-description: "It's 2 weeks later and a lot has happened, Pokemon Go has taken over the world, 1969 codes for getting to the Moon, Pot8os is real?, Butter is better, Pizza Robotics is an actual thing now, 2 Stupid Games, and much more."
+description: It's 2 weeks later and a lot has happened, Pokemon Go has taken over
+  the world, 1969 codes for getting to the Moon, Pot8os is real?, Butter is better,
+  Pizza Robotics is an actual thing now, 2 Stupid Games, and much more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-310.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- 2 Stupid Games
-- pizza
-- butter
-- pickles
 ---
 
 * [Pokémon Go international rollout paused - Business Insider][7]

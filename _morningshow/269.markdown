@@ -1,8 +1,15 @@
 ---
 title: Molasses Mondays
-date: 2016-02-08 18:00:00 Z
+date: 2016-02-08 12:00:00 -06:00
+tags:
+- Super Bowl
+- Audio Pictionary
+- Twitter
+- pancakes
 episode: '269'
-description: "We watched the Super Bowl so you don't have to, Kyle became a pizza slicer over the weekend, Utah wants you to throw their stuff into lakes, Salads at McDonald's are fatter than fat, We play Audio Pictionary, and more."
+description: We watched the Super Bowl so you don't have to, Kyle became a pizza slicer
+  over the weekend, Utah wants you to throw their stuff into lakes, Salads at McDonald's
+  are fatter than fat, We play Audio Pictionary, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-269.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Super Bowl
-- Audio Pictionary
-- Twitter
-- pancakes
 ---
 
 ## Support Us

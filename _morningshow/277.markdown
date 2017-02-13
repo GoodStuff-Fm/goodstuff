@@ -1,8 +1,15 @@
 ---
 title: Cool I'm Going to Be a X-Man
-date: 2016-02-26 17:13:00 Z
+date: 2016-02-26 11:13:00 -06:00
+tags:
+- Food Friday
+- Pokemon
+- Mozart
+- burps
 episode: '277'
-description: "Find out what Mozart did in his spare time, Google knows where you are no matter what, Make that bread from Star Wars, Is there a new Pokemon game really?, Hear the loudest burp ever recorded, Food Friday, and more."
+description: Find out what Mozart did in his spare time, Google knows where you are
+  no matter what, Make that bread from Star Wars, Is there a new Pokemon game really?,
+  Hear the loudest burp ever recorded, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-277.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- Pokemon
-- Mozart
-- burps
 ---
 
 * [Morning Show by Goodstuff FM on iTunes](https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2)

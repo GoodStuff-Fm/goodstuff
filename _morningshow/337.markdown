@@ -2,8 +2,8 @@
 title: Totes Murdered Out Chicken
 date: 2017-02-08 12:11:00 -06:00
 position: 1
-description: "Their beak and tongue, black comb and wattles; even their meat, bones
-  and organs appear black. The blood of the Ayam Cemani is normally colored."
+description: Their beak and tongue, black comb and wattles; even their meat, bones
+  and organs appear black. The blood of the Ayam Cemani is normally colored.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

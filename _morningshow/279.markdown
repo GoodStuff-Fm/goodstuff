@@ -1,8 +1,15 @@
 ---
 title: The Murder Channel
-date: 2016-03-02 17:18:00 Z
+date: 2016-03-02 11:18:00 -06:00
+tags:
+- pizza
+- Name That Sound
+- Facebook
+- coffee
 episode: '279'
-description: "What pizza toppings are best?, That's a lot of TV murder, The inventor of the granola bar likes diapers, Coffee in a chewable cube, Your friends know when you sleep because Facebook, Two Stupid Games!, and more."
+description: What pizza toppings are best?, That's a lot of TV murder, The inventor
+  of the granola bar likes diapers, Coffee in a chewable cube, Your friends know when
+  you sleep because Facebook, Two Stupid Games!, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-279.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- pizza
-- Name That Sound
-- Facebook
-- coffee
 ---
 
 * [Studies Show Americas Favorite Pizza Toppings - The Interrobang](http://theinterrobang.com/studies-show-americas-favorite-pizza-toppings/)

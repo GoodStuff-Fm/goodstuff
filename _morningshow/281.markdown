@@ -1,8 +1,15 @@
 ---
 title: Super Twin Otter
-date: 2016-03-07 14:26:00 Z
+date: 2016-03-07 08:26:00 -06:00
+tags:
+- cereal
+- jumprope
+- lottery
+- space
 episode: '281'
-description: "Brothers win weird lottery amount, There's no crying in space, I'll take some cereal with ice cubes please, Secret cheese and how it got there, A jump rope that counts for you, and more."
+description: Brothers win weird lottery amount, There's no crying in space, I'll take
+  some cereal with ice cubes please, Secret cheese and how it got there, A jump rope
+  that counts for you, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-281.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- cereal
-- jumprope
-- lottery
-- space
 ---
 
 * [First known Mac ransomware reaches the wild](http://www.engadget.com/2016/03/06/first-known-mac-ransomware/)

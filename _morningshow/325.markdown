@@ -1,8 +1,14 @@
 ---
 title: Receipts and Sweetmeats
-date: 2016-10-17 16:14:00 Z
+date: 2016-10-17 10:14:00 -06:00
+tags:
+- Apple
+- pizza
+- robots
+- cheese
 episode: '325'
-description: "Oozing from the street, year-old iPads that can talk, and a lengthy round of Chewbacca or Not?"
+description: Oozing from the street, year-old iPads that can talk, and a lengthy round
+  of Chewbacca or Not?
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-325.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Apple
-- pizza
-- robots
-- cheese
 ---
 
 * [Your Complete Guide To OOZEFEST 2016, The Cheesiest Festival Ever](http://www.foodbeast.com/news/oozefest-2/)

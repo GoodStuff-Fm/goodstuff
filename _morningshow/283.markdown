@@ -1,8 +1,15 @@
 ---
 title: The Seaweed Sheets
-date: 2016-03-11 14:17:00 Z
+date: 2016-03-11 08:17:00 -06:00
+tags:
+- Food Friday
+- noodles
+- eclipse
+- glass
 episode: '283'
-description: "We discover the origins of pizza, Noodles of every shape and form, What the eclipse looked like from space, Watch out for glass in your beer, Look out for a hidden colony of orange tans!, Food Friday, and more."
+description: We discover the origins of pizza, Noodles of every shape and form, What
+  the eclipse looked like from space, Watch out for glass in your beer, Look out for
+  a hidden colony of orange tans!, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-283.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- noodles
-- eclipse
-- glass
 ---
 
 * [Amazon Is Leasing 20 Boeing Aircrafts To Streamline Its Delivery Operations - Fast Company - Business + Innovation](http://www.fastcompany.com/3057641/most-innovative-companies/amazon-is-leasing-20-boeing-aircrafts-to-streamline-its-delivery-o?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29)

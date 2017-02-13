@@ -1,8 +1,15 @@
 ---
 title: Chicken Drippings
-date: 2016-05-18 13:59:00 Z
+date: 2016-05-18 07:59:00 -06:00
+tags:
+- 2 Stupid Games
+- Google
+- submarine
+- KFC
 episode: '308'
-description: "THIS IS IT (for a while), Google has some things in the works, We all live in a yellow pencil, Babies are not mouth-breathers, Turn your house into a smart drum set, KFC opens location with AI employees, 2 Stupid Games, and more."
+description: THIS IS IT (for a while), Google has some things in the works, We all
+  live in a yellow pencil, Babies are not mouth-breathers, Turn your house into a
+  smart drum set, KFC opens location with AI employees, 2 Stupid Games, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-308.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- 2 Stupid Games
-- Google
-- submarine
-- KFC
 ---
 
 * [Get ready for Android N, VR and more at Google I/O 2016](http://www.engadget.com/2016/05/17/what-to-expect-from-google-i-o-2016/)

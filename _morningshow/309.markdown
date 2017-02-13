@@ -1,8 +1,15 @@
 ---
 title: Catfish and the Boy
-date: 2016-06-25 00:06:00 Z
+date: 2016-06-24 18:06:00 -06:00
+tags:
+- Audio Pictionary
+- robots
+- catfish
+- cheese
 episode: '309'
-description: "Are we back yet?, Kyle and Kenny explain their absence, Drink alcohol at your favorite book store, Turn your shoe into a guitar pedal, Is it a bear or a person?, Cheetos is going nuts, Audio Pictionary, and more."
+description: Are we back yet?, Kyle and Kenny explain their absence, Drink alcohol
+  at your favorite book store, Turn your shoe into a guitar pedal, Is it a bear or
+  a person?, Cheetos is going nuts, Audio Pictionary, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-309.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Audio Pictionary
-- robots
-- catfish
-- cheese
 ---
 
 * [Iceland soccer commentator finds team's performance satisfactory / Boing Boing](http://boingboing.net/2016/06/23/iceland-soccer-commentator-fin.html)

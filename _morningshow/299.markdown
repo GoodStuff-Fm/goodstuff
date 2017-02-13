@@ -1,8 +1,10 @@
 ---
 title: 3 Year Desk Pumpkin
-date: 2016-04-22 13:18:00 Z
+date: 2016-04-22 07:18:00 -06:00
 episode: '299'
-description: "We discuss some important animal facts, Welcome to Earth, Fighting fire with drones, Make the best use of your dumb hoverboard, The Big Mac is branching out now, Cheerios that are late to the game, Food Friday, and more."
+description: We discuss some important animal facts, Welcome to Earth, Fighting fire
+  with drones, Make the best use of your dumb hoverboard, The Big Mac is branching
+  out now, Cheerios that are late to the game, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-299.mp3

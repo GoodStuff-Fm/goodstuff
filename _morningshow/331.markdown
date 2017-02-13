@@ -1,8 +1,9 @@
 ---
 title: Upward-Facing Idiot
-date: 2016-12-16 21:37:00 Z
+date: 2016-12-16 15:37:00 -06:00
 episode: '331'
-description: "Sandwiches under your bed, Doritos Hot or Not?, playing a pizza-shaped flute, regretful Soylent talk, and Kenny ponders the social pressures of wrist computers."
+description: Sandwiches under your bed, Doritos Hot or Not?, playing a pizza-shaped
+  flute, regretful Soylent talk, and Kenny ponders the social pressures of wrist computers.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-331.mp3

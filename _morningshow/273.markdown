@@ -1,8 +1,16 @@
 ---
 title: Ice is Crazy!
-date: 2016-02-17 17:06:00 Z
+date: 2016-02-17 11:06:00 -06:00
+tags:
+- Disneyland
+- Monopoly
+- Nerf
+- snowball
 episode: '273'
-description: "What happens when Kenny goes to Disneyland - we find out, WiFi is about to be as fast as an airplane, More Monopoly news and it's not good, Does molten steel destroy snowballs?, Your chair has a mind of its own, Nerf wants to annihilate your siblings, and more."
+description: What happens when Kenny goes to Disneyland - we find out, WiFi is about
+  to be as fast as an airplane, More Monopoly news and it's not good, Does molten
+  steel destroy snowballs?, Your chair has a mind of its own, Nerf wants to annihilate
+  your siblings, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-273.mp3
@@ -11,11 +19,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Disneyland
-- Monopoly
-- Nerf
-- snowball
 ---
 
 * [Man spends Valentine's Day with his one and only love: pizza](http://mashable.com/2016/02/15/pizza-everything-valentines-day/#VwabzQrgxaqc)

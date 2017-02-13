@@ -1,8 +1,15 @@
 ---
 title: Barbara Rigby
-date: 2016-05-16 14:11:00 Z
+date: 2016-05-16 08:11:00 -06:00
+tags:
+- tacos
+- ribs
+- stomach
+- Reeses
 episode: '307'
-description: "Texas has a lot going on today, KILL FLASH, Kyle and Kenny learn why their stomachs hate them, Yo I heard you like Reese's, The Grilled Cheese Taco!, and more."
+description: Texas has a lot going on today, KILL FLASH, Kyle and Kenny learn why
+  their stomachs hate them, Yo I heard you like Reese's, The Grilled Cheese Taco!,
+  and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-307.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- tacos
-- ribs
-- stomach
-- Reeses
 ---
 
 * [Walmart's Mobile Wallet 'Walmart Pay' Rolls out to Nearly 600 Stores in Texas and Arkansas - Mac Rumors](http://www.macrumors.com/2016/05/16/walmart-pay-rolls-out-texas-arkansas/)

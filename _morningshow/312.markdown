@@ -1,8 +1,15 @@
 ---
 title: Small Talk with Kenny
-date: 2016-08-16 04:58:00 Z
+date: 2016-08-15 22:58:00 -06:00
+tags:
+- Google
+- Olympics
+- 2 Stupid Games
+- rollercoaster
 episode: '312'
-description: "Kyle and Kenny try a knock knock joke, How fat are babies really?, We run as fast as Usain Bolt, Whip it! Whip it LONG, Roller Coasters on VR try to kill us, Disney wants your shoes, 2 Stupid Games, and more."
+description: Kyle and Kenny try a knock knock joke, How fat are babies really?, We
+  run as fast as Usain Bolt, Whip it! Whip it LONG, Roller Coasters on VR try to kill
+  us, Disney wants your shoes, 2 Stupid Games, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-312.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Google
-- Olympics
-- 2 Stupid Games
-- rollercoaster
 ---
 
 * [Google is discontinuing Google+ Hangouts On Air on September 12, pushes users to YouTube Live - VentureBeat - Media - by Emil Protalinski](http://venturebeat.com/2016/08/15/google-is-discontinuing-google-hangouts-on-air-on-september-12-pushes-users-to-youtube-live/)

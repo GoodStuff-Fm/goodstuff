@@ -1,8 +1,15 @@
 ---
 title: Yam Your Face
-date: 2016-11-04 17:50:00 Z
+date: 2016-11-04 11:50:00 -06:00
+tags:
+- Slang or Not
+- Food Friday
+- pizza
+- CHiPs
 episode: '328'
-description: "Welcome Home Google, Watch some guys eat lunch with Swoop, Is that British food-slang for something?, Today is the day to eat even more candy, Sue someone because chicken is hard work, and more!"
+description: Welcome Home Google, Watch some guys eat lunch with Swoop, Is that British
+  food-slang for something?, Today is the day to eat even more candy, Sue someone
+  because chicken is hard work, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-328.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Slang or Not
-- Food Friday
-- pizza
-- CHiPs
 ---
 
 * [Google Home Reviews: Handsome Design Not Enough to Outweigh 'Rough Around the Edges' Feel - Mac Rumors](http://www.macrumors.com/2016/11/03/google-home-reviews/)

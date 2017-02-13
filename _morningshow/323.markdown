@@ -1,21 +1,5 @@
 ---
-title: Dolphin Taco
-date: 2016-10-04 01:11:00 Z
-episode: '323'
-description: "What in the world could Google have for us today?, Facebook wants you to sell stuff to your "friends", Taco Tuesday gets the Chipotle treatment, Everyone's favorite ride gets a facelift, and more!"
-show: morningshow
-layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-323.mp3
-sponsor: Feed.Press
-sponsor-link: http://feed.press/morningshow
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
-  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
-  during checkout to get 10% off your first year
-tags:
-- Google
-- tacos
-- Disneyland
-- Facebook
+title: '323'
 ---
 
 * [The Microsoft Band is dead - The Verge](http://www.theverge.com/circuitbreaker/2016/10/3/13152590/microsoft-band-discontinued)

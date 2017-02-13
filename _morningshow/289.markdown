@@ -1,8 +1,15 @@
 ---
 title: Fuego Flavor
-date: 2016-03-25 14:36:00 Z
+date: 2016-03-25 08:36:00 -06:00
+tags:
+- Food Friday
+- chips
+- coffee
+- burritos
 episode: '289'
-description: "Get your free chips and guac today, Customize your coffee to your exact liking, So many straws in the nose, What is Netflix doing to your phone?, The world's best breakfast burrito, Food Friday, and more."
+description: Get your free chips and guac today, Customize your coffee to your exact
+  liking, So many straws in the nose, What is Netflix doing to your phone?, The world's
+  best breakfast burrito, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-289.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- chips
-- coffee
-- burritos
 ---
 
 * [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day - The Verge](http://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)

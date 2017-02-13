@@ -1,8 +1,14 @@
 ---
 title: Third Degree Brain Burn
-date: 2016-08-30 03:06:00 Z
+date: 2016-08-29 21:06:00 -06:00
+tags:
+- Apple
+- Mammoths
+- Spoons
+- marshmallows
 episode: '316'
-description: "A whole bunch of Apple news, but not Apple News, Ripelimesareyellow, Mammoth spoons from Romania, new Records of the Week, 2 Stupid Games, and more!"
+description: A whole bunch of Apple news, but not Apple News, Ripelimesareyellow,
+  Mammoth spoons from Romania, new Records of the Week, 2 Stupid Games, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-316.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Apple
-- Mammoths
-- Spoons
-- marshmallows
 ---
 
 * [BlokDust](https://blokdust.com/)

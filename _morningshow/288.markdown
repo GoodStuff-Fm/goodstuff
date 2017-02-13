@@ -1,8 +1,15 @@
 ---
 title: Frogs & Milk
-date: 2016-03-24 13:55:00 Z
+date: 2016-03-24 07:55:00 -06:00
+tags:
+- video games
+- puppy
+- cake
+- vinyl
 episode: '288'
-description: "A whole new chatbot to frighten you, Put a frog inside your milk for freshness, Cake Pops are the scourge of the earth, Vinyl records are on the rise - maybe, Video Game Trivia, and more."
+description: A whole new chatbot to frighten you, Put a frog inside your milk for
+  freshness, Cake Pops are the scourge of the earth, Vinyl records are on the rise
+  - maybe, Video Game Trivia, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-288.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- video games
-- puppy
-- cake
-- vinyl
 ---
 
 * [Microsoft's New AI Chatbot Speaks Like a Teen Because Some People Just Want to Watch the World Burn](http://gizmodo.com/microsofts-new-ai-chatbot-speaks-like-a-teen-because-so-1766609370)

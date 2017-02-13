@@ -1,8 +1,15 @@
 ---
 title: Chest Arm
-date: 2016-02-24 17:36:00 Z
+date: 2016-02-24 11:36:00 -06:00
+tags:
+- Facebook
+- chips
+- robots
+- Who Said It?
 episode: '276'
-description: "There are more ways to annoy people on Facebook now, VW is a better sausage-seller than car-seller, Let your phone record your most intimate teeth moments, Robots can't get knocked down ever again, Who Said It?, and more."
+description: There are more ways to annoy people on Facebook now, VW is a better sausage-seller
+  than car-seller, Let your phone record your most intimate teeth moments, Robots
+  can't get knocked down ever again, Who Said It?, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-276.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Facebook
-- chips
-- robots
-- Who Said It?
 ---
 
 * [The Truth About That 'Classified Alien Music' Everybody's Freaking Out About](http://gizmodo.com/this-classified-alien-music-the-internet-is-freaking-ou-1760628645)

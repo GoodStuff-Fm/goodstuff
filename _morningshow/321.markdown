@@ -1,8 +1,15 @@
 ---
 title: Taco Bell Nasal Douche
-date: 2016-09-20 15:55:00 Z
+date: 2016-09-20 09:55:00 -06:00
+tags:
+- coffee
+- CHiPs
+- car
+- punch
 episode: '321'
-description: "Pizza age is different than regular age, Google has something to CELL next month, Your new car is trying to kill you, Try this new congestion contraption, Anteaters are VERY HUNGRY, and more!"
+description: Pizza age is different than regular age, Google has something to CELL
+  next month, Your new car is trying to kill you, Try this new congestion contraption,
+  Anteaters are VERY HUNGRY, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-321.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- coffee
-- CHiPs
-- car
-- punch
 ---
 
 * ['Google Trips' is a slick new travel app, made possible by products you already use - GeekWire](http://www.geekwire.com/2016/google-trips-slick-new-travel-app-made-possible-products-already-use/)

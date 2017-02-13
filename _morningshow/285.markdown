@@ -1,8 +1,15 @@
 ---
 title: Disappearing the Kinny Pigs
-date: 2016-03-17 13:10:00 Z
+date: 2016-03-17 07:10:00 -06:00
+tags:
+- birthday
+- Irish
+- Ska Band or Racehorse
+- burritos
 episode: '285'
-description: "Two whole years! We discover the secrets of St. Patrick's Day, Self-lacing shoes are now a reality, Fartichokes, Rent your very own Guinea Pig, A chocolate factory that isn't really what you think it is, Ska Band or Racehorse?, and more."
+description: Two whole years! We discover the secrets of St. Patrick's Day, Self-lacing
+  shoes are now a reality, Fartichokes, Rent your very own Guinea Pig, A chocolate
+  factory that isn't really what you think it is, Ska Band or Racehorse?, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-285.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- birthday
-- Irish
-- Ska Band or Racehorse
-- burritos
 ---
 
 * [Microsoft employees break Guinness record for most people filling out a bracket together - GeekWire](http://www.geekwire.com/2016/microsoft-employees-break-guinness-record-people-filling-bracket-together/)

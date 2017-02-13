@@ -1,8 +1,15 @@
 ---
 title: Spicy Bison Milk
-date: 2016-03-09 14:24:00 Z
+date: 2016-03-09 08:24:00 -06:00
+tags:
+- crab
+- butter
+- 2 Stupid Games
+- robots
 episode: '282'
-description: "Buffalo aren't really buffalo, The crab that is bigger than your car, Look what's on the inside of a rubber ducky, Mercury is made of some pencil-material, 2 Stupid Games, and more."
+description: Buffalo aren't really buffalo, The crab that is bigger than your car,
+  Look what's on the inside of a rubber ducky, Mercury is made of some pencil-material,
+  2 Stupid Games, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-282.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- crab
-- butter
-- 2 Stupid Games
-- robots
 ---
 
 * [Google’s Project Fi Mobile Network Now Open to Everyone in the U.S. - Re/code](http://recode.net/2016/03/07/googles-project-fi-mobile-network-now-open-to-everyone-in-the-u-s/)

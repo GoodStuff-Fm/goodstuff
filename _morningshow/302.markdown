@@ -1,8 +1,14 @@
 ---
 title: Delishish Dish
-date: 2016-04-29 16:51:00 Z
+date: 2016-04-29 10:51:00 -06:00
+tags:
+- football
+- Pop-Tart
+- shrimp
+- Food Friday
 episode: '302'
-description: "It's a bit drafty in here, National Days for everyone, use your skull as a password, McWords get McMixed up, soda-flavored Pop-Tarts, and more!"
+description: It's a bit drafty in here, National Days for everyone, use your skull
+  as a password, McWords get McMixed up, soda-flavored Pop-Tarts, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-302.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- football
-- Pop-Tart
-- shrimp
-- Food Friday
 ---
 
 * [Lawsuit blames Snapchat’s speed filter for Georgia car crash - The Verge](http://www.theverge.com/2016/4/28/11526860/snapchat-mph-filter-speeding-car-accident-suit)

@@ -1,8 +1,15 @@
 ---
 title: NOFOMO
-date: 2016-04-21 17:02:00 Z
+date: 2016-04-21 11:02:00 -06:00
+tags:
+- McDonalds
+- dictionary
+- Gordon Ramsay
+- Goat or Tennis Player
 episode: '298'
-description: "What crazy words do we have this year, Unlimited fries you say?, Kenny invents the new dance craze, What exactly is upside-down, Is that a Goat or a Tennis player?, and more."
+description: What crazy words do we have this year, Unlimited fries you say?, Kenny
+  invents the new dance craze, What exactly is upside-down, Is that a Goat or a Tennis
+  player?, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-298.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- McDonalds
-- dictionary
-- Gordon Ramsay
-- Goat or Tennis Player
 ---
 
 * [Merriam-Webster Adds ‘FOMO,’ ‘Mx.’ and About 2,000 Other Words - TIME](http://time.com/4299634/merriam-webster-fomo-mx-dox-update/)

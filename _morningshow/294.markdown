@@ -1,8 +1,15 @@
 ---
 title: Dr Pepper Life Blood
-date: 2016-04-07 23:47:00 Z
+date: 2016-04-07 17:47:00 -06:00
+tags:
+- pizza
+- Star Wars
+- animals
+- Food Friday
 episode: '294'
-description: "Did we like the new Star Wars trailer?, Old plants are REALLY OLD, One of the world's best foods is celebrated today, Google knows what a few animals sound like thankfully, Dr. Pepper could save your life, Food Friday, and more."
+description: Did we like the new Star Wars trailer?, Old plants are REALLY OLD, One
+  of the world's best foods is celebrated today, Google knows what a few animals sound
+  like thankfully, Dr. Pepper could save your life, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-294.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- pizza
-- Star Wars
-- animals
-- Food Friday
 ---
 
 * [The First Footage From Rogue One: A Star Wars Story Is Here](http://io9.gizmodo.com/the-first-footage-from-rogue-one-a-star-wars-story-is-1769499096)

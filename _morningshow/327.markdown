@@ -1,8 +1,14 @@
 ---
 title: Read Recipes
-date: 2016-11-01 16:46:00 Z
+date: 2016-11-01 10:46:00 -06:00
+tags:
+- emoji
+- Fried or Not
+- Pop-Tart
+- burritos
 episode: '327'
-description: "On July 3, 1916, in his small roadside restaurant, now Woodman’s of Essex, it is believed Chubby served his customers the first modern day deep fried claims."
+description: On July 3, 1916, in his small roadside restaurant, now Woodman’s of Essex,
+  it is believed Chubby served his customers the first modern day deep fried claims.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-327.mp3
@@ -11,11 +17,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- emoji
-- Fried or Not
-- Pop-Tart
-- burritos
 ---
 
 * [Kickstarter launches a livestreaming feature - TechCrunch](https://techcrunch.com/2016/11/01/kickstarter-live/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)

@@ -1,8 +1,15 @@
 ---
 title: Tastes like Caca!
-date: 2016-02-19 17:24:00 Z
+date: 2016-02-19 11:24:00 -06:00
+tags:
+- ice cream
+- Food Friday
+- Nerf
+- McDonalds
 episode: '274'
-description: "Drive around in your very own NERF car, How much does it cost to make Shredded Wheat?, Knock Knock jokes can save a cat's life, Scary teddy bears are just nightmare fuel, Sit and stand at the same time, Food Friday, and more."
+description: Drive around in your very own NERF car, How much does it cost to make
+  Shredded Wheat?, Knock Knock jokes can save a cat's life, Scary teddy bears are
+  just nightmare fuel, Sit and stand at the same time, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-274.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- ice cream
-- Food Friday
-- Nerf
-- McDonalds
 ---
 
 * [Virgin Galactic will unveil its new spaceplane tomorrow - The Verge](http://www.theverge.com/2016/2/18/11045184/virgin-galactic-spaceshiptwo-reusable-spaceplane-unveiling)

@@ -1,8 +1,15 @@
 ---
 title: The Potassium Trophy
-date: 2016-04-25 12:45:00 Z
+date: 2016-04-25 06:45:00 -06:00
+tags:
+- Game of Thrones
+- zucchini
+- lemonade
+- Audio Pictionary
 episode: '300'
-description: "THIS IS MADNESS, How to correctly identify a group of pigs, Sleeping with the fishes means something else today, Zucchini is better than a banana, Which Game of Thrones character are you musically?, Audio Pictionary, and more."
+description: THIS IS MADNESS, How to correctly identify a group of pigs, Sleeping
+  with the fishes means something else today, Zucchini is better than a banana, Which
+  Game of Thrones character are you musically?, Audio Pictionary, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-300.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Game of Thrones
-- zucchini
-- lemonade
-- Audio Pictionary
 ---
 
 * [Ace Ventura 2 - Crazy Drive Scene (HD720p) - YouTube](https://www.youtube.com/watch?v=zs8LIzObfH4)

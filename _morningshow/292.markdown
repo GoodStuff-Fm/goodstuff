@@ -1,8 +1,15 @@
 ---
 title: Marker Fumes
-date: 2016-04-04 13:33:00 Z
+date: 2016-04-04 07:33:00 -06:00
+tags:
+- Amazon
+- cheese
+- aliens
+- Audio Pictionary
 episode: '292'
-description: "Musk and Bezos duke it out with their money, Aliens can't find us because of lasers, A fork that zaps you into tasting something, Put these eggs in your pocket and touch your toes, Audio Pictionary, and more."
+description: Musk and Bezos duke it out with their money, Aliens can't find us because
+  of lasers, A fork that zaps you into tasting something, Put these eggs in your pocket
+  and touch your toes, Audio Pictionary, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-292.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Amazon
-- cheese
-- aliens
-- Audio Pictionary
 ---
 
 * [Tesla Model 3 orders surpass $10 billion - VentureBeat - Business - by Blaise Zerega](http://venturebeat.com/2016/04/03/tesla-model-3-pre-orders-surpass-10-billion/)

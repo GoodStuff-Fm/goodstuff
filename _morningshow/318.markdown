@@ -1,8 +1,15 @@
 ---
 title: And Sometimes Is Breakfast
-date: 2016-09-06 13:54:00 Z
+date: 2016-09-06 07:54:00 -06:00
+tags:
+- pizza
+- dog food
+- crab
+- Playstation
 episode: '318'
-description: "Nullam non rutrum odio. In vel tincidunt enim. Proin lobortis ipsum non ullamcorper ullamcorper. Aliquam malesuada odio non arcu elementum, a imperdiet odio facilisis. Aenean vehicula consequat metus, and more!"
+description: Nullam non rutrum odio. In vel tincidunt enim. Proin lobortis ipsum non
+  ullamcorper ullamcorper. Aliquam malesuada odio non arcu elementum, a imperdiet
+  odio facilisis. Aenean vehicula consequat metus, and more!
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-318.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- pizza
-- dog food
-- crab
-- Playstation
 ---
 
 * [Google Maps now has a ‘Catching Pokémon’ feature in Timeline](http://thenextweb.com/apps/2016/09/05/google-maps-has-now-added-a-catching-pokemon-feature-in-timeline/)

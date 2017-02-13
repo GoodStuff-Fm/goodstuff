@@ -1,8 +1,15 @@
 ---
 title: The One Without Kenny
-date: 2016-02-15 17:32:00 Z
+date: 2016-02-15 11:32:00 -06:00
+tags:
+- Disneyland
+- hoverboards
+- Apple
+- Star Wars
 episode: '272'
-description: "While Kenny drives to the happiest place on Earth, Kyle covers the day's top stories, rides a hoverboard, looks at his Apple Watch, and plays one of the gazillion versions of Monopoly."
+description: While Kenny drives to the happiest place on Earth, Kyle covers the day's
+  top stories, rides a hoverboard, looks at his Apple Watch, and plays one of the
+  gazillion versions of Monopoly.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-272.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Disneyland
-- hoverboards
-- Apple
-- Star Wars
 ---
 
 * [Morning Show - Podcast](http://morningshow.am/)

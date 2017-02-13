@@ -1,7 +1,8 @@
 ---
 title: Astronaut Sandwich
-date: 2016-12-20 21:37:00 Z
-description: "We take a look at an expensive grill, robot hands, and when classic Christmas movies came out."
+date: 2016-12-20 15:37:00 -06:00
+description: We take a look at an expensive grill, robot hands, and when classic Christmas
+  movies came out.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

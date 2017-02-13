@@ -1,8 +1,15 @@
 ---
 title: Great Great Great Great Great Great Grandpa Pork
-date: 2016-04-15 13:14:00 Z
+date: 2016-04-15 07:14:00 -06:00
+tags:
+- Nexus
+- sushi
+- pizza
+- Food Friday
 episode: '296'
-description: "So many kinds of pizza - so little time, What condiments do you put on a sushi hamburger?, Gordon Ramsay loves glazed ham, Your phone case is alive, Pepper-spray pizza is the worst kind of pizza, SPACE CAKE, Food Friday, and more."
+description: So many kinds of pizza - so little time, What condiments do you put on
+  a sushi hamburger?, Gordon Ramsay loves glazed ham, Your phone case is alive, Pepper-spray
+  pizza is the worst kind of pizza, SPACE CAKE, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-296.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Nexus
-- sushi
-- pizza
-- Food Friday
 ---
 
 * [A Dying Car Alarm Lays Down a Beat](http://laughingsquid.com/a-dying-car-alarm-lays-down-a-beat/)

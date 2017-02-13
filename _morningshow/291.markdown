@@ -1,8 +1,15 @@
 ---
 title: Milky Buns, Red Buns
-date: 2016-04-01 13:22:00 Z
+date: 2016-04-01 07:22:00 -06:00
+tags:
+- April Fools
+- Food Friday
+- lasers
+- burger
 episode: '291'
-description: "We're not April Fools, Google turns out to be a fool today, Chipotle wants to enter another food market, Zap your fridge with a laser, Hot buns - meet Milky Buns, That's a lot of potatoes, Food Friday, and more."
+description: We're not April Fools, Google turns out to be a fool today, Chipotle
+  wants to enter another food market, Zap your fridge with a laser, Hot buns - meet
+  Milky Buns, That's a lot of potatoes, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-291.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- April Fools
-- Food Friday
-- lasers
-- burger
 ---
 
 * [Nintendo's First iOS Game 'Miitomo' Now Available in the United States - Mac Rumors](http://www.macrumors.com/2016/03/31/miitomo-launches-us-app-store/)

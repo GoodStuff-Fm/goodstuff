@@ -1,8 +1,15 @@
 ---
 title: Sharks Drinking Beer
-date: 2016-04-06 13:44:00 Z
+date: 2016-04-06 07:44:00 -06:00
+tags:
+- Nest
+- Facebook
+- VR
+- 2 Stupid Games
 episode: '293'
-description: "Watch Facebook in a whole new way today, And watch Star Wars with your little BB-8 too, Skype wants you to see the dumb bot you're talking to, Ikea turns shopping into virtual reality, 2 Stupid Games, and more."
+description: Watch Facebook in a whole new way today, And watch Star Wars with your
+  little BB-8 too, Skype wants you to see the dumb bot you're talking to, Ikea turns
+  shopping into virtual reality, 2 Stupid Games, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-293.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Nest
-- Facebook
-- VR
-- 2 Stupid Games
 ---
 
 * [National Football League and Twitter Announce Streaming Partnership for Thursday Night Football](https://nflcommunications.com/Pages/National-Football-League-and-Twitter-Announce-Streaming-Partnership-for-Thursday-Night-Football.aspx)

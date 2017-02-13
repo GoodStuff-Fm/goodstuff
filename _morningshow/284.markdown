@@ -1,8 +1,15 @@
 ---
 title: Cast Iron Shirt
-date: 2016-03-16 13:09:00 Z
+date: 2016-03-16 07:09:00 -06:00
+tags:
+- pizza
+- artichoke
+- Google
+- 2 Stupid Games
 episode: '284'
-description: "Your brain is weird if you tell jokes too often, Eat cereal and repair your car with the same tool-tensil, How to fold paper until it explodes, Fly today with the least amount of comfort, Who's that Pokemon?, 2 Stupid Games, and more."
+description: Your brain is weird if you tell jokes too often, Eat cereal and repair
+  your car with the same tool-tensil, How to fold paper until it explodes, Fly today
+  with the least amount of comfort, Who's that Pokemon?, 2 Stupid Games, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-284.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- pizza
-- artichoke
-- Google
-- 2 Stupid Games
 ---
 
 * [Can You Identify These Pokémon By The Sounds They Make](http://www.buzzfeed.com/thestarsaregolden/do-you-know-pokemon-sounds-12vjr)

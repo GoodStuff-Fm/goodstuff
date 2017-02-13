@@ -1,8 +1,15 @@
 ---
 title: Captain Au Jus Picard
-date: 2016-04-27 02:45:00 Z
+date: 2016-04-26 20:45:00 -06:00
+tags:
+- Kickstarter
+- Spotify
+- snake
+- 2 Stupid Games
 episode: '301'
-description: "'Get ready to learn what a femtobarn is, Start smelling with your mouth, It's the Eye of the Rib Roast, Robosnake just became a nightmarish reality, Control your mirrorless vehicle with your voice, 2 Stupid Games, and more.'"
+description: "'Get ready to learn what a femtobarn is, Start smelling with your mouth,
+  It's the Eye of the Rib Roast, Robosnake just became a nightmarish reality, Control
+  your mirrorless vehicle with your voice, 2 Stupid Games, and more.'"
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-301.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Kickstarter
-- Spotify
-- snake
-- 2 Stupid Games
 ---
 
 * [Olympic torch fires up own Twitter account - Digital Trends](http://www.digitaltrends.com/social-media/olympic-flame-twitter/)

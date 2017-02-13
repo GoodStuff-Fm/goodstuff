@@ -1,8 +1,15 @@
 ---
 title: DARPAganda
-date: 2016-02-10 18:00:00 Z
+date: 2016-02-10 12:00:00 -06:00
+tags:
+- Name That Sound
+- space
+- toilet
+- robots
 episode: '270'
-description: "Amazon is already prepared for a zombie outbreak, We are using our sinks for the wrong reason, How long is the longest selfie stick?, Robot golfer is better than Human golfer, Hidden galaxies in our own backyard, Name That Sound, and more."
+description: Amazon is already prepared for a zombie outbreak, We are using our sinks
+  for the wrong reason, How long is the longest selfie stick?, Robot golfer is better
+  than Human golfer, Hidden galaxies in our own backyard, Name That Sound, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-270.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Name That Sound
-- space
-- toilet
-- robots
 ---
 
 ## Support Us

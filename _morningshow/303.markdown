@@ -1,8 +1,15 @@
 ---
 title: Cat vs Eagle
-date: 2016-05-06 15:58:00 Z
+date: 2016-05-06 09:58:00 -06:00
+tags:
+- Food Friday
+- Netflix
+- elephant
+- space
 episode: '303'
-description: "It's the future again!, Don't kill your data connection anymore, Go ahead and eat that apple whole, We obviously CANNOT speak French, Smell your way through some YouTube videos, Food Friday, and more."
+description: It's the future again!, Don't kill your data connection anymore, Go ahead
+  and eat that apple whole, We obviously CANNOT speak French, Smell your way through
+  some YouTube videos, Food Friday, and more.
 show: morningshow
 layout: episode
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-303.mp3
@@ -11,11 +18,6 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-tags:
-- Food Friday
-- Netflix
-- elephant
-- space
 ---
 
 * [New study: Air rage triggered by walking through First Class / Boing Boing](http://boingboing.net/2016/05/03/new-study-air-rage-triggered.html)
