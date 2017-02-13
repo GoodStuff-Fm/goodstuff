@@ -1,0 +1,52 @@
+---
+title: Jesse Chonut
+date: 2016-07-23 04:07:00 Z
+episode: '311'
+description: "Put some Nougat in a VCR and play an XboxOneS, Turkeys are good at freezing, Stuffed animals setting records, Mall cop terrorizes toddlers, A Goofy Movie still holds up, Food Friday, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-311.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- Food Friday
+- robots
+- Goofy
+- Pokemon
+---
+
+* [Daily(ish) 174: Wiener Talk - Goodstuff FM](http://goodstuff.fm/dailyish/174)
+* [3 Guys 3 Questions #113: S07:E08.5 - Lightning Round - Goodstuff FM](http://goodstuff.fm/3g3q/113)
+* [Pokémon Go updated to address privacy concerns - TechCrunch](https://techcrunch.com/2016/07/12/pokemon-go-update-addresses-privacy-concerns/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Dronémon is the best Pokémon Go cheat we've seen yet - GamesBeat - Games - by Jeff Grubb](http://venturebeat.com/2016/07/12/dronemon-is-the-best-pokemon-go-cheat-weve-seen-yet/)
+* [Pokemon Go launches in the UK, is now the biggest mobile game in US history](http://appleinsider.com/articles/16/07/14/pokemon_go_launches_in_the_uk_is_now_the_biggest_mobile_game_in_us_history.html)
+* [Netflix Flixtape Mixtape Custom Playlist](http://www.refinery29.com/2016/07/116995/netflix-flixtape?utm_source=googlenewsstand&utm_medium=rss)
+* [The final Android Nougat beta is now available - The Verge](http://www.theverge.com/circuitbreaker/2016/7/18/12214636/android-nougat-final-beta-now-available)
+* [Microsoft's Xbox One S will launch on August 2nd - The Verge](http://www.theverge.com/2016/7/18/12211800/xbox-one-s-release-date-august-2)
+* [The Last VCR To Be Made This Month - Variety](http://variety.com/2016/biz/news/vcr-video-cassette-recorder-end-production-1201819406/)
+* [Watch the world's largest orchestra—7548 musicians—assemble in a field in Frankfurt to play together. — Quartz](http://qz.com/729230/watch-the-worlds-largest-orchestra-perform-with-over-7500-musicians/)
+* [300-Pound Mall Security Guard Robot Goes Rogue, Knocks Down Kid, Runs Him Over - Geekologie](http://geekologie.com/2016/07/300-pound-mall-security-robot-goes-rogue.php)
+* [Headless Humanoid Robot Walks Just Like A Person - Geekologie](http://geekologie.com/2016/07/headless-humanoid-robot-walks-just-like.php)
+* [The future of listening to music is feeling it, according to Timbaland - TechCrunch](https://techcrunch.com/2016/07/12/the-future-of-listening-to-music-feeling-it-according-to-timbaland/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Disney taps SoundHound's virtual assistant to help guests navigate its theme parks - VentureBeat - Bots - by Ken Yeung](http://venturebeat.com/2016/07/12/disney-taps-soundhounds-virtual-assistant-to-help-guests-navigate-its-theme-parks/)
+* [Food Friday: Wasabi Candy Canes](https://www.amazon.com/gp/product/B00FGJ6OU0/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+* [Food Friday: Gravy Candy Canes](https://www.amazon.com/Accoutrements-Gravy-Candy-Canes-6ct/dp/B00FHNK596/ref=pd_sim_21_4?ie=UTF8&dpID=51tVt-8E4WL&dpSrc=sims&preST=_AC_UL320_SR320%2C320_&psc=1&refRID=K98EA9TEZY25QBMQWE88)
+* [Pizza Hut launches chatbot for ordering pizzas, asking about anchovies - VentureBeat - Bots - by John Brandon](http://venturebeat.com/2016/07/12/pizza-hut-launches-chatbot-for-ordering-pizzas-asking-about-anchovies/)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

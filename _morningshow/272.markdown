@@ -1,0 +1,40 @@
+---
+title: The One Without Kenny
+date: 2016-02-15 17:32:00 Z
+episode: '272'
+description: "While Kenny drives to the happiest place on Earth, Kyle covers the day's top stories, rides a hoverboard, looks at his Apple Watch, and plays one of the gazillion versions of Monopoly."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-272.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- Disneyland
+- hoverboards
+- Apple
+- Star Wars
+---
+
+* [Morning Show - Podcast](http://morningshow.am/)
+* [This crazy rotating hoverboard dunk stunned fans at the NBA Dunk Contest - GeekWire](http://www.geekwire.com/2016/crazy-rotating-hoverboard-dunk-stunned-fans-nba-dunk-contest/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+geekwire+%28GeekWire%29)
+* [The Apple Watch Is On Sale Again, But It Doesn’t Mean A Watch 2 Is Coming Just Yet - TechCrunch](http://techcrunch.com/2016/02/14/the-apple-watch-is-on-sale-again-but-it-doesnt-mean-a-watch-2-is-coming-just-yet/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [This is Hasbro's new Rey figure for its Star Wars Monopoly game - The Verge](http://www.theverge.com/2016/2/14/10989112/hasbro-star-wars-monopoly-rey-figure)
+* [Warning: Bug in Adobe Creative Cloud deletes Mac user data without warning - Ars Technica](http://arstechnica.com/apple/2016/02/warning-bug-in-adobe-creative-cloud-deletes-mac-user-data-without-warning/)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

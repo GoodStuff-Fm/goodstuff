@@ -1,0 +1,47 @@
+---
+title: Keurig for Protein
+date: 2016-02-29 14:17:00 Z
+episode: '278'
+description: "It's the last day we have to say the word 'February'!, We cover the winners of last night's Oscars, How many Starbucks are in Italy?, Molten copper gets poured on the weirdest things, Real trains - real people, Real Kickstarter or Fake?, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-278.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- Leap Day
+- Oscars
+- Kickstarter
+- Arby's
+---
+
+* [Leap Day Customs & Traditions](http://www.timeanddate.com/date/leap-day-february-29.html)
+* [Oscar Winners 2016: See the Complete List! - Oscars 2016 - 88th Academy Awards](http://oscar.go.com/news/winners/oscar-winners-2016-see-the-complete-list)
+* [Musk's SpaceX rocket launch canceled at final countdown - Reuters](http://www.reuters.com/article/us-space-spacex-idUSKCN0W203E?feedType=RSS&feedName=scienceNews)
+* [Taking the plunger: Starbucks to open first store in Italy - Business - The Guardian](http://www.theguardian.com/business/2016/feb/29/taking-the-plunger-starbucks-to-open-first-store-in-italy)
+* [Image Of The Day: Arby's Unveils New Vegetarian Menu For Leap Year Day - Co.Create - creativity + culture + commerce](http://www.fastcocreate.com/3057160/image-of-the-day/image-of-the-day-arbys-unveils-new-vegetarian-menu-for-leap-year-day?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcocreate%2Ffeed+%28Co.Create%29)
+* [Egg Ninjas, Silicone Egg Holders Designed to Enable Easy Handling of Boiled Eggs](http://laughingsquid.com/egg-ninjas-silicone-egg-holders-designed-to-enable-easy-handling-of-boiled-eggs/)
+* [Molten Copper Poured on a Giant Jawbreaker](http://laughingsquid.com/molten-copper-poured-on-a-giant-jawbreaker/)
+* [Screaming Trains Passing By In Distress](http://laughingsquid.com/screaming-trains-passing-by-in-distress/)
+* [Placing a Red Hot Nickel Ball on Guitar Strings](http://laughingsquid.com/placing-a-red-hot-nickel-ball-on-guitar-strings/)
+* [WhatsApp to end support for BlackBerry, Nokia Symbian, and Windows Phone 7.1 - Android Community](http://androidcommunity.com/whatsapp-to-end-support-for-blackberry-nokia-symbian-and-windows-phone-7-1-20160228/)
+* [Why Microsoft is asking people to make 3D scans of their faces in Seattle this weekend - GeekWire](http://www.geekwire.com/2016/why-microsoft-is-scanning-faces-in-seattle-this-weekend/)
+* [Nissan pulls the Leaf's phone app after security vulnerabilities come to light - The Verge](http://www.theverge.com/2016/2/25/11116724/nissan-nissanconnect-app-hack-offline)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,21 +1,22 @@
 ---
-title: Totes Murdered Out Chicken
-date: 2017-02-08 12:11:00 -06:00
-position: 1
-description: "Their beak and tongue, black comb and wattles; even their meat, bones
-  and organs appear black. The blood of the Ayam Cemani is normally colored."
+title: I’m Full of Black Tar and Hate
+date: 2016-02-12 18:00:00 Z
+episode: '271'
+description: "We try something a little different for Food Friday, A robot that changes color turns out to be underwhelming, Slide down the hill and break your legs while you do it, China’s doing entertainment right with a league of robots, The king of burgers wants to be king of hot dogs, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-271.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-episode: 337
-show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-337.mp3
-layout: episode
+tags:
+- Food Friday
+- keyboard
+- sharks
+- hotdogs
 ---
-
-[Chicken](https://cl.ly/0S180r3E1X3R/cemani%20closeup.jpg)
 
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!

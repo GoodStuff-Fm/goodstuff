@@ -1,0 +1,43 @@
+---
+title: And Sometimes Is Breakfast
+date: 2016-09-06 13:54:00 Z
+episode: '318'
+description: "Nullam non rutrum odio. In vel tincidunt enim. Proin lobortis ipsum non ullamcorper ullamcorper. Aliquam malesuada odio non arcu elementum, a imperdiet odio facilisis. Aenean vehicula consequat metus, and more!"
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-318.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- pizza
+- dog food
+- crab
+- Playstation
+---
+
+* [Google Maps now has a ‘Catching Pokémon’ feature in Timeline](http://thenextweb.com/apps/2016/09/05/google-maps-has-now-added-a-catching-pokemon-feature-in-timeline/)
+* [Galaxy Note 7 ditching batteries from Samsung’s own SDI arm - SlashGear](http://www.slashgear.com/galaxy-note-7-ditching-batteries-from-samsungs-own-sdi-arm-05454773/)
+* [No Longer Missing: Rosetta’s Philae Spacecraft Located on Comet - The New York Times](http://www.nytimes.com/2016/09/06/science/philae-spacecraft-rosetta-comet.html)
+* [43 million Last.fm account details leaked after 2012 hack](http://betanews.com/2016/09/04/last-fm-password-leak/)
+* [You can’t trick your dog by being mean in a happy voice - The Verge](http://www.theverge.com/2016/8/29/12700482/dogs-understand-speech-language-vocabulary-tone)
+* [Lightning Storm Kills Hundreds of Reindeer in One Fell Swoop](http://gizmodo.com/lightning-storm-kills-hundreds-of-reindeer-in-one-fell-1785886200)
+* [Bragi Unveils Wireless 'Headphone' Earbuds Ahead of Apple Event - Mac Rumors](http://www.macrumors.com/2016/09/05/bragi-unveils-headphone-apple-event/)
+* [Watch This Crab Enjoy Human Food With Elegant Sophistication](http://sploid.gizmodo.com/watch-this-crab-enjoy-his-meal-with-elegant-sophisticat-1786191363)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

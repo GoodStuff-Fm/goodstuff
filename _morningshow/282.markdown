@@ -1,0 +1,48 @@
+---
+title: Spicy Bison Milk
+date: 2016-03-09 14:24:00 Z
+episode: '282'
+description: "Buffalo aren't really buffalo, The crab that is bigger than your car, Look what's on the inside of a rubber ducky, Mercury is made of some pencil-material, 2 Stupid Games, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-282.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- crab
+- butter
+- 2 Stupid Games
+- robots
+---
+
+* [Google’s Project Fi Mobile Network Now Open to Everyone in the U.S. - Re/code](http://recode.net/2016/03/07/googles-project-fi-mobile-network-now-open-to-everyone-in-the-u-s/)
+* [Star Wars Battlefront March Update Out Now - GameSpot](http://www.gamespot.com/articles/star-wars-battlefront-march-update-out-now/1100-6435447/)
+* [Apple Pay now works at ExxonMobil gas stations - The Verge](http://www.theverge.com/2016/3/8/11176934/apple-pay-gas-stations-exxonmobil-speedpass-app)
+* [Parents Sold 18-Day-Old Daughter to Buy an iPhone, Had “No Idea It Is Illegal”](http://news.softpedia.com/news/parents-sold-18-day-old-daughter-to-buy-an-iphone-had-no-idea-it-is-illegal-501486.shtml)
+* [Nothing To Do With Arbroath: Sculpture made from discarded sofas has won £10,0000 art prize](http://arbroath.blogspot.com/2016/03/sculpture-made-from-discarded-sofas-has.html)
+* [Anatomical Sculptures of a Classic Balloon Dog and a Rubber Duck by Jason Freeny](http://laughingsquid.com/anatomical-sculptures-of-a-classic-balloon-dog-and-a-rubber-duck-by-jason-freeny/)
+* [We may all happily follow our robot overlords to disaster - Ars Technica](http://arstechnica.com/science/2016/03/we-may-all-happily-follow-our-robot-overlords-to-disaster/)
+* [The Biem Butter Sprayer, A Device That Melts and Sprays Butter in Seconds](http://laughingsquid.com/the-biem-butter-sprayer-a-device-that-melts-and-sprays-butter-in-seconds/)
+* [Gummy Candies and Their Real Life Counterparts Dipped in Liquid Nitrogen and Thrown Off a Roof](http://laughingsquid.com/gummy-candies-and-their-real-life-counterparts-dipped-in-liquid-nitrogen-and-thrown-off-a-roof/)
+* [We Know Whether You're A Taco Bell Expert Or Not](http://www.buzzfeed.com/kevinsmith/no-you-cannot-have-my-sour-cream-gun#.puPb7nQYgy)
+* [How Well Do You Know Airport Codes](http://www.buzzfeed.com/perpetua/airport-code-quiz#.fd7dpk1j39)
+* [Scientists Set to Drill Dinosaur-Killing Impact Crater for the First Time - Motherboard](http://motherboard.vice.com/read/scientists-set-to-drill-dinosaur-killing-impact-crater-for-the-first-time)
+* [We finally know how Mercury gets its dark gray color: an ancient carbon crust - The Verge](http://www.theverge.com/2016/3/7/11174232/mercury-carbon-crust-discovered-nasa-messenger-dark-gray)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,0 +1,51 @@
+---
+title: Third Degree Brain Burn
+date: 2016-08-30 03:06:00 Z
+episode: '316'
+description: "A whole bunch of Apple news, but not Apple News, Ripelimesareyellow, Mammoth spoons from Romania, new Records of the Week, 2 Stupid Games, and more!"
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-316.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- Apple
+- Mammoths
+- Spoons
+- marshmallows
+---
+
+* [BlokDust](https://blokdust.com/)
+* [All the National Food Days - FlowingData](http://flowingdata.com/2016/08/18/all-the-national-food-days/?r=1)
+* [Apple sends out invite for September 7 iPhone event](http://www.loopinsight.com/2016/08/29/apple-sends-out-invite-for-september-7-iphone-event/)
+* [Siri Offers Witty Responses About September 7 Event - Mac Rumors](http://www.macrumors.com/2016/08/29/siri-september-7-event-responses/)
+* [Facebook’s Trending Topics algorithm already screwed up - TechCrunch](https://techcrunch.com/2016/08/29/facebooks-trending-topics-algorithm-mistake/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [A Previously Undiscovered Asteroid Just Came Very Close to Earth](http://gizmodo.com/a-previously-undiscovered-asteroid-came-very-close-to-e-1785910481)
+* [ET is that you? Astronomers detect intriguing signal 95 light-years away - TechCrunch](https://techcrunch.com/2016/08/29/et-is-that-you-astronomers-detect-intriguing-signal-95-light-years-away/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Google Cast gets built into Chrome - Ars Technica](http://arstechnica.com/gadgets/2016/08/google-cast-gets-built-into-chrome/)
+* [ACORN dessert spoon, mammoth tusk](http://www.georgjensen.com/en-us/cutlery/ACORN-dessert-spoon-mammoth-tusk_3162021)
+* [ACORN chopsticks with rest, ebony, 2 sets](http://www.georgjensen.com/en-us/cutlery/ACORN-chopsticks-with-rest-ebony-2-sets_3062544)
+* [ACORN champagne sabre](http://www.georgjensen.com/en-us/cutlery/ACORN-champagne-sabre_3062500)
+* [Gold bonbonnière](http://www.georgjensen.com/en-us/silverware/bowls-and-bonbonnieres/gold-bonbonniere_3522204)
+* [Box 58](http://www.georgjensen.com/en-us/silverware/bowls-and-bonbonnieres/box-58_3522197)
+* [Giant Realistic Cockroach Pool Float - Geekologie](http://geekologie.com/2016/08/giant-realistic-cockroach-pool-float.php)
+* [You Can Control Drones With Your Old Game Boy](http://futurism.com/videos/you-can-control-drones-with-your-old-game-boy/)
+* [To Block Wi-Fi At The Dinner Table, Bring This Hacked Pepper Grinder - Co.Design - business + design](https://www.fastcodesign.com/3063233/to-block-wi-fi-at-the-dinner-table-bring-this-hacked-pepper-grinder?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcodesign%2Ffeed+%28Co.Design%29)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

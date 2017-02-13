@@ -1,21 +1,22 @@
 ---
-title: Totes Murdered Out Chicken
-date: 2017-02-08 12:11:00 -06:00
-position: 1
-description: "Their beak and tongue, black comb and wattles; even their meat, bones
-  and organs appear black. The blood of the Ayam Cemani is normally colored."
+title: DARPAganda
+date: 2016-02-10 18:00:00 Z
+episode: '270'
+description: "Amazon is already prepared for a zombie outbreak, We are using our sinks for the wrong reason, How long is the longest selfie stick?, Robot golfer is better than Human golfer, Hidden galaxies in our own backyard, Name That Sound, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-270.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-episode: 337
-show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-337.mp3
-layout: episode
+tags:
+- Name That Sound
+- space
+- toilet
+- robots
 ---
-
-[Chicken](https://cl.ly/0S180r3E1X3R/cemani%20closeup.jpg)
 
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
