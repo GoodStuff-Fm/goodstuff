@@ -15,14 +15,14 @@ Plus it literally pays the bills.
 
 ## [Chris Enns →](http://patreon.com/ichris)
 
----
+***
 
 # The Free Way
 
 ## [Write an iTunes Review →](https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2)
 No, not like the road. Like the way you graciously give your time in an effort to help other people find the show! Then again, time = money. So technically you gave us free money?
 
----
+***
 
 # Stuff We Like
 
