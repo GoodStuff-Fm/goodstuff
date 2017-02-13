@@ -1,0 +1,41 @@
+---
+title: NOFOMO
+date: 2016-04-21 17:02:00 Z
+episode: '298'
+description: "What crazy words do we have this year, Unlimited fries you say?, Kenny invents the new dance craze, What exactly is upside-down, Is that a Goat or a Tennis player?, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-298.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- McDonalds
+- dictionary
+- Gordon Ramsay
+- Goat or Tennis Player
+---
+
+* [Merriam-Webster Adds ‘FOMO,’ ‘Mx.’ and About 2,000 Other Words - TIME](http://time.com/4299634/merriam-webster-fomo-mx-dox-update/)
+* [McDonald’s Squashes Rumors Of Says All-You-Can-Eat Fries Promotion « CBS New York](http://newyork.cbslocal.com/2016/04/21/mcdonalds-all-you-can-eat-fries/)
+* [Microsoft stops making the Xbox 360](http://www.engadget.com/2016/04/20/microsoft-stops-making-the-xbox-360/)
+* [Tesla Autopilot - One Month Free Trial Available - Digital Trends](http://www.digitaltrends.com/cars/tesla-free-trial-semi-autonomous-technology/)
+* [A Car Just Drove 1200 Miles Across China...All By Itself](http://futurism.com/car-just-drove-1200-miles-across-china/)
+* [Paulstretch - Audacity Manual](http://manual.audacityteam.org/man/paulstretch.html)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

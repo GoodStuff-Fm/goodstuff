@@ -1,0 +1,47 @@
+---
+title: Potato Chips and Salsa
+date: 2016-09-09 17:01:00 Z
+episode: '319'
+description: "Apple is very excited again, Galaxy Note 7 woes, Stop recycling used pizza boxes, Shoelaces of the future, Drone Burritos, The Great Ketchup Debate, and more!"
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-319.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- iPhone
+- Twitter
+- Star Trek
+- ketchup
+---
+
+* [Just The Good Stuff From Wednesday's Apple Event - Digg](http://digg.com/2016/apple-iphone-7-liveblog)
+* [Florida Man Says His Galaxy Note 7 Exploded and Set His Jeep on Fire](http://gizmodo.com/florida-man-says-his-galaxy-note-7-exploded-and-set-his-1786380524)
+* [FAA 'strongly advises' passengers not to bring Samsung Galaxy Note 7 on planes - The Verge](http://www.theverge.com/2016/9/8/12856734/faa-samsung-galaxy-note-7-warning-statement)
+* [Happy 50th Anniversary, Star Trek](http://io9.gizmodo.com/happy-50th-anniversary-star-trek-1786384803)
+* [Food Blog - Best Food Blogs - Gourmet Food Blog](http://blog.thenibble.com/2015/09/09/tip-of-the-day-make-wiener-schnitzel/)
+* [The Star Trek Song You Will Never Get Out of Your Head](http://io9.gizmodo.com/the-star-trek-song-you-will-never-get-out-of-your-head-1786403166)
+* [8-Year-Old Golf Prodigy Nails A Drone Right Out Of The Sky With A Nasty Drive - Digg](http://digg.com/video/golfer-hits-drone?utm_vertical=sports_debrief)
+* [Alphabet partners with Chipotle to deliver burritos using drones - The Verge](http://www.theverge.com/2016/9/8/12851384/alphabet-google-chipotle-drone-delivery-project-wing)
+* [Some Lunatic Made a Heinz “Ketchup Cake,” and It's Grossing the Internet Out - First We Feast](http://firstwefeast.com/eat/2016/08/heinz-ketchup-cake-is-grossing-the-internet-out)
+* [Chipotle Starts Testing Burrito Delivery Drones at Virginia Tech Next Week](http://gizmodo.com/chipotle-burrito-drones-will-be-tested-at-virginia-coll-1786389315)
+* [This Mexican Restaurant Admitted to Recycling Uneaten Chips and Salsa - First We Feast](http://firstwefeast.com/eat/2016/08/mexican-restaurant-admits-to-recycling-tortilla-chips)
+* [Watch This Maniac Submerge Himself in 1,250 Bottles of Hot Sauce - First We Feast](http://firstwefeast.com/video/2016/08/maniac-bathes-in-hot-sauce)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,0 +1,46 @@
+---
+title: Cool I'm Going to Be a X-Man
+date: 2016-02-26 17:13:00 Z
+episode: '277'
+description: "Find out what Mozart did in his spare time, Google knows where you are no matter what, Make that bread from Star Wars, Is there a new Pokemon game really?, Hear the loudest burp ever recorded, Food Friday, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-277.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- Food Friday
+- Pokemon
+- Mozart
+- burps
+---
+
+* [Morning Show by Goodstuff FM on iTunes](https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2)
+* [Airbnb admits to deleting questionable listings just before releasing rental data - The Verge](http://www.theverge.com/2016/2/25/11116426/airbnb-report-data-purge-new-york-city)
+* [Facebook is bringing live video streaming to Android - The Verge](http://www.theverge.com/2016/2/26/11119034/facebook-live-stream-video-android)
+* [Apple's next tablet is reportedly a smaller iPad Pro, not 'iPad Air 3' - The Verge](http://www.theverge.com/2016/2/25/11116352/apple-smaller-ipad-pro-rumor)
+* [Forbes Welcome](http://www.forbes.com/forbes/welcome/#1538ef7e5af1)
+* [Wolfgang Amadeus Mozart](http://www.wrightmusic.net/pdfs/mozart.pdf)
+* [Nothing To Do With Arbroath: Theme park advertises for lazy people to work as pandas](http://arbroath.blogspot.com/2016/02/theme-park-advertises-for-lazy-people.html)
+* [Moon stamps make a full-moon debut](http://www.geekwire.com/2016/moon-stamps-make-their-debut-for-the-full-moon/)
+* [Massive sculpture relocated because people busy...](http://www.scoop.it/t/quite-interesting-news/p/4060148507/2016/02/23/massive-sculpture-relocated-because-people-busy-texting-kept-walking-into-it)
+* [Mercedes replaces robots with people on its assembly line](http://www.engadget.com/2016/02/25/mercedes-benz-replaces-robots-with-humans/)
+* [Ape in space! Watch Scott Kelly's space station prank](http://www.geekwire.com/2016/ape-in-space-watch-scott-kelly-pull-the-international-space-stations-best-prank-ever/)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

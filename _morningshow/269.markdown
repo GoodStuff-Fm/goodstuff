@@ -1,21 +1,22 @@
 ---
-title: Totes Murdered Out Chicken
-date: 2017-02-08 12:11:00 -06:00
-position: 1
-description: "Their beak and tongue, black comb and wattles; even their meat, bones
-  and organs appear black. The blood of the Ayam Cemani is normally colored."
+title: Molasses Mondays
+date: 2016-02-08 18:00:00 Z
+episode: '269'
+description: "We watched the Super Bowl so you don't have to, Kyle became a pizza slicer over the weekend, Utah wants you to throw their stuff into lakes, Salads at McDonald's are fatter than fat, We play Audio Pictionary, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-269.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-episode: 337
-show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-337.mp3
-layout: episode
+tags:
+- Super Bowl
+- Audio Pictionary
+- Twitter
+- pancakes
 ---
-
-[Chicken](https://cl.ly/0S180r3E1X3R/cemani%20closeup.jpg)
 
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!

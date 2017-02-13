@@ -1,0 +1,46 @@
+---
+title: Weast to Est
+date: 2016-03-30 16:49:00 Z
+episode: '290'
+description: "Uh oh, Tay.ai is BACK, Change your middle name please, Stick your neck out for some soup, A deliciuos treat for you cold cold feet, The end-all burger that will wreck your Baseball game, 2 Stupid Games, and more."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-290.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- turkey
+- s'mores
+- 2 Stupid Games
+- baseball
+---
+
+* [Tay, Microsoft’s AI program, is back online](http://www.cnbc.com/2016/03/30/tay-microsofts-ai-program-is-back-online.html)
+* [SoundCloud’s subscription streaming service is here (and it needs work) - The Verge](http://www.theverge.com/2016/3/29/11321978/soundcloud-go-subscription-music-service-announced)
+* [Sony is launching its 4K streaming service on April 4th - The Verge](http://www.theverge.com/2016/3/29/11325628/sony-ultra-4k-streaming-service-launch-april-4)
+* [Waze will warn you when you're speeding](http://www.engadget.com/2016/03/29/waze-speed-alerts/)
+* [You can now record 60-second videos in Instagram - The Verge](http://www.theverge.com/tech/2016/3/29/11325294/instagram-video-60-seconds)
+* [Foodimentary - National Food Holidays](http://foodimentary.com/)
+* [These USB-Powered S'mores Slippers Will Toast Your Feet](http://www.foodbeast.com/news/smores-slippers/)
+* [The Suvet, A Unique Outfit That Combines the Comfort of a Duvet With the Functionality of a Suit](http://laughingsquid.com/the-suvet-a-unique-prototype-outfit-that-combines-the-comfort-of-a-duvet-with-the-functionality-of-a-suit/)
+* [Town in rural southern Nevada up for sale for $8 million](http://bigstory.ap.org/8d5460d99a724570802bb62ae937a771)
+* [Can You Identify The Movie From Its Opening Line](http://www.buzzfeed.com/sagehaley/can-you-guess-the-movie-from-its-opening-line-1upre#.eq9OLDxPoo)
+* [How Well Do You Remember "The Force Awakens"](http://www.buzzfeed.com/perpetua/how-well-do-you-remember-the-force-awakens#.hgZZ6OARVV)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

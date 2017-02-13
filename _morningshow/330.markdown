@@ -1,21 +1,25 @@
 ---
-title: Totes Murdered Out Chicken
-date: 2017-02-08 12:11:00 -06:00
-position: 1
-description: "Their beak and tongue, black comb and wattles; even their meat, bones
-  and organs appear black. The blood of the Ayam Cemani is normally colored."
+title: Pancake Stubble
+date: 2016-12-13 20:34:00 Z
+episode: '330'
+description: "We're back! After taking some personal time to be with family during a difficult time, we're back behind the microphone to shake out the wiggles and keep the mood light. We've had a chance to watch some trailers, binge some shows, and discuss Vin Diesel."
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-330.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-episode: 337
-show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-337.mp3
-layout: episode
+tags:
+- movie
+- trailer
+- Netflix
+- pancakes
 ---
 
-[Chicken](https://cl.ly/0S180r3E1X3R/cemani%20closeup.jpg)
+* [Daily(ish) 191: What's On Our TV in November? Surviving the Crown in WestWorld? - Goodstuff FM](http://goodstuff.fm/dailyish/191)
+* [Kenny 🍕🤖 on Twitter: "Wonder if this movie’s about Vin Diesel smelling something funny on his left AND his right. https://t.co/DOIcfRZ2Dx"](https://twitter.com/pizzarobotics/status/808185743461916672)
 
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!

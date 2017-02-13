@@ -1,0 +1,51 @@
+---
+title: Delishish Dish
+date: 2016-04-29 16:51:00 Z
+episode: '302'
+description: "It's a bit drafty in here, National Days for everyone, use your skull as a password, McWords get McMixed up, soda-flavored Pop-Tarts, and more!"
+show: morningshow
+layout: episode
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-302.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+tags:
+- football
+- Pop-Tart
+- shrimp
+- Food Friday
+---
+
+* [Lawsuit blames Snapchat’s speed filter for Georgia car crash - The Verge](http://www.theverge.com/2016/4/28/11526860/snapchat-mph-filter-speeding-car-accident-suit)
+* [In a reversal, YouTube will let videos under copyright dispute earn revenue - The Verge](http://www.theverge.com/2016/4/28/11532734/youtube-complaint-takedown-copyright-monetization-reversal)
+* [SpaceX plans to send unmanned Dragon spacecraft to Mars by 2018, with humans to follow / Boing Boing](http://boingboing.net/2016/04/28/spacex-plans-to-send-unmanned.html)
+* [Samsung's personal assistant robot is called Otto - The Verge](http://www.theverge.com/2016/4/28/11528206/samsung-personal-assistant-robot-otto)
+* [April 29, 2016 – NATIONAL SHRIMP SCAMPI DAY – NATIONAL ARBOR DAY – NATIONAL PEACE ROSE DAY – NATIONAL ZIPPER DAY – NATIONAL HAIRBALL AWARENESS DAY – NATIONAL TEACH CHILDREN TO SAVE DAY - National Day Calendar](http://www.nationaldaycalendar.com/2016/04/28/april-29-2016-national-shrimp-scampi-day-national-arbor-day-national-peace-rose-day-national-zipper-day-national-hairball-awareness-day-national-teach-children-to-save-day/)
+* [Morning Show](http://upvote.morningshow.am/)
+* [Patch Notes v1.17 (PC/PS4) - Rocket League](http://www.rocketleaguegame.com/news/2016/04/patch-notes-v1-17-pcps4/)
+* [This Audi has a beautiful electric longboard hidden in its bumper - The Verge](http://www.theverge.com/2016/4/25/11503794/audi-electric-autonomous-longboard-hidden-bumper)
+* [Google Glass technology used to develop 'skull recognistion' software - Daily Mail Online](http://www.dailymail.co.uk/sciencetech/article-3557283/Forget-passwords-soon-use-SKULL-login-online-sound-s-head-reveal-identify.html?ito=social-twitter_mailonline)
+* [AmazonSmile: Digicare Lead-out Anti-pollution Mask Wireless Bluetooth 4.0 Bone Conduction Headphone Headset Dustproof Mask for Outdoor Sports Lover (Light Gray): Cell Phones & Accessories](http://smile.amazon.com/Digicare-Lead-out-Anti-pollution-Bluetooth-Conduction/dp/B01CFJKU08/ref=sr_1_13?ie=UTF8&qid=1461941077&sr=8-13&keywords=bone+conduction)
+* [HELP, An Immersive Live Action 360 Degree Film About an Alien Chasing You Through Los Angeles](http://laughingsquid.com/help-an-immersive-live-action-360-degree-film-about-an-alien-chasing-you-through-los-angeles/)
+* [University of Florida Holds First Drone Race Using Mind Control](http://futurism.com/university-florida-holds-first-drone-race-using-mind-control/)
+* [You could maybe put an Amazon Echo on the ceiling, I guess - The Verge](http://www.theverge.com/2016/4/26/11513288/you-could-maybe-put-an-amazon-echo-on-the-ceiling-i-guess)
+* [McDonald's (MCD) Chicken McNuggets will have no artificial preservatives — Quartz](http://qz.com/671646/mcdonalds-is-rolling-out-a-cleaner-chicken-mcnugget/)
+* [Meet The Guy Who Got A Pizza Delivered In The Middle Of His Train Ride](http://www.foodbeast.com/news/pizza-delivery-to-train/)
+* [New soda-flavored Pop-Tarts are coming to a store near you - TODAY.com](http://www.today.com/food/new-soda-flavored-pop-tarts-are-coming-store-near-you-t89041)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,21 +1,17 @@
 ---
-title: Totes Murdered Out Chicken
-date: 2017-02-08 12:11:00 -06:00
-position: 1
-description: "Their beak and tongue, black comb and wattles; even their meat, bones
-  and organs appear black. The blood of the Ayam Cemani is normally colored."
+title: Braincation
+date: 2016-01-31 21:37:00 Z
+description: "As of 2009, the CIA stated that there were approximately 44,000 “… airports or airfields recognizable from the air” around the world, including 15,095 in the US. (If you want a paved runway, there are only 5,194.) The US has about a third of all airports, and the most of any single country."
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
-episode: 337
+episode: 336
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-337.mp3
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-336.mp3
 layout: episode
 ---
-
-[Chicken](https://cl.ly/0S180r3E1X3R/cemani%20closeup.jpg)
 
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
