@@ -1,6 +1,6 @@
 ---
 title: Burg Watching
-date: 2016-01-17 15:37:00 -06:00
+date: 2017-01-17 15:37:00 -06:00
 position: 4
 description: Red Robin Gourmet Burgers and Brews, or simply Red Robin, is an American
   chain of casual dining restaurants founded in September 1969 in Seattle, Washington.
