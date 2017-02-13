@@ -34,7 +34,7 @@ Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold wat
 ## [Curiosity Stream →](https://curiositystream.com/referral/2f77a1f510)
 Get 2 months of free streaming including  1,500+ documentaries & nonfiction series from the world's best filmmakers. 
 
-## [Droplr →](https://auth.droplr.com/referral/user/f46187fa277fb0646da81ba1072299fd?callback=https://d.pr/auth/referral)
+## [Cloud App →](http://my.cl.ly/r/28351A1s331l3619)
 Quickly capture and send screenshots, video, and files with a simple link.
 
 ## [WorkFlowy →](https://workflowy.com/invite/20cd98ad.lnx)
