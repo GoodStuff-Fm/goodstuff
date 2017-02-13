@@ -18,6 +18,8 @@ date: 2017-02-12 02:27:00 -06:00
 * [iChris](https://www.patreon.com/ichris) - 19 patrons/$93 per month
 * [Morning Show](https://www.patreon.com/morningshow) - 8 patrons/?? per month
 
+Currently $!36/month income via patron support.
+
 ## Site Stats
 * 2,432 unique visitors to the site, 60% new visitors
 * Top traffic sources: atu2.com, direct, organic search
