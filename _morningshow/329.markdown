@@ -1,6 +1,20 @@
 ---
-title: '329'
+title: Garbage Wallbanger
+date: 2016-11-08 22:06:00 -06:00
 position: 68
+description: In 2001, a Dachshund named Saucisse was a mayoral candidate. He won 4%
+  of votes. Eight years later, in 2009, he participated the third season of Secret
+  Story, the French version of Big Brother. He entered the house on Day 36. His secret
+  is that he was a candidate at the election of Marseille Mayor. To protect his secret,
+  he entered the house with the nickname “Secret”.
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-329.mp3
+episode: 329
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+layout: episode
 ---
 
 * [Kenny on Periscope: "Google Home unboxing."](https://www.periscope.tv/pizzarobotics/1BdxYdgYXoAJX?t=3)
