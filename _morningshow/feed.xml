@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: morningshow
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -58,7 +58,7 @@ layout:
     <content:encoded>
       <![CDATA[
         {{ doc.description | xml_escape }}
-        <br>
+        <br><br>
         Notes and links on <a href="{{ site.url }}{{ doc.url }}">Goodstuff.fm</a>
       ]]>
     </content:encoded>

@@ -58,7 +58,7 @@ layout:
     <content:encoded>
       <![CDATA[
         {{ doc.description | xml_escape }}
-        <br>
+        <br><br>
         Notes and links on <a href="{{ site.url }}{{ doc.url }}">Goodstuff.fm</a>
       ]]>
     </content:encoded>
