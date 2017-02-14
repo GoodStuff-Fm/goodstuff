@@ -1,12 +1,19 @@
 ---
-title: 'Simon St. Laurent - Building the Greatest Everlasting Sandcastle'
+title: Simon St. Laurent - Building the Greatest Everlasting Sandcastle
 date: 2016-02-16 12:11:00 -06:00
-description: 'Simon St. Laurent is back to talk about #Snowpocalypse, camera drones in NYC, the legacy of our work, and owning your own stuff —except for those conversations we have on Facebook. We take a look at what we saw this past month in the web space (and more) and what we think is happening on the horizon as we slip further into 2016.'
+description: 'Simon St. Laurent is back to talk about #Snowpocalypse, camera drones
+  in NYC, the legacy of our work, and owning your own stuff —except for those conversations
+  we have on Facebook. We take a look at what we saw this past month in the web space
+  (and more) and what we think is happening on the horizon as we slip further into
+  2016.'
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 67
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-67.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-67.mp3
 layout: episode
 ---
+

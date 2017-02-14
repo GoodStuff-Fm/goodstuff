@@ -1,12 +1,17 @@
 ---
-title: 'Simon St. Laurent — Top 6 Tech News Countdown Returns'
+title: Simon St. Laurent — Top 6 Tech News Countdown Returns
 date: 2016-08-03 12:11:00 -06:00
-description: 'In this episode, Christopher Schmitt is joined with Simon St. Laurent. We’re talking the CSS Containment property, SVG book by Chris Coyier, Pokemon Go, Telsa’s new masterplan, ComicCon, and the Star Trek: Beyond movie.'
+description: 'In this episode, Christopher Schmitt is joined with Simon St. Laurent.
+  We’re talking the CSS Containment property, SVG book by Chris Coyier, Pokemon Go,
+  Telsa’s new masterplan, ComicCon, and the Star Trek: Beyond movie.'
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 88
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-88.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-88.mp3
 layout: episode
 ---
+

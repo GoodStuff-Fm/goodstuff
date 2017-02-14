@@ -1,12 +1,17 @@
 ---
-title: 'Simon St. Laurent - JavaScript, SVG, and The Web'
+title: Simon St. Laurent - JavaScript, SVG, and The Web
 date: 2015-12-14 12:11:00 -06:00
-description: 'Simon St. Laurent is back to talk about the rise of JavaScript, SVG, and we take a look at what we saw this past month in the web space (and more) and what we think is happening on the horizon as we slip into the new year.'
+description: Simon St. Laurent is back to talk about the rise of JavaScript, SVG,
+  and we take a look at what we saw this past month in the web space (and more) and
+  what we think is happening on the horizon as we slip into the new year.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 60
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-60.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-60.mp3
 layout: episode
 ---
+

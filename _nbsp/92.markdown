@@ -1,12 +1,17 @@
 ---
-title: 'Glenda Sims — Web and Mobile Accessibility + ARIA'
+title: Glenda Sims — Web and Mobile Accessibility + ARIA
 date: 2016-08-30 12:11:00 -06:00
-description: 'In this episode, Christopher Schmitt is joined once again by Glenda Sims. Glenda is the Accessibility Practice Manager at Deque Systems helping to define accessibility and lead over 50 experts on staff.'
+description: In this episode, Christopher Schmitt is joined once again by Glenda Sims.
+  Glenda is the Accessibility Practice Manager at Deque Systems helping to define
+  accessibility and lead over 50 experts on staff.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 92
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-92.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-92.mp3
 layout: episode
 ---
+

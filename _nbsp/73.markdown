@@ -1,12 +1,18 @@
 ---
-title: 'Tammy Everts — Web Performance'
+title: Tammy Everts — Web Performance
 date: 2016-04-05 12:11:00 -06:00
-description: 'Tammy Everts has spent the past two decades obsessed with the many factors that go into creating the best possible user experience. As a senior researcher and evangelist at SOASTA, she researches the technical, business, and human aspects of web/application performance.'
+description: Tammy Everts has spent the past two decades obsessed with the many factors
+  that go into creating the best possible user experience. As a senior researcher
+  and evangelist at SOASTA, she researches the technical, business, and human aspects
+  of web/application performance.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 73
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-73.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-73.mp3
 layout: episode
 ---
+

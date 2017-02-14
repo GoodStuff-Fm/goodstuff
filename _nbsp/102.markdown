@@ -1,12 +1,18 @@
 ---
-title: 'CSS Dev Conf 2016 Wrap Up Panel — Open Source, Designers vs. Devs, Hiring, Job Seeking, and More'
+title: CSS Dev Conf 2016 Wrap Up Panel — Open Source, Designers vs. Devs, Hiring,
+  Job Seeking, and More
 date: 2016-12-15 12:11:00 -06:00
-description: 'For our 2016 wrap-up episode, we’re presenting an exclusive recording of the traditional CSS Dev Conf 2016 Wrap Up Panel. As hour filled with lots of great questions from the audience for the incredible array of speakers.'
+description: For our 2016 wrap-up episode, we’re presenting an exclusive recording
+  of the traditional CSS Dev Conf 2016 Wrap Up Panel. As hour filled with lots of
+  great questions from the audience for the incredible array of speakers.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 102
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-102.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-102.mp3
 layout: episode
 ---
+

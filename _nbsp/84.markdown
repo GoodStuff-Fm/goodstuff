@@ -1,12 +1,17 @@
 ---
-title: 'Scott McCloud — Media and Their User Interfaces'
+title: Scott McCloud — Media and Their User Interfaces
 date: 2016-06-28 12:11:00 -06:00
-description: 'Scott McCloud joins the show to talk about his new book, Sculpture, movies he’s enjoyed lately, his upcoming book on visual communications, presentation styles, old media vs. new media, and how comic book writing and design has changed.'
+description: Scott McCloud joins the show to talk about his new book, Sculpture, movies
+  he’s enjoyed lately, his upcoming book on visual communications, presentation styles,
+  old media vs. new media, and how comic book writing and design has changed.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 84
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-84.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-84.mp3
 layout: episode
 ---
+

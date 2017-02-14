@@ -1,12 +1,18 @@
 ---
-title: 'Annette Priest - UX Tools and Gadgets'
+title: Annette Priest - UX Tools and Gadgets
 date: 2015-11-23 12:11:00 -06:00
-description: 'Annette Priest is a UX strategist and experienced designer and researcher. Her work spans device types and industries: mobile, IoT, health, travel, communications, security, finance, and government. She stops by the show to talk tips for UX research and tools you should have along.'
+description: 'Annette Priest is a UX strategist and experienced designer and researcher.
+  Her work spans device types and industries: mobile, IoT, health, travel, communications,
+  security, finance, and government. She stops by the show to talk tips for UX research
+  and tools you should have along.'
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 57
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-57.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-57.mp3
 layout: episode
 ---
+

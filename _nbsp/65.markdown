@@ -1,12 +1,16 @@
 ---
-title: 'Brenda Storer - Making It and SVG'
+title: Brenda Storer - Making It and SVG
 date: 2016-02-02 12:11:00 -06:00
-description: 'Brenda Storer is a Designer & Front End Developer at ThoughtBot and Instructor at Girl Develop It.'
+description: Brenda Storer is a Designer & Front End Developer at ThoughtBot and Instructor
+  at Girl Develop It.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 65
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-65.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-65.mp3
 layout: episode
 ---
+

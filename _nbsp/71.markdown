@@ -1,12 +1,17 @@
 ---
-title: 'Simon St. Laurent - SXSW Interactive, Fluent Conf'
+title: Simon St. Laurent - SXSW Interactive, Fluent Conf
 date: 2016-03-22 12:11:00 -06:00
-description: 'While Christopher Schmitt endures the SXSW Interactive invasion of Ausin, Texas, Simon St. Laurent returns from this year’s Fluent Conf. They both talk about tech trends they saw from their respective points of view.'
+description: While Christopher Schmitt endures the SXSW Interactive invasion of Ausin,
+  Texas, Simon St. Laurent returns from this year’s Fluent Conf. They both talk about
+  tech trends they saw from their respective points of view.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 71
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-71.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-71.mp3
 layout: episode
 ---
+

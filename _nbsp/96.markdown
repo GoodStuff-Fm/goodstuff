@@ -1,12 +1,20 @@
 ---
-title: 'Nick Pettit — Indie VR Game Developer'
+title: Nick Pettit — Indie VR Game Developer
 date: 2016-09-27 12:11:00 -06:00
-description: 'From Austin, Texas, I’m Christopher Schmitt and on this episode, I’m joined with Nick Pettit. Nick is a teacher at Treehouse, an online web education company. He is also an independent virtual reality (VR) game developer. On November 15th, he releases his first major game called “Neptune Flux,” which can be experienced on VR headsets like the Oculus Rift, HTC Vive, and PlayStation VR. There are also non-VR variations of the game that can be played on PC, Mac, and PlayStation 4.'
+description: From Austin, Texas, I’m Christopher Schmitt and on this episode, I’m
+  joined with Nick Pettit. Nick is a teacher at Treehouse, an online web education
+  company. He is also an independent virtual reality (VR) game developer. On November
+  15th, he releases his first major game called “Neptune Flux,” which can be experienced
+  on VR headsets like the Oculus Rift, HTC Vive, and PlayStation VR. There are also
+  non-VR variations of the game that can be played on PC, Mac, and PlayStation 4.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 96
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-96.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-96.mp3
 layout: episode
 ---
+

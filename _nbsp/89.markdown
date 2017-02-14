@@ -1,12 +1,18 @@
 ---
-title: 'Wes Bos — ReactJS for Beginners'
+title: Wes Bos — ReactJS for Beginners
 date: 2016-08-09 12:11:00 -06:00
-description: 'In this episode, Christopher Schmitt speaks with Wes Bos. Wes is a site and web applications’ Designer, Developer, Speaker, and Teacher — probably most recognizable for his online courses such as Sublime Text Power User and React For Beginners.'
+description: In this episode, Christopher Schmitt speaks with Wes Bos. Wes is a site
+  and web applications’ Designer, Developer, Speaker, and Teacher — probably most
+  recognizable for his online courses such as Sublime Text Power User and React For
+  Beginners.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 89
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-89.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-89.mp3
 layout: episode
 ---
+

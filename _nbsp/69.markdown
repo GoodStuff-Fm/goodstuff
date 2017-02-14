@@ -1,12 +1,19 @@
 ---
-title: 'Allison Wagner - Career Path to UX Developer'
+title: Allison Wagner - Career Path to UX Developer
 date: 2016-03-01 12:11:00 -06:00
-description: 'Allison <3’s CSS. She has worked at Happy Cog as a UX developer for over 6 years, building sites for high-profile clients such as Nintendo, MTV, Harvard, Ben & Jerry’s, and Shopify. She specializes in architecting custom front-end frameworks designed to scale and integrate. She lives in Philadelphia and enjoys traveling, outdoor running, and #konmarie in her spare time.'
+description: 'Allison <3’s CSS. She has worked at Happy Cog as a UX developer for
+  over 6 years, building sites for high-profile clients such as Nintendo, MTV, Harvard,
+  Ben & Jerry’s, and Shopify. She specializes in architecting custom front-end frameworks
+  designed to scale and integrate. She lives in Philadelphia and enjoys traveling,
+  outdoor running, and #konmarie in her spare time.'
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 69
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-69.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-69.mp3
 layout: episode
 ---
+

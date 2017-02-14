@@ -1,12 +1,18 @@
 ---
-title: 'Q&A Panel from the World Movie Premiere of “What Comes Next is the Future”'
+title: Q&A Panel from the World Movie Premiere of “What Comes Next is the Future”
 date: 2016-09-14 12:11:00 -06:00
-description: 'For this episode, we have the Q&A panel after the world premiere of Matt Griffin’s documentary, “What Comes Next is the Future.” The premiere took place at Code & Supply’s Abstraction conference in Pittsburgh, PA on August 18th. Panelists included Matt Griffin, Jeffrey Zeldman, Mat “Wilto” Marquis, and Val Head.'
+description: For this episode, we have the Q&A panel after the world premiere of Matt
+  Griffin’s documentary, “What Comes Next is the Future.” The premiere took place
+  at Code & Supply’s Abstraction conference in Pittsburgh, PA on August 18th. Panelists
+  included Matt Griffin, Jeffrey Zeldman, Mat “Wilto” Marquis, and Val Head.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
 episode: 94
 show: nbsp
-mp3:  http://podcasts-1.feedpress.co/10609/nbsp-94.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-94.mp3
 layout: episode
 ---
+
