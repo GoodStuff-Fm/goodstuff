@@ -48,15 +48,13 @@ layout:
     <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
     <description>{{ doc.description | xml_escape }}</description>
     <guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
-    <enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mp3"/>
+    <enclosure url="{{ doc.mp3 }}" type="audio/mp3"/>
     <itunes:author>{{ show.hosts }}</itunes:author>
     <itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
     <itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
-    <itunes:duration>{{ doc.duration }}</itunes:duration>
     <itunes:keywords>{{ show.keywords }}</itunes:keywords>
     <itunes:image href="{{ show.artwork }}" />
-    <itunes:explicit>{{ doc.explicit }}</itunes:explicit>
-    <itunes:block>{{ doc.block }}</itunes:block>
+    <itunes:explicit>{{ show.explicit }}</itunes:explicit>
     <content:encoded>
       <![CDATA[{{ doc.content | cdata_escape }}]]>
     </content:encoded>

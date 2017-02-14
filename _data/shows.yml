@@ -1,7 +1,7 @@
 3g3q:
   name: 3 Guys 3 Questions
   lang: EN
-  explicit: clean
+  explicit: no
   collection: 3g3q
   hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
@@ -79,7 +79,7 @@ grownups:
   pocketcasts: http://pca.st/OEf0
   overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
 nbsp:
-  explicit: clean
+  explicit: no
   name: Non Breaking Space Show
   collection: nbsp
   hosts: Christopher Schmitt
@@ -99,10 +99,9 @@ nbsp:
   pocketcasts: http://pca.st/Izn0
   overcast: https://overcast.fm/itunes507162981/non-breaking-space-show
 master:
-  explicit: explicit
+  explicit: yes
   name: Goodstuff Broadcasting Master Audio Feed
   lang: EN
-  explicit: clean
   hosts: Goodstuff Broadcasting
   description: All episodes of all shows on Goodstuff
   artwork: "/uploads/artwork-master.jpg"
@@ -121,10 +120,9 @@ master:
   pocketcasts: http://pca.st/xiPV
   overcast: https://overcast.fm/itunes849966174/goodstuff-broadcasting-master-audio-feed
 atu2:
-  explicit: clean
+  explicit: no
   name: The atU2 Podcast
   lang: EN
-  explicit: clean
   collection: atu2
   hosts: Chris Enns and Matt McGee
   description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
@@ -146,7 +144,7 @@ atu2:
 aux:
   name: Auxiliary
   lang: EN
-  explicit: explicit
+  explicit: yes
   collection: aux
   hosts: Goodstuff Hosts
   description: After a show is done recording, we sometimes forget to stop recording and this is what results.
@@ -189,7 +187,7 @@ neverdigdown:
   show-twitter: "@neverdigdown_fm"
   hosts-twitter: "@ichris and @murtaugh"
   category: "Video Games"
-  explicit: clean
+  explicit: no
   email: chris@goodstuff.fm
   support: http://www.patreon.com/morningshow
   rss: http://feeds.goodstuff.fm/dailyish
@@ -199,7 +197,7 @@ neverdigdown:
 smym:
   name: Show Me Your Mic
   lang: EN
-  explicit: clean
+  explicit: no
   collection: smym
   hosts: Chris Enns
   description: A show that talks to podcasters about gear, software, workflow, and philosophies behind podcasting.
@@ -221,7 +219,7 @@ smym:
 specials:
   name: Goodstuff Specials
   lang: EN
-  explicit: explicit
+  explicit: yes
   collection: specials
   hosts: Goodstuff Hosts
   description: Goodstuff special events - random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
