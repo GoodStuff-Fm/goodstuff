@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: nbsp
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -14,7 +14,7 @@ layout:
 <atom:link href="{{ site.itunes-url }}/{{ show.collection }}/feed.xml" rel="self" type="application/rss+xml" />
 <title>{{ show.name }}</title>
 <description>{{ show.description | xml_escape }}</description>
-<link>{{ site.itunes-url }}/{{ show.collection }}</link>
+<link>{{ site.url }}/{{ show.collection }}</link>
 <language>EN</language>
 <managingEditor>{{ site.itunes-email }} ({{ site.itunes-author }})</managingEditor>
 <webMaster>{{ site.itunes-email }} ({{ site.itunes-author }})</webMaster>
@@ -22,8 +22,8 @@ layout:
 <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <image>
-  <link>{{ site.itunes-url }}/{{ show.collection }}</link>
-  <url>{{ site.itunes-url }}{{ show.artwork }}</url>
+  <link>{{ site.url }}/{{ show.collection }}</link>
+  <url>{{ site.url }}{{ show.artwork }}</url>
   <title>{{ show.name }}</title>
 </image>
 <itunes:subtitle>{{ show.description | xml_escape }}</itunes:subtitle>
@@ -34,7 +34,7 @@ layout:
   <itunes:name>{{ site.itunes-author }}</itunes:name>
   <itunes:email>{{ site.itunes-email }}</itunes:email>
 </itunes:owner>
-<itunes:image href="{{ site.itunes-url }}{{ show.artwork }}" />
+<itunes:image href="{{ site.url }}{{ show.artwork }}" />
 <itunes:category text="{{ show.category1 }}" />
 <itunes:category text="{{ show.category2 }}" />
 <itunes:category text="{{ show.category3 }}" />
@@ -44,21 +44,23 @@ layout:
 {% unless doc.title == 'Feed' %}
   <item>
     <title>{{ doc.title | xml_escape }}</title>
-    <link>{{ site.itunes-url }}{{ doc.url }}</link>
+    <link>{{ site.url }}{{ doc.url }}</link>
     <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
     <description>{{ doc.description | xml_escape }}</description>
-    <guid isPermaLink="true">{{ site.itunes-url }}{{ doc.url }}</guid>
-    <enclosure url="{{ doc.mp3 }}" length="{{ doc.length }}" type="audio/mp3"/>
+    <guid isPermaLink="true">{{ site.url }}{{ doc.url }}</guid>
+    <enclosure url="{{ doc.mp3 }}" type="audio/mp3"/>
     <itunes:author>{{ show.hosts }}</itunes:author>
     <itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
     <itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
-    <itunes:duration>{{ doc.duration }}</itunes:duration>
     <itunes:keywords>{{ show.keywords }}</itunes:keywords>
-    <itunes:image href="{{ show.artwork }}" />
-    <itunes:explicit>{{ doc.explicit }}</itunes:explicit>
-    <itunes:block>{{ doc.block }}</itunes:block>
+    <itunes:image href="{{ site.url }}{{ show.artwork }}" />
+    <itunes:explicit>{{ show.explicit }}</itunes:explicit>
     <content:encoded>
-      <![CDATA[{{ doc.content | xml_escape }}]]>
+      <![CDATA[
+        {{ doc.description | xml_escape }}
+        <br>
+        Notes and links on <a href="{{ site.url }}{{ doc.url }}">Goodstuff.fm</a>
+      ]]>
     </content:encoded>
   </item>
 {% endunless %}
