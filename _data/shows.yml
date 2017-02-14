@@ -49,6 +49,7 @@ morningshow:
   description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
   artwork: "/uploads/artwork-morningshow.jpg"
   color: #F8C023
+  explicit: no
   keywords: tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
   hosts-twitter: "@dogburps and @pizzarobotics"
