@@ -1,0 +1,12 @@
+---
+title: 'The End of the Year Holiday Special'
+date: 2015-12-23 12:11:00 -06:00
+description: 'We gather together to share some figgy pudding and talk about the things we’re proud of from 2015 with special guest stars: Ethan Marcotte, Greg Storey, and Molly E. Holzschlag!'
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+episode: 61
+show: nbsp
+mp3:  http://podcasts-1.feedpress.co/10609/nbsp-61.mp3
+layout: episode
+---

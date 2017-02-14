@@ -1,0 +1,12 @@
+---
+title: 'Bruce Floyd & Todd Sanders — Social Media'
+date: 2016-06-21 12:11:00 -06:00
+description: 'While social media replaced the cultural tradition of inviting friends over for dinner and then subjecting them to a slide show of your vacation, it’s more than that to organizations and companies. It’s communication, promotion, boasting, customer service, brand awareness, and more. Bruce Floyd is the Social Media Manager at University of Florida Athletic Association and Todd Sanders is Director of Social Media at University of Florida. While one covers student athletics and the other covers academia and campus life respectfully, together they cover largest portions of the University of Florida’s social media brand. We ask how they handle social media for two similar, but distinctly different parts of Gator Nation.'
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+episode: 83
+show: nbsp
+mp3:  http://podcasts-1.feedpress.co/10609/nbsp-83.mp3
+layout: episode
+---
