@@ -1,0 +1,12 @@
+---
+title: 'Sarah Drasner - SVG and Animation'
+date: 2016-01-18 12:11:00 -06:00
+description: 'Sarah Drasner is an award-winning Senior UX Engineer at Trulia and a staff writer at CSS Tricks. Recently, she won Best Presentation at CSS Dev Conf 2015 aboard the Queen Mary.'
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+episode: 63
+show: nbsp
+mp3:  http://podcasts-1.feedpress.co/10609/nbsp-63.mp3
+layout: episode
+---

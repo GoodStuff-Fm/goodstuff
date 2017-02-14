@@ -1,0 +1,15 @@
+---
+title: Matt McGee - SEO
+date: 2015-10-15 12:11:00 -06:00
+position: 47
+description: Matt is the Editor-in-Chief at Marketing Land & Search Engine Land so we pick his brain about all things SEO - the white hat side SEO. And what’s up with all those Pandas that Google keeps releasing?
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *
+  nbsp* during checkout to get 10% off your first year.
+episode: 52
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-52.mp3
+layout: episode
+---

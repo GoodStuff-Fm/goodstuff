@@ -1,0 +1,12 @@
+---
+title: 'Peter Olson — Creative Technologist'
+date: 2016-09-20 12:11:00 -06:00
+description: 'From Austin, Texas, I’m Christopher Schmitt and on today’s show I’m joined with Peter Olson, Director and Creative Technologist at IDEO. Before he joined IDEO, Peter was founder of and served as a Vice President of Technology for Marvel Entertainment’s Digital Media Group.'
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+episode: 95
+show: nbsp
+mp3:  http://podcasts-1.feedpress.co/10609/nbsp-95.mp3
+layout: episode
+---

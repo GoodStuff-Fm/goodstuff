@@ -1,0 +1,12 @@
+---
+title: 'Sean Vanaman — Making of Firewatch'
+date: 2016-05-03 12:11:00 -06:00
+description: 'Sean Vanaman is a video game designer, writer, and podcast host. He was the co-project leader and lead writer of The Walking Dead,and Puzzle Agent 2. He also wrote the third episode of Tales of Monkey Island, and was the designer of Wallace & Gromit’s Grand Adventures, and the writer of the third episode, Muzzled. He is one of the regular hosts of the Idle Thumbs podcast. Sean co-founded the new video game company, Campos Santo, and their first game, Firewatch, is an emotional first person adventure that centers around the character, Henry, a man whose love life is in free fall. He takes a job as fire lookout in the Shoshone National Forest as a way to isolate himself and numb him from his problems. His only contact with the outside world is through a walkie talkie to his supervisor, Deliah, another lookout on a tower many, many miles away. Within the lush, stytlized, and expansive forest they unravel mysteries that could endanger their lives.'
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp* during checkout to get 10% off your first year.
+episode: 76
+show: nbsp
+mp3:  http://podcasts-1.feedpress.co/10609/nbsp-76.mp3
+layout: episode
+---
