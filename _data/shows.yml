@@ -75,7 +75,7 @@ grownups:
   category: "Society & Culture"
   email: kayayarai@gmail.com
   support: http://www.patreon.com/morningshow
-  rss: http://feeds.goodstuff.fm/dailyish
+  rss: http://feeds.goodstuff.fm/grownups
   itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
   pocketcasts: http://pca.st/OEf0
   overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
@@ -116,8 +116,8 @@ master:
   category3: "Technology"
   category4:
   category5:
-  rss: http://feed.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  rss: http://goodstuff.fm/feed.xml
+  itunes: https://itunes.apple.com/us/podcast/goodstuff-broadcasting-master/id849966174?mt=2
   pocketcasts: http://pca.st/xiPV
   overcast: https://overcast.fm/itunes849966174/goodstuff-broadcasting-master-audio-feed
 atu2:
@@ -173,7 +173,7 @@ ll:
   email: chris@goodstuff.fm
   keywords: business, technology, Chris, Enns, Huebert
   category: "Business"
-  rss: http://feeds.goodstuff.fm/dailyish
+  rss: http://goodstuff.fm/ll/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/lost-lemon-brothers-in-business/id467564174?mt=2
   pocketcasts: http://pca.st/emvK
   overcast: https://overcast.fm/itunes467564174/lost-and-lemon
@@ -190,8 +190,8 @@ neverdigdown:
   category: "Video Games"
   explicit: no
   email: chris@goodstuff.fm
-  support: http://www.patreon.com/morningshow
-  rss: http://feeds.goodstuff.fm/dailyish
+  support:
+  rss: http://goodstuff.fm/neverdigdown/feed.xml
   itunes: https://itunes.apple.com/us/podcast/never-dig-down/id902068369?mt=2
   pocketcasts: http://pca.st/5YwG
   overcast: https://overcast.fm/itunes902068369/never-dig-down
@@ -235,7 +235,7 @@ specials:
   category3: "Technology"
   category4:
   category5:
-  rss: http://feed.3g3q.co/
+  rss: http://goodstuff.fm/specials/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2
   pocketcasts: http://pca.st/LvG0
   overcast: https://overcast.fm/itunes854159948/goodstuff-specials
