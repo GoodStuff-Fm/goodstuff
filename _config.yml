@@ -13,7 +13,7 @@ collections:
     title: Auxiliary
     output: true
     permalink: "/aux/:path"
-    retired: false
+    retired: true
     live: false
   dailyish:
     title: Daily(ish)
@@ -27,7 +27,7 @@ collections:
     title: Goodstuff Specials
     output: true
     permalink: "/specials/:path"
-    retired: false
+    retired: true
     live: false
   grownups:
     title: I Guess We're Grown-Ups Now
