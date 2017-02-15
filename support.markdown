@@ -9,11 +9,11 @@ The most direct way to show your support is with your hard-earned monies, Canadi
 
 Plus it literally pays the bills.
 
-## [Morning Show →](http://patreon.com/morningshow)
+## [Support Morning Show →](http://patreon.com/morningshow)
 
-## [3 Guys 3 Questions →](http://patreon.com/3g3q)
+## [Support 3 Guys 3 Questions →](http://patreon.com/3g3q)
 
-## [Chris Enns →](http://patreon.com/ichris)
+## [Support Chris Enns →](http://patreon.com/ichris)
 
 ***
 
@@ -32,7 +32,7 @@ Click and/or buy from these links and you'll be supporting Goodstuff as well. Yo
 Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! Get `$10 off` by using our link.
 
 ## [Curiosity Stream →](https://curiositystream.com/referral/2f77a1f510)
-Get 2 months of free streaming including  1,500+ documentaries & nonfiction series from the world's best filmmakers. 
+Get 2 months of free streaming including  1,500+ documentaries & nonfiction series from the world's best filmmakers.
 
 ## [Cloud App →](http://my.cl.ly/r/28351A1s331l3619)
 Quickly capture and send screenshots, video, and files with a simple link.
@@ -71,4 +71,4 @@ Backblaze is secure, offsite, automatic, unlimited backup. Get a free month of B
 Coach is a great platform for putting together courses or selling digital products.
 
 ## [Digital Ocean →](https://www.digitalocean.com/?refcode=b5e0de79be08)
-If you need to spin up a server to build a web app or just a quick website, Digital Ocean makes it super easy to do. 
+If you need to spin up a server to build a web app or just a quick website, Digital Ocean makes it super easy to do.
