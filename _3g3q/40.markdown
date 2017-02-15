@@ -5,7 +5,7 @@ position: 86
 description: Method fanfic, Andy Savage, & terrrible movies.
 sponsor: WPBH-TV 9 and Punxsutawney Phil.
 sponsor-link: http://www.popsugar.com/entertainment/Pinot-Noir-Song-From-Unbreakable-Kimmy-Schmidt-37091502
-sponsor-copy:
+sponsor-copy: 
 season: 3
 episode: 40
 show: 3g3q
