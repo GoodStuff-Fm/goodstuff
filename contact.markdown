@@ -1,12 +1,12 @@
 ---
-title: Contact
+title: Contact Us
 date: 2016-03-18 13:40:00 -06:00
 permalink: "/contact/"
 position: 4
 layout: default
 ---
 
-We love hearing from our amazing listeners. We'll do our best to respond as soon as possible.
+We'd love to hear from you. We'll do our best to respond as soon as possible.
 
 #### General Contact Links
 
