@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: atu2
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -57,9 +57,13 @@ layout:
     <itunes:explicit>{{ show.explicit }}</itunes:explicit>
     <content:encoded>
       <![CDATA[
-        {{ doc.description | xml_escape }}
-        <br><br>
-        Notes and links on <a href="{{ site.url }}{{ doc.url }}">Goodstuff.fm</a>
+      {{ doc.description | xml_escape }}<br><br>
+      {% if doc.sponsor %}
+        This episode of {{ show.name }} is sponsored by: <a href="{{ doc.sponsor-link }}">{{ doc.sponsor }}</a><br>
+        {% if doc.sponsor-copy %}
+          {{ doc.sponsor-copy | xml_escape }}<br><br>
+        {% endif %}
+      {% endif %}
       ]]>
     </content:encoded>
   </item>

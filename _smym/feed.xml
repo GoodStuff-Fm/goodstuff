@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: smym
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -58,7 +58,15 @@ layout:
     <itunes:explicit>{{ doc.explicit }}</itunes:explicit>
     <itunes:block>{{ doc.block }}</itunes:block>
     <content:encoded>
-      <![CDATA[{{ doc.content | xml_escape }}]]>
+      <![CDATA[
+      {{ doc.description | xml_escape }}<br><br>
+      {% if doc.sponsor %}
+        This episode of {{ show.name }} is sponsored by: <a href="{{ doc.sponsor-link }}">{{ doc.sponsor }}</a><br>
+        {% if doc.sponsor-copy %}
+          {{ doc.sponsor-copy | xml_escape }}<br><br>
+        {% endif %}
+      {% endif %}
+      ]]>
     </content:encoded>
   </item>
 {% endunless %}
