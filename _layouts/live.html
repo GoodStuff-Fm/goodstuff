@@ -6,49 +6,12 @@
   <body>
     {% include nav.html %}
     <div class="container">
-
-      {% for collection in site.collections limit: 1 %}
-      {% if collection.live == true %}
-
-      <h1 class="page__header">{{ page.title }}</h1>
-
-      <hr class="page__rule">
-
-      <ul class="broadcasts__list">
-        <li class="broadcasts__list__artwork"><a href="/{{ collection.slug }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
-        <li class="broadcasts__list__name"><h3><a href="/{{ collection.slug }}">{{ collection.name }}</a></h3></li>
-        <li class="broadcasts__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
-        <li class="broadcasts__list__description">{{ collection.description | truncate: 256 }}</li>
-        <li class="broadcasts__list__link">
-          <a href="{{ collection.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
-          <a href="{{ collection.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
-          <a href="{{ collection.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-          <a href="{{ collection.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
-        </li>
-      </ul>
-
-      <div class="episode__player__mp3">
-        <audio style="width: 100%;"controls="">
-          <source src="{{ page.mp3 }}" type="audio/mp3">
-        </audio>
+      <div class="video-container">
+        <iframe src="https://player.twitch.tv/?channel=goodstuff_fm" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
       </div>
-
-
-      <div class="page__description">
-        {{ content }}
+      <div class="video-container">
+        <iframe src="https://www.twitch.tv/goodstuff_fm/chat?popout=" frameborder="0" scrolling="no"></iframe>
       </div>
-
-      {% else %}
-
-      <h1 class="page__header">Not Currently Live</h1>
-      <div class="page__description">
-        Check the <a href="/schedule">broadcast schedule</a> for the next live recording.
-      </div>
-
-
-      {% endif %}
-      {% endfor %}
-
 
 
       {{ page.footer_scripts }}
