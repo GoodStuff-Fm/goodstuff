@@ -2,7 +2,9 @@
 title: Hugh Forrest — Growing the SXSW Mega-Conference
 date: 2017-02-20 12:11:00 -06:00
 position: 1
-description: Director at South by Southwest (SXSW) Interactive Festival, Hugh Forrest has overseen it from its inception in the mid-90s to see it turn into a mega-conference, hosting a sitting President of the United States as keynote speaker.
+description: Director at South by Southwest (SXSW) Interactive Festival, Hugh Forrest
+  has overseen it from its inception in the mid-90s to see it turn into a mega-conference,
+  hosting a sitting President of the United States as keynote speaker.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
