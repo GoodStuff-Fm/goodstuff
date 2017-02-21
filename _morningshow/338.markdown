@@ -8,6 +8,7 @@ description: 'Sneezing into your wisdom holes, cutting sausages with Alexa, cook
   french fry ranking: 1. In N Out, 2. Carl''s Jr, 3. Jack in the Box, 4. Burger King,
   5. Arby''s.'
 show: morningshow
+layout: episode
 ---
 
 * [Sick Letter](http://www.wordblanks.com/mad-libs/story/2968)
