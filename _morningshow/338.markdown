@@ -2,7 +2,7 @@
 title: Chev-fil-A
 date: 2017-02-21 10:27:00 -06:00
 episode: 338
-mp3: https://f000.backblazeb2.com/file/Goodstufffm/morningshow-338.mp3
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-338.mp3
 description: 'Sneezing into your wisdom holes, cutting sausages with Alexa, cooking
   yourself from the inside, driving to the middle of Washington, and Kenny''s definitive
   french fry ranking: 1. In N Out, 2. Carl''s Jr, 3. Jack in the Box, 4. Burger King,
