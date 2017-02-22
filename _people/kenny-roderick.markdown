@@ -6,7 +6,7 @@ twitter: pizzarobotics
 name: Kenny Roderick
 website: http://morningshow.am
 email: contact@goodstuff.fm
-image: "/uploads/user_avatar_kennyroderick_artwork.png"
+image: "/uploads/2017-02-21.png"
 layout: person
 ---
 
