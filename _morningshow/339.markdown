@@ -1,6 +1,7 @@
 ---
 title: '339'
 date: 2017-02-28 10:03:00 -06:00
+position: 0
 show: 
 episode: 
 mp3: 
