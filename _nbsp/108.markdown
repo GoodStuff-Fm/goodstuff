@@ -2,7 +2,11 @@
 title: Steve Krug — Advanced Common Sense Approach to Web Usability
 date: 2017-02-28 12:11:00 -06:00
 position: 1
-description: A highly sought-after speaker, Steve Krug is a usability consultant who has more than 20 years of experience as a user advocate for companies like Apple, Netscape, AOL, Lexus, and others. He is best known for his book *Don't Make Me Think* about human-computer interaction and web usability.  His second book, *Rocket Surgery Made Easy*, is a DIY guide for Finding and fixing usability problems.
+description: A highly sought-after speaker, Steve Krug is a usability consultant who
+  has more than 20 years of experience as a user advocate for companies like Apple,
+  Netscape, AOL, Lexus, and others. He is best known for his book *Don't Make Me Think*
+  about human-computer interaction and web usability.  His second book, *Rocket Surgery
+  Made Easy*, is a DIY guide for Finding and fixing usability problems.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
