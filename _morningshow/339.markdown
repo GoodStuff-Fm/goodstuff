@@ -3,12 +3,14 @@ title: '339'
 date: 2017-02-28 10:03:00 -06:00
 published: false
 position: 0
-show: 
-episode: 
-mp3: 
-sponsor: 
-sponsor-copy: 
-sponsor-link: 
+show: morningshow
+episode: 339
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-339.mp3
+sponsor: Feed.Press
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year.
+sponsor-link: http://feed.press/morningshow
 layout: episode
 ---
 
@@ -18,5 +20,4 @@ layout: episode
 * [Boston Dynamics' new robot can jump 4 ft, lift 100 lbs, and skate on 2 wheels](https://thenextweb.com/insider/2017/02/28/boston-dynamics-new-robot-can-jump-4-ft-lift-100-lbs-and-skate-on-2-wheels/)
 * [SpaceX to send first paying tourists around moon next year | Reuters](http://www.reuters.com/article/us-space-spacex-tourists-idUSKBN1662HJ?feedType=RSS&feedName=topNews)
 * [It Turns Out That Taxing Soda Makes People Drink Less Soda - BuzzFeed News](https://www.buzzfeed.com/venessawong/its-not-rocket-science?utm_term=.gnQNZdmYX#.gxKPwyAqa)
-* [Wave goodbye to parking - Tech News | The Star Online](http://www.thestar.com.my/tech/tech-news/2017/02/28/wave-goodbye-to-parking/)
-* [Fox tests auto-downloading movies onto your phone](https://www.engadget.com/2017/02/27/fox-tests-auto-downloading-movies-onto-your-phone/)
+* [Alaskan Chocolate Scrambled Eggs Recipe | MrBreakfast.com](http://www.mrbreakfast.com/superdisplay.asp?recipeid=911)
