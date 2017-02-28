@@ -10,6 +10,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year.
 sponsor-link: http://feed.press/morningshow
+description: We've got a new theme song, Kenny thinks it's Fryday, McRib Chalupas,
+  horses with wheels, VR isolation tanks, Sunny-D, and more!
 layout: episode
 ---
 
