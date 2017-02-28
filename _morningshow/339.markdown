@@ -1,7 +1,6 @@
 ---
 title: Chocolate Scrambled Eggs
-date: 2017-02-28 10:03:00 -06:00
-published: false
+date: 2017-02-28 09:00:00 -06:00
 position: 0
 show: morningshow
 episode: 339
