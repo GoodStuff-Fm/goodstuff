@@ -6,7 +6,7 @@ tags:
 - puppy
 - cake
 - vinyl
-position: 27
+position: 29
 episode: '288'
 description: A whole new chatbot to frighten you, Put a frog inside your milk for
   freshness, Cake Pops are the scourge of the earth, Vinyl records are on the rise

@@ -6,7 +6,7 @@ tags:
 - Twitter
 - Star Trek
 - ketchup
-position: 58
+position: 60
 episode: '319'
 description: Apple is very excited again, Galaxy Note 7 woes, Stop recycling used
   pizza boxes, Shoelaces of the future, Drone Burritos, The Great Ketchup Debate,

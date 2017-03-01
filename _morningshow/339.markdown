@@ -1,0 +1,25 @@
+---
+title: Chocolate Scrambled Eggs
+date: 2017-02-28 09:00:00 -06:00
+position: 0
+show: morningshow
+episode: 339
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-339.mp3
+sponsor: Feed.Press
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year.
+sponsor-link: http://feed.press/morningshow
+description: We've got a new theme song, Kenny thinks it's Fryday, McRib Chalupas,
+  horses with wheels, VR isolation tanks, Sunny-D, and more!
+layout: episode
+---
+
+* [Taco Bell Is Phasing out the Naked Chicken Chalupa in Early March - Thrillist](https://www.thrillist.com/news/nation/taco-bell-is-phasing-out-the-naked-chicken-chalupa-in-early-march)
+* [Drone crashes through woman's apartment window](http://mashable.com/2017/02/27/drone-crash-nyc-window/#nOgpXIoBEqqd)
+* [Mozilla announces acquisition of Pocket](http://www.androidpolice.com/2017/02/27/mozilla-announces-acquisition-pocket/)
+* [Boston Dynamics' new robot can jump 4 ft, lift 100 lbs, and skate on 2 wheels](https://thenextweb.com/insider/2017/02/28/boston-dynamics-new-robot-can-jump-4-ft-lift-100-lbs-and-skate-on-2-wheels/)
+* [SpaceX to send first paying tourists around moon next year | Reuters](http://www.reuters.com/article/us-space-spacex-tourists-idUSKBN1662HJ?feedType=RSS&feedName=topNews)
+* [It Turns Out That Taxing Soda Makes People Drink Less Soda - BuzzFeed News](https://www.buzzfeed.com/venessawong/its-not-rocket-science?utm_term=.gnQNZdmYX#.gxKPwyAqa)
+* [Alaskan Chocolate Scrambled Eggs Recipe | MrBreakfast.com](http://www.mrbreakfast.com/superdisplay.asp?recipeid=911)
+![Screen Shot 2017-02-28 at 8.36.13 AM.png](/uploads/Screen%20Shot%202017-02-28%20at%208.36.13%20AM.png)
