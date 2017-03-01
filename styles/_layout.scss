@@ -9,6 +9,68 @@ body {
   overflow: auto;
 }
 
+@media screen and (max-width: 415px) {
+
+  .container {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+  }
+
+  .container__footer {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+  }
+
+  .episode__show__artwork, .episode__show__hosts, .episode__show__description {
+    display: none;
+  }
+
+  .episode__show__name {
+    padding-top: 24pt !important;
+    padding-bottom: 16pt;
+  }
+
+  .episode__show__link img {
+    padding-bottom: 8pt;
+  }
+
+  .episode__show__info {
+    min-height: 0 !important;
+  }
+
+  .episode__player__links {
+    display: none;
+  }
+
+  .episode__content img {
+    width: 100%;
+  }
+
+  .episode__navigation {
+    padding-top: 12pt;
+  }
+
+  .header__list__link {
+    display: none;
+  }
+
+  .header__list__logo {
+    padding-left: 4pt;
+  }
+
+  .footer {
+    height: auto;
+  }
+
+  .footer__left, .footer__right {
+    width: 100% !important;
+    padding-bottom: 24pt !important;
+  }
+
+
+
+}
+
 .container {
   max-width: 700pt;
   background: none;
@@ -132,7 +194,7 @@ body {
 
 .latest-episode {
   padding-top: 32pt;
-  height: 180pt;
+  min-height: 180pt;
   padding-bottom: 32pt;
 
   &__header {
@@ -256,7 +318,7 @@ body {
 .broadcasts {
 
   &__list {
-    height: 180pt;
+    min-height: 180pt;
     padding-top: 16pt;
     padding-bottom: 12pt;
 
@@ -355,7 +417,10 @@ body {
 .episode {
 
   &__show {
-    height: 170pt;
+
+    &__info {
+      min-height: 170pt;
+    }
 
     &__artwork {
       height: 124pt;
