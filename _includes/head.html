@@ -21,6 +21,23 @@
 <!-- FontAwesome -->
 <script src="https://use.fontawesome.com/9a2152b162.js"></script>
 
+{% assign show = site.data.shows[page.show] %}
+
+<!-- facebook open graph tags -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:image" content="{{ show.artwork }}" />
+
+<!-- twitter card tags additive with the og: tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" value="goodstuff.fm" />
+<meta name="twitter:title" value="{{ page.title }}" />
+<meta name="twitter:description" value="{{ page.description }}" />
+<meta name="twitter:image" content="{{ show.artwork }}" />
+<meta name="twitter:url" value="{{ page.url }}" />
+
 <!-- Fullstory Debugging app -->
 <script>
 window['_fs_debug'] = false;
