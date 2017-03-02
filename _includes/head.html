@@ -26,9 +26,24 @@
 <!-- facebook open graph tags -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ page.url }}" />
+{% if page.layout == 'broadcasts' %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
-<meta property="og:image" content="{{ show.artwork }}" />
+<meta property="og:image" content="/uploads/artwork-master.jpg" />
+{% elsif page.layout == 'show' %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ [page.show].description }}" />
+<meta property="og:image" content="{{ [page.show].artwork }}" />
+{% elsif page.layout == 'episode' %}
+<meta property="og:title" content="{{ [page.show].name }} {{ page.episode }}: {{ page.title }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:image" content="{{ [page.show].artwork }}" />
+{% else %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:image" content="/uploads/artwork-master.jpg" />
+{% endif %}
+
 
 <!-- twitter card tags additive with the og: tags -->
 <meta name="twitter:card" content="summary_large_image">
