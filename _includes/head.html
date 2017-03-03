@@ -26,7 +26,7 @@
 <!-- facebook open graph tags -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ page.url }}" />
-{% if page.layout == 'broadcasts' %}
+{% if page.layout == "broadcasts" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:image" content="/uploads/artwork-master.jpg" />
@@ -36,7 +36,7 @@
 <meta name="twitter:description" value="{{ page.description }}" />
 <meta name="twitter:image" content="/uploads/artwork-master.jpg" />
 <meta name="twitter:url" value="{{ page.url }}" />
-{% elsif page.layout == 'show' %}
+{% elsif page.layout == "show" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ show.description }}" />
 <meta property="og:image" content="{{ show.artwork }}" />
@@ -46,7 +46,7 @@
 <meta name="twitter:description" value="{{ show.description }}" />
 <meta name="twitter:image" content="{{ show.artwork }}" />
 <meta name="twitter:url" value="{{ page.url }}" />
-{% elsif page.layout == 'episode' %}
+{% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:image" content="{{ show.artwork }}" />
@@ -56,7 +56,7 @@
 <meta name="twitter:description" value="{{ page.description }}" />
 <meta name="twitter:image" content="{{ show.artwork }}" />
 <meta name="twitter:url" value="{{ page.url }}" />
-{% elsif page.layout == 'person' %}
+{% elsif page.layout == "person" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.tagline }}" />
 <meta property="og:image" content="{{ page.image }}" />
@@ -77,15 +77,6 @@
 <meta name="twitter:image" content="/uploads/artwork-master.jpg" />
 <meta name="twitter:url" value="{{ page.url }}" />
 {% endif %}
-
-
-<!-- twitter card tags additive with the og: tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:domain" value="goodstuff.fm" />
-<meta name="twitter:title" value="{{ page.title }}" />
-<meta name="twitter:description" value="{{ page.description }}" />
-<meta name="twitter:image" content="{{ show.artwork }}" />
-<meta name="twitter:url" value="{{ page.url }}" />
 
 <!-- Fullstory Debugging app -->
 <script>
