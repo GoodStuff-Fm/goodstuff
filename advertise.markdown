@@ -2,6 +2,9 @@
 title: Advertise
 date: 2016-06-18 14:44:00 -06:00
 permalink: "/advertise/"
+description: Interested in sponsoring shows on Goodstuff.fm? We'd love to hear from
+  you! We offer week-long, month-long, or quarter-long sponsorships for one or more
+  shows.
 layout: default
 ---
 
