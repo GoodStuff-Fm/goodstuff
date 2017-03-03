@@ -3,6 +3,9 @@ title: About
 date: 2016-03-17 21:03:00 -06:00
 permalink: "/about/"
 position: 2
+description: Goodstuff was created as a home for podcasts that are entertaining, informative,
+  and fun. Our goal is to create a vibrant community of podcasters who love to learn
+  about the world around them and share that with an equally awesome group of listeners.
 layout: default
 ---
 
