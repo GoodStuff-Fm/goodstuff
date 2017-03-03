@@ -46,11 +46,11 @@ morningshow:
   name: Morning Show
   collection: morningshow
   hosts: Kyle Roderick and Kenny Roderick
-  description: Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the day, interesting facts, and food holidays.
+  description: The Goodstuff Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the week, interesting facts, and national food holidays.
   artwork: "/uploads/artwork-morningshow.jpg"
-  color: #F8C023
+  color: #5BC4FE
   explicit: no
-  keywords: tech, technology, fun, morning, show, trivia, games
+  keywords: comedy, tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
   hosts-twitter: "@dogburps and @pizzarobotics"
   category1: "Arts"
