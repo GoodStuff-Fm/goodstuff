@@ -6,7 +6,7 @@ tags:
 - ribs
 - stomach
 - Reeses
-position: 46
+position: 48
 episode: '307'
 description: Texas has a lot going on today, KILL FLASH, Kyle and Kenny learn why
   their stomachs hate them, Yo I heard you like Reese's, The Grilled Cheese Taco!,
