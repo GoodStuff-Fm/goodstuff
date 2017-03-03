@@ -8,6 +8,8 @@ sponsor:
 layout: episode
 ---
 
+Links go here!
+
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
 
