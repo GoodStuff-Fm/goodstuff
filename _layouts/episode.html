@@ -31,11 +31,11 @@
       <div class="episode__navigation">
 
         {% if page.next.url and page.previous.url and page.next.title != 'Feed' %}
-          <a class="prev" href="{{ page.previous.url }}">Previous</a> •  <a class="next" href="{{ page.next.url }}">Next</a>
+          <a class="prev" href="{{ page.previous.url }}">◂ Previous Episode</a> •  <a class="next" href="{{ page.next.url }}">Next Episode ▸</a>
           {% elsif page.previous.url %}
-          <a class="prev" href="{{ page.previous.url }}">Previous</a>
+          <a class="prev" href="{{ page.previous.url }}">◂ Previous Episode</a>
           {% elsif page.next.url and page.next.title != 'Feed' %}
-          <a class="next" href="{{ page.next.url }}">Next</a>
+          <a class="next" href="{{ page.next.url }}">Next Episode ▸</a>
         {% endif %}
 
         <hr class="page__rule" />
