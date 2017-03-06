@@ -14,6 +14,7 @@ sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
+show: morningshow
 layout: episode
 ---
 
