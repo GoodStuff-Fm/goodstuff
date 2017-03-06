@@ -5,24 +5,27 @@
 .latest-episode {
 
   &__header {
-    font-size: 2.2rem;
-    font-weight: 700;
+    font-size: 1.6rem;
     color: $blue;
+    font-family: 'Roboto', sans-serif;
   }
 
   &__details {
 
-    &__show {
-      color: $light-blue;
-      font-size: 1.3rem;
-      font-weight: 500;
+    &__show a {
+      color: $bright-red;
+      font-size: 1.2rem;
+      font-weight: 600;
+      font-family: 'Roboto', sans-serif;
+      text-decoration: none;
     }
 
     &__title a {
       color: $bright-red;
-      font-size: 2.0rem;
-      text-decoration: none;
+      font-size: 1.7rem;
       font-weight: 700;
+      text-decoration: none;
+      font-family: 'Roboto', sans-serif;
     }
 
     &__date {
@@ -147,13 +150,13 @@
 .page {
 
   &__header {
-    font-size: 2.2rem;
+    font-size: 1.6rem;
     font-weight: 700;
     color: $blue;
   }
 
   &__subheader {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     font-weight: 400;
     color: $light-blue;
   }
