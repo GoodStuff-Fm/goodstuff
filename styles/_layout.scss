@@ -21,6 +21,55 @@ body {
     padding-right: 1.2rem !important;
   }
 
+  .page__header {
+    padding-top: 24pt !important;
+    padding-bottom: 4pt !important;
+  }
+
+  .latest-episode {
+    margin-top: 16pt;
+    margin-bottom: 16pt;
+
+    &__header {
+      width: 100%;
+      padding-top: 16pt;
+      padding-bottom: 12pt;
+    }
+
+    &__artwork {
+      width: 100% !important;
+      float: none;
+    }
+
+    &__details {
+      width: 100% !important;
+      float: none;
+
+      &__show {
+        padding-top: 20pt;
+        padding-bottom: 12pt;
+      }
+
+      &__title {
+        padding-bottom: 10pt;
+      }
+
+      &__date {
+        padding-bottom: 12pt;
+      }
+
+      &__hosts {
+        padding-bottom: 18pt;
+      }
+
+      &__description {
+        padding-bottom: 12pt;
+        line-height: 1.7rem;
+      }
+    }
+  }
+
+
   .episode__show__artwork, .episode__show__hosts, .episode__show__description {
     display: none;
   }
@@ -76,9 +125,9 @@ body {
   background: none;
   min-height: 100%;
   margin: 0 auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: 300pt;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 250pt;
 
   &__wide {
     &__red {
@@ -110,20 +159,15 @@ body {
   }
 
   &__recent-episodes {
-    width: 700pt;
+    width: 100%;
     margin-left:  auto;
     margin-right: auto;
-    padding-left: 2rem;
-    padding-right: 2rem;
   }
 
   &__our-shows {
-    width: 700pt;
+    width: 100%;
     margin-left:  auto;
     margin-right: auto;
-    padding-bottom: 200pt;
-    padding-left: 2rem;
-    padding-right: 2rem;
   }
 
   &__people {
@@ -131,8 +175,6 @@ body {
     background: none;
     min-height: 500pt;
     margin: 0 auto;
-    padding-left: 2rem;
-    padding-right: 2rem;
     padding-bottom: 300pt;
   }
 
@@ -193,9 +235,10 @@ body {
 }
 
 .latest-episode {
-  padding-top: 32pt;
-  min-height: 180pt;
-  padding-bottom: 32pt;
+  margin-top: 24pt;
+  margin-bottom: 24pt;
+  width: 100%;
+  overflow: auto;
 
   &__header {
     width: 100%;
@@ -204,16 +247,17 @@ body {
   }
 
   &__artwork {
-    width: 30%;
+    width: 28%;
     float: left;
+
     img {
-      height: 180pt;
+      width: 100%;
       border-radius: 4pt;
     }
   }
 
   &__details {
-    width: 70%;
+    width: 69%;
     float: right;
 
     &__show {
