@@ -24,7 +24,7 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 * [Goodstuff](https://www.patreon.com/goodstuff) - not currently active. Coming soon!
 * [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons, $43 per month
 * [iChris](https://www.patreon.com/ichris) - 19 patrons, $93 per month
-* [Morning Show](https://www.patreon.com/morningshow) - shut down.
+* [Morning Show](https://www.patreon.com/morningshow) - shut down for now.
 
 Currently $136/month income via patron support.
 
