@@ -16,7 +16,7 @@ layout: episode
 ![Meat Mountain](http://cds.arbys.com/images/menu/1024x557_MeatMountain_silo_tan.jpg)
 
 ## Support Us
-*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+*Want to support the show?* Visit our [Support page](/support) to help make this show possible!
 
 ## Get in Touch
 * [Email](mailto:kyle@goodstuff.fm)
@@ -25,7 +25,7 @@ layout: episode
 * [Morning Show on Twitter](http://twitter.com/morningshowam)
 * [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
 
-Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/broadcasts)!
+Listen to other great shows on the [Goodstuff Broadcasting Network](/broadcasts)!
 
 ### About Morning Show
-Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](/)!
