@@ -18,15 +18,12 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 
 ## Goodstuff Business Stats
 * 1,139 total listeners (10 patrons)
-* 1 conversion to patron
-* 2 cancelled patronage
-* $18.38 income after Stripe fees
-* $49.22 cost to keep Goodstuff running
+* $55 for web and file hosting
 
 ## Individual Patreon Campaigns
 * [Goodstuff](https://www.patreon.com/goodstuff) - not currently active. Coming soon!
-* [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons/$43 per month
-* [iChris](https://www.patreon.com/ichris) - 19 patrons/$93 per month
+* [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons, $43 per month
+* [iChris](https://www.patreon.com/ichris) - 19 patrons, $93 per month
 * [Morning Show](https://www.patreon.com/morningshow) - shut down.
 
 Currently $136/month income via patron support.
