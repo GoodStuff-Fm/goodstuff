@@ -34,3 +34,4 @@ Currently $136/month income via patron support.
 
 ## Feed Stats
 * 8,442 subscribers to all shows
+* [I Guess We’re Grown-Ups Now](/grownups/) holds the top spot this month for most subscribers
