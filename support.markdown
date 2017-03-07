@@ -29,9 +29,6 @@ Click and/or buy from these links and you'll be supporting Goodstuff as well. Yo
 ## [Sudden ⚡ Coffee →](http://suddencoffee.refr.cc/3LWRDXJ)
 Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! Get `$10 off` by using our link.
 
-## [Curiosity Stream →](https://curiositystream.com/referral/2f77a1f510)
-Get 2 months of free streaming including  1,500+ documentaries & nonfiction series from the world's best filmmakers.
-
 ## [Cloud App →](http://my.cl.ly/r/28351A1s331l3619)
 Quickly capture and send screenshots, video, and files with a simple link.
 
@@ -55,9 +52,6 @@ Need a mattress? Try a Casper, made from premium, resilient materials, for 100 n
 
 ## [Karma Go →](https://yourkarma.com/store/invite/sncahb)
 Get all of your devices online. No contracts or monthly fees. Pay only for what you use. Get **$10 off**!
-
-## [Harvest →](http://try.hrv.st/7-51646)
-Harvest is awesome time tracking and invoicing for professionals. Get **$10 off** your first month!
 
 ## [Bombfell →](https://bombfell.com/?rc=12254XWrjY)
 Bombfell is a monthly clothing subscription designed entirely for you! It's not just for men, they've got clothing for every style. Sign up with our link and Morning Show listeners get **$25 off** your first order!
