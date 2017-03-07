@@ -6,7 +6,7 @@ categories:
 tags:
 - site news
 - jekyll
-- site leaf
+- siteleaf
 ---
 
 *taps microphone*
