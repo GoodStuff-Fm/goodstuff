@@ -9,8 +9,6 @@ The most direct way to show your support is with your hard-earned monies, Canadi
 
 Plus it literally pays the bills.
 
-## [Support Morning Show →](http://patreon.com/morningshow)
-
 ## [Support 3 Guys 3 Questions →](http://patreon.com/3g3q)
 
 ## [Support Chris Enns →](http://patreon.com/ichris)
