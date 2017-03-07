@@ -11,7 +11,7 @@ collections:
     live: false
   aux:
     title: Auxiliary
-    output: true
+    output: false
     permalink: "/aux/:path"
     retired: true
     live: false
@@ -25,7 +25,7 @@ collections:
     live: false
   specials:
     title: Goodstuff Specials
-    output: true
+    output: false
     permalink: "/specials/:path"
     retired: true
     live: false
