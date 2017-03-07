@@ -1,7 +1,14 @@
 ---
 title: 'Goodstuff Monthly: February 2017'
-date: 2017-02-12 02:27:00 -06:00
+date: 2017-03-03 02:27:00 -06:00
+categories:
+- goodstuff
+tags:
+- monthly review
+- site news
 ---
+
+As part of our 
 
 # Numbers
 
