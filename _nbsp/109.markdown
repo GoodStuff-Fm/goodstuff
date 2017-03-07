@@ -1,0 +1,44 @@
+---
+title: Steve Portigal — User Research War Stories
+date: 2017-03-07 12:11:00 -06:00
+position: 1
+description: Steve Portigal is the founder and principal of Portigal Consulting, a boutique firm that brings together user research, design and business strategy. Steve is the author of _Interviewing Users: How to Uncover Compelling Insights_ and _Doorbells, Danger, and Dead Batteries: User Research War Stories_.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp" during checkout to get 10% off your first year.
+episode: 109
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-109.mp3
+layout: episode
+---
+
+### Sponsor Details
+
+* **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code "NONBREAKINGSPACESHOW" for 20% off.
+*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=cssdevconf2017)
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+* **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code "NBSP" during checkout to get 10% off your first year.
+
+### LINKS:
+
+* [Portigal Consulting |](http://www.portigal.com/)
+* [Steve Portigal (@steveportigal) | Twitter](https://twitter.com/steveportigal)
+* [Interviewing Users: How to Uncover Compelling Insights | Portigal Consulting](http://www.portigal.com/Books/interviewing-users/)
+* [Doorbells, Danger, and Dead Batteries: User Research War Stories | Portigal Consulting](http://www.portigal.com/Books/user-research-war-stories/)
+* [Rosenfeld Media](http://rosenfeldmedia.com)
+* [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X/ref=sr_1_1?ie=UTF8&qid=1488925378&sr=8-1&keywords=interviewing+users)
+* [Doorbells, Danger, and Dead Batteries: User Research War Stories on Amazon.com](https://www.amazon.com/Doorbells-Danger-Dead-Batteries-Research/dp/1933820349/ref=asap_bc?ie=UTF8)
+
+### Jump to a conversation on...
+
+* **[2:00](#t=2:00)** What made you decide to start publishing stories from the field?
+* **[6:50](#t=6:50)** How did you determine which stories were the best for the book?
+* **[10:00](#t=10:00)** Were the stories best served as a book?
+* **[15:40](#t=15:40)** How would you figure out if you need to go do interviews?
+* **[22:35](#t=22:35)** What does user research involve?
+* **[27:00](#t=27:00)** Interviewing is great for understanding why.
+* **[28:30](#t=28:30)** The hard part is trying to explain why humans are humans.
+* **[32:40](#t=32:40)** Context is important.
+* **[34:58](#t=34:58)** Don't get drowned in data.
+* **[38:10](#t=38:10)** It reminds me of the Nielsen diagram I despise...
+* **[39:55](#t=39:55)** Where can folks buy the books?
