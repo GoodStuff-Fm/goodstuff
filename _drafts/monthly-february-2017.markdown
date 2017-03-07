@@ -16,10 +16,10 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 
 # Numbers for February, 2017
 
-## Money Goes Bye-Bye
+## Expenses for the Month
 * $55 for web and file hosting
 
-## Individual Patreon Campaigns
+## Patreon Campaigns
 * [Goodstuff](https://www.patreon.com/goodstuff) - not currently active. Coming soon!
 * [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons, $43 per month
 * [iChris](https://www.patreon.com/ichris) - 19 patrons, $93 per month
@@ -29,8 +29,9 @@ Currently $136/month income via patron support.
 
 ## Site Stats
 * 2,432 unique visitors to the site, 60% new visitors
-* Top traffic sources: atu2.com, direct, organic search
+* Top traffic sources: [atu2.com](http://atu2.com), direct, organic search
 
 ## Feed Stats
 * 8,442 subscribers to all shows
 * [I Guess We’re Grown-Ups Now](/grownups/) holds the top spot this month for most subscribers
+
