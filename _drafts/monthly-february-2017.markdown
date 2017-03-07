@@ -16,8 +16,7 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 
 # Numbers for February, 2017
 
-## Goodstuff Business Stats
-* 1,139 total listeners (10 patrons)
+## Money Goes Bye-Bye
 * $55 for web and file hosting
 
 ## Individual Patreon Campaigns
