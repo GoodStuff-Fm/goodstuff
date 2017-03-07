@@ -37,7 +37,7 @@
 <hr class="page__rule">
 
   {% for collection in site.collections %}
-  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true or collection.output == false %}
   {% assign show = site.data.shows[collection.label] %}
 
   <ul class="broadcasts__list">
@@ -67,7 +67,7 @@
   <h2 class="page__subheader">Retired Broadcasts</h2>
 
   {% for collection in site.collections %}
-  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %}
+  {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %}
   {% assign show = site.data.shows[collection.label] %}
   {% if collection.retired == true %}
 
