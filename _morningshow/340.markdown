@@ -5,6 +5,11 @@ show: morningshow
 episode: 340
 sponsor: 
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-340.mp3
+description: Crown roast of pork earns its name when a pork loin is formed into a
+  circle with the ribs pointing upwards forming the points of a crown. Often they
+  are held together with twine.  It is then seasoned, and often stuffed, roasted and
+  served, making a beautiful centerpiece on the table. The ends of the bones may be
+  given a paper frill treatment for added decoration.
 layout: episode
 ---
 
