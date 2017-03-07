@@ -5,10 +5,11 @@ published: false
 show: morningshow
 episode: 340
 sponsor: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-340.mp3
 layout: episode
 ---
 
-Links go here!
+![Meat Mountain](http://cds.arbys.com/images/menu/1024x557_MeatMountain_silo_tan.jpg)
 
 ## Support Us
 *Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
