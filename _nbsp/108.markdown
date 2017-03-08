@@ -1,5 +1,5 @@
 ---
-title: Steve Krug - Advanced Common Sense Approach to Web Usability
+title: Steve Krug – Advanced Common Sense Approach to Web Usability
 date: 2017-02-28 12:11:00 -06:00
 position: 1
 description: A highly sought-after speaker, Steve Krug is a usability consultant who
