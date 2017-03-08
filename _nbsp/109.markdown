@@ -1,5 +1,15 @@
 ---
-title: '109'
+title: Steve Portigal — User Research War Stories
+date: 2017-03-07 12:11:00 -06:00
+position: 1
+description: Steve Portigal is the founder and principal of Portigal Consulting, a boutique firm that brings together user research, design and business strategy. Steve is the author of _Interviewing Users&#58; How to Uncover Compelling Insights_ and _Doorbells, Danger, and Dead Batteries&#58; User Research War Stories_.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp" during checkout to get 10% off your first year.
+episode: 109
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-109.mp3
+layout: episode
 ---
 
 ### Sponsor Details
@@ -13,11 +23,11 @@ title: '109'
 
 * [Portigal Consulting](http://www.portigal.com/)
 * [Steve Portigal (@steveportigal)   Twitter](https://twitter.com/steveportigal)
-* [Interviewing Users: How to Uncover Compelling Insights   Portigal Consulting](http://www.portigal.com/Books/interviewing-users/)
-* [Doorbells, Danger, and Dead Batteries: User Research War Stories   Portigal Consulting](http://www.portigal.com/Books/user-research-war-stories/)
+* [Interviewing Users &#58; How to Uncover Compelling Insights   Portigal Consulting](http://www.portigal.com/Books/interviewing-users/)
+* [Doorbells, Danger, and Dead Batteries &#58; User Research War Stories   Portigal Consulting](http://www.portigal.com/Books/user-research-war-stories/)
 * [Rosenfeld Media](http://rosenfeldmedia.com)
-* [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X/ref=sr_1_1?ie=UTF8&qid=1488925378&sr=8-1&keywords=interviewing+users)
-* [Doorbells, Danger, and Dead Batteries: User Research War Stories on Amazon.com](https://www.amazon.com/Doorbells-Danger-Dead-Batteries-Research/dp/1933820349/ref=asap_bc?ie=UTF8)
+* [Interviewing Users&#58; How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X/ref=sr_1_1?ie=UTF8&qid=1488925378&sr=8-1&keywords=interviewing+users)
+* [Doorbells, Danger, and Dead Batteries&#58; User Research War Stories on Amazon.com](https://www.amazon.com/Doorbells-Danger-Dead-Batteries-Research/dp/1933820349/ref=asap_bc?ie=UTF8)
 
 ### Jump to a conversation on...
 
