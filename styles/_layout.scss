@@ -502,7 +502,18 @@ body {
     }
   }
 
+  &__navigation {
+    overflow: auto;
+    padding: 12pt 0 12pt 0;
 
+    &__previous {
+    }
+
+    &__next {
+      float: right;
+    }
+
+  }
 
 }
 
