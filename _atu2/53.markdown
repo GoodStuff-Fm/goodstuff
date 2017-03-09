@@ -1,0 +1,17 @@
+---
+title: B-Side U2 Facebook Live Joshua Tree Event
+date: 2017-03-09 10:22:00 -06:00
+episode: 53
+show: atu2
+description: Aaron, Tassoula, Chris, and the newest atU2 staffer Sienna have a quick chat reviewing U2's Facebook Live Q&A held today on The Joshua Tree's 30th anniversary.
+mp3: http://podcasts-1.feedpress.co/12572/atu2-51.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/atu2
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code * atu2*
+  during checkout to get 10% off your first year.
+layout: episode
+---
+
+* [The Secret History of The Joshua Tree](https://www.atu2.com/news/the-secret-history-of-the-joshua-tree-part-1.html)
+* [U2’s Official Store listings for The Joshua Tree sets](http://u2.fanfire.com/cgi-bin/WebObjects/Store.woa/wa/artist?artistName=U2com&sourceCode=U2TWEBWWUSD&userid=%7Bid%7D&categoryName=The+Joshua+Tree+30th+Anniversary&fanclubname=u2club&usercode=%7Bmd5Password%7D)
