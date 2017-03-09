@@ -3,7 +3,8 @@ title: B-Side Discussing Adam's Joshua Tree Setlist
 date: 2017-02-20 10:22:00 -06:00
 episode: 52
 show: atu2
-description: 10 minutes on Adam Clayton's picture with a blurry setlist that we Bunderdict Cumbertooth our way through.
+description: 10 minutes on Adam Clayton's picture with a blurry setlist that we Bunderdict
+  Cumbertooth our way through.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-51.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/atu2
