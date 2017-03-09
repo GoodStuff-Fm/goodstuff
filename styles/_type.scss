@@ -169,10 +169,10 @@
   }
 
   &__description {
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 400;
     color: $light-blue;
-    line-height: 180%;
+    line-height: 160%;
 
     a {
       color: $bright-red;
@@ -187,17 +187,14 @@
       font-size: 1.4em;
       font-weight: 600;
       color: $blue;
-      padding-top: 12pt;
-      padding-bottom: 4pt;
+      padding-bottom: 8pt;
     }
 
     h2 {
       font-size: 1.2rem;
       color: $blue;
       font-weight: 600;
-      padding-top: 12pt;
-      padding-bottom: 4pt;
-
+      padding: 4pt 0 8pt 0;
     }
 
     h3 {
@@ -219,8 +216,7 @@
     h5 {
       font-size: 1rem;
       font-weight: 700;
-      padding-top: 8pt;
-      padding-bottom: 4pt;
+      padding: 0 0 8pt 0;
       color: $light-blue;
       text-transform: uppercase;
     }
@@ -247,12 +243,16 @@
     }
 
     hr {
+      margin: 4pt 0 24pt 0;
       border: 0;
       height: 0;
       border-top: 1px $light-gray;
       border-bottom: 1px solid $light-gray;
     }
 
+    img {
+      max-width: 100%;
+    }
 
   }
 
