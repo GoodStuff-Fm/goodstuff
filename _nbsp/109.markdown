@@ -4,8 +4,8 @@ date: 2017-03-07 12:11:00 -06:00
 position: 1
 description: Steve Portigal is the founder and principal of Portigal Consulting, a
   boutique firm that brings together user research, design and business strategy.
-  Steve is the author of _Interviewing Users&#58; How to Uncover Compelling Insights_
-  and _Doorbells, Danger, and Dead Batteries&#58; User Research War Stories_.
+  Steve is the author of *Interviewing Users&#58; How to Uncover Compelling Insights*
+  and *Doorbells, Danger, and Dead Batteries&#58; User Research War Stories*.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
