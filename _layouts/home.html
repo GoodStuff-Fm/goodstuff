@@ -54,7 +54,7 @@
         <div class="container__our-shows">
             <div class="our-shows__header">Our Shows</div>
             <div class="our-shows">
-                {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %} {% assign show = site.data.shows[collection.label] %}
+                {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true %} {% assign show = site.data.shows[collection.label] %}
                 <div class="our-shows__list">
                     <div class="our-shows__artwork">
                         <a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" /></a>
