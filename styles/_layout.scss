@@ -216,6 +216,12 @@ body {
       vertical-align: middle;
     }
 
+    &__notlive {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
     &__logo {
       display: inline-block;
       background-color: none;
@@ -357,6 +363,10 @@ body {
   &__rule {
   }
 
+  &__twitch {
+    padding: 16pt 0 16pt 0;
+  }
+
   &__description {
     padding-top: 12pt;
     padding-bottom: 12pt;
@@ -364,7 +374,7 @@ body {
   }
 }
 
-.broadcasts {
+.shows {
 
   &__list {
     min-height: 180pt;
@@ -561,15 +571,15 @@ body {
     padding-bottom: 12pt;
   }
 
-  &__broadcasts {
+  &__shows {
     padding-top: 24pt;
-    padding-bottom: 24pt;
+    padding-bottom: 16pt;
   }
 
 
   &__show {
     &__name {
-      padding-bottom: 8pt;
+      padding: 16pt 0 8pt 0;
       a {
         color: $bright-red;
         text-decoration: none;

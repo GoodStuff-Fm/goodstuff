@@ -11,12 +11,12 @@
 
         <h1 class="page__header">{{ show.name }}</h1>
 
-        <ul class="broadcasts__list">
-            <li class="broadcasts__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
+        <ul class="shows__list">
+            <li class="shows__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
             </li>
-            <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
-            <li class="broadcasts__list__description">{{ show.description | truncate: 384 }}</li>
-            <li class="broadcasts__list__link">
+            <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+            <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
+            <li class="shows__list__link">
                 <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
                 <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                 <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
@@ -29,7 +29,7 @@
 
         <!-- If a show records live
       <div class="page__description">
-        This show broadcasts live. Check the <a href="/schedule">schedule</a>.
+        This show shows live. Check the <a href="/schedule">schedule</a>.
       </div>
 -->
 

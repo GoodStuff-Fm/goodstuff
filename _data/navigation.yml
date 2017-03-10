@@ -1,16 +1,12 @@
 header:
+- title: Shows
+  url: /shows/
 - title: About
   url: /about/
-- title: Broadcasts
-  url: /broadcasts/
-- title: People
-  url: /people/
 - title: Support
   url: /support/
 - title: Posts
   url: /posts/
-- title: Contact
-  url: /contact/
 - title: Schedule
   url: /schedule/
 - title: Advertise

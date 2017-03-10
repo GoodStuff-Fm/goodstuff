@@ -101,10 +101,10 @@ nbsp:
   overcast: https://overcast.fm/itunes507162981/non-breaking-space-show
 master:
   explicit: yes
-  name: Goodstuff Broadcasting Master Audio Feed
+  name: Goodstuff Master Audio Feed
   lang: EN
-  hosts: Goodstuff Broadcasting
-  description: All episodes of all shows on Goodstuff
+  hosts: Goodstuff.FM
+  description: All episodes of all shows on Goodstuff.FM
   artwork: "/uploads/artwork-master.jpg"
   color: "#D8574B"
   show-twitter: "@GoodstuffFM"
@@ -147,7 +147,7 @@ aux:
   lang: EN
   explicit: yes
   collection: aux
-  hosts: Goodstuff Hosts
+  hosts: Goodstuff.FM
   description: After a show is done recording, we sometimes forget to stop recording and this is what results.
   artwork: "/uploads/artwork-aux.jpg"
   color: "#6B4AD3"
@@ -222,7 +222,7 @@ specials:
   lang: EN
   explicit: yes
   collection: specials
-  hosts: Goodstuff Hosts
+  hosts: Goodstuff.FM
   description: Goodstuff special events - random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
   artwork: "/uploads/artwork-specials.jpg"
   color: #D85647

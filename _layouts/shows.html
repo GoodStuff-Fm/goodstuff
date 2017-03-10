@@ -11,24 +11,24 @@
 
     <div class="container">
 
-        <h1 class="page__header">Broadcasts</h1>
+        <h1 class="page__header">Shows</h1>
 
         <hr class="page__rule">
 
         <!-- List of Shows -->
-        <div class="broadcasts">
+        <div class="shows">
 
             {% assign master = site.data.shows.master %}
 
-            <ul class="broadcasts__list">
-                <li class="broadcasts__list__artwork"><img src="{{ master.artwork }}" alt="Artwork" height="100" width="100" /></a>
+            <ul class="shows__list">
+                <li class="shows__list__artwork"><img src="{{ master.artwork }}" alt="Artwork" height="100" width="100" /></a>
                 </li>
-                <li class="broadcasts__list__name">
+                <li class="shows__list__name">
                     <h3>{{ master.name }}</h3></li>
-                <li class="broadcasts__list__hosts">Hosted by {{ master.hosts }}</li>
-                <li class="broadcasts__list__description">{{ master.description }}</li>
+                <li class="shows__list__hosts">Hosted by {{ master.hosts }}</li>
+                <li class="shows__list__description">{{ master.description }}</li>
 
-                <li class="broadcasts__list__link">
+                <li class="shows__list__link">
                     <a href="{{ master.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
                     <a href="{{ master.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                     <a href="{{ master.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
@@ -39,16 +39,16 @@
             <hr class="page__rule"> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true or collection.output == false %} {% assign show = site.data.shows[collection.label]
             %}
 
-            <ul class="broadcasts__list">
-                <li class="broadcasts__list__artwork">
+            <ul class="shows__list">
+                <li class="shows__list__artwork">
                     <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
                 </li>
-                <li class="broadcasts__list__name">
+                <li class="shows__list__name">
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
-                <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
-                <li class="broadcasts__list__description">{{ show.description | truncate: 256 }}</li>
+                <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+                <li class="shows__list__description">{{ show.description | truncate: 256 }}</li>
 
-                <li class="broadcasts__list__link">
+                <li class="shows__list__link">
                     <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
                     <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                     <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
@@ -61,20 +61,20 @@
         </div>
 
         <!-- List of Retired Shows -->
-        <div class="broadcasts">
+        <div class="shows">
 
-            <h2 class="page__subheader">Retired Broadcasts</h2> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %} {% assign show = site.data.shows[collection.label] %} {% if collection.retired
+            <h2 class="page__subheader">Retired shows</h2> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %} {% assign show = site.data.shows[collection.label] %} {% if collection.retired
             == true %}
 
-            <ul class="broadcasts__list">
-                <li class="broadcasts__list__artwork">
+            <ul class="shows__list">
+                <li class="shows__list__artwork">
                     <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
                 </li>
-                <li class="broadcasts__list__name">
+                <li class="shows__list__name">
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
-                <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
-                <li class="broadcasts__list__description">{{ show.description }}</li>
-                <li class="broadcasts__list__link">
+                <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+                <li class="shows__list__description">{{ show.description }}</li>
+                <li class="shows__list__link">
                     <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
                     <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                     <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>

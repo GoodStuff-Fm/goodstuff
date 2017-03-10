@@ -7,18 +7,53 @@
     {% include nav.html %}
     <div class="container">
 
-        <h1 class="page__header">Welcome to the Goodstuff Live Stream</h1>
+        <h1 class="page__header">Live Shows</h1>
 
-        <p class="page__description">{{ content }}</p>
+        <p class="page__description">{{ page.description }}</p>
+
+        {% for collection in site.collections %}
+        {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true %}
+        {% assign show = site.data.shows[collection.label] %}
+        {% if collection.live == true %}
+
+        <ul class="shows__list">
+          <li class="shows__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
+          <li class="shows__list__name"><h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
+          <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+          <li class="shows__list__description">{{ show.description | truncate: 256 }}</li>
+          <li class="shows__list__link">
+            <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
+            <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
+            <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
+            <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
+          </li>
+        </ul>
+
+        {% endif %}
+        {% endunless %}
+        {% endfor %}
 
         <hr class="page__rule">
 
-        <div class="video-container">
-            <iframe src="https://player.twitch.tv/?channel=goodstuff_fm" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+        <div class="page__twitch">
+          <div class="video-container">
+              <iframe src="https://player.twitch.tv/?channel=goodstuff_fm" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+          </div>
+          <br>
+          <div class="video-container">
+              <iframe src="https://www.twitch.tv/goodstuff_fm/chat?popout=" frameborder="0" scrolling="no"></iframe>
+          </div>
+
+          <hr class="page__rule">
+          
         </div>
-        <br>
-        <div class="video-container">
-            <iframe src="https://www.twitch.tv/goodstuff_fm/chat?popout=" frameborder="0" scrolling="no"></iframe>
+
+
+
+        <h2 class="page__subheader">Schedule</h2>
+
+        <div class="episode__content">
+            {{ page.content }}
         </div>
 
         <!-- Collection-based Live layout with Audio Only
@@ -26,12 +61,12 @@
         {% for collection in site.collections limit: 1 %}
         {% if collection.live == true %}
 
-        <ul class="broadcasts__list">
-          <li class="broadcasts__list__artwork"><a href="/{{ collection.slug }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
-          <li class="broadcasts__list__name"><h3><a href="/{{ collection.slug }}">{{ collection.name }}</a></h3></li>
-          <li class="broadcasts__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
-          <li class="broadcasts__list__description">{{ collection.description | truncate: 256 }}</li>
-          <li class="broadcasts__list__link">
+        <ul class="shows__list">
+          <li class="shows__list__artwork"><a href="/{{ collection.slug }}"><img src="{{ collection.image }}" alt="Artwork" height="100" width="100"/></a></li>
+          <li class="shows__list__name"><h3><a href="/{{ collection.slug }}">{{ collection.name }}</a></h3></li>
+          <li class="shows__list__hosts">Hosted by {{ collection.hosts | join: ', ' }}</li>
+          <li class="shows__list__description">{{ collection.description | truncate: 256 }}</li>
+          <li class="shows__list__link">
             <a href="{{ collection.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
             <a href="{{ collection.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
             <a href="{{ collection.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
