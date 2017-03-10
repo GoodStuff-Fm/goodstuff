@@ -1,8 +1,8 @@
 header:
+- title: Shows
+  url: /shows/
 - title: About
   url: /about/
-- title: Broadcasts
-  url: /broadcasts/
 - title: People
   url: /people/
 - title: Support

@@ -28,8 +28,8 @@
 
         <hr class="page__rule">
 
-        <!-- Broadcasts -->
-        <div class="person__broadcasts">Broadcasts</div>
+        <!-- shows -->
+        <div class="person__shows">shows</div>
 
         {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %} {% assign show = site.data.shows[collection.label] %} {% if show.hosts contains page.name %}
         <!-- Needs to contain, not equal -->
