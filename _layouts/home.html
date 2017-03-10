@@ -6,101 +6,70 @@
 
 <body>
 
-<!-- Navigation Bar -->
-{% include nav.html %}
+    <!-- Navigation Bar -->
+    {% include nav.html %}
 
-<div class="container">
+    <div class="container">
 
-  <!-- Latest Episodes -->
+        <!-- Latest Episodes -->
 
-    <h1 class="page__header">Latest Episodes</h1>
+        <h1 class="page__header">Latest Episodes</h1> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true %} {%
+        assign show = site.data.shows[collection.label] %} {% assign latest = collection.docs | sort | reverse %} {% for doc in latest offset:1 limit:1 %}
 
-    {% for collection in site.collections %}
-    {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true %}
-    {% assign show = site.data.shows[collection.label] %}
-    {% assign latest = collection.docs | sort | reverse %}
-    {% for doc in latest offset:1 limit:1 %}
+        <div class="latest-episode">
 
-    <div class="latest-episode">
+            <div class="latest-episode__artwork">
+                <a href="{{ doc.url }}"><img src="{{ show.artwork }}" alt="Artwork" /></a>
+            </div>
 
-      <div class="latest-episode__artwork">
-        <a href="{{ doc.url }}"><img src="{{ show.artwork }}" alt="Artwork"/></a>
-      </div>
+            <div class="latest-episode__details">
 
-      <div class="latest-episode__details">
+                <div class="latest-episode__details__show">
+                    <a href="{{ show.collection }}">{{show.name}}</a>
+                </div>
 
-        <div class="latest-episode__details__show">
-          <a href="{{ show.collection }}">{{show.name}}</a>
+                <div class="latest-episode__details__title">
+                    <a href="{{ doc.url }}">{{ doc.episode }}: {{ doc.title | remove: "_" | truncate: 128 }}</a>
+                </div>
+
+                <div class="latest-episode__details__date">
+                    Published {{ doc.date | date: "%b %d, %Y" }}
+                </div>
+
+                <div class="latest-episode__details__hosts">
+                    Hosted by {{ show.hosts }}
+                </div>
+
+                <div class="latest-episode__details__description">
+                    {{ doc.description | truncate: 256 }}
+                </div>
+
+            </div>
+
         </div>
 
-        <div class="latest-episode__details__title">
-          <a href="{{ doc.url }}">{{ doc.episode }}: {{ doc.title | remove: "_" | truncate: 128 }}</a>
-        </div>
+        <hr class="page__rule"> {% endfor %} {% endunless %} {% endfor %}
 
-        <div class="latest-episode__details__date">
-          Published {{ doc.date | date: "%b %d, %Y" }}
+        <!-- List of all of our shows -->
+        <div class="container__our-shows">
+            <div class="our-shows__header">Our Shows</div>
+            <div class="our-shows">
+                {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %} {% assign show = site.data.shows[collection.label] %}
+                <div class="our-shows__list">
+                    <div class="our-shows__artwork">
+                        <a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" /></a>
+                    </div>
+                    <div class="our-shows__title"><a href="{{ show.collection }}">{{ show.name }}</a></div>
+                </div>
+                {% endunless %} {% endfor %}
+            </div>
         </div>
-
-        <div class="latest-episode__details__hosts">
-          Hosted by {{ show.hosts }}
-        </div>
-
-        <div class="latest-episode__details__description">
-          {{ doc.description | truncate: 256 }}
-        </div>
-
-      </div>
+    </div>
 
     </div>
 
-    <hr class="page__rule">
-
-    {% endfor %}
-    {% endunless %}
-    {% endfor %}
-
-  <!-- List of Recent Episodes
-<div class="container__recent-episodes">
-  <div class="recent-episodes__header">Recent Episodes</div>
-  <div class="recent-episodes">
-    {% for collection in site.collections limit:5 %}
-    {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.size == 1 %}
-    {% assign show = site.data.shows[collection.label] %}
-      <div class="recent-episodes__list">
-        {% assign latest = collection.docs | sort | reverse %}
-        {% for doc in latest offset:1 limit:1 %}
-        <div class="recent-episodes__artwork"><a href="{{ doc.id }}"><img src="{{ show.artwork }}" alt="Artwork"/></a></div>
-        <div class="recent-episodes__title"><a href="{{ doc.url }}">{{ doc.title | remove: "_"  | truncate: 64 }}</a></div>
-        <div class="recent-episodes__date">{{ doc.date | date: "%b %d, %Y" }}</div>
-        {% endfor %}
-      </div>
-    {% endunless %}
-    {% endfor %}
-  </div>
-</div>
--->
-
-  <!-- List of all of our shows -->
-  <div class="container__our-shows">
-    <div class="our-shows__header">Our Shows</div>
-      <div class="our-shows">
-      {% for collection in site.collections %}
-      {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %}
-      {% assign show = site.data.shows[collection.label] %}
-        <div class="our-shows__list">
-          <div class="our-shows__artwork"><a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork"/></a></div>
-          <div class="our-shows__title"><a href="{{ show.collection }}">{{ show.name }}</a></div>
-        </div>
-    {% endunless %}
-    {% endfor %}
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<!-- Footer -->
-{% include footer.html %}
+    <!-- Footer -->
+    {% include footer.html %}
 
 
 </body>

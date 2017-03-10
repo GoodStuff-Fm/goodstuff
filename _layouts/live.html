@@ -1,27 +1,27 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
     {% include nav.html %}
     <div class="container">
 
-      <h1 class="page__header">Welcome to the Goodstuff Live Stream</h1>
+        <h1 class="page__header">Welcome to the Goodstuff Live Stream</h1>
 
-      <p class="page__description">{{ content }}</p>
+        <p class="page__description">{{ content }}</p>
 
-      <hr class="page__rule">
+        <hr class="page__rule">
 
-      <div class="video-container">
-        <iframe src="https://player.twitch.tv/?channel=goodstuff_fm" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-      </div>
-      <br>
-      <div class="video-container">
-        <iframe src="https://www.twitch.tv/goodstuff_fm/chat?popout=" frameborder="0" scrolling="no"></iframe>
-      </div>
+        <div class="video-container">
+            <iframe src="https://player.twitch.tv/?channel=goodstuff_fm" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+        </div>
+        <br>
+        <div class="video-container">
+            <iframe src="https://www.twitch.tv/goodstuff_fm/chat?popout=" frameborder="0" scrolling="no"></iframe>
+        </div>
 
-      <!-- Collection-based Live layout with Audio Only
+        <!-- Collection-based Live layout with Audio Only
 
         {% for collection in site.collections limit: 1 %}
         {% if collection.live == true %}
@@ -59,10 +59,10 @@
 
       -->
 
-      {{ page.footer_scripts }}
+        {{ page.footer_scripts }}
     </div>
 
     {% include footer.html %}
-  </body>
+</body>
 
 </html>

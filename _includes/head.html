@@ -26,8 +26,7 @@
 
 <!-- facebook open graph tags -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ page.url }}" />
-{% if page.layout == "broadcasts" %}
+<meta property="og:url" content="{{ page.url }}" /> {% if page.layout == "broadcasts" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:image" content="{{ site.url }}/uploads/artwork-master.jpg" />
@@ -37,8 +36,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
 <meta name="twitter:image" content="{{ site.url }}/uploads/artwork-master.jpg" />
-<meta name="twitter:url" value="{{ page.url }}" />
-{% elsif page.layout == "show" %}
+<meta name="twitter:url" value="{{ page.url }}" /> {% elsif page.layout == "show" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ show.description }}" />
 <meta property="og:image" content="{{ site.url }}{{ show.artwork }}" />
@@ -49,8 +47,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ show.description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
-<meta name="twitter:url" value="{{ page.url }}" />
-{% elsif page.layout == "episode" %}
+<meta name="twitter:url" value="{{ page.url }}" /> {% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:image" content="{{ site.url }}{{ show.artwork }}" />
@@ -61,8 +58,7 @@
 <meta name="twitter:title" value="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
-<meta name="twitter:url" value="{{ page.url }}" />
-{% elsif page.layout == "person" %}
+<meta name="twitter:url" value="{{ page.url }}" /> {% elsif page.layout == "person" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.tagline }}" />
 <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
@@ -71,8 +67,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ page.tagline }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-<meta name="twitter:url" value="{{ page.url }}" />
-{% else %}
+<meta name="twitter:url" value="{{ page.url }}" /> {% else %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
 <meta property="og:image" content="{{ site.url }}/uploads/artwork-master.jpg" />
@@ -83,26 +78,56 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ site.description }}" />
 <meta name="twitter:image" content="{{ site.url }}/uploads/artwork-master.jpg" />
-<meta name="twitter:url" value="{{ page.url }}" />
-{% endif %}
+<meta name="twitter:url" value="{{ page.url }}" /> {% endif %}
 
 <!-- Fullstory Debugging app -->
 <script>
-window['_fs_debug'] = false;
-window['_fs_host'] = 'www.fullstory.com';
-window['_fs_org'] = '2F4TF';
-window['_fs_namespace'] = 'FS';
-(function(m,n,e,t,l,o,g,y){
-    if (e in m && m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); return;}
-    g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
-    o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
-    y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
-    g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
-    g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
-    g.clearUserCookie=function(c,d,i){if(!c || document.cookie.match('fs_uid=[`;`]*`[`;`]*`[`;`]*`')){
-    d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
-    ';path=/;expires='+new Date(0).toUTCString();i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}};
-})(window,document,window['_fs_namespace'],'script','user');
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'www.fullstory.com';
+    window['_fs_org'] = '2F4TF';
+    window['_fs_namespace'] = 'FS';
+    (function(m, n, e, t, l, o, g, y) {
+        if (e in m && m.console && m.console.log) {
+            m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');
+            return;
+        }
+        g = m[e] = function(a, b) {
+            g.q ? g.q.push([a, b]) : g._api(a, b);
+        };
+        g.q = [];
+        o = n.createElement(t);
+        o.async = 1;
+        o.src = 'https://' + _fs_host + '/s/fs.js';
+        y = n.getElementsByTagName(t)[0];
+        y.parentNode.insertBefore(o, y);
+        g.identify = function(i, v) {
+            g(l, {
+                uid: i
+            });
+            if (v) g(l, v)
+        };
+        g.setUserVars = function(v) {
+            g(l, v)
+        };
+        g.identifyAccount = function(i, v) {
+            o = 'account';
+            v = v || {};
+            v.acctId = i;
+            g(o, v)
+        };
+        g.clearUserCookie = function(c, d, i) {
+            if (!c || document.cookie.match('fs_uid=[`;`]*`[`;`]*`[`;`]*`')) {
+                d = n.domain;
+                while (1) {
+                    n.cookie = 'fs_uid=;domain=' + d +
+                        ';path=/;expires=' + new Date(0).toUTCString();
+                    i = d.indexOf('.');
+                    if (i < 0) break;
+                    d = d.slice(i + 1)
+                }
+            }
+        };
+    })(window, document, window['_fs_namespace'], 'script', 'user');
 </script>
 
 
