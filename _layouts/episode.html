@@ -31,12 +31,12 @@
       <div class="episode__navigation">
 
         {% if page.next.url and page.previous.url and page.next.title != 'Feed' %}
-          <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-download fa-1x" aria-hidden="true"> Previous Episode</a>
-          <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-download fa-1x" aria-hidden="true"></a>
+          <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a>
+          <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
         {% elsif page.previous.url %}
-          <a class="episode__navigation__previous" href="{{ page.previous.url }}">◂ Previous Episode</a>
+          <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a>
         {% elsif page.next.url and page.next.title != 'Feed' %}
-          <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode ▸</a>
+          <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></a>
         {% endif %}
 
       </div>
