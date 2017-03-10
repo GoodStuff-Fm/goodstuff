@@ -200,7 +200,7 @@ body {
   max-width: 700pt;
   margin-left:  auto;
   margin-right: auto;
-
+  padding: 0 1rem 0 1rem;
 
   &__list {
 
@@ -217,12 +217,17 @@ body {
     }
 
     &__logo {
+      display: inline-block;
       background-color: none;
-      width: 40pt;
-      height: 40pt;
-      text-align: center;
       vertical-align: middle;
-      line-height: 40pt;
+      height: 40pt;
+      padding: 0 12pt 0 0;
+
+      img {
+        width: 40pt;
+        height: 40pt;
+      }
+
     }
 
     &__link {
@@ -363,8 +368,7 @@ body {
 
   &__list {
     min-height: 180pt;
-    padding-top: 16pt;
-    padding-bottom: 12pt;
+    padding: 0 0 12pt 0;
 
     &__artwork {
       height: 160pt;
@@ -502,7 +506,25 @@ body {
     }
   }
 
+  &__navigation {
+    overflow: auto;
+    padding: 12pt 0 12pt 0;
 
+    &__previous {
+    }
+
+    &__next {
+      float: right;
+    }
+
+  }
+
+  &__content {
+
+    img {
+      max-width: 100%;
+    }
+  }
 
 }
 
@@ -574,7 +596,7 @@ body {
 
 
   &__left {
-    width: 45%;
+    width: 64%;
     float: left;
 
     &__description {
@@ -586,9 +608,9 @@ body {
     }
 
     &__logo img {
-      height: 60pt;
+      height: auto;
       width: 180pt;
-      vertical-align: middle;
+      padding: 0 0 12pt 0;
     }
 
     &__link {

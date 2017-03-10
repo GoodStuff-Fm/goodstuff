@@ -1,68 +1,59 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
     {% include nav.html %}
     <div class="container">
 
-      {% assign show = site.data.shows[page.show] %}
+        {% assign show = site.data.shows[page.show] %}
 
-      <h1 class="page__header">{{ show.name }}</h1>
+        <h1 class="page__header">{{ show.name }}</h1>
 
-      <ul class="broadcasts__list">
-        <li class="broadcasts__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
-        <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
-        <li class="broadcasts__list__description">{{ show.description | truncate: 384 }}</li>
-        <li class="broadcasts__list__link">
-          <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
-          <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
-          <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-          <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
-        </li>
-      </ul>
+        <ul class="broadcasts__list">
+            <li class="broadcasts__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
+            </li>
+            <li class="broadcasts__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+            <li class="broadcasts__list__description">{{ show.description | truncate: 384 }}</li>
+            <li class="broadcasts__list__link">
+                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
+                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
+                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
+                <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
+            </li>
+        </ul>
 
-      <hr class="page__rule">
+        <hr class="page__rule">
 
 
-<!-- If a show records live
+        <!-- If a show records live
       <div class="page__description">
         This show broadcasts live. Check the <a href="/schedule">schedule</a>.
       </div>
 -->
 
 
-        {% assign episodes = site[show.collection] | reverse %}
-        {% for doc in episodes %}
-        {% if doc.title != show.name %}
-        {% unless doc.title == 'Feed' %}
+        {% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
 
-          <div class="show__episode__title">
+        <div class="show__episode__title">
             <a href="{{ doc.episode }}">{{ doc.title }}</a>
-          </div>
+        </div>
 
-          <div class="show__episode__date">
+        <div class="show__episode__date">
             Episode {{ doc.episode }} • Published {{ doc.date | date: "%b %d, %Y" }}
-          </div>
+        </div>
 
-          <div class="show__episode__description">
+        <div class="show__episode__description">
             {{ doc.description | truncate: 1024 }}
-          </div>
+        </div>
 
-          <hr class="page__rule">
-
-        {% endunless %}
-        {% endif %}
-        {% endfor %}
-
-
-      {{ page.footer_scripts }}
+        <hr class="page__rule"> {% endunless %} {% endif %} {% endfor %} {{ page.footer_scripts }}
 
     </div>
 
-  {% include footer.html %}
+    {% include footer.html %}
 
-  </body>
+</body>
 
 </html>
