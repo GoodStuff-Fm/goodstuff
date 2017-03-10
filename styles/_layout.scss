@@ -216,6 +216,12 @@ body {
       vertical-align: middle;
     }
 
+    &__notlive {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
     &__logo {
       display: inline-block;
       background-color: none;
@@ -355,6 +361,10 @@ body {
   }
 
   &__rule {
+  }
+
+  &__twitch {
+    padding: 16pt 0 16pt 0;
   }
 
   &__description {

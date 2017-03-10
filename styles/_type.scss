@@ -83,6 +83,15 @@
       border-radius: 4pt;
     }
 
+    &__notlive a {
+      text-transform: uppercase;
+      background-color: $blue;
+      color: white;
+      font-weight: 700;
+      padding: 8pt;
+      border-radius: 4pt;
+    }
+
     &__item {
       font-size: 1rem;
       color: #969DAF;

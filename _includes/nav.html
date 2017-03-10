@@ -12,13 +12,18 @@
             </li>
             {% endfor %}
 
-            {% for collection in site.collections %}
+            {% for collection in site.collections limit: 1 %}
             {% if collection.live == true %}
             <li class="header__list__live">
                 <a href="/live" class="header__list__link">Live</a>
             </li>
+            {% elsif collection.live != true %}
+            <li class="header__list__notlive">
+                <a href="/live" class="header__list__link">Live</a>
+            </li>
             {% endif %}
             {% endfor %}
+
 
         </ul>
     </nav>
