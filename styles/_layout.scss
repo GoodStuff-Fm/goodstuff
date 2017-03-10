@@ -563,13 +563,13 @@ body {
 
   &__shows {
     padding-top: 24pt;
-    padding-bottom: 24pt;
+    padding-bottom: 16pt;
   }
 
 
   &__show {
     &__name {
-      padding-bottom: 8pt;
+      padding: 16pt 0 8pt 0;
       a {
         color: $bright-red;
         text-decoration: none;
