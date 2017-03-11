@@ -8,7 +8,7 @@ tags:
 layout: default
 ---
 
-*taps microphone*
+<em>taps microphone</em>
 
 Is this thing on? Hello world?
 
