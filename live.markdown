@@ -4,7 +4,8 @@ date: 2016-03-16 18:22:00 -06:00
 permalink: "/live/"
 position: 1
 layout: live
-description: Listen and watch Goodstuff shows live, chat with hosts and listeners, and check out our recording schedule.
+description: Listen and watch Goodstuff shows live, chat with hosts and listeners,
+  and check out our recording schedule.
 ---
 
 When shows are [streamed live](/live/), we'll do our best to alert you in advance on our calendar below.
