@@ -20,4 +20,7 @@ Along with the new site is refreshed logo which you'll see in our header, footer
 
 We'll have more to say and talk about in the coming months and lots of bugs to fix - including proper layouts for mobile and a bunch of other styling things - and plenty of other features planned, but for now Kyle and myself are pumped to take this next step in the evolution of Goodstuff.
 
-[Chris Enns](https://www.twitter.com/ichris), [Kyle Roderick](https://twitter.com/dogburps)
+We'd love to hear from you if you've got any suggestions or notice anything weird as you browse the new site. Feel free to tweet at us, we'd love to hear from you:
+
+* [Chris Enns](https://www.twitter.com/ichris)
+* [Kyle Roderick](https://twitter.com/dogburps)
