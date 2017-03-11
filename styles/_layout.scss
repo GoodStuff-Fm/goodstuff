@@ -211,15 +211,15 @@ body {
     }
 
     &__live {
-      padding: 0 10pt;
       display: inline-block;
       vertical-align: middle;
+      float: right;
     }
 
     &__notlive {
-      padding: 0 10pt;
       display: inline-block;
       vertical-align: middle;
+      float: right;
     }
 
     &__logo {

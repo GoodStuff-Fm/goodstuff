@@ -85,16 +85,16 @@
 
     &__notlive a {
       text-transform: uppercase;
-      background-color: $blue;
-      color: white;
+      color: $light-blue;
       font-weight: 700;
       padding: 8pt;
       border-radius: 4pt;
+      border: 2pt solid $blue;
     }
 
     &__item {
       font-size: 1rem;
-      color: #969DAF;
+      color: $light-blue;
     }
 
     &__link {
