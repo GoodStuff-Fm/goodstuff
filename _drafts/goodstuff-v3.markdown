@@ -20,6 +20,6 @@ We're excited to finally be able to unveil what has been months of work during e
 
 Along with the new site is refreshed logo which you'll see in our header, footer, and various social media platforms.
 
-We'll have more to say and talk about in the coming months and lots of bugs to fix - including proper layouts for mobile and a bunch of other styling things - but for now Kyle and myself are pumped to take this next step in the evolution of Goodstuff.
+We'll have more to say and talk about in the coming months and lots of bugs to fix - including proper layouts for mobile and a bunch of other styling things - and plenty of other features planned, but for now Kyle and myself are pumped to take this next step in the evolution of Goodstuff.
 
- 
+[Chris Enns](https://www.twitter.com/ichris), [Kyle Roderick](https://twitter.com/dogburps)
