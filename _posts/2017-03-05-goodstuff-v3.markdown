@@ -1,13 +1,11 @@
 ---
 title: Goodstuff.fm v3.0
 date: 2017-03-05 17:35:00 -06:00
-categories:
-- goodstuff
 tags:
 - site news
 - jekyll
 - siteleaf
-layout: posts
+layout: default
 ---
 
 *taps microphone*
