@@ -8,7 +8,7 @@ tags:
 layout: default
 ---
 
-*taps microphone*
+<em>taps microphone</em>
 
 Is this thing on? Hello world?
 
@@ -24,3 +24,12 @@ We'd love to hear from you if you've got any suggestions or notice anything weir
 
 * [Chris Enns](https://www.twitter.com/ichris)
 * [Kyle Roderick](https://twitter.com/dogburps)
+
+If you're old school, then feel free to email us:
+
+* <a href="mailto:chris@goodstuff.fm">chris@goodstuff.fm</a>
+* <a href="mailto:kyle@goodstuff.fm">kyle@goodstuff.fm</a>
+
+If you're really, really old school... I'm sorry but we don't have a fax machine.
+
+<img src="https://media.giphy.com/media/jBBRs81dGWHIY/source.gif">
