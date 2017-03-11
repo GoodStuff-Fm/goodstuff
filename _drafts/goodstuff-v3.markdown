@@ -7,6 +7,7 @@ tags:
 - site news
 - jekyll
 - siteleaf
+layout: posts
 ---
 
 *taps microphone*
