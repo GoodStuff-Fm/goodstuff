@@ -5,10 +5,11 @@ header:
   url: /about/
 - title: Support
   url: /support/
-- title: Posts
-  url: /posts/
 - title: Advertise
   url: /advertise/
+- title: Posts
+  url: /posts/
+
 
 footer:
 - title: iTunes
@@ -18,6 +19,6 @@ footer:
 - title: Stuffybot
   url: http://stuffybot.goodstuff.fm
 - title: Master Feed
-  url: /master/feed/
+  url: http://feeds.goodstuff.fm/
 - title: Support our Shows
   url: /support/

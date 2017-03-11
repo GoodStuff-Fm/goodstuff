@@ -1,17 +1,14 @@
 <div class="container__wide__dark">
     <nav role="navigation" class="header">
         <ul class="header__list">
-            <!-- Goodstuff Logo -->
             <li class="header__list__logo">
                 <a href="/"><img src="{{ site.logo-small }}" alt="{{ site.title }}" /></a>
             </li>
-            <!-- Page Loop -->
             {% for item in site.data.navigation.header %}
             <li class="header__list__item">
                 <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
             </li>
             {% endfor %}
-
             {% for collection in site.collections limit: 1 %}
             {% if collection.live == true %}
             <li class="header__list__live">
@@ -23,8 +20,6 @@
             </li>
             {% endif %}
             {% endfor %}
-
-
         </ul>
     </nav>
 </div>

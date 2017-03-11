@@ -9,8 +9,6 @@ description: Goodstuff was created as a home for podcasts that are entertaining,
 layout: default
 ---
 
-![Goodstuff Logo](/uploads/goodstuff%20about%20logo.png)
-
 Goodstuff was created as a home for podcasts that are entertaining, informative, and fun. Our goal is to create a vibrant community of podcasters who love to learn about the world around them and share that with an equally awesome group of listeners.
 
 We've been podcasting since March, 2014. Thank you so much for listening.
