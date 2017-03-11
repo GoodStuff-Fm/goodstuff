@@ -89,14 +89,14 @@ itunes-subtitle: A network of good shows with good people doing good things
 itunes-url: http://goodstuff.fm
 itunes-email: contact@goodstuff.fm
 itunes-lang: EN
-itunes-author: Goodstuff.fm
+itunes-author: Goodstuff.FM
 permalink: pretty
 Goodstuff Twitter: https://twitter.com/goodstufffm
 twitter: goodstufffm
 logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
 description: A network of good shows with good people doing good things
-copyright: "© 2014–2017 Goodstuff Broadcasting"
+copyright: "© 2014–2017 Goodstuff.FM"
 exclude:
 - README.markdown
 - Gemfile.lock
