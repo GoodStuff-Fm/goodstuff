@@ -20,7 +20,7 @@
                 <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50" /></a>
             </li>
             <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
-            <li class="episode__show__description">{{ show.description | truncate: 256 }}</li>
+            <li class="episode__show__description">{{ show.description | truncate: 256 | markdownify }}</li>
             <li class="episode__show__link">
                 <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
                 <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
@@ -52,7 +52,7 @@
         </div>
 
         <div class="episode__description">
-            {{ page.description }}
+            {{ page.description | markdownify }}
         </div>
 
         {% if page.sponsor %}
@@ -63,7 +63,7 @@
 
             {% if page.sponsor-copy %}
             <div class="episode__sponsor__copy">
-                {{ page.sponsor-copy }}
+                {{ page.sponsor-copy | markdownify }}
             </div>
             {% endif %}
 
