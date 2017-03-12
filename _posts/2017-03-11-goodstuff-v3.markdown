@@ -1,5 +1,5 @@
 ---
-title: Goodstuff.FM v3.0
+title: 🎉 Goodstuff.FM v3.0
 date: 2017-03-11 17:35:00 -06:00
 tags:
 - site news
