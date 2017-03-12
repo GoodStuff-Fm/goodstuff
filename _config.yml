@@ -65,7 +65,6 @@ collections:
     permalink: "/people/:path"
   posts:
     title: Posts
-    permalink: "/posts/:title"
     output: true
   smym:
     title: Show Me Your Mic
