@@ -22,10 +22,6 @@
             {{ post.date | date: "%b %d, %Y" }}
         </div>
 
-        <div class="show__episode__description">
-            {{ post.excerpt | truncatewords: 256 }}
-        </div>
-
         <hr class="page__rule"> {% endunless %} {% endfor %} {{ page.footer_scripts }}
 
     </div>
