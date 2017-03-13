@@ -1,6 +1,6 @@
 ---
 title: '341'
-date: 2017-03-13 11:31:00 -06:00
+date: 2017-03-14 09:00:00 -06:00
 published: false
 show: morningshow
 mp3: 
@@ -25,4 +25,4 @@ layout: episode
 * [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
 
 ## About
-The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](/broadcasts)!
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
