@@ -1,0 +1,28 @@
+---
+title: '341'
+date: 2017-03-13 11:31:00 -06:00
+published: false
+show: morningshow
+mp3: 
+sponsor-copy: "- [Feed.Press](http://feed.press/morningshow) – Hosting and feed support
+  provided by Feed.Press. [Sign-up today](http://feed.press/morningshow) and try FeedPress
+  on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during
+  checkout to get 10% off your first year."
+sponsor: Feed.Press
+description: "[Tune in LIVE](http://goodstuff.fm/live) and [vote for titles](http://stuffybot.goodstuff.fm)
+  for this episode!"
+layout: episode
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](/broadcasts)!
