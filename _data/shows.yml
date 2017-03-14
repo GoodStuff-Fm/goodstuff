@@ -80,8 +80,8 @@ clockworks:
   support:
   rss: http://feeds.goodstuff.fm/clockworks
   itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658
-  pocketcasts:
-  overcast:
+  pocketcasts: http://pca.st/Os98
+  overcast: https://overcast.fm/p565199-VhCqC0
 grownups:
   name: I Guess We're Grown-Ups Now
   collection: grownups
