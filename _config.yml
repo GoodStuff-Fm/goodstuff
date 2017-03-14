@@ -15,6 +15,12 @@ collections:
     permalink: "/aux/:path"
     retired: true
     live: false
+  clockworks:
+    title: Clockworks - A Legion Podcast
+    output: true
+    permalink: "/clockworks/:path"
+    retired: false
+    live: false
   dailyish:
     title: Daily(ish)
     output: true
@@ -45,12 +51,6 @@ collections:
     title: Morning Show
     output: true
     permalink: "/morningshow/:path"
-    retired: false
-    live: false
-  clockworks:
-    title: Clockworks - A Legion Podcast
-    output: true
-    permalink: "/clockworks/:path"
     retired: false
     live: false
   neverdigdown:
