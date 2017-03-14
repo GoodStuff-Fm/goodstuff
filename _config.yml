@@ -47,6 +47,12 @@ collections:
     permalink: "/morningshow/:path"
     retired: false
     live: false
+  clockworks:
+    title: Clockworks - A Legion Podcast
+    output: true
+    permalink: "/clockworks/:path"
+    retired: false
+    live: false
   neverdigdown:
     title: Never Dig Down
     output: true

@@ -62,6 +62,26 @@ morningshow:
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   pocketcasts: http://pca.st/transmission
   overcast: https://overcast.fm/itunes843374491/morning-show
+clockworks:
+  name: Clockworks - A Legion Podcast
+  collection: clockworks
+  hosts: Jan Moffett and Paul Moffett
+  description: Clockworks is a podcast about the tv show Legion hosted by Jan and Paul.
+  artwork: "/uploads/artwork-clockworks.jpg"
+  color: #3F3D2F
+  explicit: no
+  keywords: tv, fantasy, media, marvel, drama, superhero, fiction
+  show-twitter: "@clockworkscast"
+  hosts-twitter: "@jayellemo and @thatpaulmoffett"
+  category1: "TV &amp; Film"
+  category2: "Arts"
+  category3: "Visual Arts"
+  email: contact@goodstuff.fm
+  support:
+  rss: http://feeds.goodstuff.fm/clockworks
+  itunes:
+  pocketcasts:
+  overcast:
 grownups:
   name: I Guess We're Grown-Ups Now
   collection: grownups
