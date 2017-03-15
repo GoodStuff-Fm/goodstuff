@@ -6,7 +6,7 @@ tags:
 - Facebook
 - VR
 - 2 Stupid Games
-position: 34
+position: 36
 episode: '293'
 description: Watch Facebook in a whole new way today, And watch Star Wars with your
   little BB-8 too, Skype wants you to see the dumb bot you're talking to, Ikea turns

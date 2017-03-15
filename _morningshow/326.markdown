@@ -6,7 +6,7 @@ tags:
 - Would You Rather
 - High or Low
 - Choose Your Own Adventure
-position: 67
+position: 69
 episode: '326'
 description: When hinges creak in doorless chambers, and strange and frightening sounds
   echo through the halls. Whenever candlelights flicker where the air is deathly still.

@@ -6,7 +6,7 @@ tags:
 - Scrabble
 - space
 - 2 Stupid Games
-position: 36
+position: 38
 episode: '295'
 description: Amazon really wants us to read, Facebook is trying to revive chatbots,
   Spell some weird words for points today, Two stupid dogs inside a car can work a

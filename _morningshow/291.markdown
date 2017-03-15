@@ -6,7 +6,7 @@ tags:
 - Food Friday
 - lasers
 - burger
-position: 32
+position: 34
 episode: '291'
 description: We're not April Fools, Google turns out to be a fool today, Chipotle
   wants to enter another food market, Zap your fridge with a laser, Hot buns - meet

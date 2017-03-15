@@ -6,7 +6,7 @@ tags:
 - birthday
 - Food Friday
 - stomach
-position: 54
+position: 56
 episode: '313'
 description: Happy Birthday, Chris! Hot & Spicy Bathroom Trips, Tums Pizza, Frozen
   Cabbages, Goldfish Meat, Indiana Jones And The 25 Foot Whip, The Grandma Slice,

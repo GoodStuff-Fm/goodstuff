@@ -6,7 +6,7 @@ tags:
 - pizza
 - tacos
 - football
-position: 9
+position: 11
 episode: '268'
 description: Little Caesars is bringing back an instant classic, How are you watching
   the Super Bowl this weekend?, Get Sriracha in a convenient little packet, Kit Kats
