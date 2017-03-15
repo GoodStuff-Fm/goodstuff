@@ -50,8 +50,11 @@ Thanks Jan and Paul! Now go subscribe and listen to Clockworks - 2 episodes of t
 * [Good old fashioned RSS feed](http://feeds.goodstuff.fm/clockworks)
 
 Be sure to follow the show and/or hosts on Twitter:
+
 * @Clockworkscast on Twitter](https://twitter.com/clockworkscast)
 * [@Jayellemo](https://twitter.com/jayellemo)
 * [@thatpaulmoffett](https://twitter.com/thatpaulmoffett)
+
+I'm sure it's a complete coincidence that the day we launch a Legion podcast, [it’s announced that Legion was renewed for a second season](http://variety.com/2017/tv/news/legion-renewed-fx-season-2-marvel-1202009529/) but clearly it can't hurt. [Call us Hollywood!](http://goodstuff.fm/contact/)
 
 And of course you can follow Goodstuff [on Twitter at @goodstufffm](https://twitter.com/goodstufffm) or [like us on Facebook](https://facebook.com/goodstuff.fm)
