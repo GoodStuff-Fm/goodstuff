@@ -7,6 +7,8 @@ More new Goodstuff news! We've got a brand new show premiering this week on Good
 
 ![artwork-clockworks-fe8706.jpg](/uploads/artwork-clockworks-fe8706.jpg)
 
+### Show Description
+
 > Dan Stevens stars as David Haller, a mutant diagnosed with schizophrenia at a young age. He is the son of Professor Charles Xavier and Gabrielle Haller. The series received critical acclaim, with praise going to the cast, particularly Stevens, Hawley's visuals and design, and the nonlinear, unreliable nature of the storytelling.
 
 Hosts [Jan](https://twitter.com/jayellemo) and [Paul](https://twitter.com/thatpaulmoffett) will take you on an episode by episode journey into the depths of Legion and help guide you along the nonlinear path of the series - which was recently renewed for a second season!
