@@ -1,0 +1,38 @@
+---
+title: Octogenarian Mutant Ninja Turtles
+date: 2017-03-15 13:54:00 -06:00
+show: morningshow
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-341.mp3
+description: 'Welcome to The Goodstuff Morning Show: It''s like waking up with dry-mouth
+  after eating an orange chicken burrito with an infant ninja turtle whose shell glows
+  like the top of a police car that parks itself when you wave at it.'
+layout: episode
+---
+
+## Headlines
+* [Google’s new version of Hangouts looks a lot like Slack - Recode](http://www.recode.net/2017/3/9/14872162/googles-hangouts-slack-rooms-thread-conversation)
+* [Cassini Reveals Strange Shape of Saturn's Moon Pan | NASA](https://www.nasa.gov/image-feature/jpl/cassini-reveals-strange-shape-of-saturns-moon-pan)
+* [Explore the International Space Station in VR right now - The Verge](http://www.theverge.com/2017/3/9/14870462/oculus-nasa-esa-mission-iss-vr-space-station-simulator)
+* [Facebook's Gear VR app wants to be YouTube for 360-degree content - CNET](https://www.cnet.com/news/facebook-360-app-samsung-gear-vr/?part=propeller&amp;subj=news&amp;tag=link)
+* [Elie on Instagram: “Orange Chicken Burritos are a real thing now at Panda Express tea bars.”](https://www.instagram.com/p/BRbo40yDjGi/)
+* [Chipotle’s Food Safety Lawsuit Dismissed - Eater](http://www.eater.com/2017/3/9/14867660/chipotle-food-safety-lawsuit-shareholders-dismissed)
+
+* [Luminous frog is the first known naturally fluorescent amphibian | New Scientist](https://www.newscientist.com/article/2124466-luminous-frog-is-the-first-known-naturally-fluorescent-amphibian/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&campaign_id=RSS%7CNSNS-)
+* [Hushme](http://gethushme.com/)
+* [Airbus’ new concept is a car, a drone, and a train all in one - The Verge](http://www.theverge.com/2017/3/7/14841324/airbus-concept-car-drone-train-geneva-motor-show)
+* [Edible robots made from gelatin may soon get to work in your intestinal tract - Recode](https://www.recode.net/2017/3/12/14898954/edible-robots-gelatin-actuators-intestinal-tract)
+* [Wave goodbye to parking - Tech News | The Star Online](http://www.thestar.com.my/tech/tech-news/2017/02/28/wave-goodbye-to-parking/)
+* [Realistic Japanese Dinosaurs Demonstration - Geekologie](http://geekologie.com/2017/02/realistic-japanese-dinosaurs-demonstrati.php)
+
+## Support Us
+*Want to support the show?* Visit our [Support page](/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
