@@ -43,6 +43,8 @@ The intro/outro music for Clockworks is written by me, Paul, and also performed 
 
 Thanks Jan and Paul! Now go subscribe and listen to Clockworks - 2 episodes of the podcasts are ready and waiting for you wherever you happen to listen to podcasts:
 
+## How to Subscribe to Clockworks:
+
 * [Website](http://goodstuff.fm/clockworks/)
 * [iTunes](https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658)
 * [Pocket Casts](http://pca.st/Os98)
