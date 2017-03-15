@@ -59,7 +59,7 @@ Thanks Jan and Paul! Now go subscribe and listen to Clockworks - 2 episodes of t
 
 Be sure to follow the show and/or hosts on Twitter:
 
-* @Clockworkscast on Twitter](https://twitter.com/clockworkscast)
+* [@Clockworkscast on Twitter](https://twitter.com/clockworkscast)
 * [@Jayellemo](https://twitter.com/jayellemo)
 * [@thatpaulmoffett](https://twitter.com/thatpaulmoffett)
 
