@@ -426,6 +426,18 @@
     }
   }
 
+  &__feedpress {
+    color: $light-blue;
+    opacity: 50%;
+    font-size: .95rem;
+    padding-bottom: 24pt;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 700;
+    }
+  }
+
 
   &__show {
 
@@ -658,7 +670,13 @@
 
     &__copyright {
       color: $blue;
-      font-weight: 700;
+      font-weight: 500;
+    }
+
+    &__feedpress a {
+      color: $bright-red;
+      font-weight: 600;
+      text-decoration: none;
     }
 
     &__link {
@@ -676,6 +694,7 @@
 
     &__page a {
       color: $blue;
+      font-weight: 500;
       font-size: .9rem;
       text-decoration: none;
     }

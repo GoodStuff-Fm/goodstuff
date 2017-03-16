@@ -58,17 +58,19 @@
         {% if page.sponsor %}
         <div class="episode__sponsor">
             <div class="episode__sponsor__header">
-                This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by: <a href="{{ page.sponsor-link }}">{{ page.sponsor }}</a>
+                This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by:
             </div>
-
-            {% if page.sponsor-copy %}
             <div class="episode__sponsor__copy">
-                {{ page.sponsor-copy | markdownify }}
+                {{ page.sponsor | markdownify }}
             </div>
-            {% endif %}
-
         </div>
-        {% endif %} {% if page.mp3 %}
+        {% endif %}
+
+        <div class="episode__feedpress">
+          Feed and MP3 files are proudly hosted by <a href="https://feed.press/?affid=9263">Feed.Press</a>
+        </div>
+
+        {% if page.mp3 %}
         <div class="episode__player__mp3">
             <audio style="width: 100%;" controls="">
             <source src="{{ page.mp3 }}" type="audio/mp3">
