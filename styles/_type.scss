@@ -409,6 +409,11 @@
     font-size: 1rem;
     border-radius: 4pt;
     height: auto;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 700;
+    }
 
     &__header {
       font-weight: 700;
@@ -423,6 +428,10 @@
     &__copy {
       padding-top: 12pt;
       line-height: 20pt;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
     }
   }
 
