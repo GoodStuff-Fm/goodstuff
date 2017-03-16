@@ -7,6 +7,7 @@ mp3: http://podcasts-1.feedpress.co/10588/morningshow-341.mp3
 description: 'Welcome to The Goodstuff Morning Show: It''s like waking up with dry-mouth
   after eating an orange chicken burrito with an infant ninja turtle whose shell glows
   like the top of a police car that parks itself when you wave at it.'
+sponsor: '[Feed.Press](https://feed.press/?affid=9263) - Hosting and feed support provided by Feed.Press. [Sign-up today](https://feed.press/?affid=9263) and try FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during checkout to get 10% off your first year.'
 episode: 341
 layout: episode
 ---
