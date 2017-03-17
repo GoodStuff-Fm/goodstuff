@@ -1,0 +1,53 @@
+---
+title: Kristofer Layon - UX Design (Live from SXSW)
+date: 2017-03-17 12:11:00 -06:00
+position: 1
+description: Kristofer Layon is the Principal Interaction Designer at Honeywell.  Before then, Kristofer directed the MinneWebCon in 2008 until 2011.
+sponsor:
+sponsor-link:
+sponsor-copy:
+episode: 110
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-110.mp3
+layout: episode
+---
+
+### Sponsor Details
+
+* **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv110&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv110&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code "NONBREAKINGSPACESHOW" for 20% off.
+*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv110&utm_medium=podcast&utm_campaign=cssdevconf2017)
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv110&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+
+### LINKS:
+
+* [@klayon on Twitter](https://twitter.com/klayon)
+* [Kristoferlayon.com](https://kristoferlayon.com)
+* [Kristofer on LinkedIn](https://www.linkedin.com/in/layon/)
+* [Mobilizing Websites - Develop and Design](http://www.mobilizingwebsites.net)
+* [Franklin BBQ](https://franklinbarbecue.com)
+* [Smittys Market](http://smittysmarket.com)
+
+### Jump to a conversation on...
+
+* **[4:50](#t=4:50)** What is your job title?
+* **[7:10](#t=7:10)** That's when I really got into UX design.
+* **[7:55](#t=7:55)** The bar has been raised higher than when I started.
+* **[10:53](#t=10:53)** How would you define UX design?
+* **[14:45](#t=14:45)** We use a traditional usability lab occasionally.
+* **[15:33](#t=15:33)** Essentially we test early and often.
+* **[16:49](#t=16:49)** How would you know what to ask a user of your software?
+* **[20:01](#t=20:01)** One thing you don't want to focus on is the interface itself.
+* **[22:00](#t=22:00)** Using an e-commerce site as an example.
+* **[24:30](#t=24:30)** The debrief can last as long as the testing.
+* **[24:45](#t=24:45)** How many times do you continue testing?
+* **[26:50](#t=26:50)** A rule of thumb is a small group of 5.
+* **[30:00](#t=30:00)** Less is more
+* **[32:15](#t=32:15)** I don't script it but try and read the room.
+* **[33:25](#t=33:25)** It seems not sexy to prepare for a presentation but it's one of the most important things we do.
+* **[35:10](#t=35:10)** The trick is to make it all look easy.
+* **[37:10](#t=37:10)** Everyone wants you to succeed as long as you're earnest.
+* **[38:09](#t=38:09)** Compare and contrast working in college vs current job.
+* **[38:50](#t=38:50)** When you're teaching the most basic things of design become really time consuming.
+* **[46:50](#t=46:50)** How can people find you on the internet?
+* **[47:59](#t=47:59)** Do you still like being a designer in Austin?
+* **[51:20](#t=51:20)** Is it worth it to wait in line for Franklin BBQ?
