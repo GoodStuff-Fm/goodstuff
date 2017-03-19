@@ -88,17 +88,16 @@ collections:
     title: Uploads
     output: true
 defaults:
-  -
-    scope:
-      path: "morningshow"
-      type: "pages"
-    values:
-      show: morningshow
-      episode:
-      layout: "episode"
-      mp3:
-      sponsor:
-      description:
+- scope:
+    path: morningshow
+    type: pages
+  values:
+    show: morningshow
+    episode: 
+    layout: episode
+    mp3: 
+    sponsor: 
+    description: 
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: http://goodstuff.fm
 podcast_email: contact@goodstuff.fm
