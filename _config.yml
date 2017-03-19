@@ -93,11 +93,71 @@ defaults:
     type: morningshow
   values:
     show: morningshow
-    episode: 
+    episode:
     layout: episode
-    mp3: 
-    sponsor: 
-    description: 
+    mp3:
+    sponsor:
+    description:
+- scope:
+    path:
+    type: "3g3q"
+  values:
+    show: 3g3q
+    episode:
+    layout: episode
+    mp3:
+    sponsor:
+    description:
+- scope:
+    path:
+    type: "atu2"
+  values:
+    show: atu2
+    episode:
+    layout: episode
+    mp3:
+    sponsor:
+    description:
+- scope:
+    path:
+    type: "clockworks"
+  values:
+    show: clockworks
+    episode:
+    layout: episode
+    mp3:
+    sponsor:
+    description:
+- scope:
+    path:
+    type: "dailyish"
+  values:
+    show: dailyish
+    episode:
+    layout: episode
+    mp3:
+    sponsor:
+    description:
+- scope:
+    path:
+    type: "grownups"
+  values:
+    show: grownups
+    episode:
+    layout: episode
+    mp3:
+    sponsor:
+    description:
+- scope:
+    path:
+    type: "nbsp"
+  values:
+    show: nbsp
+    episode:
+    layout: episode
+    mp3:
+    sponsor:
+    description:
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: http://goodstuff.fm
 podcast_email: contact@goodstuff.fm
