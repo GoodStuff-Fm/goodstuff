@@ -93,9 +93,8 @@ defaults:
     type: morningshow
   values:
     show: morningshow
-    episode: 
+    episode:
     layout: episode
-<<<<<<< HEAD
     mp3:
     sponsor:
     description:
@@ -159,11 +158,6 @@ defaults:
     mp3:
     sponsor:
     description:
-=======
-    mp3: 
-    sponsor: 
-    description: 
->>>>>>> master
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: http://goodstuff.fm
 podcast_email: contact@goodstuff.fm
