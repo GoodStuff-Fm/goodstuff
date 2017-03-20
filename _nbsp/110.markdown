@@ -2,10 +2,11 @@
 title: Kristofer Layon - UX Design (Live from SXSW)
 date: 2017-03-17 12:11:00 -06:00
 position: 1
-description: Kristofer Layon is the Principal Interaction Designer at Honeywell.  Before then, Kristofer directed the MinneWebCon in 2008 until 2011.
-sponsor:
-sponsor-link:
-sponsor-copy:
+description: Kristofer Layon is the Principal Interaction Designer at Honeywell.  Before
+  then, Kristofer directed the MinneWebCon in 2008 until 2011.
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 episode: 110
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-110.mp3
