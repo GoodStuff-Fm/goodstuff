@@ -1,5 +1,5 @@
 ---
-title: Kristofer Layon - UX Design (Live from SXSW)
+title: Kristofer Layon — UX Design (Live from SXSW)
 date: 2017-03-17 12:11:00 -06:00
 position: 1
 description: Kristofer Layon is the Principal Interaction Designer at Honeywell.  Before
