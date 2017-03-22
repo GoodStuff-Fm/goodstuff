@@ -1,12 +1,11 @@
 ---
-title: B-Side U2 Red Hill Mining Town
+title: B-Side Red Hill Mining Town Record Store Day Release
 date: 2017-03-22 10:22:00 -06:00
-episode: 54
 show: atu2
+episode: 54
+mp3: http://podcasts-1.feedpress.co/12572/atu2-54.mp3
 description: Tassoula, Sherry, and Chris chat about U2's Red Hill Mining Town's re-release
   in 2017 for Record Store Day.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-54.mp3
-sponsor: 
 sponsor-link: 
 sponsor-copy: 
 layout: episode
