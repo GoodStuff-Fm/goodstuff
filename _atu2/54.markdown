@@ -19,3 +19,7 @@ layout: episode
 * [Twitter atU2](https://twitter.com/atu2)
 * [Facebook atU2com](https://www.facebook.com/atu2com)
 * [Instagram atU2com](https://www.instagram.com/atu2com/)
+
+## Video Version
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/SMX0wzOAwVs" frameborder="0" allowfullscreen></iframe>
