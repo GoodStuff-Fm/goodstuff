@@ -6,8 +6,8 @@ episode: 54
 mp3: http://podcasts-1.feedpress.co/12572/atu2-54.mp3
 description: Tassoula, Sherry, and Chris chat about U2's Red Hill Mining Town's re-release
   in 2017 for Record Store Day.
-sponsor-link: 
-sponsor-copy: 
+sponsor-link:
+sponsor-copy:
 layout: episode
 ---
 
@@ -22,4 +22,4 @@ layout: episode
 
 ## Video Version
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/SMX0wzOAwVs" frameborder="0" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/SMX0wzOAwVs' frameborder='0' allowfullscreen></iframe></div>
