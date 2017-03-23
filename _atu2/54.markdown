@@ -12,9 +12,14 @@ layout: episode
 ---
 
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/60xr0f/atu2_54_bside_red_hill_mining_town_record_store/)
+* [Watch a video version of this podcast on YouTube](https://www.youtube.com/watch?v=SMX0wzOAwVs)
 * [atU2 - U2 to Release Red Hill Mining Town on Record Store Day](https://www.atu2.com/news/u2-to-release-red-hill-mining-town-on-record-store-day.html)
 * [U2.com - Record Store Day Red Hill Mining Town 2017 mix](http://www.u2.com/news/title/red-hill-mining-town-2017-mix)
 * [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
 * [Twitter atU2](https://twitter.com/atu2)
 * [Facebook atU2com](https://www.facebook.com/atu2com)
 * [Instagram atU2com](https://www.instagram.com/atu2com/)
+
+## Video Version
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/SMX0wzOAwVs" frameborder="0" allowfullscreen></iframe>
