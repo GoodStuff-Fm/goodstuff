@@ -1,0 +1,58 @@
+---
+title: Lainey Feingold
+date: 2017-03-24 12:11:00 -06:00
+position: 1
+description: Updated Description Goes Here Yo
+sponsor:
+sponsor-link:
+sponsor-copy:
+episode: 111
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-111.mp3
+layout: episode
+---
+
+### Sponsor Details
+
+*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=cssdevconf2017)
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+
+### LINKS:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt @teleject](https://twitter.com/teleject)
+* [Lainey Feingold’s Law Firm](http://www.lflegal.com)
+* [Lainey on Twitter](https://twitter.com/lflegal)
+* [Joe Clark - Building Accessible Websites](http://joeclark.org/book/)
+* [Structured Negotiation Talk in DC](https://www.americanbar.org/groups/dispute_resolution/publications/section-publications/structured_negotiation.html)
+* [Structured Negotiation on American Bar Association](https://shop.americanbar.org/ebus/store/productdetails.aspx?productid=254116970)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
+
+
+### Jump to a conversation on...
+
+* **[2:25](#t=2:25)** How did you start the path to becoming a disability rights attorney?
+* **[4:50](#t=4:50)** What type of technology did they add to ATMs to make them more accessible?
+* **[6:50](#t=6:50)** What other companies have you done structured negotiations with?
+* **[9:09](#t=9:09)** Are there other ways for dispute resolution?
+* **[11:49](#t=11:49)** Can structured negotiations be used in business?
+* **[12:50](#t=12:50)** Who do you contact first if you have an issue?
+* **[14:40](#t=14:40)** Do people resist structured negotiations?
+* **[16:15](#t=16:15)** Is it unusual for companies to respond positively?
+* **[17:02](#t=17:02)** What types of issues have you run into?
+* **[19:04](#t=19:04)** What is the process with structured negotiations?
+* **[21:01](#t=21:01)** Do you bring outside experts as well?
+* **[22:07](#t=22:07)** Nobody likes to be told what to do so we give recommendations.
+* **[23:28](#t=23:28)** What type of skills and traits are needed to manage a structured negotiation.
+* **[27:40](#t=27:40)** What you do for your non-english speaking customers, you need to do for your blind customers.
+* **[28:50](#t=28:50)** How can I convince my boss to work in this way?
+* **[31:50](#t=31:50)** Increasing your potential customer base by building with accessibility in mind.
+* **[32:50](#t=32:50)** Showing appreciation for every small step along the way.
+* **[34:30](#t=34:30)** Positive press is more important than a lawsuit.
+* **[35:18](#t=35:18)** What are the characteristics that have made you a good negotiator?
+* **[37:37](#t=37:37)** How can people find your book?
