@@ -10,6 +10,7 @@ episode: 111
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-111.mp3
 layout: episode
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/rd-mfnyxClQ" frameborder="0" allowfullscreen></iframe>
 ---
 
 ### Sponsor Details
