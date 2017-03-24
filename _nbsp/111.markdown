@@ -3,14 +3,15 @@ title: Lainey Feingold
 date: 2017-03-24 12:11:00 -06:00
 position: 1
 description: Updated Description Goes Here Yo
-sponsor:
-sponsor-link:
-sponsor-copy:
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
 episode: 111
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-111.mp3
 layout: episode
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/rd-mfnyxClQ" frameborder="0" allowfullscreen></iframe>
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/rd-mfnyxClQ"
+  frameborder="0" allowfullscreen></iframe>
 ---
 
 ### Sponsor Details
