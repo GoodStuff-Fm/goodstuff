@@ -87,6 +87,8 @@
 
         <!-- Page Content -->
 
+        {% if page.video %}
+
         <div class="episode__header">
           Video
         </div>
@@ -96,6 +98,8 @@
             {{ page.video }}
           </div>
         </div>
+
+        {% endif %}
 
         <div class="episode__header">
             Links and Show Notes
