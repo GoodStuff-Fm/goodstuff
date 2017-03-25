@@ -2,7 +2,7 @@
 title: Lainey Feingold
 date: 2017-03-24 12:11:00 -06:00
 position: 1
-description: Updated Description Goes Here Yo
+description: Lainey Feingold, a disability rights lawyer, who has worked with Target, CVS, Major League Baseball, Wal-Mart, and many organization in representing disabled people seeking full participation in all society has to offer. She is the author of Structured Negotiation published by the American Bar Association. A book that explores an alternative dispute resolution process other than mediation or lawsuits for disputed claims. 
 sponsor: 
 sponsor-link: 
 sponsor-copy: 
@@ -13,28 +13,6 @@ layout: episode
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/rd-mfnyxClQ"
   frameborder="0" allowfullscreen></iframe>
 ---
-
-### Sponsor Details
-
-*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=cssdevconf2017)
-* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
-
-### LINKS:
-
-* [Christopher Schmitt](http://Christopher.org)
-* [Christopher Schmitt @teleject](https://twitter.com/teleject)
-* [Lainey Feingold’s Law Firm](http://www.lflegal.com)
-* [Lainey on Twitter](https://twitter.com/lflegal)
-* [Joe Clark - Building Accessible Websites](http://joeclark.org/book/)
-* [Structured Negotiation Talk in DC](https://www.americanbar.org/groups/dispute_resolution/publications/section-publications/structured_negotiation.html)
-* [Structured Negotiation on American Bar Association](https://shop.americanbar.org/ebus/store/productdetails.aspx?productid=254116970)
-* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
-* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
-* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
-* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
-* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
-* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
-
 
 ### Jump to a conversation on...
 
@@ -58,3 +36,27 @@ video: <iframe width="560" height="315" src="https://www.youtube.com/embed/rd-mf
 * **[34:30](#t=34:30)** Positive press is more important than a lawsuit.
 * **[35:18](#t=35:18)** What are the characteristics that have made you a good negotiator?
 * **[37:37](#t=37:37)** How can people find your book?
+
+### Sponsor Details
+
+*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=cssdevconf2017)
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv111&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt @teleject](https://twitter.com/teleject)
+* [Lainey Feingold’s Law Firm](http://www.lflegal.com)
+* [Lainey on Twitter](https://twitter.com/lflegal)
+* [Joe Clark - Building Accessible Websites](http://joeclark.org/book/)
+* [Structured Negotiation Talk in DC](https://www.americanbar.org/groups/dispute_resolution/publications/section-publications/structured_negotiation.html)
+* [Structured Negotiation on American Bar Association](https://shop.americanbar.org/ebus/store/productdetails.aspx?productid=254116970)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
+
+
+
