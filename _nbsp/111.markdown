@@ -2,7 +2,12 @@
 title: Lainey Feingold
 date: 2017-03-24 12:11:00 -06:00
 position: 1
-description: Lainey Feingold, a disability rights lawyer, who has worked with Target, CVS, Major League Baseball, Wal-Mart, and many organization in representing disabled people seeking full participation in all society has to offer. She is the author of Structured Negotiation published by the American Bar Association. A book that explores an alternative dispute resolution process other than mediation or lawsuits for disputed claims. 
+description: Lainey Feingold, a disability rights lawyer, who has worked with Target,
+  CVS, Major League Baseball, Wal-Mart, and many organization in representing disabled
+  people seeking full participation in all society has to offer. She is the author
+  of Structured Negotiation published by the American Bar Association. A book that
+  explores an alternative dispute resolution process other than mediation or lawsuits
+  for disputed claims.
 sponsor: 
 sponsor-link: 
 sponsor-copy: 
