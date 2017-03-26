@@ -5,7 +5,10 @@ published: false
 episode: 32
 sponsor: Feed.Press
 description: Kari and Brook talk about Canada, some stuff you (assuming you're not
-  a Canadian) might not know about Canada
+  a Canadian) might not know about Canada. Justin Trudeau is cute. Colonialist settlement
+  was kinda horrible, and the government's (historical and current) treatment of indigenous
+  people is too. Pipelines, sex work, socialized medicine, parental leave, RCMP, blinking
+  green lights, friendliness.
 sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign up today and try
   FeedPress on a 14-day trial (no contracts or commitments). Use promo code "grownups"
@@ -14,7 +17,4 @@ Field name:
 layout: episode
 ---
 
-Grazing past current events by talking about Canada. Justin Trudeau is cute. Colonialist settlement was kinda horrible, and the government's (historical and current) treatment of indigenous people is too. Pipelines, sex work, socialized medicine, 
-
-
-
+[Young Justin Trudeau looks like the camp counselor your mom warned you about who got that girl pregnant last summer but kept his job.](https://twitter.com/CharlesPulliam/status/836685832966844417)
