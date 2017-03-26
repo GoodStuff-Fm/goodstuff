@@ -1,0 +1,17 @@
+---
+title: Whoa Canada
+date: 2017-03-26 14:09:00 -06:00
+published: false
+episode: 32
+sponsor: Feed.Press
+description: Kari and Brook talk about Canada, some stuff you (assuming you're not
+  a Canadian) might not know about Canada
+sponsor-link: http://feed.press/grownups
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign up today and try
+  FeedPress on a 14-day trial (no contracts or commitments). Use promo code "grownups"
+  during checkout to get 10% off your first year.
+Field name: 
+layout: episode
+---
+
+Grazing past current events by talking about Canada.
