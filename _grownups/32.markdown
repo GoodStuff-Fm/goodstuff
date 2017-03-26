@@ -8,7 +8,7 @@ description: Kari and Brook talk about Canada, some stuff you (assuming you're n
   a Canadian) might not know about Canada. Justin Trudeau is cute. Colonialist settlement
   was kinda horrible, and the government's (historical and current) treatment of indigenous
   people is too. Pipelines, sex work, socialized medicine, parental leave, RCMP, blinking
-  green lights, friendliness.
+  green lights, grams of salami.
 sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign up today and try
   FeedPress on a 14-day trial (no contracts or commitments). Use promo code "grownups"
@@ -18,3 +18,7 @@ layout: episode
 ---
 
 [Young Justin Trudeau looks like the camp counselor your mom warned you about who got that girl pregnant last summer but kept his job.](https://twitter.com/CharlesPulliam/status/836685832966844417)
+
+[Truth and Reconciliation Commission Calls to Action](http://www.trc.ca/websites/trcinstitution/File/2015/Findings/Calls_to_Action_English2.pdf) - The Canadian government trying to figure out how to undo a bunch of wrongs
+
+[Video of the RCMP Musical Ride](https://www.youtube.com/watch?v=_LjwhZ9Y5pU) - synchronized horseback riding in red uniforms!
