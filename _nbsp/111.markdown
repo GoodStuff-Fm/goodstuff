@@ -7,7 +7,7 @@ episode: 111
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-111.mp3
 description: Lainey Feingold is the author of *Structured Negotiation* published by
   the American Bar Association that explores an alternative dispute resolution process
-  she's used throughout most have work as a disability rights lawyer. Through structured
+  she’s used throughout her work as a disability rights lawyer. Through structured
   negotiation, she has collaborated with Target, CVS, Major League Baseball, Wal-Mart,
   and many other organizations in representing disabled people seeking full participation
   that our society has to offer.
