@@ -1,18 +1,77 @@
 ---
 title: TBD
-date: 2017-03-18 22:09:00 -06:00
+date: 2017-03-28 09:00:00 -06:00
 published: false
+show: morningshow
+episode: 342
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-342.mp3
+description: 'Welcome to The Goodstuff Morning Show: It’s like driving with just your
+  brights on through a meat field of human alterna-flesh in a 6-wheeled robot carrying
+  a black forest cake.'
 ---
 
+## Headlines
+
+[Buy Kyle a Keyboard](https://smile.amazon.com/AmazonBasics-KU-0833-Wired-Keyboard/dp/B005EOWBHC/ref=sr_1_1?ie=UTF8&qid=1490711296&sr=8-1&keywords=amazon+basic+keyboard)
+
+[Super Mario Run coming to Android next week](http://www.polygon.com/2017/3/17/14964312/super-mario-run-android-release-date-google-play-store-nintendo)
+
+Nintendo’s first Mario game for mobile devices, Super Mario Run, has come to Android. The iOS version also got updated to version 2 which adds new playable characters and some new free-to-play level unlocks.
+
+[http://www.theverge.com/2017/3/22/15030462/apple-acquires-workflow-iphone-utility?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter](http://www.theverge.com/2017/3/22/15030462/apple-acquires-workflow-iphone-utility?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)
+
+[https://twitter.com/MikeSington/status/844608442719354880](https://twitter.com/MikeSington/status/844608442719354880)
+
+[Say Hello to Finger-Lickin’ Lab-Grown Chicken](https://www.technologyreview.com/s/603862/say-hello-to-finger-lickin-lab-grown-chicken/)
+
+Memphis Meats has announced that it has now made what it claims to be the first animal-free, lab-grown pieces of chicken and duck. The resulting chunks of alterna-flesh have so far been crafted into two dishes: a coated and fried chicken strip, and a plateful of duck à l’orange. Memphis Meats says that it can produce a pound of its animal-free chicken for $9,000. That’s less than half what its beef cost just over a year ago.
+
+[Boot, wheelbarrow, thimble ousted from Monopoly board game](https://apnews.com/62d78fabff7a444d9ac24b6c80240703/Boot,-wheelbarrow,-thimble-ousted-from-Monopoly-board-game?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=APEastRegion)
+
+The boot has been booted, the wheelbarrow has been wheeled out, and the thimble got the thumbs down in the latest version of the board game Monopoly. In their place will be a Tyrannosaurus rex, a penguin and a rubber ducky. More than 4.3 million voters from 146 countries weighed in on which tokens they wanted to see in future versions of the game.
+
+[https://mobile.twitter.com/darrenrovell/status/845959973473566720](https://mobile.twitter.com/darrenrovell/status/845959973473566720)
+
+## National Days
+
+[National Black Forest Cake Day](http://nationaldaycalendar.com/national-black-forest-cake-day-march-28/)
+
+Black Forest cake is made of several layers of chocolate cake with whipped cream and cherries between each layer. The cake is then decorated with whipped cream, maraschino cherries and chocolate shavings.
+
+[National Something on a Stick Day](http://nationaldaycalendar.com/national-something-on-a-stick-day-march-28/)
+
+National Something on a Stick Day is a food holiday that lets you use your creative talents.  Once you get started, the possibilities are endless. **_ _**Foods that comes on a stick are fun and easy to eat.
+
+[https://en.wikipedia.org/wiki/Viennetta#/media/File:Tarta_helada_Viennetta.jpg](https://en.wikipedia.org/wiki/Viennetta#/media/File:Tarta_helada_Viennetta.jpg)
+
+[https://boardgamegeek.com/thread/1118012/pangea-risk-map](https://boardgamegeek.com/thread/1118012/pangea-risk-map)
+
+## Robot News
+
+[DoorDash Will Start Delivering Food via Robots in California This Thursday](https://www.buzzfeed.com/alexkantrowitz/doordash-will-start-delivering-food-via-robots-in?utm_term=.cryKlvmkBV#.wqR1RBLmzN)
+
+DoorDash is putting a small fleet of six-wheeled delivery robots into action for the first time in Redwood City. The robots, built by a company called Starship Technologies, roll around sidewalks with relative ease. They’ll be used to take food from restaurants to customers on short-distance orders (one to two miles).
+
+[Meet Flippy - the robot that can cook the perfect burger every time](http://www.telegraph.co.uk/technology/2017/03/09/meet-flippy-robot-can-cook-perfect-burger-every-time/)
+
+Miso Robotics presents Flippy the burger flipping robot. Using its sensors, Flippy detects the burger and flips it in time to produce the perfect burger.
+
 ## Support Us
-*Want to support the show?* Visit our [Support page](/support) to help make this show possible!
+
+**Want to support the show?** Visit our [Support page](http://goodstuff.fm/support) to help make this show possible!
 
 ## Get in Touch
-* [Email](mailto:kyle@goodstuff.fm)
-* [Kyle on Twitter](http://twitter.com/dogburps)
-* [Kenny on Twitter](http://twitter.com/pizzarobotics)
-* [Morning Show on Twitter](http://twitter.com/morningshowam)
-* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+[Email us](mailto:kyle@goodstuff.fm)
+
+[Kyle on Twitter](http://twitter.com/dogburps)
+
+[Kenny on Twitter](http://twitter.com/pizzarobotics)
+
+[Morning Show on Twitter](http://twitter.com/morningshowam)
+
+[Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
 
 ## About
+
 The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
