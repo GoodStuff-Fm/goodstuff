@@ -5,10 +5,13 @@ position: 1
 show: nbsp
 episode: 112
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-112.mp3
-description: Susan Weinschenk is a behavioral psychologist who has been working in the field of design and user experience since 1985. She has published five books on user experience in computer systems. She joins us today to talk about changing your self story and commiserate on the fun of dealing with customer service.
-sponsor-link:
-sponsor-copy:
-video:
+description: Susan Weinschenk is a behavioral psychologist who has been working in
+  the field of design and user experience since 1985. She has published five books
+  on user experience in computer systems. She joins us today to talk about changing
+  your self story and commiserate on the fun of dealing with customer service.
+sponsor-link: 
+sponsor-copy: 
+video: 
 layout: episode
 ---
 
