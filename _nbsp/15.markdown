@@ -20,7 +20,7 @@ layout: episode
 * [Dreamweaver CS6: The Missing Manual (Missing Manuals): David Sawyer McFarland: 9781449316174: Amazon.com: Books](http://www.amazon.com/Dreamweaver-CS6-The-Missing-Manual/dp/1449316174)(Missing Manuals)
 * [Comic-Con International: San Diego](http://www.comic-con.org/cci/)
 * [All Standards and Drafts - W3C](http://www.w3.org/TR/)
-* [Stubbornella » Blog Archive » Our (CSS) Best Practices Are Killing US](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)(CSS)
+* [Stubbornella » Blog Archive » Our CSS Best Practices Are Killing US](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)(CSS)
 * [Talks | Webstock](http://www.webstock.org.nz/talks/)
 * [Home · stubbornella/oocss Wiki](https://github.com/stubbornella/oocss/wiki)
 * [Stubbornella » Blog Archive » The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
