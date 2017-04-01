@@ -1,5 +1,5 @@
 ---
-title: Margot Bloomstein - Brand & Content Strategy
+title: Margot Bloomstein — Brand & Content Strategy
 date: 2015-10-09 12:11:00 -06:00
 position: 47
 description: Margot Bloomstein joins Christopher and Sam to talk about content strategy
@@ -12,6 +12,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 51
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-51.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/H4GMmJXK2Ok"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
