@@ -1,5 +1,5 @@
 ---
-title: Allison Wagner - Career Path to UX Developer
+title: Allison Wagner — Career Path to UX Developer
 date: 2016-03-01 12:11:00 -06:00
 description: 'Allison <3’s CSS. She has worked at Happy Cog as a UX developer for
   over 6 years, building sites for high-profile clients such as Nintendo, MTV, Harvard,
@@ -14,6 +14,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 69
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-69.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/LGtnaULT0Ps"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
