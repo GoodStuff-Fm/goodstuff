@@ -13,6 +13,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 57
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-57.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/MFzyQxB7Lgo"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
