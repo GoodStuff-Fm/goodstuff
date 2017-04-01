@@ -1,5 +1,5 @@
 ---
-title: Simon St. Laurent - Tech, Drama News
+title: Simon St. Laurent — Tech, Drama News
 date: 2015-11-06 12:11:00 -06:00
 description: This week we have Simon St. Laurent, Chair of the Fluent Conference.
   We talk about about latest news in the web building world and anything else that’s
@@ -12,6 +12,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 55
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-55.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ypROI3pg1mk"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
