@@ -18,7 +18,7 @@ layout: episode
 ---
 
 * [Christopher Schmitt](http://Christopher.org)
-* [Christopher Schmitt (@teleject) | Twitter](https://twitter.com/teleject)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
 * [Dreamweaver CS6: The Missing Manual: David Sawyer McFarland: 9781449316174: Amazon.com: Books](http://www.amazon.com/Dreamweaver-CS6-The-Missing-Manual/dp/1449316174)
 * [Comic-Con International: San Diego](http://www.comic-con.org/cci/)
 * [All Standards and Drafts - W3C](http://www.w3.org/TR/)
