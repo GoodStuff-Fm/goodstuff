@@ -18,8 +18,8 @@ layout: episode
 ### Jump to a conversation on...
 
 * **[2:25](#t=2:25)** What's a normal day for you?
-* **[3:45](#t=3:45)** I always wanted to be a science advisor on a TV show.
-* **[6:40](#t=6:40)** YouTube stars vs tv stars
+* **[3:45](#t=3:45)** Being a science advisor on a TV show.
+* **[6:40](#t=6:40)** YouTube stars vs. TV stars
 * **[8:55](#t=8:55)** How do self stories help people keep resolutions?
 * **[11:24](#t=11:24)** If you're talking about making a big change in your life, habit will only get you so far.
 * **[12:30](#t=12:30)** What is an example of a self story?
@@ -28,9 +28,9 @@ layout: episode
 * **[17:30](#t=17:30)** There's always more than one way to look at a situation.
 * **[18:50](#t=18:50)** The way you describe your life has a huge effect on you.
 * **[20:50](#t=20:50)** Is the best way to do it to write it down?
-* **[24:01](#t=24:01)** Don't lie in your story - it has to be grounded in reality.
+* **[24:01](#t=24:01)** Don't lie in your story. Your story has to be grounded in reality.
 * **[30:00](#t=30:00)** Do you have personas on the project?
-* **[31:50](#t=31:50)** What's a deep interview?
+* **[31:50](#t=31:50)** What's a "deep interview?"
 * **[36:10](#t=36:10)** I had someone crying in an interview about hooking up a television.
 * **[39:00](#t=39:00)** What you need is the story from people.
 * **[41:30](#t=41:30)** Customer support and trust is a big deal on the internet
@@ -43,7 +43,7 @@ layout: episode
 ### Sponsor Details
 
 *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=cssdevconf2017)
-* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
 
 ### Links:
 
