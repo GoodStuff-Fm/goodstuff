@@ -11,7 +11,8 @@ description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been wor
   Needs to Know About People.”'
 sponsor-link: 
 sponsor-copy: 
-video: 
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/cXolX7oxWFo"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
