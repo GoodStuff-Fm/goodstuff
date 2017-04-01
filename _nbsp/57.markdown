@@ -1,5 +1,5 @@
 ---
-title: Annette Priest - UX Tools and Gadgets
+title: Annette Priest — UX Tools and Gadgets
 date: 2015-11-23 12:11:00 -06:00
 description: 'Annette Priest is a UX strategist and experienced designer and researcher.
   Her work spans device types and industries: mobile, IoT, health, travel, communications,
