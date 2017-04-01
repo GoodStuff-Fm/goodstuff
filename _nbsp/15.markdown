@@ -17,6 +17,8 @@ video: <iframe width="560" height="315" src="https://www.youtube.com/embed/D2L1M
 layout: episode
 ---
 
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt (@teleject) | Twitter](https://twitter.com/teleject)
 * [Dreamweaver CS6: The Missing Manual: David Sawyer McFarland: 9781449316174: Amazon.com: Books](http://www.amazon.com/Dreamweaver-CS6-The-Missing-Manual/dp/1449316174)
 * [Comic-Con International: San Diego](http://www.comic-con.org/cci/)
 * [All Standards and Drafts - W3C](http://www.w3.org/TR/)
@@ -35,3 +37,9 @@ layout: episode
 * [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
 * [Nicole Sullivan on Twitter](https://twitter.com/stubbornella)
 * [Stubbornella](http://www.stubbornella.org/content/)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
