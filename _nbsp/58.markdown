@@ -1,5 +1,5 @@
 ---
-title: Jonathan Cutrell - CSS Attribute Design and Level 4 Selectors
+title: Jonathan Cutrell — CSS Attribute Design and Level 4 Selectors
 date: 2015-11-30 12:11:00 -06:00
 description: Jonathan Cutrell is Director of Technology at Whiteboard, an interactive
   design and development firm. He also hosts of Developer Tea podcast. We talked about
@@ -12,6 +12,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 58
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-58.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/faiY5FLiAAM"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
