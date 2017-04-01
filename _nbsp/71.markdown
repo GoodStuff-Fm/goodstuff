@@ -1,5 +1,5 @@
 ---
-title: Simon St. Laurent - SXSW Interactive, Fluent Conf
+title: Simon St. Laurent — SXSW Interactive, Fluent Conf
 date: 2016-03-22 12:11:00 -06:00
 description: While Christopher Schmitt endures the SXSW Interactive invasion of Ausin,
   Texas, Simon St. Laurent returns from this year’s Fluent Conf. They both talk about
@@ -12,8 +12,6 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 71
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-71.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/3s1WU-yivTs"
-  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
