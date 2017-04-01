@@ -1,5 +1,5 @@
 ---
-title: Matt McGee - SEO
+title: Matt McGee — Search Engine Optimization
 date: 2015-10-15 12:11:00 -06:00
 position: 47
 description: Matt is the Editor-in-Chief at Marketing Land & Search Engine Land so
