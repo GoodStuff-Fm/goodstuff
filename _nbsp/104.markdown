@@ -1,5 +1,5 @@
 ---
-title: Simon St. Laurent — Top (2n-1) News Stories
+title: Simon St. Laurent — Twitter Bots, Amazon VR Stores, and More
 date: 2017-01-31 12:11:00 -06:00
 position: 50
 description: Twitter filled with Star Wars Bots; Amazon wants storefronts in virtual
@@ -14,6 +14,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 104
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-104.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/4dtU22Huq-I"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
