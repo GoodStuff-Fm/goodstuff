@@ -1,6 +1,6 @@
 ---
 title: Susan Weinschenk, Ph.D. — How To Get People To Do Stuff
-date: 2017-04-01 10:00:00 -06:00
+date: 2017-04-03 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 112
