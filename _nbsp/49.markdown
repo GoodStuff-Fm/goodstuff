@@ -1,5 +1,5 @@
 ---
-title: Simon St. Laurent - Ad Blockers and the Web
+title: Simon St. Laurent — Ad Blockers and the Web
 date: 2015-09-24 12:11:00 -06:00
 position: 47
 description: Simon St. Laurent joins Christopher to talk about content blocking, cookies,
@@ -13,6 +13,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 49
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-49.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/tpvj-JIyLOM"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
