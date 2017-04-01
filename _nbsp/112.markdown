@@ -1,14 +1,14 @@
 ---
-title: Susan Weinschenk - Changing Your Story
+title: Susan Weinschenk, Ph.D. — How To Get People To Do Stuff
 date: 2017-04-01 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 112
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-112.mp3
-description: Susan Weinschenk is a behavioral psychologist who has been working in
-  the field of design and user experience since 1985. She has published five books
-  on user experience in computer systems. She joins us today to talk about changing
-  your self story and commiserate on the fun of dealing with customer service.
+description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been working
+  in the field of design and user experience. She is the author of “How To Get People
+  To Do Stuff,” “Neuro Web Design: What Makes Them Click?” and “100 Things Every Designer
+  Needs to Know About People.”'
 sponsor-link: 
 sponsor-copy: 
 video: 
