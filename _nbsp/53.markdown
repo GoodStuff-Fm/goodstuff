@@ -2,7 +2,11 @@
 title: Sam Richard — Sass, Front-end Development
 date: 2015-10-22 12:11:00 -06:00
 position: 47
-description: "Sam Richard, UI Architect for IBM Watson, part of the awesome design team, where he waxes philosophical about Sass+Compass, Responsive Web Design, Drupal, Photography, and, on occasion, bacon. Richard got his start with the New York State Senate and the World Economic Forum which instilled a great love for Open Source, Open Government, and an Open World, which caries on to this day."
+description: Sam Richard, UI Architect for IBM Watson, part of the awesome design
+  team, where he waxes philosophical about Sass+Compass, Responsive Web Design, Drupal,
+  Photography, and, on occasion, bacon. Richard got his start with the New York State
+  Senate and the World Economic Forum which instilled a great love for Open Source,
+  Open Government, and an Open World, which caries on to this day.
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
@@ -11,6 +15,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 53
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-53.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/0aijIINXJTk" frameborder="0" allowfullscreen></iframe>
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/0aijIINXJTk"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
+
