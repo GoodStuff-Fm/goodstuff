@@ -1,5 +1,5 @@
 ---
-title: Micah Godbolt and Front-end Architecture
+title: Micah Godbolt — Front-End Architecture
 date: 2015-02-23 12:11:00 -06:00
 position: 46
 description: A regular code contributor and speaker at worldwide open source events,
@@ -12,6 +12,8 @@ sponsor-copy: Tell them you heard about it on Goodstuff
 episode: 48
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-48.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/n9Necok5lwI"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
