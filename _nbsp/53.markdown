@@ -1,20 +1,16 @@
 ---
-title: Matt McGee — Search Engine Optimization
-date: 2015-10-15 12:11:00 -06:00
+title: Sam Richard — Sass, Front-end Development
+date: 2015-10-22 12:11:00 -06:00
 position: 47
-description: Matt is the Editor-in-Chief at Marketing Land & Search Engine Land so
-  we pick his brain about all things SEO - the white hat side SEO. And what’s up with
-  all those Pandas that Google keeps releasing?
+description: "Sam Richard, UI Architect for IBM Watson, part of the awesome design team, where he waxes philosophical about Sass+Compass, Responsive Web Design, Drupal, Photography, and, on occasion, bacon. Richard got his start with the New York State Senate and the World Economic Forum which instilled a great love for Open Source, Open Government, and an Open World, which caries on to this day."
 sponsor: Feed.Press
 sponsor-link: http://feed.press/nbsp
 sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
   try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
   during checkout to get 10% off your first year.
-episode: 52
+episode: 53
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-52.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/tlg32WQnlSk"
-  frameborder="0" allowfullscreen></iframe>
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-53.mp3
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/0aijIINXJTk" frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
-
