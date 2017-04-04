@@ -1,5 +1,5 @@
 ---
-title: Those are SweeTarts, Sweet Heart
+title: Twinkie Goo
 date: 2017-04-04 10:03:00 -06:00
 published: false
 episode: 343
