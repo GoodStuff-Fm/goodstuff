@@ -46,7 +46,7 @@ morningshow:
   name: The Goodstuff Morning Show
   collection: morningshow
   hosts: Kyle Roderick and Kenny Roderick
-  description: The Goodstuff Morning Show with brothers Kyle and Kenny is a fun, comedic show that covers the top stories from the week, interesting facts, and national food holidays.
+  description: A weekly look into the Internet's junk drawer with the brothers Roderick. Records LIVE on Tuesdays at 7AM Pacific on Twitch.
   artwork: "/uploads/artwork-morningshow.jpg"
   color: #5BC4FE
   explicit: no
