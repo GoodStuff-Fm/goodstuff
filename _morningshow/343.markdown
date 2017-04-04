@@ -8,6 +8,7 @@ description: 'Welcome to The Goodstuff Morning Show: It''s like sneaking into th
   Rex on Mars.'
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/q1HsWgyxBow"
   frameborder="0" allowfullscreen></iframe>
+show: morningshow
 layout: episode
 ---
 
