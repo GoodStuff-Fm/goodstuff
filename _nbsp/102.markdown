@@ -5,7 +5,10 @@ date: 2016-12-15 12:11:00 -06:00
 description: For our 2016 wrap-up episode, we’re presenting an exclusive recording
   of the traditional CSS Dev Conf 2016 Wrap Up Panel. As hour filled with lots of
   great questions from the audience for the incredible array of speakers.
-sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year."
+sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided
+  by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day
+  trial (no contracts or commitments). Use promo code `NBSP` during checkout to get
+  10% off your first year."
 episode: 102
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-102.mp3
@@ -13,3 +16,4 @@ video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZP6Zy
   frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
+

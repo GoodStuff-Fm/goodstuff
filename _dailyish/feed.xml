@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: dailyish
-layout:
+layout: 
 ---
 
 <?xml version="1.0" encoding="utf-8"?>

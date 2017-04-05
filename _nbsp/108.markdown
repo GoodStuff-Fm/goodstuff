@@ -7,13 +7,11 @@ description: A highly sought-after speaker, Steve Krug is a usability consultant
   Netscape, AOL, Lexus, and others. He is best known for his book Don't Make Me Think
   about human-computer interaction and web usability.  His second book, Rocket Surgery
   Made Easy, is a DIY guide for Finding and fixing usability problems.
-sponsor: "* **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv107&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code `NONBREAKINGSPACESHOW` for 20% off.
-
-*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)
-
-* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
-
-* **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year."
+sponsor: |-
+  * **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv107&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code `NONBREAKINGSPACESHOW` for 20% off.
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+  * **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year.
 episode: 108
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-108.mp3
