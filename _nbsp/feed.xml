@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: nbsp
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -40,8 +40,7 @@ layout:
 <itunes:category text="{{ show.category3 }}" />
 <itunes:explicit>{{ show.explicit }}</itunes:explicit>
 
-{% for doc in site[show.collection] %}
-{% unless doc.title == 'Feed' %}
+{% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
   <item>
     <title>{{ doc.title | xml_escape }}</title>
     <link>{{ site.url }}{{ doc.url }}</link>
@@ -53,21 +52,21 @@ layout:
     <itunes:subtitle><![CDATA[ {{ doc.description | markdownify | xml_escape }} ]]></itunes:subtitle>
     <itunes:summary><![CDATA[ {{ doc.description | markdownify | xml_escape }} ]]></itunes:summary>
     <itunes:keywords>{{ show.keywords }}</itunes:keywords>
-    <itunes:image href="{{ site.url }}{{ show.artwork }}" />
     <itunes:explicit>{{ show.explicit }}</itunes:explicit>
     <content:encoded>
       <![CDATA[
       {{ doc.description | markdownify | xml_escape }}<br><br>
       {% if doc.sponsor %}
-        This episode of {{ show.name }} is sponsored by: <a href="{{ doc.sponsor-link }}">{{ doc.sponsor }}</a><br>
-        {% if doc.sponsor-copy %}
-          {{ doc.sponsor-copy | xml_escape }}<br><br>
-        {% endif %}
+      This episode of {{ show.name }} is sponsored by: <br>
+          {{ doc.sponsor-copy | markdownify | xml_escape }}<br><hr><br>
       {% endif %}
+      {{ doc.content | markdownify | xml_escape }}
       ]]>
     </content:encoded>
+    <itunes:image href="{{ site.url }}{{ show.artwork }}" />
   </item>
 {% endunless %}
+{% endif %}
 {% endfor %}
 
 </channel>
