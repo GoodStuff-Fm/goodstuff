@@ -9,6 +9,8 @@ description: Is Passengers an actual U2 album? Is it rain or jiffy pop at the st
   discuss Passengers in our album by album series.
 sponsor-link: 
 sponsor-copy: 
+video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/oTg3Ookclvo"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
