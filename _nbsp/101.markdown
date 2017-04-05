@@ -3,7 +3,10 @@ title: Lauren Golembiewski — Creating Conversational Smart Bots
 date: 2016-12-07 12:11:00 -06:00
 description: Product Design Director Lauren Golembiewski is co-founder of Voxable
   which builds conversational bots and voice interfaces.
-sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year."
+sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided
+  by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day
+  trial (no contracts or commitments). Use promo code `NBSP` during checkout to get
+  10% off your first year."
 episode: 101
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-101.mp3
@@ -11,3 +14,4 @@ video: <iframe width="560" height="315" src="https://www.youtube.com/embed/HE5Ut
   frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
+
