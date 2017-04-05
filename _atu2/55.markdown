@@ -4,9 +4,11 @@ date: 2017-04-04 10:22:00 -06:00
 show: atu2
 episode: 55
 mp3: http://podcasts-1.feedpress.co/12572/atu2-55.mp3
-description: Is Passengers an actual U2 album? Is it rain or jiffy pop at the start of that song? New atU2 staffers Collin and Eric join Ian, Steve, and Chris to finally discuss Passengers in our album by album series.
-sponsor-link:
-sponsor-copy:
+description: Is Passengers an actual U2 album? Is it rain or jiffy pop at the start
+  of that song? New atU2 staffers Collin and Eric join Ian, Steve, and Chris to finally
+  discuss Passengers in our album by album series.
+sponsor-link: 
+sponsor-copy: 
 layout: episode
 ---
 
