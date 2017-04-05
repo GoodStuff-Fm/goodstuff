@@ -58,7 +58,7 @@ layout:
       {{ doc.description | markdownify | xml_escape }}<br><br>
       {% if doc.sponsor %}
       This episode of {{ show.name }} is sponsored by: <br>
-          {{ doc.sponsor-copy | markdownify | xml_escape }}<br><hr><br>
+          {{ doc.sponsor | markdownify | xml_escape }}<br><hr><br>
       {% endif %}
       {{ doc.content | markdownify | xml_escape }}
       ]]>
