@@ -5,11 +5,13 @@ position: 1
 description: Director at South by Southwest (SXSW) Interactive Festival, Hugh Forrest
   has overseen it from its inception in the mid-90s to see it turn into a mega-conference,
   hosting a sitting President of the United States as keynote speaker.
-sponsor: Feed.Press
-sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
-  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp"
-  during checkout to get 10% off your first year.
+sponsor: "* **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv107&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code `NONBREAKINGSPACESHOW` for 20% off.
+
+*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)
+
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+
+* **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year."
 episode: 107
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-107.mp3
@@ -72,4 +74,3 @@ layout: episode
 * [FourSquare](https://foursquare.com/)
 * [Attend SXSW/Pricing](https://www.sxsw.com/attend/)
 * [Talkabot Conference](https://talkabot.ai/)
-

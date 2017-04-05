@@ -432,6 +432,33 @@
         color: $bright-red;
         text-decoration: none;
       }
+      ul {
+        list-style: disc;
+        padding-left: 2pt;
+        color: $blue;
+      }
+
+      ol {
+        padding: 20px;
+      }
+
+
+      ol li {
+        margin-left: 35px;
+      }
+
+      ul li {
+        margin-left: 15pt;
+        color: $light-blue;
+        padding-bottom: 8pt;
+      }
+
+      hr {
+        border: 0;
+        height: 0;
+        border-top: 1px $light-gray;
+        border-bottom: 1px solid $light-gray;
+      }
     }
   }
 
