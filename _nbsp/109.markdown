@@ -6,11 +6,9 @@ description: Steve Portigal is the founder and principal of Portigal Consulting,
   boutique firm that brings together user research, design and business strategy.
   Steve is the author of Interviewing Users&#58; How to Uncover Compelling Insights
   and Doorbells, Danger, and Dead Batteries&#58; User Research War Stories.
-sponsor: Feed.Press
-sponsor-link: http://feed.press/nbsp
-sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
-  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp"
-  during checkout to get 10% off your first year.
+sponsor: "*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=cssdevconf2017)
+
+* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt."
 episode: 109
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-109.mp3
@@ -18,12 +16,6 @@ video: <iframe width="560" height="315" src="https://www.youtube.com/embed/BwqO-
   frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
-
-### Sponsor Details
-
-*  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=cssdevconf2017)
-* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv109&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
-
 
 ### LINKS:
 
