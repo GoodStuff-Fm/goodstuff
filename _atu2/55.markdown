@@ -8,7 +8,10 @@ description: Is Passengers an actual U2 album? Is it rain or jiffy pop at the st
   of that song? New atU2 staffers Collin and Eric join Ian, Steve, and Chris to finally
   discuss Passengers in our album by album series.
 sponsor-link: https://boinx.com/mimolive/
-sponsor-copy: Video streaming and production provided by Mimo Live. Learning how to use mimoLive is child's play – literally. Its logical and intuitive production workflow can be mastered by anyone from school kids to senior citizens in very short time. And yet it is so powerful, it also satisfies the broadcasting veterans wildest dreams.
+sponsor-copy: Video streaming and production provided by Mimo Live. Learning how to
+  use mimoLive is child's play – literally. Its logical and intuitive production workflow
+  can be mastered by anyone from school kids to senior citizens in very short time.
+  And yet it is so powerful, it also satisfies the broadcasting veterans wildest dreams.
 video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/oTg3Ookclvo"
   frameborder="0" allowfullscreen></iframe>
 layout: episode
@@ -19,6 +22,12 @@ layout: episode
 * [Letter to Propaganda by Collin](https://twitter.com/atu2comSherry/status/849455826532216833)
 * [Fools Rush In by Bill Carter](http://amzn.to/2n9wufw)
 * [Captive on YouTube](https://www.youtube.com/watch?v=OXPwsNdxqdU)
+* [atU2.com Official News Release of Passengers](https://www.atu2.com/news/passengers-official-news-release-announcement.html)
+* [atU2.com Brian Eno Story Behind Passengers](https://www.atu2.com/news/eno-the-story-behind-original-soundtracks-1.html
+)
+* [atU2.com Bill Carter A Wanderer Rushed In](https://www.atu2.com/news/bill-carter-a-wanderer-rushed-in.html)
+* [atU2.com Secrets of Sarjevo 20 Years Later](https://www.atu2.com/news/secrets-of-sarajevo-20-years-later.html)
+* [Like a Song: Miss Sarajevo](https://www.atu2.com/news/like-a-song-miss-sarajevo.html)
 * [@ericbobg](https://twitter.com/ericbobg)
 * [@IanPRyan](https://twitter.com/ianpryan)
 * [@Collin_Souter](https://twitter.com/collin_souter)
