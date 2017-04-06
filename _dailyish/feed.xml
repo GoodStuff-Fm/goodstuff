@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: dailyish
-layout:
+layout: 
 ---
 
 {% include feed.html %}

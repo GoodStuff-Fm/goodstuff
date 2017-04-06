@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: neverdigdown
-layout:
+layout: 
 ---
 
 {% include feed.html %}

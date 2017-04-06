@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: nbsp
-layout:
+layout: 
 ---
 
 {% include feed.html %}
