@@ -7,8 +7,8 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-55.mp3
 description: Is Passengers an actual U2 album? Is it rain or jiffy pop at the start
   of that song? New atU2 staffers Collin and Eric join Ian, Steve, and Chris to finally
   discuss Passengers in our album by album series.
-sponsor-link: 
-sponsor-copy: 
+sponsor-link: https://boinx.com/mimolive/
+sponsor-copy: Video streaming and production provided by Mimo Live. Learning how to use mimoLive is child's play – literally. Its logical and intuitive production workflow can be mastered by anyone from school kids to senior citizens in very short time. And yet it is so powerful, it also satisfies the broadcasting veterans wildest dreams.
 video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/oTg3Ookclvo"
   frameborder="0" allowfullscreen></iframe>
 layout: episode
