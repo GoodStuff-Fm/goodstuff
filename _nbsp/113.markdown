@@ -5,10 +5,7 @@ position: 1
 show: nbsp
 episode: 113
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-113.mp3
-description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been working
-  in the field of design and user experience. She is the author of *How To Get People
-  To Do Stuff*, *Neuro Web Design: What Makes Them Click?* and *100 Things Every Designer
-  Needs to Know About People*.'
+description: 'Val Head is one of the leading voices in web animation and she stops by the show to talk about some of the benefits of animation, examples of good and bad animation, how to convince people to try animation, and where you can get started in working with web animation.'
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
