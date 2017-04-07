@@ -5,10 +5,10 @@ position: 2
 show: morningshow
 episode: 339
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-339.mp3
-sponsor: Feed.Press
-sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
-  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
-  during checkout to get 10% off your first year.
+sponsor: Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress
+  on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during
+  checkout to get 10% off your first year.
+sponsor-copy: 
 sponsor-link: http://feed.press/morningshow
 description: We've got a new theme song, Kenny thinks it's Fryday, McRib Chalupas,
   horses with wheels, VR isolation tanks, Sunny-D, and more!
