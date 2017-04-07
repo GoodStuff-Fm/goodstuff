@@ -14,6 +14,7 @@ sponsor-copy: Video streaming and production provided by Mimo Live. Learning how
   And yet it is so powerful, it also satisfies the broadcasting veterans wildest dreams.
 video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/oTg3Ookclvo"
   frameborder="0" allowfullscreen></iframe>
+sponsor: Mimo Live
 layout: episode
 ---
 
