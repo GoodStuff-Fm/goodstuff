@@ -37,5 +37,5 @@ Currently $140/month income via patron support.
 
 # Any Questions?
 
-* You can discuss this in our subreddit or <a href="mailto:contact@goodstuff.fm">email us</a>.
+* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/641ozi/goodstuff_monthly_march_2017/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
 * Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
