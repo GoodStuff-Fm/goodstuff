@@ -1,0 +1,63 @@
+---
+title: Val Head - Animation
+date: 2017-04-07 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 113
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-113.mp3
+description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been working
+  in the field of design and user experience. She is the author of *How To Get People
+  To Do Stuff*, *Neuro Web Design: What Makes Them Click?* and *100 Things Every Designer
+  Needs to Know About People*.'
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video:
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[2:30](#t=2:30)** Writing the preface is the worst.
+* **[4:03](#t=4:03)** Benefits of brain animation including transitions
+* **[6:07](#t=6:07)** Animation helping with perceived performance makes things seem like things are happening faster
+* **[8:01](#t=8:01)** Facebook content loading examples of perceived performance and perceived speed
+* **[9:00](#t=9:00)** Benefits of reducing content load, make it obvious what has changed on the screen
+* **[10:50](#t=10:50)** Bad form designs that take up too much of the page
+* **[12:30](#t=12:30)** Explanation of UI choreography - managing multiple animations and commonality of animations
+* **[16:09](#t=16:09)** Blocking animation is bad, it stops you from doing things while it's animated.
+* **[17:40](#t=17:40)** Don't hide layers people need to interact with.
+* **[20:30](#t=20:30)** Some examples of good animation that elevates the design, including brand identity.
+* **[23:31](#t=23:31)** Some examples of sites that are really good at freeze animation.
+* **[26:10](#t=26:10)** PayPal redesign compared to Stripe
+* **[28:00](#t=28:00)** How you go about thinking about instilling animation into your brand, app or website.
+* **[33:00](#t=33:00)** Recommendations on how to convince higher ups to integrate animation.
+* **[38:30](#t=38:30)** Where does someone start working more with animation? CSS?
+* **[40:02](#t=40:02)** Green Sock versus CSS.
+* **[41:02](#t=41:0)** Books or websites that would help you learn more about CSS.
+* **[42:40](#t=42:40)** What Java Script does that CSS can't.
+* **[45:10](#t=45:10)** What's covered in the workshops with Sarah Drasner.
+* **[46:50](#t=46:50)** How to connect or find more information about Val Head.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt @teleject](https://twitter.com/teleject)
+* [Val Head](http://valhead.com/)
+* [Web Animation Workshops](https://webanimationworkshops.com/ )
+* [Sarah Drasner](https://sarahdrasnerdesign.com/)
+* [Designing Interface Animation](http://rosenfeldmedia.com/books/designing-interface-animation/)
+* [CSS Animations A Pocket Guide - Val Head](http://valhead.com/book/)
+* [Animation example on Stripe ](https://stripe.com/ )
+* [Stripe checkout](https://stripe.com/checkout )
+* [Val Head’s Lynda courses](https://www.lynda.com/Val-Head/1814049-1.html)
+* [Dudley Storey’s book on CSS](https://www.amazon.com/CSS3-Animation-Experts-Voice-Development/dp/1430247223)
+* [GreenSock](https://greensock.com/)
+* [Val Head on Twitter](http://twitter.com/@vlh) -
+* [Val's Newsletter](http://valhead.com/newsletter/ )
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
