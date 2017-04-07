@@ -14,6 +14,8 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 ## Expenses for the Month
 * $55 for web and file hosting
 
+*We have other expenses (domain name, occasional gear/software licenses, etc.) but for the purposes of these posts we're just tracking our ongoing monthly expenses.*
+
 ## Patreon Campaigns
 * [Goodstuff](https://www.patreon.com/goodstuff) - not currently active. Coming soon!
 * [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons, $45 per month
