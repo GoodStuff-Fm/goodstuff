@@ -1,7 +1,6 @@
 ---
 title: 'Goodstuff Monthly: March 2017'
 date: 2017-04-07 10:16:00 -06:00
-published: false
 ---
 
 As part of our relaunch we thought we'd be a little more public with things podcasters often tend to be a little shy about sharing: numbers and stats.
