@@ -56,8 +56,8 @@ layout: episode
 * [Val Head’s Lynda courses](https://www.lynda.com/Val-Head/1814049-1.html)
 * [Dudley Storey’s book on CSS](https://www.amazon.com/CSS3-Animation-Experts-Voice-Development/dp/1430247223)
 * [GreenSock](https://greensock.com/)
-* [Val Head on Twitter](http://twitter.com/@vlh) -
-* [Val's Newsletter](http://valhead.com/newsletter/ )
+* [Val Head on Twitter](http://twitter.com/@vlh)
+* [Val's Newsletter](http://valhead.com/newsletter/)
 * [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
 * [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
 * [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
