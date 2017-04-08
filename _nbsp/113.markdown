@@ -1,6 +1,6 @@
 ---
 title: Val Head — Designing Interface Animation
-date: 2017-04-07 10:00:00 -06:00
+date: 2017-04-10 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 113
