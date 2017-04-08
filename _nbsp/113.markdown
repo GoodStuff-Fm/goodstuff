@@ -1,18 +1,20 @@
 ---
-title: Val Head - Animation
+title: Val Head — Designing Interface Animation
 date: 2017-04-07 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 113
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-113.mp3
-description: Val Head is one of the leading voices in web animation and she stops
-  by the show to talk about some of the benefits of animation, examples of good and
-  bad animation, how to convince people to try animation, and where you can get started
-  in working with web animation.
+description: 'Val Head is a web animation expert and author with a talent for getting
+  designers and developers alike excited about the power of animation. She’s the author
+  of *Designing Interface Animation* and teaches CSS Animation on lynda.com.
+
+'
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv113&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video: 
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/0pgNjCM3X8A"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
@@ -43,6 +45,7 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt @teleject](https://twitter.com/teleject)
+* [📺 Val Head — Designing Interface Animation ](https://www.youtube.com/watch?v=0pgNjCM3X8A)
 * [Val Head](http://valhead.com/)
 * [Web Animation Workshops](https://webanimationworkshops.com/ )
 * [Sarah Drasner](https://sarahdrasnerdesign.com/)
