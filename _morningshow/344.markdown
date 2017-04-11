@@ -16,7 +16,7 @@ layout: episode
 ![Italian Roast Pork Stak](https://cbsphilly.files.wordpress.com/2017/03/italian-roast-pork-stak-cbp.png?w=420&h=280)
 
 ## Support Us
-*Want to support the show?* Visit our [Support page](/support) to help make this show possible!
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
 
 ## Get in Touch
 * [Email](mailto:kyle@goodstuff.fm)
