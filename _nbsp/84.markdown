@@ -14,6 +14,7 @@ show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-84.mp3
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/BSG8L_06RGs"
   frameborder="0" allowfullscreen></iframe>
+image: https://goodstuff.fm/nbsp/img/nbsptv-scott-mccloud.jpg
 layout: episode
 ---
 
