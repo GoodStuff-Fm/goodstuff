@@ -45,7 +45,7 @@ layout: episode
 ### Links:
 
 * [Christopher Schmitt](http://Christopher.org)
-* [Christopher Schmitt @teleject](https://twitter.com/teleject)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
 * [Whitney Quesenbery on Twitter](https://twitter.com/whitneyq)
 * [Civic Design](http://civicdesign.org/)
 * [Civic Design Irregulars](https://docs.google.com/forms/d/e/1FAIpQLSc2vtBo8aDGGmJ-VqA1UUdbHDjcKX3TgjcV0aPSaTCflwWfRg/viewform)
