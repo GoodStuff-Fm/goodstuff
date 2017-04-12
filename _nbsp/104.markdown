@@ -16,6 +16,7 @@ show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-104.mp3
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/4dtU22Huq-I"
   frameborder="0" allowfullscreen></iframe>
+image: https://goodstuff.fm/nbsp/img/nbsptv-simonstl.jpg
 layout: episode
 ---
 
