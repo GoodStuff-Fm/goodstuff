@@ -1,13 +1,14 @@
 ---
-title: Whitney Quesenbery - Civic Design
+title: Whitney Quesenbery - Design as a Civic Responsibility
 date: 2017-04-11 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 114
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-114.mp3
-description: Whitney Quesenbery stops by to discuss civic design and how designing
-  better systems for voting can help everyone feel more easily connected and involved
-  in the political system at all levels.
+description: "Whitney is Co-Director of Civic Design and is an expert in user research,
+  user experience, and usability, with a passion for clear communication. \nShe’s
+  the author of three books: *A Web for Everyone*, *Storytelling in User Experience*,
+  and *Global UX*."
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv114&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv114&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv114&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv114&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
