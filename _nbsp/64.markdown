@@ -12,6 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 64
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-64.mp3
+image: https://goodstuff.fm/nbsp/img/nbsptv-jeffrey-zeldman.jpg
 layout: episode
 ---
 
