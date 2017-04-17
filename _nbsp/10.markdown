@@ -4,18 +4,19 @@ date: 2012-05-31 12:11:00 -06:00
 position: 10
 description: Aarron has been building websites professionally since 1999, and taught
   interactive design courses at colleges including Temple University, The University
-  of Georgia, and The Art Institute of Atlanta since 2002. In 2007 he joined “The
-  Web Standards Project”, and for three years lead the development of the InterACT
-  curriculum project – an open curriculum designed to bridge the gap between the Web
-  industry and education. Aarron is the lead user experience designer at The Rocket
-  Science Group – makers of MailChimp, and is the author of “Building Findable Website”
-  and “Designing for Emotion.”
+  of Georgia, and The Art Institute of Atlanta since 2002. In 2007 he joined The Web
+  Standards Project, and for three years lead the development of the InterACT curriculum
+  project – an open curriculum designed to bridge the gap between the Web industry
+  and education. Aarron is the lead user experience designer at The Rocket Science
+  Group – makers of MailChimp, and is the author of *Building Findable Website* and
+  *Designing for Emotion*.
 sponsor: 
 sponsor-link: 
-sponsor-copy: ''
+sponsor-copy: 
 episode: 10
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-10.mp3
+image: https://goodstuff.fm/nbsp/img/nbsptv-aarron-walter.jpg
 layout: episode
 ---
 
