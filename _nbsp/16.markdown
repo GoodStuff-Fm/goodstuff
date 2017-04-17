@@ -5,7 +5,7 @@ position: 16
 description: Jason is a Mobile Web Strategist. He’s the co-Founder of CloudFour where
   they live, breathe, and dream the mobile web and Mobile Portland, a non-profit organization
   dedicated to educating, promoting and supporting the mobile technology community.
-  Jason is also the Co-Author of Head First Mobile Web.
+  Jason is also the Co-Author of *Head First Mobile Web*.
 sponsor: 
 sponsor-link: 
 sponsor-copy: ''
