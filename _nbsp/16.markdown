@@ -15,46 +15,18 @@ mp3: http://podcasts-1.feedpress.co/10609/nbsp-16.mp3
 layout: episode
 ---
 
-* [Jason Grigsby, ☁4 (grigs) on Twitter](https://twitter.com/grigs/)(grigs)
-
-
-* [Waxy.org: Andy Baio lives here](http://waxy.org/)
-
-
+* [Jason Grigsby on Twitter](https://twitter.com/grigs/)(grigs)
+* [Andy Baio](http://waxy.org/)
 * [Cloud Four](http://cloudfour.com/)
-
-
 * [Macworld 2007- Steve Jobs introduces iPhone - Part 1 - YouTube](http://www.youtube.com/watch?v=Svo45oepsI0)
-
-
-* [» A “Comprehensive” Guide to Mobile Statistics Cloud Four Blog](http://blog.cloudfour.com/a-comprehensive-guide-to-mobile-statistics/)
-
-
-* [Scott Jehl, Web Designer/Developer, Seagrove Beach, Florida, USA](http://scottjehl.com/)
-
-
-* [» CSS Media Query for Mobile is Fool’s Gold Cloud Four Blog](http://blog.cloudfour.com/css-media-query-for-mobile-is-fools-gold/)
-
-
+* [A Comprehensive Guide to Mobile Statistics Cloud Four Blog](http://blog.cloudfour.com/a-comprehensive-guide-to-mobile-statistics/)
+* [Scott Jehl](http://scottjehl.com/)
+* [CSS Media Query for Mobile is Fool’s Gold Cloud Four Blog](http://blog.cloudfour.com/css-media-query-for-mobile-is-fools-gold/)
 * [scottjehl/picturefill](https://github.com/scottjehl/picturefill/)
-
-
-* [The Need for a Responsive Web Image Format : Christopher Schmitt](http://christopherschmitt.com/2012/04/04/the-need-for-a-responsive-web-image-format/)
-
-
-* [Secure enterprise mobility made simple | Sencha Space | Products | Sencha](http://www.sencha.com/products/space/)
-
-
-* [Which responsive images solution should you use? | CSS-Tricks](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
-
-
+* [The Need for a Responsive Web Image Format](http://christopherschmitt.com/2012/04/04/the-need-for-a-responsive-web-image-format/)
+* [Secure enterprise mobility made simple](http://www.sencha.com/products/space/)
+* [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
 * [Adaptive Images in HTML](http://adaptive-images.com/)
-
-
 * [filamentgroup/Southstreet](https://github.com/filamentgroup/southstreet)
-
-
 * [Beyond the Desktop Conference](http://bdconf.com/)
-
-
 * [User First Web](http://userfirstweb.com/)
