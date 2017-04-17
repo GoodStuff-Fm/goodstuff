@@ -1,5 +1,5 @@
 ---
-title: SVG Summit 2016 - Building with SVG Q+A Round Table
+title: SVG Summit 2016 — Building with SVG Q+A Round Table
 date: 2016-02-09 12:11:00 -06:00
 description: The Round Table from the SVG Summit has hosted by CSS Tricks’ Chris Coyier.
   It’s both a recap of the SVG Summit talks that happened before it and a Q+A panel
