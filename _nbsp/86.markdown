@@ -15,6 +15,7 @@ show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-86.mp3
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/j-hMZyQw-GE"
   frameborder="0" allowfullscreen></iframe>
+image: https://goodstuff.fm/nbsp/img/nbsptv-dave-olsen.jpg
 layout: episode
 ---
 
