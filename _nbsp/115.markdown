@@ -1,5 +1,6 @@
 ---
-title: Top Stories Countdown with Simon
+title: Simon St. Laurent — The Last Jedi Trailer, Burger King Hacking, Life in Space,
+  and More
 date: 2017-04-18 12:00:00 -06:00
 position: 1
 show: nbsp
