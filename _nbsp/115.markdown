@@ -1,7 +1,7 @@
 ---
 title: Simon St. Laurent — The Last Jedi Trailer, Burger King Hacking, Life in Space,
   and More
-date: 2017-04-18 12:00:00 -06:00
+date: 2017-04-18 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 115
@@ -37,6 +37,8 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Simon St. Laurent on Twitter](https://twitter.com/simonstl)
+* [📺 Simon St Laurent — The Last Jedi Trailer, Burger King Hacking, Life in Space, and More](https://youtu.be/CsG8M9gLvpw)
 * [Signage at Angular Conference](http://simonstl.com/ng-conf-signs/)
 * [State of Angular](http://ng-conf.com/)
 * [Apple gets DMV Approval to test self driving cars in California](https://www.bloomberg.com/news/articles/2017-04-14/apple-gets-dmv-approval-to-test-self-driving-cars-in-california)
