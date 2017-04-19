@@ -6,9 +6,9 @@ position: 1
 show: nbsp
 episode: 115
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-115.mp3
-description: Christopher is joined by Simon St. Laurent once again to count down the
-  past week's top stories in web development including the state of angular, Apple's
-  self-driving vehicles, parking spaces in space, and The Last Jedi trailer.
+description: The state of Angular, Apple's self-driving vehicles, parking spaces in
+  space, American Dream is stuck in a rut, and The Last Jedi teaser trailer reaching
+  over 20 million views.
 sponsor: |-
   * [AccessU Summit](http://accessusummit.com/) is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/).
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv115&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv115&utm_medium=podcast&utm_campaign=cssdevconf2017)
