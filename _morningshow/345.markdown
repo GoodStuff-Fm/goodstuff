@@ -7,6 +7,8 @@ episode: 345
 show: morningshow
 image: https://s-media-cache-ak0.pinimg.com/736x/de/71/ed/de71ed9b26e0ace674564de45f348f34.jpg
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-345.mp3
+Key: 
+layout: episode
 ---
 
 ## Headlines
