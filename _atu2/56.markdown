@@ -1,7 +1,6 @@
 ---
 title: 'B-Side: Joshua Tree Stage Being Built in Houston'
-date: 2017-04-21 12:30:00 -06:00
-published: false
+date: 2017-04-21 15:30:00 -06:00
 show: atu2
 episode: 56
 mp3: http://podcasts-1.feedpress.co/12572/atu2-56.mp3
