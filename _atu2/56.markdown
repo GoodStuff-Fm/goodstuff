@@ -7,7 +7,8 @@ episode: 56
 mp3: http://podcasts-1.feedpress.co/12572/atu2-56.mp3
 description: Matt, Becky, and Chris take a few minutes to chat about the leaked photos
   and videos of what seems to be U2's Joshua Tree tour stage.
-video: 
+video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/sjXwNyfYqxo?rel=0"
+  frameborder="0" allowfullscreen></iframe>
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -16,8 +17,8 @@ sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and producti
 layout: episode
 ---
 
-* [Discuss in our subreddit](#)
-* [Watch a video version of this podcast on YouTube](#)
+* [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/66sjqg/atu2_56_bside_joshua_tree_stage_being_built_in/)
+* [Watch a video version of this podcast on YouTube](https://www.youtube.com/watch?v=sjXwNyfYqxo)
 * [U2’s stage is being built in Houston](https://www.atu2.com/news/u2s-joshua-tree-tour-stage-is-being-built-in-houston.html)
 * [U2 to Release Red Hill Mining Town on Record Store Day](https://www.atu2.com/news/u2-to-release-red-hill-mining-town-on-record-store-day.html)
 * [Red Hill Mining Town Steve Lillywhite 2017 Mix on iTunes](https://geo.itunes.apple.com/us/album/red-hill-mining-town-steve-lillywhite-2017-mix/id1212677607?i=1212678444&app=itunes&at=10l4Ki)
