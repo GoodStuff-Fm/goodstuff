@@ -3,7 +3,7 @@ title: 'B-Side: Joshua Tree Stage Being Built in Houston'
 date: 2017-04-21 15:30:00 -06:00
 show: atu2
 episode: 56
-mp3: http://podcasts-1.feedpress.co/12572/atu2-56.mp3
+mp3: http://podcasts-1.feedpress.co/12572/atu2-56fix.mp3
 description: Matt, Becky, and Chris take a few minutes to chat about the leaked photos
   and videos of what seems to be U2's Joshua Tree tour stage.
 video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/sjXwNyfYqxo?rel=0"
