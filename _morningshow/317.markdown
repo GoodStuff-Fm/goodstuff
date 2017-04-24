@@ -6,7 +6,7 @@ tags:
 - ice cream
 - pizza
 - baseball
-position: 60
+position: 64
 episode: '317'
 description: Astronaut Ice Cream, too much pizza, sharing a microphone, and a really
   short episode. We'll be back on Tuesday!

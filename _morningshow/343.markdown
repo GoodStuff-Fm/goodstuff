@@ -1,6 +1,7 @@
 ---
 title: Twinkie Goo
 date: 2017-04-04 10:03:00 -06:00
+position: 3
 episode: 343
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-343.mp3
 description: 'Welcome to The Goodstuff Morning Show: It''s like sneaking into the
