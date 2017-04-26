@@ -2,7 +2,8 @@
 title: Donkey Kong Baseball 64
 date: 2017-04-26 10:06:00 -06:00
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-346.mp3
-description: 
+description: It's like jumping over a catcher with golf balls in your mouth wearing
+  VR goggles at the Grand Canyon into a pan of paella.
 episode: 346
 image: 
 show: morningshow
