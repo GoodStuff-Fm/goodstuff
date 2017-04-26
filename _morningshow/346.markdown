@@ -5,7 +5,7 @@ mp3: http://podcasts-1.feedpress.co/10588/morningshow-346.mp3
 description: It's like jumping over a catcher with golf balls in your mouth wearing
   VR goggles at the Grand Canyon into a pan of paella.
 episode: 346
-image: 
+image: https://medleyana.files.wordpress.com/2013/10/mario-superstar-baseball.jpg
 show: morningshow
 layout: episode
 ---
