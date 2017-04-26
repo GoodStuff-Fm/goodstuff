@@ -1,0 +1,62 @@
+---
+title: Oliver Lindberg — Conference Planning and Magazine Editing
+date: 2017-04-26 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 116
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-115.mp3
+description: Oliver Lindberg stops by the show to talk about his time as editor of Net magazine and his new role organizing tech conferences for the modern web.
+sponsor: |-
+  * [AccessU Summit](http://accessusummit.com/) is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/).
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video:
+image:
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[2:01](#t=2:01)** Welcome to the show...
+* **[2:45](#t=2:45)** How did you get involved on the web and with .Net magazine?
+* **[4:00](#t=4:00)** Why .Net?
+* **[5:50](#t=5:50)** How would you describe the content of .Net when it was more of a internet fanzine?
+* **[7:17](#t=7:17)** How did you stay on top of events and news as an editor of technology?
+* **[11:40](#t=11:40)** How does someone become a speaker in our industry?
+* **[14:50](#t=14:50)** What tips would would you give to speakers for public speaking?
+* **[16:03](#t=16:03)** What goes into putting together an issue of Net magazine?
+* **[20:20](#t=20:20)** If someone is prolific at writing on their blog, they'll likely be a good speaker.
+* **[21:58](#t=21:58)** How did you pick the cover story for magazines?
+* **[26:10](#t=26:10)** Talking about Pixel Pioneers conference.
+* **[29:10](#t=29:10)** What types of themes do you want to hit with Pixel Pioneers?
+* **[35:30](#t=35:30)** Any advice for running a conference?
+* **[40:13](#t=40:13)** What's your craziest conference story?
+* **[46:00](#t=46:00)** I use spreadsheets more than I ever have before thanks to conference organizing.
+* **[47:05](#t=47:05)** Call for papers for Belfast papers is still available.
+
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Oliver Lindberg.com](https://oliverlindberg.com)
+* [@Oliverlindberg](https://twitter.com/oliverlindberg)
+* [Oliver Lindberg on Medium](https://medium.com/@oliverlindberg)
+* [Pixel Pioneers](https://pixelpioneers.co)
+* [@PixelPioneers](https://twitter.com/pixelpioneers)
+* [TweetedTimes.com](http://tweetedtimes.com)
+* [A Book Apart](https://abookapart.com)
+* [An Event Apart](https://aneventapart.com)
+* [O’Reilly Conferences](https://www.oreilly.com/conferences/)
+* [Meetup.com](https://www.meetup.com)
+* [Generate Conference](https://www.generateconf.com)
+* [📘 Demystifying Public Speaking by Lara Hogan](https://abookapart.com/products/demystifying-public-speaking)
+* [Confessions of a Public Speaker](https://www.amazon.com/Confessions-Public-Speaker-English/dp/1449301959)
+* [Sarah Drasner](http://sarahdrasnerdesign.com)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
