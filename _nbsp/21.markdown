@@ -1,5 +1,5 @@
 ---
-title: Jessica Hische
+title: Jessica Hische — Fonts and Lettering
 date: 2012-11-01 12:11:00 -06:00
 position: 21
 description: |-
@@ -8,7 +8,7 @@ description: |-
   Jessica’s clients includes Wes Anderson, Tiffany & Co., The New York Times, Penguin Books, Target, Leo Burnett, American Express, and Wired Magazine. She is currently serving on the Type Directors Club Board of Directors and divides her time fairly evenly between San Francisco, Brooklyn, and airports en route to design and illustration conferences.
 sponsor: 
 sponsor-link: 
-sponsor-copy: ''
+sponsor-copy: 
 episode: 21
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-21.mp3
