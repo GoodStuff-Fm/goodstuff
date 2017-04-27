@@ -1,17 +1,17 @@
 ---
-title: Oliver Lindberg — Conference Planning and Magazine Editing
-date: 2017-04-26 10:00:00 -06:00
+title: Oliver Lindberg — Editing the Web Industry
+date: 2017-04-27 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 116
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-115.mp3
-description: Oliver Lindberg stops by the show to talk about his time as editor of Net magazine and his new role organizing tech conferences for the modern web.
+description: Oliver Lindberg is a freelance editor and content consultant, Founder of the new  Pixel Pioneers conference, co-founder and curator of Generate Conference, and former editor of Net magazine.
 sponsor: |-
-  * [AccessU Summit](http://accessusummit.com/) is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/).
+  * [AccessU Summit](http://accessusummit.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=accessusummit2017) is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=accessusummit2017).
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv116&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/uHpXAgDMTec" frameborder="0" allowfullscreen></iframe>
+image: https://goodstuff.fm/nbsp/img/nbsptv-oliver-lindberg.jpg
 layout: episode
 ---
 
@@ -39,11 +39,11 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [Oliver Lindberg.com](https://oliverlindberg.com)
-* [@Oliverlindberg](https://twitter.com/oliverlindberg)
+* [📺 Oliver Lindberg — Editing the Web Industry](https://www.youtube.com/watch?v=uHpXAgDMTec)
+* [Oliver Lindberg](https://oliverlindberg.com)
+* [Oliverlindberg on Twitter](https://twitter.com/oliverlindberg)
 * [Oliver Lindberg on Medium](https://medium.com/@oliverlindberg)
 * [Pixel Pioneers](https://pixelpioneers.co)
-* [@PixelPioneers](https://twitter.com/pixelpioneers)
 * [TweetedTimes.com](http://tweetedtimes.com)
 * [A Book Apart](https://abookapart.com)
 * [An Event Apart](https://aneventapart.com)
@@ -51,7 +51,7 @@ layout: episode
 * [Meetup.com](https://www.meetup.com)
 * [Generate Conference](https://www.generateconf.com)
 * [📘 Demystifying Public Speaking by Lara Hogan](https://abookapart.com/products/demystifying-public-speaking)
-* [Confessions of a Public Speaker](https://www.amazon.com/Confessions-Public-Speaker-English/dp/1449301959)
+* [📘 Confessions of a Public Speaker](https://www.amazon.com/Confessions-Public-Speaker-English/dp/1449301959)
 * [Sarah Drasner](http://sarahdrasnerdesign.com)
 * [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
 * [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
