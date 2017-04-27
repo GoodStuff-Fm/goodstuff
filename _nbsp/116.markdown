@@ -5,7 +5,7 @@ position: 1
 show: nbsp
 episode: 116
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-115.mp3
-description: Oliver Lindberg is a freelance editor and content consultant, Founder
+description: Oliver Lindberg is a freelance editor and content consultant, founder
   of the new  Pixel Pioneers conference, co-founder and curator of Generate Conference,
   and former editor of Net magazine.
 sponsor: |-
