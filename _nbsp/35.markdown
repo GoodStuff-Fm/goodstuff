@@ -1,40 +1,37 @@
 ---
-title: Daniel Ryan - Obama Re-Election Campaign Technology Strategy
+title: Daniel Ryan — Re-electing Obama
 date: 2013-06-18 12:11:00 -06:00
 position: 34
 description: Daniel has been working in the web industry since 1997 and currently
   consulting, open sources, and speaking at various conferences.
 sponsor: 
 sponsor-link: 
-sponsor-copy: ''
+sponsor-copy: 
 episode: 35
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-35.mp3
 layout: episode
 ---
 
--  [Dryan.com](http://dryan.com)
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Dryan.com](http://dryan.com)
+* [Chattanooga, Tennessee](http://en.wikipedia.org/wiki/Chattanooga,_Tennessee)
+* [@dryan](https://twitter.com/dryan)
+* [Transworld Skate Magazine](http://skateboarding.transworld.net)
+* [WordPress](http://wordpress.org)
+* [Daniel Ryan on GitHub](https://github.com/dryan)
+* [My Obama Year](http://dryan.com/articles/my-obama-year/)
+* [Aaron Gustafson](http://aaron-gustafson.com)
+* [Optimizely](https://www.optimizely.com)
+* [How Github Uses Github to Build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
+* [Yes We Did: Reelecting Obama slides](https://speakerdeck.com/dryan/yes-we-did-reelecting-obama)
+* [Human-first Web Design slides](https://speakerdeck.com/dryan/human-first-web-design)
+* [In Beta podcast](http://5by5.tv/inbeta)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
 
--  [Chattanooga, Tennessee](http://en.wikipedia.org/wiki/Chattanooga,_Tennessee)
-
--  [@dryan](https://twitter.com/dryan)
-
--  [Transworld Skate Magazine](http://skateboarding.transworld.net)
-
--  [WordPress](http://wordpress.org)
-
--  [Daniel Ryan on GitHub](https://github.com/dryan)
-
--  [My Obama Year](http://dryan.com/articles/my-obama-year/)
-
--  [Aaron Gustafson](http://aaron-gustafson.com)
-
--  [Optimizely](https://www.optimizely.com)
-
--  [How Github Uses Github to Build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
-
--  [Yes We Did: Reelecting Obama slides](https://speakerdeck.com/dryan/yes-we-did-reelecting-obama)
-
--  [Human-first Web Design slides](https://speakerdeck.com/dryan/human-first-web-design)
-
--  [In Beta podcast](http://5by5.tv/inbeta)
