@@ -2,8 +2,11 @@
 title: Jessica Hische — Letterer and Illustrator
 date: 2012-11-01 12:11:00 -06:00
 position: 21
-description: |-
-  With client list that includes Wes Anderson, Tiffany & Co., The New York Times, Target, American Express, and Wired Magazine, Jessica Hische is a letterer, illustrator, and self-described “avid inter netter”. Always pushing for side projects, Jessica's publishers her own micro-sites that include *Mom This is How Twitter Works*, *Should I Work for Free?* and *Don’t Fear the Internet*.
+description: With client list that includes Wes Anderson, Tiffany & Co., The New York
+  Times, Target, American Express, and Wired Magazine, Jessica Hische is a letterer,
+  illustrator, and self-described “avid inter netter”. Always pushing for side projects,
+  Jessica's publishers her own micro-sites that include *Mom This is How Twitter Works*,
+  *Should I Work for Free?* and *Don’t Fear the Internet*.
 sponsor: 
 sponsor-link: 
 sponsor-copy: 
@@ -12,7 +15,8 @@ show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-21.mp3
 layout: episode
 image: https://goodstuff.fm/nbsp/img/nbsptv-jessica-hische.jpg
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/7D301riH9iI" frameborder="0" allowfullscreen></iframe>
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/7D301riH9iI"
+  frameborder="0" allowfullscreen></iframe>
 ---
 
 * [Christopher Schmitt](http://Christopher.org)
