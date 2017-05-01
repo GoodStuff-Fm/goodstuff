@@ -8,7 +8,7 @@ mp3: http://podcasts-1.feedpress.co/10588/morningshow-347.mp3
 description: It's like Alexa screaming a nacho recipe at you while you drive to New
   York to get an ice-cold ketchup drink with thrice-fried chicken on top that glows
   in the dark.
-image: http://cdn.c.photoshelter.com/img-get2/I0000tLg0kf7FyqM/fit=1000x750/g=G0000gTOhZzJ7EOw/Pizza-Cutter.jpg
+image: "/uploads/Pizza-Cutter2.jpg"
 layout: episode
 ---
 
