@@ -3,8 +3,6 @@ title: 'Goodstuff Monthly: April 2017'
 date: 2017-05-01 09:38:00 -06:00
 ---
 
-As part of [our relaunch](https://goodstuff.fm/2017/03/11/goodstuff-v3/) we thought we'd be a little more public with things podcasters often tend to be a little shy about sharing: numbers and stats.
-
 At the start of each month we'll tell you how Goodstuff is doing - number of patrons, listeners, site visitors, and anything else you'd like to know.
 
 (*A little fine print: We're not going to be obsessively re-checking these numbers so forgive us if we they don't always balance exactly. We're podcasters, not accountants!*)
