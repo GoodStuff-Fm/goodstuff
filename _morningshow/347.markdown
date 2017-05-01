@@ -1,7 +1,6 @@
 ---
 title: Blacklight Mozzarella
-date: 2017-05-02 10:18:00 -06:00
-published: false
+date: 2017-05-01 10:00:00 -06:00
 position: 0
 show: morningshow
 episode: 347
