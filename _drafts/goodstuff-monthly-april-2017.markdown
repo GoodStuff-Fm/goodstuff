@@ -26,7 +26,7 @@ Currently $140/month income via patron support. Same as the [previous month](htt
 * Our analytics code wasn't properly installed until the first week of April, 2017.
 * In the past: top traffic sources: [atu2.com](http://atu2.com), direct, organic search
 
-![Analytics 2017-04.jpg](/uploads/Analytics%202017-04.jpg)
+![Goodstuff 2017-04 Stats.jpg](/uploads/Goodstuff%202017-04%20Stats.jpg)
 
 * Acquisition details for March.
 
