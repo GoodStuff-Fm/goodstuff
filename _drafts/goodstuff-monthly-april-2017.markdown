@@ -22,6 +22,8 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 Currently $140/month income via patron support. Same as the [previous month](https://goodstuff.fm/2017/04/07/goodstuff-monthly-march-2017/).
 
 ## Site Stats
+The April numbers for Goodstuff.FM are only valid for April 7-30.
+
 According to Google Analytics:
 * 1,001 unique visitors with 2,378 pageviews
 * 64% new, 36% returning
