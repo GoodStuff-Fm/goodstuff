@@ -25,7 +25,7 @@ Currently $140/month income via patron support. Same as the [previous month](htt
 The April numbers for Goodstuff.FM are only valid for April 7-30. According to Google Analytics:
 * 1,001 unique visitors with 2,378 pageviews
 * 64% new, 36% returning
-* 55% used Chrome, 21% used Safari, 24% others
+* 55% used Chrome, 21% used Safari, 24% used other browsers
 * 61% on desktop, 33% on mobile, 6% on tablet
 * 36% on Windows, 23% on iOS, 21% on MacOS, 19% on Android, 1% on Linux
 * 81% male, 19% female (reporting on 61% of sessions)
