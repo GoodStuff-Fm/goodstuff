@@ -6,7 +6,7 @@ tags:
 - dictionary
 - Gordon Ramsay
 - Goat or Tennis Player
-position: 45
+position: 47
 episode: '298'
 description: What crazy words do we have this year, Unlimited fries you say?, Kenny
   invents the new dance craze, What exactly is upside-down, Is that a Goat or a Tennis

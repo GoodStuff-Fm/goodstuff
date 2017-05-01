@@ -1,7 +1,7 @@
 ---
 title: Garbage Wallbanger
 date: 2016-11-08 22:06:00 -06:00
-position: 76
+position: 78
 description: In 2001, a Dachshund named Saucisse was a mayoral candidate. He won 4%
   of votes. Eight years later, in 2009, he participated the third season of Secret
   Story, the French version of Big Brother. He entered the house on Day 36. His secret

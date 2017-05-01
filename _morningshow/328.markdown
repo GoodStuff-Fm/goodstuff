@@ -6,7 +6,7 @@ tags:
 - Food Friday
 - pizza
 - CHiPs
-position: 75
+position: 77
 episode: '328'
 description: Welcome Home Google, Watch some guys eat lunch with Swoop, Is that British
   food-slang for something?, Today is the day to eat even more candy, Sue someone

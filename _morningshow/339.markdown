@@ -1,7 +1,7 @@
 ---
 title: Chocolate Scrambled Eggs
 date: 2017-02-28 09:00:00 -06:00
-position: 6
+position: 8
 show: morningshow
 episode: 339
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-339.mp3

@@ -6,7 +6,7 @@ tags:
 - robots
 - Goofy
 - Pokemon
-position: 58
+position: 60
 episode: '311'
 description: Put some Nougat in a VCR and play an XboxOneS, Turkeys are good at freezing,
   Stuffed animals setting records, Mall cop terrorizes toddlers, A Goofy Movie still
