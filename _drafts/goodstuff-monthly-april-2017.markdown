@@ -33,7 +33,7 @@ The April numbers for Goodstuff.FM are only valid for April 7-30. According to G
 
 ## Feed Stats
 * 10,880 subscribers to all shows
-* [atU2](/atu2/) holds the top spot for most subscribers
+* [atU2](/atu2/) holds the top spot for most subscribers in April
 
 # Any Questions?
 * You can discuss this in our [subreddit](#) or <a href="mailto:contact@goodstuff.fm">email us</a>.
