@@ -1,6 +1,7 @@
 ---
 title: "\U0001F579 Goodstuff Monthly: April 2017"
 date: 2017-05-01 09:38:00 -06:00
+image: "/uploads/2017-04-goodstuffmonthly.jpg"
 ---
 
 At the start of each month we'll tell you how Goodstuff is doing - number of patrons, listeners, site visitors, and anything else you'd like to know.
