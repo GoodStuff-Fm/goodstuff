@@ -1,5 +1,5 @@
 ---
-title: 'Goodstuff Monthly: April 2017'
+title: "\U0001F579 Goodstuff Monthly: April 2017"
 date: 2017-05-01 09:38:00 -06:00
 ---
 
