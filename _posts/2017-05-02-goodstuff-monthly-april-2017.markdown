@@ -38,3 +38,5 @@ The April numbers for Goodstuff.FM are only valid for April 7-30. According to G
 # Any Questions?
 * You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/68u85h/goodstuff_monthly_for_april_2017/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
 * Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
+
+This is also available on [our medium publication](https://blog.goodstuff.fm/goodstuff-monthly-april-2017-edition-10e961d7c374).
