@@ -1,17 +1,17 @@
 ---
-title: J.M. Dematteis - Burying Spider-Man, Saving Worlds
+title: J.M. Dematteis — Burying Spider-Man, Building Worlds
 date: 2017-05-03 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 117
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-117.mp3
-description: J.M. Dematteis is an Eisner award winning writer/editor with more than thirty years experience in comic books, graphic novels, television, film and prose. He stops by the show to talk about his process, how things have changed in comics over the years, and the services he provides to help other writers.
+description: J.M. Dematteis is an Eisner award-winning writer and editor with more than thirty years experience in comic books, graphic novels, television, film, and prose. He stops by the show to talk about his process, how things have changed in comics over the years, and the services he provides to help other writers.
 sponsor: |-
-  * [AccessU Summit](http://accessusummit.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=accessusummit2017) is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=accessusummit2017).
+  * **[AccessU Summit](http://accessusummit.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=accessusummit2017)** is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=accessusummit2017).
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv117&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/bGkbQwgZVHM" frameborder="0" allowfullscreen></iframe>
+image: https://goodstuff.fm/nbsp/img/nbsptv-jm-dematteis.jpg
 layout: episode
 ---
 
@@ -48,6 +48,7 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [📺 J.M. Dematteis — Burying Spider-Man, Building Worlds](https://youtu.be/bGkbQwgZVHM)
 * [J.M. Dematteis on The Justice League Podcast](http://fireandwaterpodcast.com/podcast/jli-10z/)
 * [J.M. Dematteis](http://www.jmdematteis.com)
 * [J.M. Dematteis on Twitter](https://twitter.com/JMDeMatteis)
