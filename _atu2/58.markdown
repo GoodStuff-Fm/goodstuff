@@ -1,5 +1,7 @@
 ---
-title: '58'
+title: B-Side Bjorn and the Bouncing Lemons
+date: 2017-05-03 22:15:00 -06:00
+layout: episode
 ---
 
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/695bu6/u2_podcast_ep_58_bside_bjorn_and_the_bouncing/)
