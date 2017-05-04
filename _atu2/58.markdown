@@ -1,6 +1,17 @@
 ---
 title: B-Side Bjorn and the Bouncing Lemons
 date: 2017-05-03 22:15:00 -06:00
+description: Matt, Tassoula, Sherry, and Chris chat about yesterday's rehearsals for
+  The Joshua Tree as well as today's fan club announcement.
+sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
+  provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
+  Its logical and intuitive production workflow can be mastered by anyone from school
+  kids to senior citizens in very short time. And yet it is so powerful, it also satisfies
+  the broadcasting veterans wildest dreams."
+mp3: http://podcasts-1.feedpress.co/12572/atu2-58.mp3
+episode: 58
+video: 
+show: atu2
 layout: episode
 ---
 
