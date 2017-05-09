@@ -1,0 +1,63 @@
+---
+title: Nicole Hallberg and Martin Schneider - Sexism in the Tech Industry
+date: 2017-05-08 11:00:00 -06:00
+position: 1
+show: nbsp
+episode: 118
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-118.mp3
+description: Nicole and Martin join the show to talk about their experiences in dealing with and recognizing sexism in the tech workplace and suggestions for what can be done to improve the workplace.
+sponsor: |-
+  * **[AccessU Summit](http://accessusummit.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=accessusummit2017)** is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=accessusummit2017).
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video:
+image:
+layout: episode
+---
+
+### Jump to a conversation on...
+
+
+* **[2:01](#t=2:01)** Introductions
+* **[7:50](#t=7:50)** The story behind Nicole and Martin's experiences
+* **[14:30](#t=14:30)** Can you give an example of terminology you had to explain again and prove your expertise in?
+* **[18:00](#t=18:00)** What was the biggest takeaway from this experience?
+* **[19:20](#t=19:20)** Why couldn't he just believe the women without having to experience it?
+* **[20:40](#t=20:40)** Was it data driven or was it just anecdotal stories?
+* **[22:50](#t=22:50)** What's the drawback to admitting there's sexism in the workplace?
+* **[28:24](#t=28:24)** What happened when you talked to your supervisor?
+* **[31:30](#t=31:30)** What if your boss had tried a different approach?
+* **[36:10](#t=36:10)** Adults, particularly men, don't like being told that they're doing something wrong.
+* **[41:58](#t=41:58)** All anger is borne of sadness.
+* **[43:00](#t=43:00)** Nicole's story of standing up at a conference.
+* **[47:25](#t=47:25)** Don't come into feminist spaces and expect everyone to change for you.
+* **[48:20](#t=48:20)** The other story is what happens after we told our story.
+* **[48:55](#t=48:55)** It's not like the internet wrote me a check.
+* **[51:01](#t=51:01)** Codes of conduct at conferences.
+* **[1:00:05](#t=1:00:05)** Why hasn't anyone done this before? It's such a simple test.
+* **[1:02:35](#t=1:02:35)** What's your podcast and upcoming appearances?
+* **[1:03:35](#t=1:03:35)** What's it like to be internet famous?
+* **[1:07:02](#t=1:07:02)** What's the simplest steps to take to make it easier for everyone in the workplace?
+
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Nicole Hallberg](http://www.nicolepieri.com)
+* [Nicole Hallberg at Twitter](https://twitter.com/nickyknacks)
+* [Nicole Hallberg at Medium](https://medium.com/@nickyknacks)
+* [Working While Female](https://medium.com/@nickyknacks/working-while-female-59a5de3ad266)
+* [Martin Schneider at Twitter](https://twitter.com/schneidremarks)
+* [Political Theater Podcast](http://frontrowcentral.com/category/podcasts/political-theater/)
+* [@NotEachOther](https://twiter.com/NotEachOther)
+* [Facebook.com/noteachother](https://facebook.com/noteachother)
+* [Barcamp](http://barcamp.org/)
+* [Sex Archie Podcast](https://player.fm/series/sex-archie)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
