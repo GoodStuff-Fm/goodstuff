@@ -7,7 +7,7 @@ episode: 118
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-118.mp3
 description: Nicole Hallberg and Martin Schneider join the show to talk about their
   experiences in dealing with and recognizing sexism in the tech workplace and suggestions
-  for what can be done to improve the workplace.
+  for what can be done to improve the place of work.
 sponsor: |-
   * **[AccessU Summit](http://accessusummit.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=accessusummit2017)** is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=accessusummit2017).
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv118&utm_medium=podcast&utm_campaign=cssdevconf2017)
