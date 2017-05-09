@@ -5,7 +5,8 @@ position: 1
 show: nbsp
 episode: 118
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-118.mp3
-description: Nicole Hallberg and Martin Schneider join the show to talk about their
+description: Nicole Hallberg and Martin Schneider swapped email address for a couple
+  of weeks. Guess what happened? Join Nicole and Martin as they to talk about their
   experiences in dealing with and recognizing sexism in the tech workplace and suggestions
   for what can be done to improve the place of work.
 sponsor: |-
