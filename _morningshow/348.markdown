@@ -1,11 +1,13 @@
 ---
-title: TBD
+title: Mac N Cheese Twister
 date: 2017-05-09 18:05:00 -06:00
-published: false
-description: It's like...
+description: It's like stabbing yourself over and over with a knife made of french
+  fries while playing a game of Mac N Cheese Twister in a hotel room outside the Apple
+  Tree Headquarters.
 episode: 348
 show: morningshow
-image: 
+image: http://3.bp.blogspot.com/-rqzIGxoHtVA/T4ASYBfvuQI/AAAAAAAADO0/egD-pLObP2k/s1600/Nintendo_Twister_09.jpg
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-348.mp3
 layout: episode
 ---
 
