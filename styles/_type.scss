@@ -292,6 +292,11 @@
       font-weight: 400;
       color: $light-blue;
       line-height: 1.7rem;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+        font-weight: 400;
+      }
     }
 
     &__link {

@@ -27,12 +27,12 @@
                     <h3>{{ master.name }}</h3></li>
                 <li class="shows__list__hosts">Hosted by {{ master.hosts }}</li>
                 <li class="shows__list__description">{{ master.description }}</li>
+                <li class="shows__list__description"><a href="{{ master.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
 
                 <li class="shows__list__link">
-                    <a href="{{ master.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
+                    <a href="{{ master.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
                     <a href="{{ master.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                     <a href="{{ master.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-                    <a href="{{ master.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
                 </li>
             </ul>
 
@@ -47,12 +47,12 @@
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
                 <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
                 <li class="shows__list__description">{{ show.description | truncate: 256 }}</li>
+                <li class="shows__list__description"><a href="{{ master.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
 
                 <li class="shows__list__link">
-                    <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
+                    <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
                     <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                     <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-                    <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
                 </li>
             </ul>
 
@@ -74,11 +74,11 @@
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
                 <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
                 <li class="shows__list__description">{{ show.description }}</li>
+                <li class="shows__list__description"><a href="{{ master.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
                 <li class="shows__list__link">
-                    <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-itunes@2x.png" alt="Subscribe in iTunes"></a>
+                    <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
                     <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
                     <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-                    <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
                 </li>
                 </li>
             </ul>
