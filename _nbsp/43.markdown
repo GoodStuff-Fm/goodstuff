@@ -14,7 +14,8 @@ episode: 43
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-43.mp3
 image: https://goodstuff.fm/nbsp/img/nbsptv-jared-spool.jpg
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/Tbh61AANinc" frameborder="0" allowfullscreen></iframe>
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/Tbh61AANinc"
+  frameborder="0" allowfullscreen></iframe>
 layout: episode
 ---
 
