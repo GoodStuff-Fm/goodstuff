@@ -1,11 +1,12 @@
 ---
-title: '349'
-date: 2017-05-15 19:31:00 -06:00
+title: The Incredible Journey
+date: 2017-05-16 09:00:00 -06:00
 published: false
 show: morningshow
-mp3: 
-description: It's like...
-image: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-349.mp3
+description: It's like trying to find your way back home with a sassy cat while eating
+  charcoal-flavored sliders while plunging 125ft into a hot and spicy soup.
+image: https://a.dilcdn.com/bl/wp-content/uploads/sites/25/2016/02/Homeward-Bound-The-Incredible-Journey_EN_US_V3.jpg
 layout: episode
 ---
 
