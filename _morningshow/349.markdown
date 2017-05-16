@@ -1,0 +1,36 @@
+---
+title: The Incredible Journey
+date: 2017-05-16 09:00:00 -06:00
+show: morningshow
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-349.mp3
+description: It's like trying to find your way back home with a sassy cat while eating
+  charcoal-flavored sliders while plunging 125ft into a hot and spicy soup.
+image: https://a.dilcdn.com/bl/wp-content/uploads/sites/25/2016/02/Homeward-Bound-The-Incredible-Journey_EN_US_V3.jpg
+episode: 349
+layout: episode
+---
+
+* [Lyft and Waymo Reach Deal to Collaborate on Self-Driving Cars - NYTimes.com](https://mobile.nytimes.com/2017/05/14/technology/lyft-waymo-self-driving-cars.html?_r=0&re)
+* [Exclusive: Google’s New AI Tool Turns Your Selfies Into Emoji](https://www.fastcodesign.com/90124964/exclusive-new-google-tool-uses-ai-to-create-custom-e)
+* [Tesla starts pre-orders on solar roof for $1,000, rolls out calculator for costs](https://arstechnica.com/cars/2017/05/tesla-starts-pre-orders-on-solar-roof-for-1000-rolls-out-calculator-for-costs/)
+* [Chick-fil-A launches new barbecue bacon sandwich - Business Insider](http://www.businessinsider.com/chick-fil-a-launches-new-barbecue-bacon-sandwich-2017-5)
+* [Burnt Ends Burrito - pretty tasty but not worth the $9.75 price tag imho as its about the size of a Taco Bell bean and cheese burrito. - Yelp](https://www.yelp.com/biz_photos/bravo-farms-kettleman-city?select=am2o99tyJSaxntEk_36L2w)
+* [Universal's Volcano Bay™ Grand Opening May 25](https://www.universalorlando.com/web/en/us/theme-parks/volcano-bay/index.html#rides-attractions)
+* [The Case of the Contraband Corned Beef Sandwich - Seeker](https://www.seeker.com/the-case-of-the-contraband-corned-beef-sandwich-1765022908.html)
+* [Not Hotdog - Product Hunt](https://www.producthunt.com/posts/not-hotdog)
+* [Stadium Food](http://www.ocregister.com/wp-content/uploads/2017/04/angelsfood_icecream.jpg?w=780)
+
+[Gordon Ramsay: Zero Ingredient](https://www.youtube.com/watch?v=B68Fw7PUmFw)
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
