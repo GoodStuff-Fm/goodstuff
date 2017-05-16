@@ -7,17 +7,16 @@ episode: 119
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-119.mp3
 description:
 sponsor: |-
-  * **[AccessU Summit](http://accessusummit.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=accessusummit2017)** is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=accessusummit2017).
-  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/QNfKyEsfeAU" frameborder="0" allowfullscreen></iframe>
+image: https://goodstuff.fm/nbsp/img/nbsptv-sarah-drasner-119.jpg
 layout: episode
 ---
 
 ### Jump to a conversation on...
 
-* **[2:50](#t=2:50)** Talking goats.
+* **[2:50](#t=2:50)** Talking goats. Animating goats.
 * **[5:40](#t=5:40)** Explaining viewbox over Twitter
 * **[9:00](#t=9:00)** Learning what's going on under the hood so you can troubleshoot it.
 * **[10:40](#t=10:40)** As long as people have maintenance as their core idea.
@@ -42,14 +41,14 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [📺  ](#)
+* [📺 Sarah Drasner — The Guide to Designing SVG Animations](https://www.youtube.com/watch?v=QNfKyEsfeAU)
 * [Sarah Drasner](https://sarahdrasnerdesign.com)
-* [@Sarah_Edo](https://twitter.com/sarah_edo)
+* [Sarah Drasner on Twitter](https://twitter.com/sarah_edo)
 * [Sarah on Github](https://github.com/sdras)
 * [Sarah on CodePen](http://codepen.io/sdras/)
 * [Web Animation Workshops](https://webanimationworkshops.com)
 * [Goat Simulator](http://www.goat-simulator.com)
-* [SVG Animations From Common UX Implementations to Complex Responsive Animation](http://shop.oreilly.com/product/0636920045335.do)
+* [SVG Animations - From Common UX Implementations to Complex Responsive Animation](http://shop.oreilly.com/product/0636920045335.do)
 * [Kai’s Power Tools](https://en.wikipedia.org/wiki/Kai%27s_Power_Tools)
 * [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
 * [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
