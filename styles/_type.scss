@@ -241,7 +241,6 @@
       padding: 20px;
     }
 
-
     ol li {
       margin-left: 35px;
     }
@@ -261,6 +260,16 @@
 
     img {
       max-width: 100%;
+    }
+
+    blockquote {
+      font-size: 1rem;
+      font-style: italic;
+      width: 100%;
+      margin: 12pt 0;
+      padding: 0 0 0 12pt;
+      position: relative;
+      border-left: 4pt solid $light-gray;
     }
 
   }
