@@ -1,6 +1,7 @@
 ---
 title: "'Legion' Director Dennie Gordon on Clockworks"
 date: 2017-05-16 12:14:00 -06:00
+layout: default
 ---
 
 We're super excited to share the most recent episode of [Clockworks](https://goodstuff.fm/clockworks/), a podcast discussing the TV series *Legion* and hosted on Goodstuff. Jan and Paul have [published a fantastic interview](https://goodstuff.fm/clockworks/11) with director [Dennie Gordon](http://www.imdb.com/name/nm0330140/bio):
@@ -12,4 +13,3 @@ Go listen to the interview and then be sure to subscribe to Clockworks:
 * [Apple Podcasts](https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658)
 * [Pocket Casts](http://pca.st/Os98)
 * [Overcast](https://overcast.fm/p565199-VhCqC0)
-
