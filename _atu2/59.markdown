@@ -1,6 +1,7 @@
 ---
 title: 'Ultraviolet: Opening Night of the Joshua Tree Tour 2017'
 date: 2017-05-18 09:15:00 -06:00
+published: false
 description: Tassoula, Sherry, Becky, Jill, and Michelle are on the special atU2 Periscope
   couch after the opening night of The Joshua Tree Tour in Vancouver to debrief their
   thoughts on the start of this incredible tour.
@@ -13,7 +14,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-59.mp3
 episode: 59
 video: 
 show: atu2
-image: "/uploads/atu2-59.jpg"
+image: 
 layout: episode
 ---
 
