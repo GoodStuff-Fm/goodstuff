@@ -17,7 +17,7 @@ image:
 layout: episode
 ---
 
-* [Discuss in our subreddit](#)
+* [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6bx4hi/atu2_59_ultraviolet_opening_night_of_the_joshua/)
 * [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
 * [Twitter atU2](https://twitter.com/atu2)
 * [Facebook atU2com](https://www.facebook.com/atu2com)
