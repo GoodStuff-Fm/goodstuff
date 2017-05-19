@@ -60,6 +60,7 @@
 <meta name="twitter:description" value="{{ show.description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
+
 {% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
@@ -78,10 +79,9 @@
 <meta name="twitter:domain" value="goodstuff.fm" />
 <meta name="twitter:title" value="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
-{% if page.video %}
+{% if page.video and page.image %}
   <meta name="twitter:player" value="{{ page.video }}" />
-{% endif %}
-{% if page.image %}
+{% elsif page.image %}
   {% if page.image contains '/uploads/' %}
   <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
   {% else %}
@@ -91,6 +91,7 @@
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
 {% endif %}
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
+
 {% elsif page.layout == "person" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.tagline }}" />
