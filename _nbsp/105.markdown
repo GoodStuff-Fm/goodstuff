@@ -13,8 +13,7 @@ sponsor: |-
 episode: 105
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-105.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/KD3QJfamAEQ"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/KD3QJfamAEQ
 image: https://goodstuff.fm/nbsp/img/nbsptv-jonathan-stark.jpg
 layout: episode
 ---

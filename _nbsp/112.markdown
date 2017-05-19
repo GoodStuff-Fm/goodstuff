@@ -12,8 +12,7 @@ description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been wor
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/cXolX7oxWFo"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/cXolX7oxWFo
 image: https://goodstuff.fm/nbsp/img/nbsptv-susan-weinschenk.jpg
 layout: episode
 ---

@@ -12,9 +12,7 @@ sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support 
 episode: 102
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-102.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZP6ZyPwUxg0"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/ZP6ZyPwUxg0
 image: https://goodstuff.fm/nbsp/img/nbsptv-cssdevconf-2016.jpg
 layout: episode
 ---
-

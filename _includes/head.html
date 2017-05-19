@@ -78,6 +78,9 @@
 <meta name="twitter:domain" value="goodstuff.fm" />
 <meta name="twitter:title" value="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
+{% if page.video %}
+  <meta name="twitter:player" value="{{ page.video }}" />
+{% endif %}
 {% if page.image %}
   {% if page.image contains '/uploads/' %}
   <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />

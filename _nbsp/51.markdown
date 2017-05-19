@@ -12,8 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 51
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-51.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/H4GMmJXK2Ok"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/H4GMmJXK2Ok
 image: https://goodstuff.fm/nbsp/img/nbsptv-margot-bloomstein.jpg
 layout: episode
 ---

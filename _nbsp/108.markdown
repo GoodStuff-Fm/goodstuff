@@ -15,8 +15,7 @@ sponsor: |-
 episode: 108
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-108.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/3Lp8xcQOymQ"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/3Lp8xcQOymQ
 image: https://goodstuff.fm/nbsp/img/nbsptv-steve-krug.jpg
 layout: episode
 ---

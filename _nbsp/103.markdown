@@ -14,8 +14,7 @@ sponsor: |-
 episode: 103
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-103.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/Bit_5tlgfiw"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/Bit_5tlgfiw
 image: https://goodstuff.fm/nbsp/img/nbsptv-brad-frost.jpg
 layout: episode
 ---

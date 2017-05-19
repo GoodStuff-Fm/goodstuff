@@ -12,8 +12,6 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 60
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-60.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/hCf5GjZ2A2Q"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/hCf5GjZ2A2Q
 layout: episode
 ---
-

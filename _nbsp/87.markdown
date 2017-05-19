@@ -12,8 +12,6 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 87
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-87.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/yufPiQ-MlsU"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/yufPiQ-MlsU
 layout: episode
 ---
-
