@@ -19,3 +19,4 @@ video: https://www.youtube.com/embed/2jPS8_euZ_g
 image: https://goodstuff.fm/nbsp/img/nbsptv-sean-vanaman.jpg
 layout: episode
 ---
+

@@ -13,7 +13,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 86
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-86.mp3
-video: https://www.youtube.com/embed/j-hMZyQw-GE  
+video: https://www.youtube.com/embed/j-hMZyQw-GE
 image: https://goodstuff.fm/nbsp/img/nbsptv-dave-olsen.jpg
 layout: episode
 ---
+
