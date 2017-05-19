@@ -13,7 +13,7 @@ episode: 58
 video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/_kWcPx7mknQ?rel=0"
   frameborder="0" allowfullscreen></iframe>
 show: atu2
-image: https://goodstuff.fm/uploads/atu2-58.jpg
+image: "/uploads/atu2-58.jpg"
 layout: episode
 ---
 
