@@ -64,7 +64,11 @@
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
 {% if page.image %}
-<meta property="og:image" content="{{ page.image }}" />
+  {% if page.image contains '/uploads/' %}
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+  {% else %}
+  <meta property="og:image" content="{{ page.image }}" />
+  {% endif %}
 {% else %}
 <meta property="og:image" content="{{ site.url }}{{ show.artwork }}" />
 {% endif %}
@@ -75,7 +79,11 @@
 <meta name="twitter:title" value="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
 {% if page.image %}
-<meta name="twitter:image" content="{{ page.image }}" />
+  {% if page.image contains '/uploads/' %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+  {% else %}
+  <meta property="twitter:image" content="{{ page.image }}" />
+  {% endif %}
 {% else %}
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
 {% endif %}
