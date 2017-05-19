@@ -36,7 +36,7 @@
 
 <!-- Facebook, Twitter, and URL Expanding Settings -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 {% if page.layout == "shows" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
@@ -47,7 +47,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
 <meta name="twitter:image" content="{{ site.url }}/uploads/artwork-master.jpg" />
-<meta name="twitter:url" value="{{ page.url }}" />
+<meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 {% elsif page.layout == "show" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ show.description }}" />
@@ -59,7 +59,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ show.description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
-<meta name="twitter:url" value="{{ page.url }}" />
+<meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 {% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
@@ -87,7 +87,7 @@
 {% else %}
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
 {% endif %}
-<meta name="twitter:url" value="{{ page.url }}" />
+<meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 {% elsif page.layout == "person" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.tagline }}" />
@@ -97,7 +97,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ page.tagline }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-<meta name="twitter:url" value="{{ page.url }}" />
+<meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 {% else %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
@@ -109,7 +109,7 @@
 <meta name="twitter:title" value="{{ page.title }}" />
 <meta name="twitter:description" value="{{ site.description }}" />
 <meta name="twitter:image" content="{{ site.url }}/uploads/artwork-master.jpg" />
-<meta name="twitter:url" value="{{ page.url }}" />
+<meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 {% endif %}
 
 
