@@ -10,9 +10,7 @@ sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support 
 episode: 101
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-101.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/HE5UtJ9Rv74"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/HE5UtJ9Rv74
 image: https://goodstuff.fm/nbsp/img/nbsptv-lauren-golembiewski.jpg
 layout: episode
 ---
-

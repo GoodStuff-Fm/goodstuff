@@ -6,8 +6,7 @@ episode: 56
 mp3: http://podcasts-1.feedpress.co/12572/atu2-56fix.mp3
 description: Matt, Becky, and Chris take a few minutes to chat about the leaked photos
   and videos of what seems to be U2's Joshua Tree tour stage.
-video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/sjXwNyfYqxo?rel=0"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/sjXwNyfYqxo?rel=0
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school

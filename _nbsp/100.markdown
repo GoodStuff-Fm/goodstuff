@@ -12,8 +12,6 @@ sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support 
 episode: 100
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-100.mp3
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/lqJPVKQ5dpk"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/lqJPVKQ5dpk
 layout: episode
 ---
-

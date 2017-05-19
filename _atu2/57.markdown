@@ -6,8 +6,7 @@ episode: 57
 mp3: http://podcasts-1.feedpress.co/12572/atu2-57.mp3
 description: 'Sherry, Matt, and Chris gather round the fire to swap stories of a band
   that only plays two kinds of music: country and western'
-video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/n93CFx02QnQ?rel=0"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/n93CFx02QnQ?rel=0
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school

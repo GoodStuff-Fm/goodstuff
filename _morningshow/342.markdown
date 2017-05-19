@@ -8,8 +8,8 @@ mp3: http://podcasts-1.feedpress.co/10588/morningshow-342.mp3
 description: 'Welcome to The Goodstuff Morning Show: It’s like driving with just your
   brights on through a meat field of human alterna-flesh in a 6-wheeled robot carrying
   a black forest cake.'
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/XI9NSnDhBNI"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/XI9NSnDhBNI
+
 ---
 
 ## Headlines
