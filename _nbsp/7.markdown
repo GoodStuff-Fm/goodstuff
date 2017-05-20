@@ -12,6 +12,7 @@ episode: 7
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-7.mp3
 layout: episode
+image: https://goodstuff.fm/nbsp/img/nbsptv-brad-frost-7.jpg
 ---
 
 * [Brad Frost on Twitter](https://twitter.com/brad_frost)
