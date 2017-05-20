@@ -64,15 +64,6 @@
 {% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
-{% if page.image %}
-  {% if page.image contains '/uploads/' %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-  {% else %}
-  <meta property="og:image" content="{{ page.image }}" />
-  {% endif %}
-{% else %}
-<meta property="og:image" content="{{ site.url }}{{ show.artwork }}" />
-{% endif %}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GoodstuffFM">
 <meta name="twitter:creator" content="{{ show.show-twitter }}">
@@ -84,11 +75,14 @@
 {% elsif page.image %}
   {% if page.image contains '/uploads/' %}
   <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
   {% else %}
   <meta property="twitter:image" content="{{ page.image }}" />
+  <meta property="og:image" content="{{ page.image }}" />
   {% endif %}
 {% else %}
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
+<meta property="og:image" content="{{ site.url }}{{ show.artwork }}" />
 {% endif %}
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 
