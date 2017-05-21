@@ -1,5 +1,5 @@
 ---
-title: Brad Frost
+title: Brad Frost — Responsive Web Design
 date: 2012-04-19 12:11:00 -06:00
 position: 7
 description: Brad is a mobile web strategist and front-end designer at the digital
@@ -7,10 +7,12 @@ description: Brad is a mobile web strategist and front-end designer at the digit
   Practices site, and one of the creative minds behind WTFMobileweb.com and wtfqrcodes.com.
 sponsor: 
 sponsor-link: 
-sponsor-copy: ''
+sponsor-copy: 
 episode: 7
 show: nbsp
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-7.mp3
+image: https://goodstuff.fm/nbsp/img/nbsptv-brad-frost-7.jpg
+video: https://www.youtube.com/embed/XEPVPrm9dp4
 layout: episode
 ---
 
