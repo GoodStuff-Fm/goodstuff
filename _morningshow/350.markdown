@@ -3,7 +3,7 @@ title: Lunchtime Hustle
 date: 2017-05-23 09:00:00 -06:00
 show: morningshow
 episode: 350
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-350.mp3
+mp3: 
 video: 
 image: "/uploads/morningshow-350-image.png"
 layout: episode
