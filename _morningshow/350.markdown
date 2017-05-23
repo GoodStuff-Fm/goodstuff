@@ -3,7 +3,7 @@ title: Lunchtime Hustle
 date: 2017-05-23 09:00:00 -06:00
 show: morningshow
 episode: 350
-mp3: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-350.mp3
 video: 
 image: "/uploads/morningshow-350-image.png"
 layout: episode
@@ -22,6 +22,8 @@ layout: episode
 * [Google’s Home speaker can now make phone calls](https://newsstand.google.com/articles/CAIiEOmqUoYJGOq_XwbXZoXcwSIqFwgEKg4IACoGCAow3O8nMMqOBjDc064F)
 * [Fidget spinner app is top free app on App Store - Business Insider](http://www.businessinsider.com/fidget-spinner-app-top-free-app-store-app-2017-5?amp%3Butm_)
 * [RIP Blobs: Google Redesigns Emojis](http://blog.emojipedia.org/rip-blobs-google-redesigns-emojis/)
+
+***
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
