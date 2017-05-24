@@ -46,13 +46,13 @@ morningshow:
   name: The Goodstuff Morning Show
   collection: morningshow
   hosts: Kyle Roderick and Kenny Roderick
-  description: A weekly look into the Internet's junk drawer with the brothers Roderick. Records LIVE on Tuesdays at 7AM Pacific on Twitch.
+  description: A weekly look into the Internet's junk drawer with the brothers Roderick.
   artwork: "/uploads/artwork-morningshow.jpg"
   color: #5BC4FE
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
-  hosts-twitter: "@dogburps and @pizzarobotics"
+  hosts-twitter: "@dogburps and @kennyaroderick"
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"

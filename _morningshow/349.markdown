@@ -7,7 +7,6 @@ description: It's like trying to find your way back home with a sassy cat while 
   charcoal-flavored sliders while plunging 125ft into a hot and spicy soup.
 image: "/uploads/Homeward-Bound-The-Incredible-Journey_EN_US_V3.jpg"
 episode: 349
-video: https://www.youtube.com/embed/2ouDt2kvLB8
 layout: episode
 ---
 
