@@ -60,7 +60,6 @@
 <meta name="twitter:description" value="{{ show.description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
-
 {% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
@@ -72,7 +71,15 @@
 {% if page.video and page.image %}
   <meta name="twitter:card" content="player">
   <meta name="twitter:player" value="{{ page.video }}" />
-  <meta name="twitter:player:stream" value="{{ page.video }}" />
+  <meta name="twitter:player:width" content="1280" />
+	<meta name="twitter:player:height" content="720" />
+  {% if page.image contains '/uploads/' %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+  {% else %}
+  <meta property="twitter:image" content="{{ page.image }}" />
+  <meta property="og:image" content="{{ page.image }}" />
+  {% endif %}
 {% elsif page.image %}
   <meta name="twitter:card" content="summary_large_image">
   {% if page.image contains '/uploads/' %}
@@ -88,7 +95,6 @@
 <meta property="og:image" content="{{ site.url }}{{ show.artwork }}" />
 {% endif %}
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
-
 {% elsif page.layout == "person" %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.tagline }}" />
