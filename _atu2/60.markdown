@@ -1,7 +1,8 @@
 ---
-title: 'What is under the Kimono'
+title: What is under the Kimono
 date: 2017-05-25 12:15:00 -06:00
-description: Matt, Mason, Tim, and Chris convene to discuss our thoughts on U2's first 6 shows of The Joshua Tree 2017 tour.
+description: Matt, Mason, Tim, and Chris convene to discuss our thoughts on U2's first
+  6 shows of The Joshua Tree 2017 tour.
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -9,9 +10,9 @@ sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and producti
   the broadcasting veterans wildest dreams."
 mp3: http://podcasts-1.feedpress.co/12572/atu2-60.mp3
 episode: 60
-video:
+video: 
 show: atu2
-image:
+image: 
 layout: episode
 ---
 
