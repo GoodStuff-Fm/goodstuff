@@ -10,8 +10,7 @@ sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and producti
   the broadcasting veterans wildest dreams."
 mp3: http://podcasts-1.feedpress.co/12572/atu2-60.mp3
 episode: 60
-video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/nxu75Ud_Dco?rel=0"
-  frameborder="0" allowfullscreen></iframe>
+video: 
 show: atu2
 image: "/uploads/atu2-60.jpg"
 layout: episode
