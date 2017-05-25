@@ -1,7 +1,6 @@
 ---
 title: What's Under Adam's Kimono?
 date: 2017-05-25 12:15:00 -06:00
-published: false
 description: Matt, Mason, Tim, and Chris convene to discuss our thoughts on U2's first
   6 shows of The Joshua Tree 2017 tour.
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
