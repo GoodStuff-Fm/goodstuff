@@ -1,6 +1,7 @@
 ---
 title: Don't Ghost Your Parents
 date: 2017-05-28 09:29:00 -06:00
+layout: episode
 ---
 
 Brook and Kari discuss chosen families, constructing family units, friends that stick, how planning for holidays with family is like planning for death, healthy boundaries for adults.
