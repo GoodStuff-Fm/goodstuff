@@ -1,6 +1,7 @@
 ---
 title: Don't Ghost Your Parents
 date: 2017-05-28 09:29:00 -06:00
+episode: 34
 layout: episode
 ---
 
