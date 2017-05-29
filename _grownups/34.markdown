@@ -5,6 +5,7 @@ episode: 34
 show: grownups
 description: Brook and Kari discuss chosen families, constructing family units, friends
   that stick, healthy boundaries for adults, rules for showing up for your friends.
+mp3: http://podcasts-1.feedpress.co/10589/grownups34.mp3
 layout: episode
 ---
 
