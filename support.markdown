@@ -29,14 +29,8 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
-## [Sudden ⚡ Coffee →](http://suddencoffee.refr.cc/3LWRDXJ)
-Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! Get `$10 off` by using our link.
-
-## [Cloud App →](http://my.cl.ly/r/28351A1s331l3619)
-Quickly capture and send screenshots, video, and files with a simple link.
-
 ## [WorkFlowy →](https://workflowy.com/invite/20cd98ad.lnx)
-WorkFlowy lets you organize things the way you naturally think. It's as easy to use as a text editor, but can hold mountains of information without making it overwhelming. We use it everyday. Goodstuff listeners get **2x the storage** for free.
+WorkFlowy lets you organize things the way you naturally think. It's as easy to use as a text editor, but can hold mountains of information without making it overwhelming. We use it everyday. *Goodstuff listeners get **2x the storage** for free.*
 
 ## [Trello →](https://trello.com/ichris/recommend)
 Chris goes back and forth between WorkFlowy and Trello for managing podcast ideas, to do's, and life. Trello has an interface that you'll either love or hate.
@@ -51,16 +45,13 @@ Tavour posts a beer that is making waves in the craft beer community through a d
 Invest spare change automatically from everyday purchases into a diversified portfolio. **Get $10 when you sign up today!**
 
 ## [Casper →](http://refer.caspersleep.com/v2/share/6052664474464275369)
-Need a mattress? Try a Casper, made from premium, resilient materials, for 100 nights! Get **$50 off** your order and support the show.
-
-## [Karma Go →](https://yourkarma.com/store/invite/sncahb)
-Get all of your devices online. No contracts or monthly fees. Pay only for what you use. Get **$10 off**!
+Need a mattress? Try a Casper, made from premium, resilient materials, for 100 nights! *Get $50 off your order and support the show.*
 
 ## [Bombfell →](https://bombfell.com/?rc=12254XWrjY)
-Bombfell is a monthly clothing subscription designed entirely for you! It's not just for men, they've got clothing for every style. Sign up with our link and Morning Show listeners get **$25 off** your first order!
+Bombfell is a monthly clothing subscription designed entirely for you! It's not just for men, they've got clothing for every style. *Sign up with our link and get $25 off your first order!*
 
 ## [Backblaze →](https://secure.backblaze.com/r/00sxqw)
-Backblaze is secure, offsite, automatic, unlimited backup. Get a free month of Backblaze!
+Backblaze is secure, offsite, automatic, unlimited backup. *Get a free month of Backblaze!*
 
 ## [Coach →](http://partners.withcoach.com/41464/4006)
 Coach is a great platform for putting together courses or selling digital products.
