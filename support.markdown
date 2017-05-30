@@ -44,9 +44,6 @@ Tavour posts a beer that is making waves in the craft beer community through a d
 ## [Acorns →](https://acorns.com/invite/925ETC)
 Invest spare change automatically from everyday purchases into a diversified portfolio. *Get $10 when you sign up today!*
 
-## [Casper →](http://refer.caspersleep.com/v2/share/6052664474464275369)
-Need a mattress? Try a Casper, made from premium, resilient materials, for 100 nights! *Get $50 off your order and support the show.*
-
 ## [Bombfell →](https://bombfell.com/?rc=12254XWrjY)
 Bombfell is a monthly clothing subscription designed entirely for you! It's not just for men, they've got clothing for every style. *Sign up with our link and get $25 off your first order!*
 
