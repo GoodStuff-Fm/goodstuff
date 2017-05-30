@@ -4,19 +4,17 @@ date: 2017-05-30 07:51:00 -06:00
 published: false
 show: morningshow
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-351.mp3
-description: 
-image: 
+description: It's like carrying a bunch of boxes of candy through the bridge of the
+  Enterprise in VR to the bow of the Enterprise and hoping to not get sea sick.
+image: "/uploads/morningshow-351.png"
 layout: episode
 ---
 
 * [NASA Is Fast-Tracking Plans to Explore a Metal Asteroid Worth $10,000 Quadrillion](https://futurism.com/nasa-fast-tracking-plans-explore-metal-asteroid-worth-10000-quadrillion/)
 * [NASA is about to make a big announcement about a new mission to "touch the Sun" - ScienceAlert](https://www.sciencealert.com/nasa-set-to-launch-a-mission-to-get-closer-to-the-sun-than-ever-before)
-* [Google Play Newsstand](https://newsstand.google.com/articles/CAIiELLviGKBFveTl5j5NvjCtH4qGAgEKg8IACoHCAow6IDNATDnu3cwhq6EAw)
-* [Tesla Model 3's radical single screen dashboard revealed](http://www.dailymail.co.uk/sciencetech/article-4553154/Tesla-Model-3-s-radical-single-screen-dashboard-revealed.html)
-* [Google Play Newsstand](https://newsstand.google.com/articles/CAIiENhTGWcGKjwHZ-sZQSq69RwqGQgEKhAIACoHCAowzcrzCjCg89MCMLj2rwM)
 * [iPhone — Security — Apple - YouTube](https://www.youtube.com/watch?v=AszkLviSLlg&feature=youtu.be)
-* [Autonomous Cars Must Let Us Wander And Explore Without A Destination In Mind](http://jalopnik.com/autonomous-cars-must-let-us-wander-and-explore-without-1795445877)
-* [Ikea's cheap smart lighting will be Apple HomeKit, Google Home, and Amazon Alexa compatible - The Verge](https://www.theverge.com/circuitbreaker/2017/5/23/15679828/ikea-lights-siri-google-home-and-echo-compatible)
+* [Hersheypark](http://www.hersheypark.com/things-to-do/new-for-2017.php)
+* [The Chickle, a chicken-stuffed pickle, being served at stadium - *WARNING AUTOPLAY*](http://www.today.com/food/chickle-chicken-stuffed-pickle-being-served-stadium-t111717)
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
