@@ -29,6 +29,9 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
+## [Exist →](https://exist.io/?referred_by=kyle)
+By combining data from services you already use, Exist can help you understand what makes you more happy, productive, and active. Bring your activity from your phone or fitness tracker, and add other services like your calendar for greater context on what you're up to. *Get 2 months free with our link!*
+
 ## [WorkFlowy →](https://workflowy.com/invite/20cd98ad.lnx)
 WorkFlowy lets you organize things the way you naturally think. It's as easy to use as a text editor, but can hold mountains of information without making it overwhelming. We use it everyday. *Goodstuff listeners get **2x the storage** for free.*
 
