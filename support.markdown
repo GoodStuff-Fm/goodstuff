@@ -39,10 +39,10 @@ Chris goes back and forth between WorkFlowy and Trello for managing podcast idea
 Gustin designs and manufactures boutique-quality handmade menswear. They create a campaign for an item, you back it. Once the number of items backed reaches the campaign goal, the item is successfully funded and they start production. **Get $5 off when you use our link!**
 
 ## [Tavour →](https://www.tavour.com/?invitedby=36764)
-Tavour posts a beer that is making waves in the craft beer community through a daily email or app. If you want it, you buy it. It's not a beer of the month club. You only pay for the beer you chose over the course of the month. **Get $10 off when you buy your first beer.**
+Tavour posts a beer that is making waves in the craft beer community through a daily email or app. If you want it, you buy it. It's not a beer of the month club. You only pay for the beer you chose over the course of the month. *Get $10 off when you buy your first beer.*
 
 ## [Acorns →](https://acorns.com/invite/925ETC)
-Invest spare change automatically from everyday purchases into a diversified portfolio. **Get $10 when you sign up today!**
+Invest spare change automatically from everyday purchases into a diversified portfolio. *Get $10 when you sign up today!*
 
 ## [Casper →](http://refer.caspersleep.com/v2/share/6052664474464275369)
 Need a mattress? Try a Casper, made from premium, resilient materials, for 100 nights! *Get $50 off your order and support the show.*
