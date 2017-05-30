@@ -2,6 +2,11 @@
 title: '351'
 date: 2017-05-30 07:51:00 -06:00
 published: false
+show: morningshow
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-351.mp3
+description: 
+image: 
+layout: episode
 ---
 
 * [NASA Is Fast-Tracking Plans to Explore a Metal Asteroid Worth $10,000 Quadrillion](https://futurism.com/nasa-fast-tracking-plans-explore-metal-asteroid-worth-10000-quadrillion/)
