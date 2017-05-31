@@ -1,16 +1,16 @@
 ---
-title: Dan Brown
+title: Dan Brown — UX Design Consultant
 date: 2017-05-31 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 120
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-120.mp3
-description: Dan Brown
+description: Dan Brown is co-founder of EightShapes, a UX design discovery shop that serves clients in healthcare, education, not-for-profit and high-tech. He’s recently written a book called, *Practical Design Discovery,* published by A Book Apart.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/Fyub2ZkeSHs
+image: https://goodstuff.fm/nbsp/img/nbsptv-dan-brown.jpg
 layout: episode
 ---
 
@@ -44,9 +44,9 @@ layout: episode
 * [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery)
 * [Designing Together](http://designingtogetherbook.com)
 * [GreenOnions.com](https://greenonions.com)
-* [The Internet is Broken - Ev Williams on Twitter and Medium](https://www.nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html?_r=0)
+* [The Internet is Broken - Ev Williams on Twitter and Medium](https://www.nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html)
 * [Nathan Curtis](https://twitter.com/nathanacurtis)
-* [#catsinasink](https://twitter.com/hashtag/catsinasink?src=hash)
+* [#catsinasink](https://twitter.com/hashtag/catsinasink)
 * [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
 * [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
 * [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
