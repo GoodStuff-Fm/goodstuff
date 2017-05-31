@@ -5,7 +5,9 @@ position: 1
 show: nbsp
 episode: 120
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-120.mp3
-description: Dan Brown is co-founder of EightShapes, a UX design discovery shop that serves clients in healthcare, education, not-for-profit and high-tech. He’s recently written a book called, *Practical Design Discovery,* published by A Book Apart.
+description: Dan Brown is co-founder of EightShapes, a UX design discovery shop that
+  serves clients in healthcare, education, not-for-profit and high-tech. He’s recently
+  written a book called, *Practical Design Discovery,* published by A Book Apart.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv120&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
