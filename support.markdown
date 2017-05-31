@@ -1,8 +1,8 @@
 ---
 title: Support Us
 date: 2017-01-30 23:01:00 -06:00
-description: Support Goodstuff hosts directly, leave a review, or click and/or buy
-  from these links. Either way, you'll be supporting Goodstuff. You win, we win. Everybody
+description: Support Goodstuff hosts directly, leave a review, and click or buy from
+  these links. Either way, you'll be supporting Goodstuff. You win, we win. Everybody
   wins!
 layout: default
 ---
