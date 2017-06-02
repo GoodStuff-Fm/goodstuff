@@ -24,15 +24,7 @@ layout: episode
 * [Trent Walton](http://trentwalton.com/)
 * [Freight Sans™ - Webfont & Desktop font « MyFonts](http://www.myfonts.com/fonts/garagefonts/freight-sans/)
 * [Free Font PT Sans by Paratype](http://www.fontsquirrel.com/fonts/PT-Sans)
-
-
 * [Project Worksheet](http://bhoff.wufoo.com/forms/project-worksheet/)
-
-
 * [Dribbble - Analytics by Brian Hoff](http://dribbble.com/shots/229595-Analytics)
-
-
-* [The Non-Breaking Space Show Interview with Kristina Halvorson](http://nonbreakingspace.tv/kristina-halvorson/)
-
-
-* [Brian Hoff – Rdio](http://www.rdio.com/people/behoff/)
+* [The Non Breaking Space Show Interview with Kristina Halvorson](http://nonbreakingspace.tv/kristina-halvorson/)
+* [Brian Hoff on Rdio](http://www.rdio.com/people/behoff/)
