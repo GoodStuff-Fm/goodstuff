@@ -9,7 +9,7 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 
 (*A little fine print: We're not going to be obsessively re-checking these numbers so forgive us if we they don't always balance exactly. We're podcasters, not accountants!*)
 
-# Numbers for April, 2017
+# Numbers for May, 2017
 
 ## Expenses for the Month
 * $55 for web and file hosting
@@ -18,20 +18,20 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 
 ## Patreon Campaigns
 * [Goodstuff](https://www.patreon.com/goodstuff) - not currently active. Coming soon!
-* [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons, $45 per month
-* [iChris](https://www.patreon.com/ichris) - 20 patrons, $95 per month
+* [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 14 patrons, $40 per month
+* [iChris](https://www.patreon.com/ichris) - 19 patrons, $95 per month
 
-Currently $140/month income via patron support. Same as the [previous month](https://goodstuff.fm/2017/04/07/goodstuff-monthly-march-2017/).
+Currently $135/month income via patron support. Decrease of $5 from the [previous month](https://goodstuff.fm/2017/04/07/goodstuff-monthly-april-2017/).
 
 ## Site Stats
-The April numbers for Goodstuff.FM are only valid for April 7-30. According to Google Analytics:
+According to Google Analytics:
 
-* 1,001 unique visitors with 2,378 pageviews
+* 1,646 monthly active users with 3,773 pageviews (64.4% and 58.5% increase respectively)
 * 64% new, 36% returning
-* 55% used Chrome, 21% used Safari, 24% used other browsers
-* 61% on desktop, 33% on mobile, 6% on tablet
+* 52.4% used Chrome, 23.2% used Safari, 24.4% used other browsers
+* 51.1% on desktop, 41.1% on mobile, 7.8% on tablet
 * 36% on Windows, 23% on iOS, 21% on MacOS, 19% on Android, 1% on Linux
-* 81% male, 19% female (reporting on 61% of sessions)
+* 76.6% male, 23.4% female (reporting on 62.3% of total audience)
 
 ## Feed Stats
 * 10,880 subscribers to all shows
