@@ -8,10 +8,10 @@ description: Brian is a graphic designer living in Brooklyn, New York who loves 
   at colleges — all on the subject of design.
 sponsor: 
 sponsor-link: 
-sponsor-copy: ''
+sponsor-copy: 
 episode: 11
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-11.mp3
+mp3: http://podcasts-1.feedpress.co/10609/Brian-Hoff-on-NBSPtv.mp3
 layout: episode
 ---
 
