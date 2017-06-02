@@ -1,5 +1,5 @@
 ---
-title: Eric Meyer
+title: Eric Meyer — CSS Evangelist
 date: 2012-06-29 12:11:00 -06:00
 position: 12
 description: Eric has been working with the web since late 1993 and is an internationally
