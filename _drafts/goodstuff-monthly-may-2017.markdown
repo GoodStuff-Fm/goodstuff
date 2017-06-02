@@ -27,15 +27,14 @@ Currently $135/month income via patron support. Decrease of $5 from the [previou
 According to Google Analytics:
 
 * 1,646 monthly active users with 3,773 pageviews (64.4% and 58.5% increase respectively)
-* 64% new, 36% returning
+* 65.1% new, 34.9% returning
 * 52.4% used Chrome, 23.2% used Safari, 24.4% used other browsers
 * 51.1% on desktop, 41.1% on mobile, 7.8% on tablet
-* 36% on Windows, 23% on iOS, 21% on MacOS, 19% on Android, 1% on Linux
 * 76.6% male, 23.4% female (reporting on 62.3% of total audience)
 
 ## Feed Stats
-* 10,880 subscribers to all shows
-* [atU2](/atu2/) holds the top spot for most subscribers in April
+* 10,975 subscribers to all shows (0.8% increase)
+* [atU2](/atu2/) holds the top spot for most subscribers in May
 
 ***
 
