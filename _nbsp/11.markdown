@@ -15,31 +15,15 @@ mp3: http://podcasts-1.feedpress.co/10609/Brian-Hoff-on-NBSPtv.mp3
 layout: episode
 ---
 
-* [Brian Hoff ::: Brand and Website Designer](http://brianhoff.net/)
-
-
+* [Brian Hoff](http://brianhoff.net/)
 * [Web Design by Designer, Speaker and Writer Brian Hoff](http://www.thedesigncubicle.com/)
-
-
 * [Dribbble - Brian Hoff](http://dribbble.com/behoff)
-
-
 * [Typekit](https://typekit.com/)
-
-
 * [Fontdeck web fonts: Real fonts for your website](http://fontdeck.com/)
-
-
 * [Fonts.com](http://www.fonts.com/)
-
-
-* [Trent Walton | Trent Walton's Web Site](http://trentwalton.com/)
-
-
+* [Trent Walton](http://trentwalton.com/)
 * [Freight Sans™ - Webfont & Desktop font « MyFonts](http://www.myfonts.com/fonts/garagefonts/freight-sans/)
-
-
-* [Free Font PT Sans by Paratype | Font Squirrel](http://www.fontsquirrel.com/fonts/PT-Sans)
+* [Free Font PT Sans by Paratype](http://www.fontsquirrel.com/fonts/PT-Sans)
 
 
 * [Project Worksheet](http://bhoff.wufoo.com/forms/project-worksheet/)
