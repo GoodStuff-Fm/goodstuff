@@ -42,4 +42,4 @@ According to Google Analytics:
 * You can discuss this in our [subreddit](#) or <a href="mailto:contact@goodstuff.fm">email us</a>.
 * Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
 
-This is also available on [our medium publication](https://blog.goodstuff.fm/goodstuff-monthly-april-2017-edition-10e961d7c374).
+This is also available on [our medium publication](#).
