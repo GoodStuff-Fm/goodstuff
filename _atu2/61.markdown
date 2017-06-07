@@ -1,6 +1,7 @@
 ---
 title: Bigwave needs a Kimono
 date: 2017-06-07 12:15:00 -06:00
+published: false
 description: We're back for another discussion of The Joshua Tree 2017 Tour with Aaron,
   Sherry, Sienna, and Chris. We're also joined by Bigwave from the U2.com moderator
   crew to help answer questions from listeners.
@@ -13,7 +14,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-61.mp3
 episode: 61
 video: 
 show: atu2
-image: ''
+image: "/uploads/atu2-61.jpg"
 layout: episode
 ---
 
