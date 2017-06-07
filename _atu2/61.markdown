@@ -18,7 +18,7 @@ image: "/uploads/atu2-61.jpg"
 layout: episode
 ---
 
-* [Discuss in our subreddit](#)
+* [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6fwm4v/u2_61_bigwave_needs_a_kimono/)
 * [@Adamskimono](https://twitter.com/adamskimono)
 * [Sienna's article on being a U2 fan under 20](https://www.atu2.com/news/u2teens-being-a-u2-fan-under-20.html)
 * [Zootopia.com](http://zootopia.u2.com)
