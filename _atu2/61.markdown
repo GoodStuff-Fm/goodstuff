@@ -1,7 +1,9 @@
 ---
 title: Bigwave needs a Kimono
 date: 2017-06-07 12:15:00 -06:00
-description: We're back for another discussion of The Joshua Tree 2017 Tour with Aaron, Sherry, Sienna, and Chris. We're also joined by Bigwave from the U2.com moderator crew to help answer questions from listeners.
+description: We're back for another discussion of The Joshua Tree 2017 Tour with Aaron,
+  Sherry, Sienna, and Chris. We're also joined by Bigwave from the U2.com moderator
+  crew to help answer questions from listeners.
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -9,9 +11,9 @@ sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and producti
   the broadcasting veterans wildest dreams."
 mp3: http://podcasts-1.feedpress.co/12572/atu2-61.mp3
 episode: 61
-video:
+video: 
 show: atu2
-image: ""
+image: ''
 layout: episode
 ---
 
