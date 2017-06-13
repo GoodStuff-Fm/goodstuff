@@ -1,0 +1,75 @@
+---
+title: Harry Roberts — The Tools of a CSS Front-end Architect
+date: 2017-06-13 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 121
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-121fix.mp3
+description: Harry Roberts is an award-winning Consultant Front-end Architect, writer, and speaker from the UK. Roberts is often asked for his advice by web teams to help make their CSS better organized and more efficient. 
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video: https://www.youtube.com/embed/2mwG28cUgOI
+image: https://goodstuff.fm/nbsp/img/nbsptv-harry-roberts.jpg
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[3:40](#t=3:40)** Becoming a Google Developer Expert
+* **[5:30](#t=5:30)** What type of work do you normally do?
+* **[6:40](#t=6:40)** What does it mean to thrash things off?
+* **[7:40](#t=7:40)** When does someone hire an outside consultant?
+* **[8:30](#t=8:30)** Are you doing a lot of coding on projects?
+* **[11:11](#t=11:11)** What type of issues are clients calling you about?
+* **[14:10](#t=14:10)** What tips do you have to scale engineers to be able to understand CSS?
+* **[16:34](#t=16:34)** Only tell people what they want to hear.
+* **[18:10](#t=18:10)** What tools do you use?
+* **[21:40](#t=21:40)** Any tips on becoming a master of Chrome Dev Tools?
+* **[24:10](#t=24:10)** Can you have Canary and regular Chrome on one computer?
+* **[25:10](#t=25:10)** What does it mean to have CSS in Javascript?
+* **[31:15](#t=31:15)** What are web components and how can people benefit from them?
+* **[38:15](#t=38:15)** Your views on Sass vs Post-CSS?
+* **[39:35](#t=39:35)** Do most companies have responsive websites now?
+* **[42:45](#t=42:45)** Any advice for people who want to market themselves?
+* **[44:45](#t=44:45)** If you don't have a blog, people cannot read your work at all.
+
+
+
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [📺 Harry Roberts — The Tools of a CSS Front-end Architect](https://www.youtube.com/watch?v=2mwG28cUgOI)
+* [CSSWizarddry.com](https://csswizardry.com/)
+* [Harry Roberts on Twitter](https://twitter.com/csswizardry)
+* [Google Developer Experts](https://developers.google.com/experts/)
+* [Chrome Dev Tools](https://developer.chrome.com/devtools)
+* [WebPageTest.org](https://www.webpagetest.org/)
+* [CharlesProxy.com](https://www.charlesproxy.com/)
+* [SpeedCurve.com](https://speedcurve.com/)
+* [Improving Your CSS With Parker](https://csswizardry.com/2016/06/improving-your-css-with-parker/)
+* [CSS Stats](http://cssstats.com/)
+* [Wikipeida AWK](https://en.wikipedia.org/wiki/AWK)
+* [Ctags](http://ctags.sourceforge.net/)
+* [Canary](https://www.google.com/chrome/browser/canary.html)
+* [Umaar.com Dev Tips](https://umaar.com/dev-tips/)
+* [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+* [Using CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
+* [Web Components](https://www.webcomponents.org/)
+* [Polymer Project](https://www.polymer-project.org/)
+* [All Initial CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/all)
+* [Vote to support CSS propoerty 'all' in IE Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6511510-all-initial)
+* [CanIUse](http://caniuse.com)
+* [Sass](http://sass-lang.com/)
+* [Post CSS](https://github.com/postcss/postcss)
+* [CSS Dev Conf 2017](http://2017.cssdevconf.com/)
+* [Lea Verou](http://lea.verou.me)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
