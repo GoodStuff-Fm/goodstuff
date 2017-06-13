@@ -1,16 +1,16 @@
 ---
-title: Harry Roberts — CSS Wizardry
+title: Harry Roberts — The Tools of a CSS Front-end Architect
 date: 2017-06-13 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 121
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-121.mp3
-description: Harry is an award-winning Consultant, Front-end Architect, writer, and speaker from the UK. He’s often asked for his advice by web teams to help make their CSS better organized and more efficient.
+description: Harry Roberts is an award-winning Consultant Front-end Architect, writer, and speaker from the UK. Roberts is often asked for his advice by web teams to help make their CSS better organized and more efficient. 
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/2mwG28cUgOI
+image: https://goodstuff.fm/nbsp/img/nbsptv-harry-roberts.jpg
 layout: episode
 ---
 
@@ -27,9 +27,9 @@ layout: episode
 * **[18:10](#t=18:10)** What tools do you use?
 * **[21:40](#t=21:40)** Any tips on becoming a master of Chrome Dev Tools?
 * **[24:10](#t=24:10)** Can you have Canary and regular Chrome on one computer?
-* **[25:10](#t=25:10)** What's CSS in Javascript?
-* **[31:15](#t=31:15)** What's web components and how can people benefit from them?
-* **[38:15](#t=38:15)** Your views on SASS vs Post-CSS?
+* **[25:10](#t=25:10)** What does it mean to have CSS in Javascript?
+* **[31:15](#t=31:15)** What are web components and how can people benefit from them?
+* **[38:15](#t=38:15)** Your views on Sass vs Post-CSS?
 * **[39:35](#t=39:35)** Do most companies have responsive websites now?
 * **[42:45](#t=42:45)** Any advice for people who want to market themselves?
 * **[44:45](#t=44:45)** If you don't have a blog, people cannot read your work at all.
@@ -42,7 +42,7 @@ layout: episode
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
 * [CSSWizarddry.com](https://csswizardry.com/)
-* [@CSSWizardry](https://twitter.com/csswizardry)
+* [Harry Roberts on Twitter](https://twitter.com/csswizardry)
 * [Google Developer Experts](https://developers.google.com/experts/)
 * [Chrome Dev Tools](https://developer.chrome.com/devtools)
 * [WebPageTest.org](https://www.webpagetest.org/)
@@ -59,8 +59,9 @@ layout: episode
 * [Web Components](https://www.webcomponents.org/)
 * [Polymer Project](https://www.polymer-project.org/)
 * [All Initial CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/all)
+* [Vote to support CSS propoerty 'all' in IE Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6511510-all-initial)
 * [CanIUse](http://caniuse.com)
-* [SASS](http://sass-lang.com/)
+* [Sass](http://sass-lang.com/)
 * [Post CSS](https://github.com/postcss/postcss)
 * [CSS Dev Conf 2017](http://2017.cssdevconf.com/)
 * [Lea Verou](http://lea.verou.me)
