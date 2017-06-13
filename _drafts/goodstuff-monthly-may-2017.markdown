@@ -1,7 +1,7 @@
 ---
 title: 'Goodstuff Monthly: May 2017'
 date: 2017-06-02 17:15:00 -06:00
-image: 
+image: "/uploads/goodstuffmonthlymay.jpg"
 layout: default
 ---
 
