@@ -13,3 +13,5 @@ Go listen to the interview and then be sure to subscribe to Clockworks:
 * [Apple Podcasts](https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658)
 * [Pocket Casts](http://pca.st/Os98)
 * [Overcast](https://overcast.fm/p565199-VhCqC0)
+
+You can also listen/watch to this episode of Clockworks with Dennie Gordon on [our YouTube channel](https://www.youtube.com/watch?v=ojDLD_CmYsA&t=3s).
