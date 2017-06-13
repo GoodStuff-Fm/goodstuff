@@ -1,7 +1,7 @@
 ---
-title: 'Goodstuff Monthly: May 2017'
+title: "\U0001F3CC Goodstuff Monthly: May 2017"
 date: 2017-06-02 17:15:00 -06:00
-image: 
+image: "/uploads/goodstuffmonthlymay.jpg"
 layout: default
 ---
 
@@ -39,7 +39,7 @@ According to Google Analytics:
 ***
 
 # Any Questions?
-* You can discuss this in our [subreddit](#) or <a href="mailto:contact@goodstuff.fm">email us</a>.
+* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6h0fk5/goodstuff_monthly_may_2017_edition/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
 * Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
 
-This is also available on [our medium publication](#).
+This is also available on [our medium publication](https://medium.com/goodstuff-fm).
