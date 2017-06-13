@@ -1,5 +1,5 @@
 ---
-title: "'Legion' Director Dennie Gordon on Clockworks"
+title: "⏰ 'Legion' Director Dennie Gordon on Clockworks"
 date: 2017-05-16 12:14:00 -06:00
 layout: default
 ---
