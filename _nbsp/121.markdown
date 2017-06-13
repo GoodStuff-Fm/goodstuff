@@ -4,7 +4,7 @@ date: 2017-06-13 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 121
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-121.mp3
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-121fix.mp3
 description: Harry Roberts is an award-winning Consultant Front-end Architect, writer, and speaker from the UK. Roberts is often asked for his advice by web teams to help make their CSS better organized and more efficient. 
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv121&utm_medium=podcast&utm_campaign=cssdevconf2017)
@@ -41,6 +41,7 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [📺 Harry Roberts — The Tools of a CSS Front-end Architect](https://www.youtube.com/watch?v=2mwG28cUgOI)
 * [CSSWizarddry.com](https://csswizardry.com/)
 * [Harry Roberts on Twitter](https://twitter.com/csswizardry)
 * [Google Developer Experts](https://developers.google.com/experts/)
