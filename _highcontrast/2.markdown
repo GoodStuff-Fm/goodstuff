@@ -1,0 +1,9 @@
+---
+title: Episode 2
+date: 2017-06-14 12:12:00 -06:00
+episode: 2
+mp3: https://www.dropbox.com/s/d12g1oczb1aqgfh/Chris%20and%20Kyle%202.mp3
+description:
+show: highcontrast
+layout: episode
+---
