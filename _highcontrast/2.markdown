@@ -1,5 +1,5 @@
 ---
-title: Episode 2
+title: PerPlexed by Streaming
 date: 2017-06-07 12:12:00 -06:00
 episode: 2
 mp3: http://podcasts-1.feedpress.co/10591/HighContrast-002.mp3
@@ -8,3 +8,4 @@ show: highcontrast
 layout: episode
 ---
 
+How does one watch a film in 2017?
