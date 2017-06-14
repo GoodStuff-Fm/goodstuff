@@ -2,9 +2,10 @@
 title: Episode 1
 date: 2017-05-31 12:11:00 -06:00
 episode: 1
-mp3: https://www.dropbox.com/s/5or5wbhr4cjwkt5/Chris%20and%20Kyle%201.mp3
+mp3: http://podcasts-1.feedpress.co/10591/HighContrast-001.mp3
 description: 
 show: highcontrast
 layout: episode
 ---
 
+The beginning. Where things start.
