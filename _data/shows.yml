@@ -1,3 +1,25 @@
+highcontrast:
+  name: High Contrast
+  lang: EN
+  explicit: no
+  collection: highcontrast
+  hosts: Chris Enns and Kyle Roderick
+  description: TBD
+  artwork: "/uploads/artwork-highcontrast.jpg"
+  color: "#6B4AD3"
+  show-twitter:
+  hosts-twitter:
+  email:
+  keywords:
+  category1: "Technology"
+  category2:
+  category3:
+  category4:
+  category5:
+  rss: https://goodstuff.fm/highcontrast/feed.xml
+  itunes:
+  pocketcasts:
+  overcast:
 3g3q:
   name: 3 Guys 3 Questions
   lang: EN

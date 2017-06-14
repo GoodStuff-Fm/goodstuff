@@ -2,6 +2,14 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
+  highcontrast:
+    title: High Contrast
+    output: true
+    permalink: "/highcontrast/:path"
+    slug: highcontrast
+    retired: false
+    live: false
+    hidden: true
   3g3q:
     title: 3G3Q
     output: true
