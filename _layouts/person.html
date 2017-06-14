@@ -31,7 +31,7 @@
         <!-- shows -->
         <div class="person__shows">Shows</div>
 
-        {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.hidden == true %} {% assign show = site.data.shows[collection.label] %} {% if show.hosts contains page.name %}
+        {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' %} {% assign show = site.data.shows[collection.label] %} {% if show.hosts contains page.name %}
         <!-- Needs to contain, not equal -->
 
         <div class="person__show">
