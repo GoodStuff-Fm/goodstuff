@@ -36,7 +36,7 @@
                 </li>
             </ul>
 
-            <hr class="page__rule"> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true or collection.output == false %} {% assign show = site.data.shows[collection.label]
+            <hr class="page__rule"> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true or collection.output == false or collection.hidden == true %} {% assign show = site.data.shows[collection.label]
             %}
 
             <ul class="shows__list">

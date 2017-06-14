@@ -13,7 +13,7 @@
 
         <!-- Latest Episodes -->
 
-        <h1 class="page__header">Latest Episodes</h1> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true %} {%
+        <h1 class="page__header">Latest Episodes</h1> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true or collection.hidden == true %} {%
         assign show = site.data.shows[collection.label] %} {% assign latest = collection.docs | sort | reverse %} {% for doc in latest offset:1 limit:1 %}
 
         <div class="latest-episode">
@@ -54,7 +54,7 @@
         <div class="container__our-shows">
             <div class="our-shows__header">Our Shows</div>
             <div class="our-shows">
-                {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true %} {% assign show = site.data.shows[collection.label] %}
+                {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true or collection.hidden == true %} {% assign show = site.data.shows[collection.label] %}
                 <div class="our-shows__list">
                     <div class="our-shows__artwork">
                         <a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" /></a>

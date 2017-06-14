@@ -7,8 +7,9 @@ collections:
     output: true
     permalink: "/highcontrast/:path"
     slug: highcontrast
-    retired: true
+    retired: false
     live: false
+    hidden: true
   3g3q:
     title: 3G3Q
     output: true
