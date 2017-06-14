@@ -2,14 +2,6 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
-  highcontrast:
-    title: High Contrast
-    output: true
-    permalink: "/highcontrast/:path"
-    slug: highcontrast
-    retired: false
-    live: false
-    hidden: true
   3g3q:
     title: 3G3Q
     output: true
@@ -43,6 +35,14 @@ collections:
     permalink: "/specials/:path"
     retired: true
     live: false
+  highcontrast:
+    title: High Contrast
+    output: true
+    permalink: "/highcontrast/:path"
+    slug: highcontrast
+    retired: false
+    live: false
+    hidden: true
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true

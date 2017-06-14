@@ -3,7 +3,8 @@ title: Episode 3
 date: 2017-06-14 12:13:00 -06:00
 episode: 3
 mp3: https://www.dropbox.com/s/7pfinokzieikot6/Chris%20and%20Kyle%203.mp3
-description:
+description: 
 show: highcontrast
 layout: episode
 ---
+

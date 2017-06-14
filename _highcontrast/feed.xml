@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: highcontrast
-layout:
+layout: 
 ---
 
 {% include feed.html %}
