@@ -63,7 +63,7 @@ layout: episode
 * [Web Components](https://www.webcomponents.org/)
 * [Polymer Project](https://www.polymer-project.org/)
 * [All Initial CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/all)
-* [Vote to support CSS propoerty 'all' in IE Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6511510-all-initial)
+* [Vote to support CSS property 'all' in IE Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6511510-all-initial)
 * [CanIUse](http://caniuse.com)
 * [Sass](http://sass-lang.com/)
 * [Post CSS](https://github.com/postcss/postcss)
