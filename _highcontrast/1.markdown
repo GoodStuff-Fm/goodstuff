@@ -3,9 +3,28 @@ title: Renting Goodstuff from the Cats
 date: 2017-05-31 12:11:00 -06:00
 episode: 1
 mp3: http://podcasts-1.feedpress.co/10591/HighContrast-001.mp3
-description: 
+description: Kyle and Chris discuss cats vs. kids, Costco runs, and the various methods of note taking the've tried over the years.
 show: highcontrast
 layout: episode
 ---
 
-The beginning. Where things start.
+* [Moo.do](https://www.moo.do)
+* [Basecamp](https://basecamp.com)
+* [Todoist](https://todoist.com)
+* [Folding Text](http://www.foldingtext.com)
+* [Trello](https://trello.com/ichris/recommend)
+* [Notion](https://www.notion.so)
+* [Nvalt](http://brettterpstra.com/projects/nvalt/)
+* [43Folders](http://www.43folders.com)
+* [Bear Writer](http://www.bear-writer.com)
+
+### Kyle
+
+* [@dogburps](https://twitter.com/dogburps)
+* [The Goodstuff Morning Show](https://goodstuff.fm/morningshow/)
+
+### Chris
+
+* [@iChris](https://twitter.com/ichris)
+* [Dailyish](https://goodstuff.fm/dailyish/)
+* [Support Chris on Patreon](https://www.patreon.com/ichris)
