@@ -40,7 +40,8 @@ collections:
     output: true
     permalink: "/highcontrast/:path"
     slug: highcontrast
-    description: Kyle and Chris talk about nerdy things that relate to a singular topic from two different perspectives.
+    description: Kyle and Chris talk about nerdy things that relate to a singular
+      topic from two different perspectives.
     retired: false
     live: false
     hidden: true
