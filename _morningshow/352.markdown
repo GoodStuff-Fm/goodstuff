@@ -6,6 +6,7 @@ description: It's like getting back from vacation after barfing up a mile-long p
   all over a boat, a building, and a plane.
 episode: 352
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-352.mp3
+layout: episode
 ---
 
 [haroldina on Twitter: "@dogburps @kennyaroderick https://t.co/oUML8ytihY"](https://twitter.com/princessharold/status/873663739635040256)
