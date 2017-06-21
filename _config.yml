@@ -101,7 +101,6 @@ collections:
     title: Way Too Seriously
     output: true
     permalink: "/wts/:path"
-    slug: wts
     description: TBD
     retired: false
     live: false
