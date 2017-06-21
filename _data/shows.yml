@@ -20,6 +20,28 @@ highcontrast:
   itunes:
   pocketcasts:
   overcast:
+wts:
+  name: Way Too Seriously
+  lang: EN
+  explicit: no
+  collection: highcontrast
+  hosts: Jan Moffett and Paul Moffett
+  description: TBD
+  artwork: "/uploads/artwork-highcontrast.jpg"
+  color: "#cccccc"
+  show-twitter: "@wtscast"
+  hosts-twitter: "@jayellemo and @thatpaulmoffett"
+  email: clockworkscast@gmail.com
+  keywords: movie, tv, kids movies, critic
+  category1: "TV & Film"
+  category2:
+  category3:
+  category4:
+  category5:
+  rss: https://goodstuff.fm/wts/feed.xml
+  itunes:
+  pocketcasts:
+  overcast:
 3g3q:
   name: 3 Guys 3 Questions
   lang: EN
@@ -98,7 +120,7 @@ clockworks:
   category1: "TV &amp; Film"
   category2: "Arts"
   category3: "Visual Arts"
-  email: clockworkscast@gmail.com.
+  email: clockworkscast@gmail.com
   support:
   rss: http://feeds.goodstuff.fm/clockworks
   itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658
