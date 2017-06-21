@@ -4,7 +4,7 @@ highcontrast:
   explicit: no
   collection: highcontrast
   hosts: Chris Enns and Kyle Roderick
-  description: TBD
+  description: Kyle and Chris talk about nerdy things that relate to a singular topic from two different perspectives.
   artwork: "/uploads/artwork-highcontrast.jpg"
   color: "#6B4AD3"
   show-twitter:
@@ -26,7 +26,7 @@ wts:
   explicit: no
   collection: wts
   hosts: Jan Moffett and Paul Moffett
-  description: TBD
+  description: We wanted to do a kids movie podcast because after our kids go to bed, we always end up talking about whether the movie we watched was actually good - especially when it comes to passing the Bechdel Test, including some diversity and how it portrays gender roles. Sometimes a movie can be good and fun, but when you take it way too seriously, some of the bad elements stand out!
   artwork: "/uploads/artwork-highcontrast.jpg"
   color: "#cccccc"
   show-twitter: "@wtscast"
