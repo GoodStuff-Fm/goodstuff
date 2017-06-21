@@ -26,12 +26,12 @@ wts:
   explicit: no
   collection: wts
   hosts: Jan Moffett and Paul Moffett
-  description: We wanted to do a kids movie podcast because after our kids go to bed, we always end up talking about whether the movie we watched was actually good. Sometimes a movie can be good and fun, but when you take it way too seriously, some of the bad elements stand out!
+  description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett talk about the implicit biases, the  assumptions, and the thematic implications of kids' movies with exactly the appropriate level of seriousness.
   artwork: "/uploads/artwork-highcontrast.jpg"
   color: "#cccccc"
   show-twitter: "@wtscast"
   hosts-twitter: "@jayellemo and @thatpaulmoffett"
-  email: clockworkscast@gmail.com
+  email: waytooseriouslycast@gmail.com
   keywords: movie, tv, kids movies, critic
   category1: "TV &amp; Film"
   category2: "Arts"
