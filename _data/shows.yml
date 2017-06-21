@@ -24,7 +24,7 @@ wts:
   name: Way Too Seriously
   lang: EN
   explicit: no
-  collection: highcontrast
+  collection: wts
   hosts: Jan Moffett and Paul Moffett
   description: TBD
   artwork: "/uploads/artwork-highcontrast.jpg"
