@@ -105,6 +105,7 @@ collections:
     retired: false
     live: false
     hidden: true
+    slug: wts
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.fm
