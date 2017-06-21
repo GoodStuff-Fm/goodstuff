@@ -97,7 +97,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  waytooseriously:
+  wts:
     title: Way Too Seriously
     output: true
     permalink: "/wts/:path"
