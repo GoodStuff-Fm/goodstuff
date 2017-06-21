@@ -102,7 +102,7 @@ collections:
     output: true
     permalink: "/wts/:path"
     description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett
-      talk about the implicit biases, the  assumptions, and the thematic implications
+      talk about the implicit biases, the assumptions, and the thematic implications
       of kids' movies with exactly the appropriate level of seriousness.
     retired: false
     live: false
