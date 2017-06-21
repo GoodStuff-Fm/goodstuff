@@ -4,7 +4,7 @@ highcontrast:
   explicit: no
   collection: highcontrast
   hosts: Chris Enns and Kyle Roderick
-  description: TBD
+  description: Kyle and Chris talk about nerdy things that relate to a singular topic from two different perspectives.
   artwork: "/uploads/artwork-highcontrast.jpg"
   color: "#6B4AD3"
   show-twitter:
@@ -16,7 +16,7 @@ highcontrast:
   category3:
   category4:
   category5:
-  rss: https://goodstuff.fm/highcontrast/feed.xml
+  rss: http://feeds.goodstuff.fm/highcontrast
   itunes:
   pocketcasts:
   overcast:
@@ -24,21 +24,21 @@ wts:
   name: Way Too Seriously
   lang: EN
   explicit: no
-  collection: highcontrast
+  collection: wts
   hosts: Jan Moffett and Paul Moffett
-  description: TBD
+  description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett talk about the implicit biases, the  assumptions, and the thematic implications of kids' movies with exactly the appropriate level of seriousness.
   artwork: "/uploads/artwork-highcontrast.jpg"
   color: "#cccccc"
   show-twitter: "@wtscast"
   hosts-twitter: "@jayellemo and @thatpaulmoffett"
-  email: clockworkscast@gmail.com
+  email: waytooseriouslycast@gmail.com
   keywords: movie, tv, kids movies, critic
-  category1: "TV & Film"
-  category2:
-  category3:
+  category1: "TV &amp; Film"
+  category2: "Arts"
+  category3: "Visual Arts"
   category4:
   category5:
-  rss: https://goodstuff.fm/wts/feed.xml
+  rss: http://feeds.goodstuff.fm/wts
   itunes:
   pocketcasts:
   overcast:

@@ -45,15 +45,6 @@ collections:
     retired: false
     live: false
     hidden: true
-  waytooseriously:
-    title: Way Too Seriously
-    output: true
-    permalink: "/wts/:path"
-    slug: wts
-    description: TBD
-    retired: false
-    live: false
-    hidden: true
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
@@ -106,6 +97,17 @@ collections:
   uploads:
     title: Uploads
     output: true
+  wts:
+    title: Way Too Seriously
+    output: true
+    permalink: "/wts/:path"
+    description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett
+      talk about the implicit biases, the  assumptions, and the thematic implications
+      of kids' movies with exactly the appropriate level of seriousness.
+    retired: false
+    live: false
+    hidden: true
+    slug: wts
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.fm
