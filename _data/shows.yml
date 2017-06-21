@@ -17,8 +17,8 @@ highcontrast:
   category4:
   category5:
   rss: http://feeds.goodstuff.fm/highcontrast
-  itunes:
-  pocketcasts:
+  itunes: https://itunes.apple.com/us/podcast/high-contrast/id1251036231
+  pocketcasts: http://pca.st/xfk8
   overcast:
 wts:
   name: Way Too Seriously
@@ -39,8 +39,8 @@ wts:
   category4:
   category5:
   rss: http://feeds.goodstuff.fm/wts
-  itunes:
-  pocketcasts:
+  itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790
+  pocketcasts: http://pca.st/I80b
   overcast:
 3g3q:
   name: 3 Guys 3 Questions
