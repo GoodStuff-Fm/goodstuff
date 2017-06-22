@@ -27,7 +27,7 @@ wts:
   collection: wts
   hosts: Jan Moffett and Paul Moffett
   description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett talk about the implicit biases, the assumptions, and the thematic implications of kids' movies with exactly the appropriate level of seriousness.
-  artwork: "/uploads/Way-Too-Seriously-Artwork-Colour.jpg"
+  artwork: "/uploads/Way-Too-Seriously-Artwork-Colournew.jpg"
   color: "#241771"
   show-twitter: "@wtscast"
   hosts-twitter: "@jayellemo and @thatpaulmoffett"
