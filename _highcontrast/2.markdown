@@ -1,6 +1,7 @@
 ---
 title: Media or PerPlexed by Streaming
 date: 2017-06-07 12:12:00 -06:00
+position: 1
 episode: 2
 mp3: http://podcasts-1.feedpress.co/10591/HighContrast-002.mp3
 description: Comparing our Letterboxd diaries leads to a discussion of how we watch

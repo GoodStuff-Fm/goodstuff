@@ -1,6 +1,7 @@
 ---
 title: Note-Taking or Renting Goodstuff From the Cats
 date: 2017-05-31 12:11:00 -06:00
+position: 2
 episode: 1
 mp3: http://podcasts-1.feedpress.co/10591/HighContrast-001.mp3
 description: Kyle and Chris discuss cats vs. kids, Costco runs, and the various methods
