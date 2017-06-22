@@ -1,12 +1,12 @@
 ---
-title: Frying Pans Can Act as Armor on Your Butt
+title: Notifications or Frying Pans Can Act as Armor on Your Butt
 date: 2017-06-26 12:13:00 -06:00
 published: false
 episode: 3
 mp3: http://podcasts-1.feedpress.co/10591/HighContrast-003.mp3
 description: Parents adopting new tech, dental relationship status, IFTTT recipes
-  for dinner, notification analysis paralysis, and Kyle explains PlayerUnknown to
-  Chris.
+  for dinner, notification analysis paralysis, and Kyle explains PLAYERUNKNOWNS BATTLEGROUNDS
+  to Chris.
 show: highcontrast
 layout: episode
 ---
