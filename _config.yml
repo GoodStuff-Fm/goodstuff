@@ -106,7 +106,7 @@ collections:
       of kids' movies with exactly the appropriate level of seriousness.
     retired: false
     live: false
-    hidden: true
+    hidden: false
     slug: wts
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
