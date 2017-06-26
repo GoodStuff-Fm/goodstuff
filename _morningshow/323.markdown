@@ -1,7 +1,7 @@
 ---
 title: Dolphin Taco
 date: 2016-10-04 22:04:00 -06:00
-position: 72
+position: 78
 description: What in the world could Google have for us today?, Facebook wants you
   to sell stuff to your “friends”, Taco Tuesday gets the Chipotle treatment, Everyone’s
   favorite ride gets a facelift, and more!

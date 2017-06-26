@@ -6,7 +6,7 @@ tags:
 - Olympics
 - 2 Stupid Games
 - rollercoaster
-position: 61
+position: 67
 episode: '312'
 description: Kyle and Kenny try a knock knock joke, How fat are babies really?, We
   run as fast as Usain Bolt, Whip it! Whip it LONG, Roller Coasters on VR try to kill

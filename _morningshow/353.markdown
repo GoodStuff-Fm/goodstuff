@@ -1,6 +1,7 @@
 ---
 title: Chocolate Newton
 date: 2017-06-23 11:35:00 -06:00
+position: 0
 show: morningshow
 episode: 353
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-353.mp3

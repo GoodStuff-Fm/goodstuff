@@ -6,7 +6,7 @@ tags:
 - robots
 - catfish
 - cheese
-position: 58
+position: 64
 episode: '309'
 description: Are we back yet?, Kyle and Kenny explain their absence, Drink alcohol
   at your favorite book store, Turn your shoe into a guitar pedal, Is it a bear or
