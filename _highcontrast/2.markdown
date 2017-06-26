@@ -7,6 +7,7 @@ mp3: http://podcasts-1.feedpress.co/17645/HighContrast-002.mp3
 description: Comparing our Letterboxd diaries leads to a discussion of how we watch
   streaming media in 2017.
 show: highcontrast
+image: "/uploads/highcontrast-002.jpg"
 layout: episode
 ---
 
