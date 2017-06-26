@@ -1,6 +1,6 @@
 ---
 title: Notifications or Frying Pans Can Act as Armor on Your Butt
-date: 2017-06-26 11:00:00 -06:00
+date: 2017-06-26 09:00:00 -06:00
 position: 0
 episode: 3
 mp3: http://podcasts-1.feedpress.co/17645/HighContrast-003.mp3
