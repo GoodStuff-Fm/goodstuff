@@ -4,7 +4,7 @@ date: 2017-06-26 12:13:00 -06:00
 published: false
 position: 0
 episode: 3
-mp3: http://podcasts-1.feedpress.co/10591/HighContrast-003.mp3
+mp3: http://podcasts-1.feedpress.co/17645/HighContrast-003.mp3
 description: Parents adopting new tech, dental relationship status, IFTTT recipes
   for dinner, notification analysis paralysis, and Kyle explains PLAYERUNKNOWNS BATTLEGROUNDS
   to Chris.

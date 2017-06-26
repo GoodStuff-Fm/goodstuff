@@ -44,7 +44,7 @@ collections:
       topic from two different perspectives.
     retired: false
     live: false
-    hidden: true
+    hidden: false
   grownups:
     title: I Guess We're Grown-Ups Now
     output: true
