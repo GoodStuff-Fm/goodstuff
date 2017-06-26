@@ -7,6 +7,7 @@ mp3: http://podcasts-1.feedpress.co/17645/HighContrast-001.mp3
 description: Kyle and Chris discuss cats vs. kids, Costco runs, and the various methods
   of note taking the've tried over the years.
 show: highcontrast
+image: "/uploads/highcontrast-001.jpg"
 layout: episode
 ---
 
