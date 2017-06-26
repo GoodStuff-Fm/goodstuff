@@ -7,8 +7,8 @@ episode: 353
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-353.mp3
 image: "/uploads/morningshow-353.png"
 description: It's like telling your stomachist that you've eaten fig newtons, cashews
-  with glass, and 50,000lbs of Charlie the Chicken while sailing on the Hydrogen Iodide
-  seas.
+  with glass, and 50,000 lbs of Charlie the Chicken while sailing on the Hydrogen
+  Iodide seas.
 layout: episode
 ---
 
@@ -28,7 +28,7 @@ layout: episode
 ## Get in Touch
 * [Email](mailto:kyle@goodstuff.fm)
 * [Kyle on Twitter](http://twitter.com/dogburps)
-* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Kenny on Twitter](http://twitter.com/kennyaroderick)
 * [Morning Show on Twitter](http://twitter.com/morningshowam)
 * [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
 
