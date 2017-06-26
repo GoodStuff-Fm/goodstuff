@@ -8,6 +8,7 @@ description: Parents adopting new tech, dental relationship status, IFTTT recipe
   for dinner, notification analysis paralysis, and Kyle explains PLAYERUNKNOWNS BATTLEGROUNDS
   to Chris.
 show: highcontrast
+image: "/uploads/highcontrast-003.jpg"
 layout: episode
 ---
 
