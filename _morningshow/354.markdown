@@ -5,7 +5,7 @@ description: It's like playing Donkey Kong Country while drinking Spicy Watermel
   Lemonade on Spinsanity eating a Porkle with Breakfast Salsa.
 show: morningshow
 episode: 354
-image: 
+image: "/uploads/morningshow-354.png"
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-354.mp3
 layout: episode
 ---
