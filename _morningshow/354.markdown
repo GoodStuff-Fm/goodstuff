@@ -1,0 +1,26 @@
+---
+title: GAK™ Alley
+date: 2017-06-27 09:45:00 -06:00
+description: It's like playing Donkey Kong Country while drinking Spicy Watermelon
+  Lemonade on Spinsanity eating a Porkle with Breakfast Salsa.
+show: morningshow
+episode: 354
+image: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-354.mp3
+layout: episode
+---
+
+
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/kennyaroderick)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
