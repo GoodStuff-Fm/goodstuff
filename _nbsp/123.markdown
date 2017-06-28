@@ -1,34 +1,35 @@
 ---
-title: Simon St. Laurent — Amazon's Best Week Ever, Apple's Self-Driving Cars, &Boeing's Self-Flying Planes
+title: Simon St. Laurent — Amazon's Best Week Ever, Apple's Self-Driving Cars, and Boeing's Self-Flying Planes
 date: 2017-06-28 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 123
 mp3: http://podcasts-1.feedpress.co/10609/nbsp-123.mp3
-description: We're not good enough for Apple Maps, so Apple's making self-driving cars? Meanwhile, Amazon has the best week ever and more in this week's Top (n+1) News Stories of the Week.
+description: Amazon has the best week ever. Meanwhile, we're not good enough for Apple Maps, so Apple's making self-driving cars? What could go wrong and more in this week's Top (n+1) News Stories of the Week!
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv123&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv123&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv123&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv123&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/tvl4obz82G0
+image: https://goodstuff.fm/nbsp/img/nbsptv-simonstl-123.jpg
 layout: episode
 ---
 
 ### Jump to a conversation on...
 
-* **[1:46](#t=1:46)** #8 Amazon's big week.
-* **[15:50](#t=15:50)** #7 Apple's Self Driving Car is Real
-* **[22:06](#t=22:06)** #6 Bunny photos to ease relationships.
-* **[26:00](#t=26:00)** #5 NASA's Kepler Discovers First Earth-Size Planet
-* **[29:45](#t=29:45)** #4 Roaming charges across the EU have been scrapped
-* **[31:50](#t=31:50)** #3 Google Trends as life advice
-* **[36:50](#t=36:50)** #2 Mozilla prize to decentralize the web
-* **[42:30](#t=42:30)** #1 Boeing will test self-flying planes
+* **[1:46](https://goodstuff.fm/nbsp/123/#t=1:46)** #8 Amazon's big week!
+* **[15:50](https://goodstuff.fm/nbsp/123/#t=15:50)** #7 Apple's Self Driving Car is Real
+* **[22:06](https://goodstuff.fm/nbsp/123/123/#t=22:06)** #6 Bunny photos to ease relationships.
+* **[26:00](https://goodstuff.fm/nbsp/123/#t=26:00)** #5 NASA's Kepler Discovers First Earth-Size Planet
+* **[29:45](https://goodstuff.fm/nbsp/123/#t=29:45)** #4 Roaming charges across the EU have been scrapped
+* **[31:50](https://goodstuff.fm/nbsp/123/#t=31:50)** #3 Google Trends as life advice
+* **[36:50](https://goodstuff.fm/nbsp/123/#t=36:50)** #2 Mozilla prize to decentralize the web
+* **[42:30](https://goodstuff.fm/nbsp/123/#t=42:30)** #1 Boeing will test self-flying planes
 
 ### Links:
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [📺 Simon St. Laurent — Amazon's Best Week Ever, Apple's Self-Driving Cars, and More](https://youtu.be/tvl4obz82G0)
 * [Simon St. Laurent on Twitter](https://twitter.com/simonstl)
 * [Apple’s WWDC 2017 Keynote in 17 minutes](https://www.youtube.com/watch?v=S8PBiZlR56Q)
 * [Apple Makes Major Podcast Updates](https://sixcolors.com/post/2017/06/apple-makes-major-podcast-updates/)
