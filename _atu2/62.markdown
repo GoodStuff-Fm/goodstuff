@@ -1,7 +1,9 @@
 ---
 title: Designing U2
 date: 2017-06-28 12:15:00 -06:00
-description: Kelly, Beth, Ian, and Chris go all the way back to Larry's first U2 logo on a shirt and talk through the U2's history of design. What we love, what we hate, and the little things that we notice along the way.
+description: Kelly, Beth, Ian, and Chris go all the way back to Larry's first U2 logo
+  on a shirt and talk through the U2's history of design. What we love, what we hate,
+  and the little things that we notice along the way.
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -11,7 +13,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-62.mp3
 episode: 62
 video: https://www.youtube.com/embed/T8RYMXkounM
 show: atu2
-image:
+image: 
 layout: episode
 ---
 
