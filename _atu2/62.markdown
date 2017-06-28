@@ -18,7 +18,7 @@ image: "/uploads/atu2-62.jpg"
 layout: episode
 ---
 
-* [Discuss in our subreddit](#)
+* [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6k3vau/u2_62_designing_u2/)
 * [Watch the video version on YouTube](https://www.youtube.com/watch?v=T8RYMXkounM)
 * [@IanPRyan](https://twitter.com/ianpryan)
 * [@KellyEddington](https://twitter.com/kellyeddington) / [Kelly Eddington Water Colors](https://www.kellyeddington.com)
