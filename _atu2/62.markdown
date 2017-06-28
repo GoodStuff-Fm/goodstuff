@@ -14,7 +14,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-62.mp3
 episode: 62
 video: https://www.youtube.com/embed/T8RYMXkounM
 show: atu2
-image: 
+image: "/uploads/atu2-62.jpg"
 layout: episode
 ---
 
