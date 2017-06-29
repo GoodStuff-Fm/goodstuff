@@ -4,9 +4,9 @@ date: 2017-07-03 09:00:00 -06:00
 position: 0
 episode: 4
 mp3: http://podcasts-1.feedpress.co/17645/HighContrast-004.mp3
-description:
+description: 
 show: highcontrast
-image:
+image: 
 layout: episode
 ---
 
