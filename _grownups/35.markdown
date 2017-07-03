@@ -1,9 +1,9 @@
 ---
 title: United By Queerness
 date: 2017-07-02 20:21:00 -06:00
-description: Brook and Kari talk about Pride month, celebrations, marches, protests,
-  mainstreaming, commodification, rainbow-washing, chanting, mourning, and abstaining.
-  Showing up for the actual work the rest of the year. And also rotten shark.
+description: Brook and Kari talk about Pride month, celebrations, marches, mainstreaming,
+  commodification, rainbow-washing, chanting, mourning, abstaining, and showing up
+  for the actual work the rest of the year. Should you go? Yes.
 episode: 35
 show: grownups
 mp3: 
