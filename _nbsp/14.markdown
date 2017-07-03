@@ -10,7 +10,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 14
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-14.mp3
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-14.mp3
 image: https://goodstuff.fm/nbsp/img/nbsptv-lou-rosenfeld.jpg
 layout: episode
 ---
