@@ -34,7 +34,7 @@ According to Google Analytics:
 
 ## Feed Stats
 * 10,839 subscribers to all shows (0.98% decrease)
-* [atU2](/atu2/) holds the top spot for most subscribers in May
+* Two new shows debuted this month - [High Contrast](https://goodstuff.fm/highcontrast) and [Way Too Seriously](https://goodstuff.fm/wts)
 
 ***
 
