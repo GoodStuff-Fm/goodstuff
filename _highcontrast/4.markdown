@@ -4,7 +4,7 @@ date: 2017-07-03 09:00:00 -06:00
 published: false
 position: 0
 episode: 4
-mp3: http://podcasts-1.feedpress.co/17645/HighContrast-004.mp3
+mp3: http://podcasts-1.feedpress.co/17645/highcontrast-004.mp3
 description: Forgetting to pay your GST in Canada, location checking as an alibi,
   Leisure Suit Larry education, and a history of Chris and Kyle's video game life.
 show: highcontrast
