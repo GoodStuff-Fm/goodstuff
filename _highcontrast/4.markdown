@@ -11,6 +11,7 @@ image: "/uploads/high-contrast04.jpg"
 layout: episode
 ---
 
+* [Discuss on our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6l0gv5/high_contrast_4_video_games_or_no_cartridge_to/)
 * [Google Hangouts](https://hangouts.google.com)
 * [Todoist.com](https://todoist.com)
 * [Video: Snapchat Location Sharing Update](https://www.youtube.com/watch?v=9LOiFgIdaYI&t=5s)
