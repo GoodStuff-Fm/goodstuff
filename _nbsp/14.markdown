@@ -2,8 +2,11 @@
 title: Lou Rosenfeld — Information Architecture and User Experience
 date: 2012-07-26 12:11:00 -06:00
 position: 14
-description: |-
-  Lou is an independent information architecture consultant, and founder and publisher of Rosenfeld Media, a publishing house focused on user experience books. He has been instrumental in helping establish the fields of information architecture and user experience, and in articulating the role and value of librarianship within those fields.
+description: Lou is an independent information architecture consultant, and founder
+  and publisher of Rosenfeld Media, a publishing house focused on user experience
+  books. He has been instrumental in helping establish the fields of information architecture
+  and user experience, and in articulating the role and value of librarianship within
+  those fields.
 sponsor: 
 sponsor-link: 
 sponsor-copy: ''
