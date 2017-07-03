@@ -7,7 +7,7 @@ episode: 4
 mp3: http://podcasts-1.feedpress.co/17645/HighContrast-004.mp3
 description: 
 show: highcontrast
-image: 
+image: "/uploads/high-contrast04.jpg"
 layout: episode
 ---
 
