@@ -26,20 +26,20 @@ Currently $143/month income via patron support. Increase of $7 from the [previou
 ## Site Stats
 According to Google Analytics:
 
-* 1,646 monthly active users with 3,773 pageviews (64.4% and 58.5% increase respectively)
-* 65.1% new, 34.9% returning
-* 52.4% used Chrome, 23.2% used Safari, 24.4% used other browsers
-* 51.1% on desktop, 41.1% on mobile, 7.8% on tablet
-* 76.6% male, 23.4% female (reporting on 62.3% of total audience)
+* 992 monthly active users with 2,715 pageviews (39% and 25% decrease respectively)
+* 58.9% new, 41.1% returning
+* 62.27% used Chrome, 18.3% used Safari, 19.43% used other browsers
+* 58% on desktop, 38.6% on mobile, 3.4% on tablet
+* 74.92% male, 25.08% female (reporting on 62.3% of total audience)
 
 ## Feed Stats
-* 10,975 subscribers to all shows (0.8% increase)
+* 10,839 subscribers to all shows (0.98% decrease)
 * [atU2](/atu2/) holds the top spot for most subscribers in May
 
 ***
 
 # Any Questions?
-* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6h0fk5/goodstuff_monthly_may_2017_edition/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
+* You can discuss this in our [subreddit](#) or <a href="mailto:contact@goodstuff.fm">email us</a>.
 * Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
 
 This is also available on [our medium publication](https://medium.com/goodstuff-fm).
