@@ -2,8 +2,11 @@
 title: Samantha Warren
 date: 2012-07-12 12:11:00 -06:00
 position: 13
-description: |-
-  Samantha Warren is an experienced designer, speaker, and writer who leverages a diverse background in artistic mediums to create compelling and functional web experiences. Currently, Samantha is the Communications designer at Twitter. She talks about design and the web on her blog, BadAssIdeas.com, and spends time with her cross-eyed cat, Grace.
+description: Samantha Warren is an experienced designer, speaker, and writer who leverages
+  a diverse background in artistic mediums to create compelling and functional web
+  experiences. Currently, Samantha is the Communications designer at Twitter. She
+  talks about design and the web on her blog, BadAssIdeas.com, and spends time with
+  her cross-eyed cat, Grace.
 sponsor: 
 sponsor-link: 
 sponsor-copy: ''
