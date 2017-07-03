@@ -1,12 +1,12 @@
 ---
 title: United By Queerness
-date: 2017-07-02 20:21:00 -06:00
+date: 2017-07-03 16:21:00 -06:00
 description: Brook and Kari talk about Pride month, celebrations, marches, mainstreaming,
   commodification, rainbow-washing, chanting, mourning, abstaining, and showing up
   for the actual work the rest of the year. Should you go? Yes.
 episode: 35
 show: grownups
-mp3: 
+mp3: http://podcasts-1.feedpress.co/10589/grownups35.mp3
 layout: episode
 ---
 
