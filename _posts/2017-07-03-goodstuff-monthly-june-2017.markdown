@@ -1,7 +1,6 @@
 ---
 title: "\U0001F69C Goodstuff Monthly: June 2017"
 date: 2017-07-03 09:30:00 -06:00
-published: false
 ---
 
 At the start of each month we'll tell you how Goodstuff is doing - number of patrons, listeners, site visitors, and anything else you'd like to know.
