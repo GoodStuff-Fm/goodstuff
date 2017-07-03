@@ -1,7 +1,6 @@
 ---
 title: Video Games or No Cartridge to Blow Into
 date: 2017-07-03 09:00:00 -06:00
-published: false
 position: 0
 episode: 4
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-004.mp3
