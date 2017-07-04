@@ -29,7 +29,7 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
-## [Sudden ⚡ Coffee →](http://go.referralcandy.com/share/5X24RTL)
+## [Sudden ⚡ Coffee →](http://suddencoffee.refr.cc/5X24RTL)
 Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! **Get $5 off your first month by using our link.**
 
 ## [Exist →](https://exist.io/?referred_by=kyle)
