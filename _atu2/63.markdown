@@ -1,0 +1,27 @@
+---
+title: TBD
+date: 2017-07-05 14:15:00 -06:00
+description: TBD
+sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
+  provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
+  Its logical and intuitive production workflow can be mastered by anyone from school
+  kids to senior citizens in very short time. And yet it is so powerful, it also satisfies
+  the broadcasting veterans wildest dreams."
+mp3: http://podcasts-1.feedpress.co/12572/atu2-63.mp3
+episode: 63
+video:
+show: atu2
+image:
+layout: episode
+---
+
+* [Discuss in our subreddit](#)
+* [Watch the video version on YouTube](#)
+
+
+
+* [@iChris](https://twitter.com/ichris)
+* [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
+* [Twitter atU2](https://twitter.com/atu2)
+* [Facebook atU2com](https://www.facebook.com/atu2com)
+* [Instagram atU2com](https://www.instagram.com/atu2com/)
