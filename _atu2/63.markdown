@@ -13,7 +13,7 @@ mp3: http://podcasts-1.feedpress.co/12572/atu2-63.mp3
 episode: 63
 video: 
 show: atu2
-image: 
+image: "/uploads/atu2-63.jpg"
 layout: episode
 ---
 
