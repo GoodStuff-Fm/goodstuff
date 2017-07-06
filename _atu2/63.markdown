@@ -17,7 +17,7 @@ image: "/uploads/atu2-63.jpg"
 layout: episode
 ---
 
-* [Discuss in our subreddit](#)
+* [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6lmmod/atu2_63_the_joshua_tree_tour_2017_part_3/)
 * [Submit an audio comment here](https://www.dropbox.com/request/GA6MTwhVo618jrGPyDuE) - Record an audio message with your phone or computer and upload it to us.
 * [Watch the video version on YouTube](#)
 * [Adam Clayton Musiccares](https://www.atu2.com/news/adam-clayton-to-be-honored-with-musicares-addiction-recovery-award.html)
