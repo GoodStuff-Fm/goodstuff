@@ -1,7 +1,8 @@
 ---
 title: The Joshua Tree Tour 2017 Part 3
 date: 2017-07-06 14:15:00 -06:00
-description: Geoff, Collin, Tassoula, and Chris are back to discuss the end of leg one of The Joshua Tree Tour 2017.
+description: Geoff, Collin, Tassoula, and Chris are back to discuss the end of leg
+  one of The Joshua Tree Tour 2017.
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -9,9 +10,9 @@ sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and producti
   the broadcasting veterans wildest dreams."
 mp3: http://podcasts-1.feedpress.co/12572/atu2-63.mp3
 episode: 63
-video:
+video: 
 show: atu2
-image:
+image: 
 layout: episode
 ---
 
