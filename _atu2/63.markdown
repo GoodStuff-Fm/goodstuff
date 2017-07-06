@@ -1,7 +1,6 @@
 ---
 title: The Joshua Tree Tour 2017 Part 3
 date: 2017-07-06 09:30:00 -06:00
-published: false
 description: Geoff, Collin, Tassoula, and Chris are back to discuss the end of leg
   one of The Joshua Tree Tour 2017.
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
