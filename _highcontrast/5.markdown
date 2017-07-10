@@ -1,7 +1,6 @@
 ---
 title: Podcast Listening or Hot Wind from the Desert
 date: 2017-07-10 08:22:00 -06:00
-published: false
 show: highcontrast
 episode: 5
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-5.mp3
@@ -11,7 +10,7 @@ description: Comparing and contrasting our humidity, opening the kimono all the 
 layout: episode
 ---
 
-* [Discuss on our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6l0gv5/high_contrast_4_video_games_or_no_cartridge_to/)
+* [Discuss on our subreddit](#)
 * [Clash Royale game demo with iChris and Dogburps - YouTube](https://www.youtube.com/watch?v=Em_oUAUuNkw&feature=youtu.be)
 * [I Guess We're Grown-Ups Now](https://goodstuff.fm/grownups/)
 * [S-Town Podcast](https://stownpodcast.org/)
