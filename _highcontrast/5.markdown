@@ -6,6 +6,8 @@ show: highcontrast
 episode: 5
 mp3: 
 image: 
+description: Comparing and contrasting our humidity, opening the kimono all the way,
+  playing a live game of Clash Royale against Kyle's wife, and how we listen to podcasts.
 layout: episode
 ---
 
