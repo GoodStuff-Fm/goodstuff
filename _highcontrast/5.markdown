@@ -4,8 +4,8 @@ date: 2017-07-10 08:22:00 -06:00
 published: false
 show: highcontrast
 episode: 5
-mp3: 
-image: 
+mp3: http://podcasts-1.feedpress.co/17645/highcontrast-5.mp3
+image: "/uploads/hc5.png"
 description: Comparing and contrasting our humidity, opening the kimono all the way,
   playing a live game of Clash Royale against Kyle's wife, and how we listen to podcasts.
 layout: episode
