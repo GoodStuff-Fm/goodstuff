@@ -1,12 +1,11 @@
 ---
 title: It's Not Pickle Sweat
 date: 2017-07-12 08:04:00 -06:00
-published: false
 show: morningshow
 description: It's like adding Top Ramen Pringles, the NutZoom, a grape slicer, boozy
   ice cream, and a second thumb to your Amazon cart while driving.
-mp3: 
-image: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-355.mp3
+image: "/uploads/morningshow-355.png"
 episode: 355
 layout: episode
 ---
