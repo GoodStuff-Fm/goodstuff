@@ -1,5 +1,5 @@
 ---
-title: TBD
+title: It's Not Pickle Sweat
 date: 2017-07-12 08:04:00 -06:00
 published: false
 show: morningshow
