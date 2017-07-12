@@ -16,7 +16,7 @@ image: https://goodstuff.fm/nbsp/img/nbsptv-kirupa-chinnathambi.jpg
 layout: episode
 ---
 
-### Jump to a conversation on...
+### Time Jumps
 
 * **[1:50](#t=1:50)** What got you into the web?
 * **[4:40](#t=4:40)** Why write a book about web animations?
