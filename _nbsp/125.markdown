@@ -1,5 +1,5 @@
 ---
-title: 'Kirupa Chinnathambi — Animating the Web'
+title: Kirupa Chinnathambi — Animating the Web
 date: 2017-07-11 10:00:00 -06:00
 position: 1
 show: nbsp
@@ -9,8 +9,8 @@ description: Kirupa Chinnathambi works as a Program Manager in the Web Platform 
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video: https://www.youtube.com/embed/DweZECnOK2g
-image: https://goodstuff.fm/nbsp/img/nbsptv-lara-hogan.jpg
+video: https://www.youtube.com/embed/_YusAWksmQc
+image: https://goodstuff.fm/nbsp/img/nbsptv-kirupa-chinnathambi.jpg
 layout: episode
 ---
 
@@ -37,7 +37,7 @@ layout: episode
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
 * [Kirupa.com](https://www.kirupa.com)
-* [@Kirupa](https://twitter.com/kirupa)
+* [Kirupa on Twitter](https://twitter.com/kirupa)
 * [Kirupa on Facebook](https://www.facebook.com/kirupa)
 * 📘 [Creating Web Animations](http://shop.oreilly.com/product/0636920050858.do)
 * 📘 [Learning React](https://www.amazon.com/exec/obidos/ASIN/0134546318/kirupacom)
