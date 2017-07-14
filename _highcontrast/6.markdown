@@ -1,0 +1,44 @@
+---
+title: Backups or The Great Dongle War of 2021
+date: 2017-07-17 09:00:00 -06:00
+published: false
+show: highcontrast
+description: 
+mp3: 
+image: "/uploads/hc6_thumb.png"
+layout: episode
+---
+
+* [Discuss on our subreddit](#)
+[Morning Show Episode 355](https://goodstuff.fm/morningshow/355)
+DBX 286s
+* [Cotton Bureau](https://cottonbureau.com/shop)
+* [Google has a new tool for backing up your whole computer](http://newatlas.com/google-backup-and-sync/50468/)
+* [Google Backup and Sync](https://www.theverge.com/2017/7/12/15961478/google-releases-backup-and-sync-for-mac-and-windows)
+* [Backblaze](http://backblaze.com) 
+* [Google Photos](https://photos.google.com)
+* [QNap](https://www.qnap.com/en/)
+* [AmazonSmile: Qnap TS-231P-US Personal Cloud NAS with DLNA, mobile apps and Airplay support. ARM Cortex A15 1.7GHz Dual Core, 1GB RAM: Computers & Accessories](https://smile.amazon.com/dp/B01N78FRVZ?tag=amz-mkt-chr-us-20&ascsubtag=1ba00-01000-a0049-mac00-other-smile-us000-pcomp-feature-scomp-wm-4) 
+* [Last.fm](https://www.last.fm)
+* [Kyle’s 7 String Guitar Library of Music](https://www.last.fm/user/kyleroderick)
+* [Flickr](https://www.flickr.com)
+* [Amazon Prime Photos](https://www.amazon.ca/b?node=16055944011)
+* [Check your Google Storage usage](https://www.google.com/settings/u/0/storage)
+* [Kyle’s firesafe](http://d.pr/i/xnu5Si)
+* [Mac Power Users](https://www.relay.fm/mpu)
+
+
+
+
+---
+
+### Kyle
+
+* [@dogburps](https://twitter.com/dogburps)
+* [The Goodstuff Morning Show](https://goodstuff.fm/morningshow/)
+
+### Chris
+
+* [@iChris](https://twitter.com/ichris)
+* [Dailyish](https://goodstuff.fm/dailyish/)
+* [Support Chris on Patreon](https://www.patreon.com/ichris)
