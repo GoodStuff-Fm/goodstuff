@@ -6,6 +6,7 @@ description: A bit of video game follow up from previous episodes, headphones an
   leakage, and how we back up our digital lives.
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-006.mp3
 image: "/uploads/hc6_thumb.png"
+episode: 6
 layout: episode
 ---
 
