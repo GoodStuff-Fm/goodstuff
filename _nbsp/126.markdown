@@ -1,13 +1,13 @@
 ---
-title: Jina Bolton and Micah Godbolt — The State of Design Systems
+title: Jina Anne and Micah Godbolt — The State of Design Systems
 date: 2017-07-19 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 126
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-126.mp3
-description: Jina Bolton and Michah Godbolt are back on the show, but together for
-  the first time, to talk about design systems, how they are using design systems
-  at their respective jobs, and what is the state of design systems.
+description: Jina Anne and Michah Godbolt are back on the show, but together for the
+  first time, to talk about design systems, how they are using design systems at their
+  respective jobs, and what is the state of design systems.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
@@ -33,8 +33,8 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [Jina Bolton](https://www.sushiandrobots.com) 
-* [Jina Bolton on Twitter](https://twitter.com/jina)
+* [Jina Anne](https://www.sushiandrobots.com) 
+* [Jina Anne on Twitter](https://twitter.com/jina)
 * [Non Breaking Space Show №20 with Jina Bolton](https://goodstuff.fm/nbsp/20)
 * [Michah GodBolt](https://micahgodbolt.com)
 * [Michah Godbolt on Twitter](https://twitter.com/micahgodbolt)
