@@ -6,6 +6,7 @@ description: It's like trying to relax on a weekend by watching a trailer for a 
   where a bear races to get the first FastPass from every ride at Disneyland.
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-357.mp3
 image: "/uploads/morningshow-357.png"
+episode: 357
 layout: episode
 ---
 
