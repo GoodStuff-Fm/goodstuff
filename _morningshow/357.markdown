@@ -8,7 +8,7 @@ image: "/uploads/morningshow-357.png"
 layout: episode
 ---
 
-* [Bear chases 200 sheep over cliff edge to their deaths | World news | The Guardian](https://www.theguardian.com/world/2017/jul/23/bear-chases-200-sheep-over-cliff-edge-france-spain)
+* [Bear chases 200 sheep over cliff edge to their deaths - World news - The Guardian](https://www.theguardian.com/world/2017/jul/23/bear-chases-200-sheep-over-cliff-edge-france-spain)
 
 * [Apple Teams Up With Dwayne 'The Rock' Johnson for Siri Movie - Mac Rumors](https://www.macrumors.com/2017/07/23/apple-dwayne-johnson-siri-movie/)
 
