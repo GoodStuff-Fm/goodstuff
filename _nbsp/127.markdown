@@ -9,8 +9,8 @@ description: Since 2008, Dan Denney has worked closely with designers and writin
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/TLUJSPlmISE
+image: https://goodstuff.fm/nbsp/img/nbsptv-dan-denney.jpg
 layout: episode
 ---
 
@@ -24,7 +24,7 @@ layout: episode
 * **[10:30](#t=10:30)** Quitting a job and where to next?
 * **[13:20](#t=13:20)** Have you figured out what you don't want to do?
 * **[17:30](#t=17:30)** What's your feeling on the Javascript world we live in now in 2017?
-* **[22:20](#t=22:20)** Job posting are the bane of our industry.
+* **[22:20](#t=22:20)** Job postings are the bane of our industry.
 * **[24:45](#t=24:45)** Product designer is the new front end.
 * **[28:50](#t=28:50)** What tools or courses have you used to keep up?
 * **[32:30](#t=32:30)** Courses and tutorials fall out of date and are hard to keep up to date.
@@ -36,14 +36,14 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [DanDenney.com](https://dandenney.com)
-* [@DanDenney](https://twitter.com/dandenney)
+* [Dan Denney](https://dandenney.com)
+* [Dan Denney on Twitter](https://twitter.com/dandenney)
+* [Front End Design Conference](http://frontenddesignconference.com/)
 * [Dan Denney on Github](https://github.com/dandenney)
 * [Dan Denney on CodePen](https://codepen.io/dandenney/)
 * [Wes Bos Training](http://wesbos.com)
 * [Egghead Training](https://egghead.io)
-
-
+* [Frontend Masters](http://frontendmasters.com)
 * [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
 * [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
 * [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
