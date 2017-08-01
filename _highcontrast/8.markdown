@@ -1,0 +1,62 @@
+---
+title: Home Screens or Show Me Your Salad
+date: 2017-07-31 18:19:00 -06:00
+description: How the farmer sausage is made, a true hatred of tomatoes, and a deep
+  dive into every single icon on our home screens.
+show: highcontrast
+episode: 8
+mp3: http://podcasts-1.feedpress.co/17645/highcontrast-8.mp3
+image: "/uploads/highcontrast-8.png"
+layout: episode
+---
+
+![Chris and Kyle's Screens.png](/uploads/Chris%20and%20Kyle's%20Screens.png)
+
+* [Discuss on our subreddit](#)
+
+### Kyle’s Apps
+
+* [Pocket Casts](https://www.shiftyjelly.com/pocketcasts/)
+
+* [SeriesGuide - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide&hl=en)
+
+* [Free Calorie Counter, Diet & Exercise Journal](https://www.myfitnesspal.com/)
+
+* [Anchor - Radio, reinvented](https://anchor.fm/)
+
+* [Flamingo for Twitter - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.samruston.twitter&hl=en)
+
+* [Glow Period & Ovulation Tracker, Fertility App - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.glow.android&hl=en)
+
+* [Untappd - Drink Socially](https://untappd.com/)
+
+### Chris’s Apps
+
+* [Bear - Notes for iPhone, iPad and Mac](http://www.bear-writer.com/)
+
+* [Tweetbot 4 for Twitter on the App Store](https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?mt=8)
+
+* [Byword - Markdown text editor app for Mac, iPhone and iPad.](https://bywordapp.com/)
+
+* [1Password - Password Manager and Secure Wallet on the App Store](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8)
+
+* [Trello on the App Store](https://itunes.apple.com/us/app/trello/id461504587?mt=8)
+
+* [Instapaper on the App Store](https://itunes.apple.com/us/app/instapaper/id288545208?mt=8)
+
+* [Workflow on the App Store](https://itunes.apple.com/us/app/workflow/id915249334?mt=8)
+
+* [Pixel Cup Soccer 16 on the App Store](https://itunes.apple.com/us/app/pixel-cup-soccer-16/id1092276838?mt=8)
+
+---
+
+### Kyle
+
+* [@dogburps](https://twitter.com/dogburps)
+* [The Goodstuff Morning Show](https://goodstuff.fm/morningshow/)
+
+### Chris
+
+* [@iChris](https://twitter.com/ichris)
+* [Dailyish](https://goodstuff.fm/dailyish/)
+* [Support Chris on Patreon](https://www.patreon.com/ichris)
