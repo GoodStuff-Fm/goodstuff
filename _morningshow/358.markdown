@@ -1,7 +1,6 @@
 ---
 title: Livin' Velveeta Loca
-date: 2017-07-01 09:00:00 -06:00
-published: false
+date: 2017-07-01 09:30:00 -06:00
 show: morningshow
 episode: 358
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-358.mp3
