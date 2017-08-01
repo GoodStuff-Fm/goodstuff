@@ -5,7 +5,11 @@ position: 1
 show: nbsp
 episode: 127
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-127.mp3
-description: Since 2008, Dan Denney has worked closely with designers and writing HTML, CSS and JavaScript. He also founded the Front End Design Conference in St. Petersburg, FL. After working as a front-end developer at Code School, Dan is currently unemployed so as to focus on building up his skills as a front-end engineer and find the right team.
+description: Since 2008, Dan Denney has worked closely with designers and writing
+  HTML, CSS and JavaScript. He also founded the Front End Design Conference in St.
+  Petersburg, FL. After working as a front-end developer at Code School, Dan is currently
+  unemployed so as to focus on building up his skills as a front-end engineer and
+  find the right team.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv127&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
