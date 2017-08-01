@@ -20,7 +20,7 @@ layout: episode
 
 * [SeriesGuide - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide&hl=en)
 
-* [Free Calorie Counter, Diet & Exercise Journal | MyFitnessPal.com](https://www.myfitnesspal.com/)
+* [Free Calorie Counter, Diet & Exercise Journal](https://www.myfitnesspal.com/)
 
 * [Anchor - Radio, reinvented](https://anchor.fm/)
 
@@ -47,9 +47,6 @@ layout: episode
 * [Workflow on the App Store](https://itunes.apple.com/us/app/workflow/id915249334?mt=8)
 
 * [Pixel Cup Soccer 16 on the App Store](https://itunes.apple.com/us/app/pixel-cup-soccer-16/id1092276838?mt=8)
-
----
-
 
 ---
 
