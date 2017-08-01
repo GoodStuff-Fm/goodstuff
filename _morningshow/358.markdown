@@ -5,7 +5,7 @@ published: false
 show: morningshow
 episode: 358
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-358.mp3
-image: 
+image: "/uploads/morningshow-358.png"
 description: 'It''s like only paying $3 for U2 bread, a processed spreadable cheese,
   and glorious everything bagel potato chips from the back seat of a car in a drive
   thru. '
