@@ -1,0 +1,63 @@
+---
+title: Kirupa Chinnathambi — Animating the Web
+date: 2017-07-11 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 125
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-125.mp3
+<<<<<<< HEAD
+description: Kirupa Chinnathambi works as a Program Manager in the Web Platform team at Microsoft. His latest book, *Creating Web Animations* published by O'Reilly Media, examines how animations are made in today's user interfaces.
+=======
+description: Kirupa Chinnathambi works as a Program Manager in the Web Platform team
+  at Microsoft. His latest book, *Creating Web Animations* published by O'Reilly Media,
+  examines how animations are made in today's user interfaces.
+>>>>>>> origin/master
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv125&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video: https://www.youtube.com/embed/_YusAWksmQc
+image: https://goodstuff.fm/nbsp/img/nbsptv-kirupa-chinnathambi.jpg
+layout: episode
+---
+
+<<<<<<< HEAD
+### Jump to a conversation on...
+=======
+### Time Jumps
+>>>>>>> origin/master
+
+* **[1:50](#t=1:50)** What got you into the web?
+* **[4:40](#t=4:40)** Why write a book about web animations?
+* **[6:40](#t=6:40)** How do you define CSS transitions and CSS animations?
+* **[8:15](#t=8:15)** In order to maximize CSS do you need to have Javascript?
+* **[9:10](#t=9:10)** How much Javascript knowledge does someone need on today's web?
+* **[10:30](#t=10:30)** What are some tips for making animations with better performance?
+* **[12:18](#t=12:18)** What would cause you to work with canvas?
+* **[13:20](#t=13:20)** What are the properties you want to avoid?
+* **[15:35](#t=15:35)** What if I position absolute within a nested div that's positioned relative?
+* **[16:30](#t=16:30)** What tools would you recommend for testing performance?
+* **[17:15](#t=17:15)** What were your goals in writing your book?
+* **[21:55](#t=21:55)** What are your views on the CSS spec going forward?
+* **[27:10](#t=27:10)** When's the sequel coming out for your FrontPage book?
+* **[29:40](#t=29:40)** How important is blogging?
+* **[32:10](#t=32:10)** Discussion of owning your content.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Kirupa.com](https://www.kirupa.com)
+* [Kirupa on Twitter](https://twitter.com/kirupa)
+* [Kirupa on Facebook](https://www.facebook.com/kirupa)
+* 📘 [Creating Web Animations](http://shop.oreilly.com/product/0636920050858.do)
+* 📘 [Learning React](https://www.amazon.com/exec/obidos/ASIN/0134546318/kirupacom)
+* 📘 [Javascript Absolute Beginners Guide](http://www.quepublishing.com/store/javascript-absolute-beginners-guide-9780789758064)
+* [Commander Keen](http://store.steampowered.com/app/9180/Commander_Keen/)
+* [Chrome Dev Tools](https://developer.chrome.com/devtools)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
