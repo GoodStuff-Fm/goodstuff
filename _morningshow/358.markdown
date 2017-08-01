@@ -8,6 +8,7 @@ image: "/uploads/morningshow-358.png"
 description: 'It''s like only paying $3 for U2 bread, a processed spreadable cheese,
   and glorious everything bagel potato chips from the back seat of a car in a drive
   thru. '
+video: https://www.youtube.com/embed/tG67BQ42erg
 layout: episode
 ---
 
