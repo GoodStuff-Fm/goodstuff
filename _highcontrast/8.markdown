@@ -1,7 +1,8 @@
 ---
-title: Homescreens or Show Me Your Salad
+title: Home Screens or Show Me Your Salad
 date: 2017-07-31 18:19:00 -06:00
-description: 
+description: Farmer sausage, a true hatred of tomatoes, and a deep dive into every
+  single icon on our home screens.
 show: highcontrast
 episode: 8
 mp3: 
