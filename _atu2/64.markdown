@@ -8,6 +8,7 @@ image:
 description: Matt, Ian and Sherry are back to discuss the rumors surrounding Songs
   of Experience and the two videos the band recently filmed.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-64.mp3
+layout: episode
 ---
 
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6lmmod/atu2_63_the_joshua_tree_tour_2017_part_3/)
