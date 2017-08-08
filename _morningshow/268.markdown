@@ -7,19 +7,19 @@ tags:
 - tacos
 - football
 position: 23
-episode: '268'
+episode: 268
 description: Little Caesars is bringing back an instant classic, How are you watching
   the Super Bowl this weekend?, Get Sriracha in a convenient little packet, Kit Kats
   without wafers are a tragedy, Go ahead and ask Alexa for a pizza - it’ll work now,
   and more.
 show: morningshow
-layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-268.mp3
+mp3: http://podcasts-1.feedpress.co/10588/transmission-268.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
+layout: episode
 ---
 
 ## Support Us
