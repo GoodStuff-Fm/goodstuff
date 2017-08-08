@@ -7,19 +7,19 @@ tags:
 - Morning Show
 - Bricks
 position: 21
-episode: '266'
+episode: 266
 description: We’re back with a new name! Iowa is in a neck-and-neck dead heat with
   voters, The Super Bowl costs a lot to just look at your phone, Airmail is now on
   your iPhone, Is this a real Kickstarter or not?, Uh oh - T-Mobile is doing something
   naughty with it’s video service, and more.
 show: morningshow
-layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-266.mp3
+mp3: http://podcasts-1.feedpress.co/10588/transmission-266.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
+layout: episode
 ---
 
 ## Support Us
