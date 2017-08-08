@@ -5,8 +5,7 @@ description: It's like looking directly into the sun after trying Everything chi
   at the Iowa State Fair and paying too much for a burger.
 show: morningshow
 image: "/uploads/morningshow-359.png"
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/UQIR1ZwvSvk"
-  frameborder="0" allowfullscreen></iframe>
+video: https://www.youtube.com/embed/UQIR1ZwvSvk
 episode: 359
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-359.mp3
 layout: episode
