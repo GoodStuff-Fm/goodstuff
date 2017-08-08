@@ -7,18 +7,18 @@ tags:
 - Twitter
 - pancakes
 position: 24
-episode: '269'
+episode: 269
 description: We watched the Super Bowl so you don't have to, Kyle became a pizza slicer
   over the weekend, Utah wants you to throw their stuff into lakes, Salads at McDonald's
   are fatter than fat, We play Audio Pictionary, and more.
 show: morningshow
-layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-269.mp3
+mp3: http://podcasts-1.feedpress.co/10588/transmission-269.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
   FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
   during checkout to get 10% off your first year
+layout: episode
 ---
 
 ## Support Us
