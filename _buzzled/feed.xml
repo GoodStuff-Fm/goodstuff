@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: buzzled
-layout:
+layout: 
 ---
 
 {% include feed.html %}

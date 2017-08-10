@@ -2,13 +2,6 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
-  buzzled:
-    title: buzzled
-    output: true
-    permalink: "/buzzled/:path"
-    slug: buzzled
-    retired: false
-    live: false
   3g3q:
     title: 3G3Q
     output: true
@@ -115,6 +108,13 @@ collections:
     live: false
     hidden: false
     slug: wts
+  buzzled:
+    title: buzzled
+    output: true
+    permalink: "/buzzled/:path"
+    slug: buzzled
+    retired: false
+    live: false
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.fm
