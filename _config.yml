@@ -2,6 +2,13 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
+  buzzled:
+    title: buzzled
+    output: true
+    permalink: "/buzzled/:path"
+    slug: buzzled
+    retired: false
+    live: false
   3g3q:
     title: 3G3Q
     output: true

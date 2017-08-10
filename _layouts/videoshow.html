@@ -18,18 +18,7 @@
             <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
             <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
             <li class="shows__list__link">
-              {% if show.itunes %}
-                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
-              {% endif %}
-              {% if show.pocketcasts %}
-                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
-              {% endif %}
-              {% if show.overcast %}
-                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-              {% endif %}
-              {% if show.youtube %}
                 <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
-              {% endif %}
             </li>
         </ul>
 

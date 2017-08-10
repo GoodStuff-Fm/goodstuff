@@ -1,3 +1,26 @@
+buzzled:
+  name: Buzzled
+  lang: EN
+  explicit: true
+  collection: buzzled
+  hosts: Kyle Roderick and Kenny Roderick
+  description: A new series from Kyle and Kenny where they play puzzle games and drink a beer to potentially disastrous results.
+  artwork: "/uploads/artwork-buzzled.jpg"
+  color: "#F2DA4A"
+  show-twitter:
+  hosts-twitter:
+  email:
+  keywords:
+  category1: "Comedy"
+  category2:
+  category3:
+  category4:
+  category5:
+  rss: http://goodstuff.fm/buzzled/feed.xml
+  itunes:
+  pocketcasts:
+  overcast:
+  youtube: https://www.youtube.com/watch?v=l8XhfaPTVbs&list=PLw3RqjOjTPyyiZiHqnke9_Kam9sfXCubS
 highcontrast:
   name: High Contrast
   lang: EN
