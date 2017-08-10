@@ -15,6 +15,13 @@ collections:
     permalink: "/aux/:path"
     retired: true
     live: false
+  buzzled:
+    title: Buzzled
+    output: true
+    permalink: "/buzzled/:path"
+    slug: buzzled
+    retired: false
+    live: false
   clockworks:
     title: Clockworks - A Legion Podcast
     output: true
@@ -108,13 +115,6 @@ collections:
     live: false
     hidden: false
     slug: wts
-  buzzled:
-    title: buzzled
-    output: true
-    permalink: "/buzzled/:path"
-    slug: buzzled
-    retired: false
-    live: false
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.fm
