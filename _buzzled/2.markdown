@@ -7,6 +7,7 @@ image: "/uploads/buzzled-2.png"
 description: Kyle and Kenny Roderick play Humongous Entertainment's Putt-Putt Joins
   the Parade, a educational puzzle game made in 1992 while drinking a beer and attempting
   to solve puzzles.
+episode: 2
 layout: video
 ---
 
