@@ -1,7 +1,6 @@
 ---
 title: Putt-Putt Joins the Parade
 date: 2017-08-11 09:00:00 -06:00
-published: false
 video: https://www.youtube.com/embed/KHG381RY1Do
 image: "/uploads/buzzled-2.png"
 description: Kyle and Kenny Roderick play Humongous Entertainment's Putt-Putt Joins
