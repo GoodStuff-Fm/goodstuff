@@ -1,13 +1,14 @@
 ---
 title: Internet Residue or Giving Up on Twitter
 date: 2017-08-14 18:19:00 -06:00
+published: false
 description: Audio Hijacking, putting an Airpod into a cat, ketchup catch up, picking
   food you don't like, iPhone 8 punditry, C.A.T.S. follow up, holograms, and force-quitting
   Twitter.
 show: highcontrast
 episode: 9
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-9.mp3
-image: ''
+image: 
 layout: episode
 ---
 
