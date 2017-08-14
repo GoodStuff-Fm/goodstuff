@@ -8,7 +8,7 @@ description: Audio Hijacking, putting an Airpod into a cat, ketchup catch up, pi
 show: highcontrast
 episode: 9
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-9.mp3
-image: 
+image: "/uploads/hc-9.jpg"
 layout: episode
 ---
 
