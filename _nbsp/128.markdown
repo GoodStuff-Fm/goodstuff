@@ -1,0 +1,62 @@
+---
+title: "Peter Nowell — SVG Sketch Workflows"
+date: 2017-08-15 9:00:00 -06:00
+position: 1
+show: nbsp
+episode: 128
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-128.mp3
+description: "Peter Nowell is an independent designer, whose clients include Apple, Flinto, and Juice Shop. Peter is also the creator of Sketch Master, a set of online video courses for learning Sketch app."
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv128&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv128&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv128&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv128&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video:
+image:
+layout: episode
+---
+
+### Time Jumps
+
+* **[3:30](#t=3:30)** Using Sketch instead of Photoshop in workflows.
+* **[10:45](#t=10:45)** What are your thoughts on training for the web?
+* **[14:39](#t=14:39)** I'm a big fan of exploring the tough bits of design.
+* **[17:00](#t=17:00)** Putting together a Sketch workflow course.
+* **[21:30](#t=21:30)** As humans we're programmed to remember stories.
+* **[22:50](#t=22:50)** Why make your own SVG optimizer?
+* **[29:20](#t=29:20)** SVG is capable of so much more.
+* **[36:15](#t=36:15)** There's a difference between tool based design versus marketing related design.
+* **[39:50](#t=39:50)** What would you recommend for people looking to move to Sketch from Adobe products?
+* **[46:20](#t=46:20)** It doesn't look like a professional tool when you just open it up.
+* **[47:30](#t=47:30)** What Sketch plugins do you use day in/day out?
+* **[53:00](#t=53:00)** Abstract plugin for Sketch.
+* **[55:30](#t=55:30)** What are the advantages to using Abstract instead of using Github?
+* **[58:20](#t=58:20)** Sometimes the process shouldn't be holy. It should be unique to each project.
+* **[1:00:00](#t=1:00:00)** The further along in a project I am, the less likely I am to add new code.
+
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Peter Nowell](http://pnowell.com)
+* [Peter Nowell on Medium](https://medium.com/@pnowelldesign)
+* [Peter Nowell on Twitter](https://twitter.com/@pnowelldesign)
+* [Sketch Master](http://sketchmaster.com) *Limited time discount of 20% off code "NSBP" for 20%*
+* [SVGito - SVG Optimizer](http://sketchmaster.com/svg-optimizer)
+* [SVG OMG](https://jakearchibald.github.io/svgomg/)
+* [Flinto](https://www.flinto.com)
+* [Front End Masters](https://frontendmasters.com)
+* [Google’s Guetzli Optimizer](https://github.com/google/guetzli)
+* [Sketch Rename It Plugin](https://github.com/rodi01/RenameIt)
+* [SVGO Plugin](https://www.sketchapp.com/extensions/plugins/svgo-compressor/)
+* [Framer](http://framerco.de)
+* [Abstract Sketch Plugin](http://sketchapphub.com/resource/abstract/)
+* [CodePen](https://codepen.io)
+* [Craft](https://www.invisionapp.com/craft)
+* [Looper Sketch plugin](https://github.com/sureskumar/Looper)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
