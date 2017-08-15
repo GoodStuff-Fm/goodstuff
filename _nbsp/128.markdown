@@ -42,7 +42,7 @@ layout: episode
 * [Peter Nowell](http://pnowell.com)
 * [Peter Nowell on Medium](https://medium.com/@pnowelldesign)
 * [Peter Nowell on Twitter](https://twitter.com/@pnowelldesign)
-* [Sketch Master](http://sketchmaster.com) *Limited time discount of 20% off code "NSBP" for 20%*
+* [Sketch Master](http://sketchmaster.com/nbsp) *Limited time discount of 20% off code "NSBP"*
 * [SVGito - SVG Optimizer](http://sketchmaster.com/svg-optimizer)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
 * [Flinto](https://www.flinto.com)
