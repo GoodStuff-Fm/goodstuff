@@ -3,7 +3,7 @@ title: Put Me in a Microwave
 date: 2017-08-15 09:38:00 -06:00
 show: morningshow
 episode: 360
-image: 
+image: "/uploads/morningshow-360.png"
 description: It's like eating a large chicken with your mutant aunt while watching
   the eclipse in VR at a baseball stadium.
 video: 
