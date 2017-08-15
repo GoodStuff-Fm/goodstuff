@@ -1,0 +1,25 @@
+---
+title: Put Me in a Microwave
+date: 2017-08-15 09:38:00 -06:00
+show: morningshow
+episode: 360
+image: 
+description: It's like eating a large chicken with your mutant aunt while watching
+  the eclipse in VR at a baseball stadium.
+video: 
+url: http://podcasts-1.feedpress.co/10588/morningshow-360.mp3
+layout: episode
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/kennyaroderick)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
