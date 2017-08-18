@@ -1,13 +1,14 @@
 ---
-title: Internet Residue or Giving Up on Twitter
+title: The CGP Grey of Hamburgers or Making Burgers
 date: 2017-08-21 09:00:00 -06:00
+published: false
 description: Streaming video, launching Allo on the web, cat whiskers, meetchalata,
   California is the center of the USA, spider twitter, and the best way to eat sloppy
   buns.
 show: highcontrast
 episode: 10
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-10.mp3
-image: ''
+image: 
 layout: episode
 ---
 
