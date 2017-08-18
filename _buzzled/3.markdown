@@ -6,6 +6,7 @@ description: Kyle and Kenny Roderick play Logical Journey of the Zoombinis, a ed
 video: https://www.youtube.com/embed/_HuIPiw-QiE
 image: "/uploads/Buzzled-3.png"
 show: buzzled
+episode: 3
 layout: video
 ---
 
