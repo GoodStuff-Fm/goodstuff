@@ -9,7 +9,7 @@ image: ""
 layout: episode
 ---
 
-
+We recorded a video version of this episode which you can check out on the [Goodstuff YouTube channel here]() if you'd prefer to watch an unedited version of this episode.
 
 * [Discuss on our subreddit](#)
 * [Spider one](https://twitter.com/iChris/status/896593550749519874)
@@ -20,8 +20,6 @@ layout: episode
 * [Buzzled](https://goodstuff.fm/buzzled)
 * [Hello Internet Episode 84](http://www.hellointernet.fm/podcast/84)
 * [Kyle’s face while eating a burger](https://d.pr/i/f8nuS8)
-
-
 
 ---
 
