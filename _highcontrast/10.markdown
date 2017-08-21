@@ -8,7 +8,7 @@ description: Streaming video, launching Allo on the web, cat whiskers, meetchala
 show: highcontrast
 episode: 10
 mp3: http://podcasts-1.feedpress.co/17645/highcontrast-10.mp3
-image: 
+image: "/uploads/hc-10.png"
 layout: episode
 ---
 
