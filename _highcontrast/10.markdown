@@ -1,7 +1,6 @@
 ---
 title: Making Burgers or K*****p
 date: 2017-08-21 09:00:00 -06:00
-published: false
 description: Streaming video, launching Allo on the web, cat whiskers, meetchalata,
   California is the center of the USA, spider twitter, and the best way to eat sloppy
   buns.
@@ -14,7 +13,7 @@ layout: episode
 
 We recorded a video version of this episode which you can check out on the [Goodstuff YouTube channel here](https://www.youtube.com/watch?v=0XTWpVN2BHs) if you'd prefer to watch an unedited version of this episode.
 
-* [Discuss on our subreddit](#)
+* [Discuss on our subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6v408n/high_contrast_10_making_burgers_or_kp/)
 * [Spider one](https://twitter.com/iChris/status/896593550749519874)
 * [Spider two](https://twitter.com/iChris/status/896177478787633152)
 * [Logan’s Homescreen](http://i.imgur.com/PPCLxGx.png)
