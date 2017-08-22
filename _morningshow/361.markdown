@@ -1,0 +1,34 @@
+---
+title: Poop
+date: 2017-08-21 23:37:00 -06:00
+show: morningshow
+episode: 361
+description: It's like...
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-361.mp3
+layout: episode
+---
+
+* [HTC Vive VR headset gets $200 price cut - Polygon](https://www.polygon.com/2017/8/21/16177270/htc-vive-price-cut-599)
+
+* [Goodstuff.FM on Twitter: "A sample of @morningshowam’s Fair or Not segment with poorly transcribed text https://t.co/78tLsL7qSd"](https://twitter.com/GoodstuffFM/status/895028163209809920)
+
+* [Microsoft kicks off Xbox One X pre-orders today with a limited ‘Project Scorpio’ edition - TechCrunch](https://techcrunch.com/2017/08/20/microsoft-kicks-off-xbox-one-x-pre-orders-today-with-a-limited-project-scorpio-edition/?ncid=rss)
+
+* [The Naked Egg Taco Is Finally Coming to a Taco Bell Near You - Extra Crispy](http://www.extracrispy.com/food/3717/the-naked-egg-taco-is-finally-coming-to-a-taco-bell-near-you?xid=extracrispy_newsletter&utm_source=extracrispy.com&utm_medium=email&utm_campaign=freshsqueezed&utm_content=20170818)
+
+* [The Sims 4 is getting customizable dogs and cats, at long last - Polygon](https://www.polygon.com/2017/8/21/16179090/the-sims-4-cats-and-dogs-expansion-release-date)
+
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
