@@ -4,7 +4,7 @@ date: 2017-08-21 23:37:00 -06:00
 show: morningshow
 episode: 361
 description: It's like you popped and you can't stop wearing a VR headset in the Kitchen
-  while eating oreos, 6 egg tacos, and 24 Jack-in-the-Box tacos.
+  while eating oreos, 6 egg tacos, and 24 Jack in the Box tacos.
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-361.mp3
 image: "/uploads/morningshow-361.png"
 layout: episode
