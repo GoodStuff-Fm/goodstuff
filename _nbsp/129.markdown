@@ -6,44 +6,44 @@ position: 1
 show: nbsp
 episode: 129
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-129.mp3
-description: Laura Kalbag is a designer from the UK. She’s one third of Ind.ie, a
+description: Laura Kalbag is a designer from the UK. She’s one-third of Ind.ie, a
   tiny social enterprise working for social justice in the digital age. At Ind.ie,
   Laura works on a web privacy tool called Better. Her first book, *Accessibility
   for Everyone*, is published by A Book Apart.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv129&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv129&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv129&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv129&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video: 
-image: 
+video: https://www.youtube.com/embed/L_GI4LVDWvc
+image: https://goodstuff.fm/nbsp/img/nbsptv-laura-kalbag.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[2:30](#t=2:30)** How'd the idea for your book come about?
-* **[4:25](#t=4:25)** Is it an introduction to accessibility?
-* **[6:50](#t=6:50)** It's more than just good HTML and CSS on websites.
-* **[11:00](#t=11:00)** Any techniques for convincing a team or manager to push for accessibility?
-* **[12:30](#t=12:30)** Diversity helps us understand that people use the web differently than us.
-* **[15:34](#t=15:34)** What other ways do people use the web?
-* **[18:40](#t=18:40)** Accessibility can be expensive but there's so many things you can do that are free.
-* **[20:38](#t=20:38)** Learning HTML better is a basic way to help accessibility.
-* **[21:48](#t=21:48)** The amount of sites that rely on Javascript to click a link.
-* **[24:10](#t=24:10)** Websites taking over the browser scroll bar.
-* **[25:10](#t=25:10)** CSS is so easy to style elements like website buttons.
-* **[27:20](#t=27:20)** What services and tools are out there to help people with accessibility testing?
-* **[29:25](#t=29:25)** In order to have good UX, you need to have good accessibility.
+* **[2:30](http://goodstuff.fm/nbsp/129#t=2:30)** How'd the idea for your book come about?
+* **[4:25](http://goodstuff.fm/nbsp/129#t=4:25)** Is it an introduction to accessibility?
+* **[6:50](http://goodstuff.fm/nbsp/129#t=6:50)** It's more than just good HTML and CSS on websites.
+* **[11:00](http://goodstuff.fm/nbsp/129#t=11:00)** Any techniques for convincing a team or manager to push for accessibility?
+* **[12:30](http://goodstuff.fm/nbsp/129#t=12:30)** Diversity helps us understand that people use the web differently than us.
+* **[15:34](http://goodstuff.fm/nbsp/129#t=15:34)** What other ways do people use the web?
+* **[18:40](http://goodstuff.fm/nbsp/129#t=18:40)** Accessibility can be expensive but there are so many things you can do that are free.
+* **[20:38](http://goodstuff.fm/nbsp/129#t=20:38)** Learning HTML better is a basic way to help accessibility.
+* **[21:48](http://goodstuff.fm/nbsp/129#t=21:48)** A number of sites that rely on Javascript to click a link.
+* **[24:10](http://goodstuff.fm/nbsp/129#t=24:10)** Websites taking over the browser scroll bar.
+* **[25:10](http://goodstuff.fm/nbsp/129#t=25:10)** CSS is so easy to style elements like website buttons.
+* **[27:20](http://goodstuff.fm/nbsp/129#t=27:20)** What services and tools are out there to help people with accessibility testing?
+* **[29:25](http://goodstuff.fm/nbsp/129#t=29:25)** In order to have good UX, you need to have good accessibility.
 
 
 ### Links:
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* 📘 [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
 * [Laura Kalbag on Twitter](https://twitter.com/laurakalbag)
-* [LauraKalbag.com](https://laurakalbag.com)
+* [Laura Kalbag](https://laurakalbag.com)
+* 📘 [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
 * [JK Rowling Defends Laura Kalbag from Mansplainer on Twitter](http://www.teenvogue.com/story/book-mansplaining-twitter)
-* [@MattMay](https://twitter.com/mattmay)
+* [Matt May on Twitter](https://twitter.com/mattmay)
 * 📘 [Design for Real Life](https://abookapart.com/products/design-for-real-life)
 * [W3C Validator](https://validator.w3.org)
 * [WAVE Accessibility Check](http://wave.webaim.org)
