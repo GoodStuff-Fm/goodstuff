@@ -4,7 +4,7 @@ date: 2017-08-22 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 129
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-129.mp3
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-129b.mp3
 description: Laura Kalbag is a designer from the UK. She’s one-third of Ind.ie, a
   tiny social enterprise working for social justice in the digital age. At Ind.ie,
   Laura works on a web privacy tool called Better. Her first book, *Accessibility
