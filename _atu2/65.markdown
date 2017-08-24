@@ -1,9 +1,12 @@
 ---
-title: 'It Gave Me The Tingles All Over Again'
+title: It Gave Me The Tingles All Over Again
 date: 2017-08-24 10:48:00 -06:00
 episode: 65
 show: atu2
-description: 'The U2 machine is rumbling again! Not only is the Joshua Tree Tour 2017 about to resume, but U2 fans are getting strange letters promoting a new song and it looks like an album announcement could be coming soon. Sherry, Becky, Mason and Matt talk about all that, and answer your #askatu2 questions, in our latest podcast.'
+description: 'The U2 machine is rumbling again! Not only is the Joshua Tree Tour 2017
+  about to resume, but U2 fans are getting strange letters promoting a new song and
+  it looks like an album announcement could be coming soon. Sherry, Becky, Mason and
+  Matt talk about all that, and answer your #askatu2 questions, in our latest podcast.'
 mp3: http://podcasts-1.feedpress.co/12572/atu2-65.mp3
 layout: episode
 ---
