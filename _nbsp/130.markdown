@@ -5,38 +5,38 @@ position: 1
 show: nbsp
 episode: 130
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-130.mp3
-description: "Nathan Curtis  co-founded   EightShapes   in 2006   and   is   passionate   about interaction   design,   information architecture,   and   front-end development.   He   specializes   in design   systems    consulting   for teams   large   and   small,   regularly writing   about   and   speaking   at events   worldwide.  Co-hosting this week is Micah Godbolt, Senior Design Developer at Microsoft."
+description: Nathan Curtis co-founded EightShapes in 2006 and is passionate about interaction design, information architecture, and front-end development. He specializes in design systems consulting for teams large and small, regularly writing about and speaking at events worldwide. Co-hosting this week is Micah Godbolt, Senior Design Developer at Microsoft.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv130&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv130&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv130&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv130&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/zlZ3fgxxhxA
+image: https://goodstuff.fm/nbsp/img/nbsptv-nathan-curtis.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[2:44](#t=2:44)** An introduction to Nathan's background on the web.
-* **[3:50](#t=3:50)** Design systems are just catching.
-* **[4:50](#t=4:50)** What kind of deliverables would you give to clients back in the 2000's?
-* **[7:20](#t=7:20)** What's the next step in design systems?
-* **[9:40](#t=9:40)** It seems like we're going to start quantifying everything we do inside a design system.
-* **[10:30](#t=10:30)** Automation helping generate code from design systems.
-* **[13:20](#t=13:20)** Working with the various javascript frameworks has changed design systems.
-* **[14:40](#t=14:40)** In the future we won't have design system, we'll have a system of systems.
-* **[19:30](#t=19:30)** Sharing design systems across large organizations with common components vs niche apps or websites.
-* **[21:30](#t=21:30)** Designers don't have as much experience working collaboratively in a community environment.
-* **[25:00](#t=25:00)** Designers tend to be silod - what has been your experience?
-* **[29:50](#t=29:50)** In professional settings, designers with seasoning struggle when they aren't made aware of the design systems.
-* **[31:34](#t=31:34)** Designers are looking to do the right thing.
-* **[33:00](#t=33:00)** Defending the designers.
-* **[36:10](#t=36:10)** Who's actually controlling the knobs and dials?
-* **[38:30](#t=38:30)** It works but have you tested it on users yet?
-* **[45:50](#t=45:50)** Adding a research tab to the design system that's available to everyone.
-* **[47:20](#t=47:20)** Sometimes you have to realize one team might have a completely different user base.
-* **[50:00](#t=50:00)** What goes into a system or not?
-* **[53:20](#t=53:20)** What are your tips for people who want to get a design system going?
-* **[56:40](#t=56:40)** How can people find you on the internet and get in design system conversations?
+* **[2:44](http://goodstuff.fm/nbsp/#t=2:44)** An introduction to Nathan's background on the web.
+* **[3:50](http://goodstuff.fm/nbsp/#t=3:50)** Design systems are just catching.
+* **[4:50](http://goodstuff.fm/nbsp/#t=4:50)** What kind of deliverables would you give to clients back in the 2000's?
+* **[7:20](http://goodstuff.fm/nbsp/#t=7:20)** What's the next step in design systems?
+* **[9:40](http://goodstuff.fm/nbsp/#t=9:40)** It seems like we're going to start quantifying everything we do inside a design system.
+* **[10:30](http://goodstuff.fm/nbsp/#t=10:30)** Automation helping generate code from design systems.
+* **[13:20](http://goodstuff.fm/nbsp/#t=13:20)** Working with the various javascript frameworks has changed design systems.
+* **[14:40](http://goodstuff.fm/nbsp/#t=14:40)** In the future we won't have design system, we'll have a system of systems.
+* **[19:30](http://goodstuff.fm/nbsp/#t=19:30)** Sharing design systems across large organizations with common components vs niche apps or websites.
+* **[21:30](http://goodstuff.fm/nbsp/#t=21:30)** Designers don't have as much experience working collaboratively in a community environment.
+* **[25:00](http://goodstuff.fm/nbsp/#t=25:00)** Designers tend to be silod - what has been your experience?
+* **[29:50](http://goodstuff.fm/nbsp/#t=29:50)** In professional settings, designers with seasoning struggle when they aren't made aware of the design systems.
+* **[31:34](http://goodstuff.fm/nbsp/#t=31:34)** Designers are looking to do the right thing.
+* **[33:00](http://goodstuff.fm/nbsp/#t=33:00)** Defending the designers.
+* **[36:10](http://goodstuff.fm/nbsp/#t=36:10)** Who's actually controlling the knobs and dials?
+* **[38:30](http://goodstuff.fm/nbsp/#t=38:30)** It works but have you tested it on users yet?
+* **[45:50](http://goodstuff.fm/nbsp/#t=45:50)** Adding a research tab to the design system that's available to everyone.
+* **[47:20](http://goodstuff.fm/nbsp/#t=47:20)** Sometimes you have to realize one team might have a completely different user base.
+* **[50:00](http://goodstuff.fm/nbsp/#t=50:00)** What goes into a system or not?
+* **[53:20](http://goodstuff.fm/nbsp/#t=53:20)** What are your tips for people who want to get a design system going?
+* **[56:40](http://goodstuff.fm/nbsp/#t=56:40)** How can people find you on the internet and get in design system conversations?
 
 
 ### Links:
