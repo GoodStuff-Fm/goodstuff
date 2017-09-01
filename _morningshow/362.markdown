@@ -1,13 +1,13 @@
 ---
-title: Easy Peazy Quesadillzy
+title: Easy Peasy Quesadillsy
 date: 2017-09-01 10:00:00 -06:00
-published: false
 show: morningshow
 episode: 362
-description: 'It''s like '
+description: It's like filling out your dating profile with your most hated food,
+  your ideal chip flavor, your ideal water flavor, and hot chicken.
 image: 
 video: 
-mp3: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-362.mp3
 layout: episode
 ---
 
