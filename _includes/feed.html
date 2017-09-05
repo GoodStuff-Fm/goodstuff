@@ -54,10 +54,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:summary><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:summary>
     <itunes:keywords>{{ show.keywords }}</itunes:keywords>
     <itunes:explicit>{{ show.explicit }}</itunes:explicit>
-    <content:encoded><![CDATA[{{ doc.description | markdownify | expand_urls: site.url | cdata_escape }}<br><br>
+    <content:encoded><![CDATA[{{ doc.description | markdownify | expand_urls: site.url | cdata_escape }}<br>
       {% if doc.sponsor %}
+      <br>
       This episode of {{ show.name }} is sponsored by: <br>
-          {{ doc.sponsor | markdownify | expand_urls: site.url | cdata_escape }}<br><br><hr><br>
+          {{ doc.sponsor | markdownify | expand_urls: site.url | cdata_escape }}<br><br>
       {% endif %}
       {{ doc.content | markdownify | expand_urls: site.url | cdata_escape }}
       ]]>
