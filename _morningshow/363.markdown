@@ -1,6 +1,10 @@
 ---
 title: TBD
 date: 2017-09-05 09:45:00 -06:00
+show: morningshow
+description: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-363.mp3
+episode: 363
 ---
 
 * [Domino’s and Ford will test self-driving pizza delivery cars - The Verge](https://www.theverge.com/2017/8/29/16213544/dominos-ford-pizza-self-driving-car)
