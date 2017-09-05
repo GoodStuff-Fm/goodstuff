@@ -8,6 +8,8 @@ mp3: http://podcasts-1.feedpress.co/10588/morningshow-363.mp3
 episode: 363
 ---
 
+* [Watch Kyle on Twitch](http://twitch.tv/dogburps)
+
 * [Domino’s and Ford will test self-driving pizza delivery cars - The Verge](https://www.theverge.com/2017/8/29/16213544/dominos-ford-pizza-self-driving-car)
 
 * [Knott’s Berry Farm announces new roller coaster, HangTime, where riders will reach 57 mph – Orange County Register](http://www.ocregister.com/2017/08/16/knotts-berry-farm-announces-new-roller-coaster-hangtime-where-riders-will-reach-57-mph/)
