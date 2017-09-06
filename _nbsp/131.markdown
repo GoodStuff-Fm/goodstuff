@@ -5,28 +5,28 @@ position: 1
 show: nbsp
 episode: 131
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-131.mp3
-description: Rachel Nabors has worked with Mozilla, the W3C, amd Salesforce. Currently, Rachel is a Program Manager on the Microsoft Edge Team representing Web design and animation communities.
+description: Rachel Nabors has worked with Mozilla, the W3C, and Salesforce. Currently, Rachel is a Program Manager on the Microsoft Edge Team representing Web design and animation communities.
 sponsor: |-
   *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv131&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv131&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv131&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv131&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/96DSnUZgOUE
+image: https://goodstuff.fm/nbsp/img/nbsptv-rachel-nabors.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:50](#t=1:50)** What's cool about web animation API?
-* **[6:20](#t=6:20)** Does anyone still use SASS?
-* **[10:10](#t=10:10)** What is After Effects used for in web design?
-* **[17:24](#t=17:24)** Did we have Flash?
-* **[18:40](#t=18:40)** Comparing Greensock to the Web Animation API.
-* **[26:15](#t=26:15)** Does web animations have browser support?
-* **[28:55](#t=28:55)** Are there polyfills we can reach for?
-* **[30:00](#t=30:00)** Where should we be using animations?
-* **[34:35](#t=34:35)** The Only Coin example of animation.
-* **[44:40](#t=44:40)** What tools do you recommend for people getting into animation?
-* **[47:10](#t=47:10)** Where can people learn more about your books and courses?
+* **[1:50](http://goodstuff.fm/nbsp/131#t=1:50)** What's cool about web animation API?
+* **[6:20](http://goodstuff.fm/nbsp/131#t=6:20)** Does anyone still use SASS?
+* **[10:10](http://goodstuff.fm/nbsp/131#t=10:10)** What is After Effects used for in web design?
+* **[17:24](http://goodstuff.fm/nbsp/131#t=17:24)** Did we have Flash?
+* **[18:40](http://goodstuff.fm/nbsp/131#t=18:40)** Comparing Greensock to the Web Animation API.
+* **[26:15](http://goodstuff.fm/nbsp/131#t=26:15)** Does web animations have browser support?
+* **[28:55](http://goodstuff.fm/nbsp/131#t=28:55)** Are there polyfills we can reach for?
+* **[30:00](http://goodstuff.fm/nbsp/131#t=30:00)** Where should we be using animations?
+* **[34:35](http://goodstuff.fm/nbsp/131#t=34:35)** The Only Coin example of animation.
+* **[44:40](http://goodstuff.fm/nbsp/131#t=44:40)** What tools do you recommend for people getting into animation?
+* **[47:10](http://goodstuff.fm/nbsp/131#t=47:10)** Where can people learn more about your books and courses?
 
 
 ### Links:
