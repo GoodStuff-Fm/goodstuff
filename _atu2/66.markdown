@@ -8,7 +8,7 @@ description: The Blackout is over and we're back to talk about The Best Thing Ab
   You with Matt, Sherry, Collin, and Chris.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-66.mp3
 image: "/uploads/atu2-66.jpg"
-video: 
+video: https://www.youtube.com/embed/K-V7sNbdf4U
 layout: episode
 ---
 
