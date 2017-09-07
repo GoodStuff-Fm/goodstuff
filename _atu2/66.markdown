@@ -3,8 +3,8 @@ title: Larry Lies Awake at Night Worrying About Wrinkles on His Face
 date: 2017-09-07 08:30:00 -06:00
 episode: 66
 show: atu2
-description: The Blackout is over and we're back to talk about The Best Thing About
-  You with Matt, Sherry, Collin, and Chris.
+description: The Blackout is over and we're back to talk about "You're The Best Thing
+  About Me" with Matt, Sherry, Collin, and Chris.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-66.mp3
 image: "/uploads/atu2-66.jpg"
 video: https://www.youtube.com/embed/K-V7sNbdf4U
