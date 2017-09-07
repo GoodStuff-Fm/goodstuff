@@ -1,7 +1,6 @@
 ---
 title: Larry Lies Awake at Night Worrying About Wrinkles on His Face
-date: 2017-09-07 10:48:00 -06:00
-published: false
+date: 2017-09-07 08:30:00 -06:00
 episode: 66
 show: atu2
 description: The Blackout is over and we're back to talk about The Best Thing About
