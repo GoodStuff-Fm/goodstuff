@@ -16,8 +16,8 @@ episode: 130
 ## Aaron: What malady from the following list would you choose to contract, if forced to choose? 
 * [10 Horrifying Diseases You Definitely Don’t Want To Catch](http://listverse.com/2014/02/15/10-diseases-or-disorders-you-never-want-to-get/)
 
-##### Adam: Which director would you choose to direct the story of your life?
+## Adam: Which director would you choose to direct the story of your life?
 
-##### Andrew: What fact do you know that is equal parts interesting and pointless?
-[Assault and Battery](https://www.geek.com/science/why-do-dead-alkaline-batteries-bounce-1603759/)
+## Andrew: What fact do you know that is equal parts interesting and pointless?
+* [Battery bounce](https://www.geek.com/science/why-do-dead-alkaline-batteries-bounce-1603759/)
 
