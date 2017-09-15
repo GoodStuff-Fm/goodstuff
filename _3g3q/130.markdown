@@ -1,12 +1,13 @@
 ---
 title: S09E01 - "Brainerd, MN"
-date: 2017-09-15 14:51:00 -06:00
+date: 2017-09-20 14:51:00 -06:00
 published: false
 mp3: 
 Show: 3g3q
 description: Maladies, biopics, & factoids
 sponsor: anybody who’s still out there
 episode: 130
+layout: episode
 ---
 
 ![Episode Artwork](http://l.gdwn.co/4fOZQx.jpg)
