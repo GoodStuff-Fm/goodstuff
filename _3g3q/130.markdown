@@ -9,24 +9,15 @@ sponsor: anybody who’s still out there
 episode: 130
 ---
 
-![Episode Artwork][1]
+![Episode Artwork](http://l.gdwn.co/4fOZQx.jpg)
 
 # Questions 
 
-## Aaron: What malady from the following list would you choose to contract, if forced to choose? (see http://listverse.com/2014/02/15/10-diseases-or-disorders-you-never-want-to-get/)
-Adam: Brainerd Diarrhea
-Andrew: Cancrum Oris
-Aaron: Ondine’s Curse
+## Aaron: What malady from the following list would you choose to contract, if forced to choose? 
+* [10 Horrifying Diseases You Definitely Don’t Want To Catch](http://listverse.com/2014/02/15/10-diseases-or-disorders-you-never-want-to-get/)
 
 ##### Adam: Which director would you choose to direct the story of your life?
-Andrew: David Lynch
-Aaron: Cameron Crowe
-Adam: Edgar Wright
 
 ##### Andrew: What fact do you know that is equal parts interesting and pointless?
-Aaron: Aprons
-Adam: harbingers of language change
-Andrew: Assault and Battery
-https://www.geek.com/science/why-do-dead-alkaline-batteries-bounce-1603759/
+[Assault and Battery](https://www.geek.com/science/why-do-dead-alkaline-batteries-bounce-1603759/)
 
-[1]: http://l.gdwn.co/4fOZQx.jpg
