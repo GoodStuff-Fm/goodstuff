@@ -1,13 +1,14 @@
 ---
 title: You've Said What You Came to Say
 date: 2017-09-27 08:30:00 -06:00
+published: false
 episode: 67
 show: atu2
 description: Matt and Chris are joined by the band December to talk about their new
   album 33 which contains 10 U2 songs that they've reinterpreted as an ode to U2.
   (Apologies for audio issues during this recording!)
 mp3: http://podcasts-1.feedpress.co/12572/atu2-67.mp3
-image: ''
+image: 
 video: 
 layout: episode
 ---
