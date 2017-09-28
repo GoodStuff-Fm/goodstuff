@@ -1,17 +1,17 @@
 ---
 title: You've Said What You Came to Say - An Interview with December
-date: 2017-09-27 08:30:00 -06:00
-published: false
+date: 2017-09-28 08:30:00 -06:00
 episode: 67
 show: atu2
-description: Matt and Chris are joined by the band December to talk about their new
-  album 33 which contains 10 U2 songs that they've reinterpreted as an ode to U2.
-  (Apologies for audio issues during this recording!)
+description: 'Matt and Chris are joined by the band December to talk about their new
+  album 33 which contains 10 U2 songs that they''ve reinterpreted as an ode to U2. '
 mp3: http://podcasts-1.feedpress.co/12572/atu2-67.mp3
 image: "/uploads/atu2-67.jpg"
 video: 
 layout: episode
 ---
+
+You can watch a [video version of this interview on our YouTube channel](https://www.youtube.com/watch?v=COwK8WrHZoU) which has some conversations that got cut due in the audio version.
 
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/)
 * [Submit an audio comment here](https://www.dropbox.com/request/GA6MTwhVo618jrGPyDuE) - Record an audio message with your phone or computer and upload it to us.
@@ -19,7 +19,7 @@ layout: episode
 * [December on Twitter](https://twitter.com/tilldecember)
 * [Buy 33 on Musicglue](https://www.musicglue.com/december/shop)
 * [Promo video for 33](https://youtu.be/bB8_zRsuRdk)
-* [Event - December album launch in Glasgow](https://www.facebook.com/events/173363753165069/)
+* [Event - December album launch in Glasgow](https://www.facebook.com/events/173363753165069/
 * [@mattmcgee](https://twitter.com/mattmcgee)
 * [@iChris](https://twitter.com/iChris)
 * [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
