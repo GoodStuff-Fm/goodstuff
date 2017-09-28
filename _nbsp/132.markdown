@@ -1,5 +1,5 @@
 ---
-title: Best of NBSPtv - Vol. 1
+title: Best of NBSPtv — Volume 1
 date: 2017-09-26 09:00:00 -06:00
 position: 1
 show: nbsp
@@ -7,19 +7,18 @@ episode: 132
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-132.mp3
 description: Christopher Schmitt is out, but that doesn't mean you can't enjoy the time Nicole Sullivan talked about how she read W3C specs for fun, Lou Rosenfeld trying not to start a war between IA vs. UX, and how Jessica Hische became a success.
 sponsor: |-
-  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=cssdevconf2017)
   * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
-video:
-image:
+video: https://www.youtube.com/embed/https://youtu.be/O94c5VVPve4
+image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-01.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:19](#t=1:19)** How did Nicole Sullivan get into the industry?
-* **[8:49](#t=8:49)** Lou Rosenfeld, what's the difference between IA and UX?
-* **[17:02](#t=17:0)** The story behind Jessica Hische's Daily Dropcap Project.
-* **[23:15](#t=23:15)** Bonus Track: Dan Cederholm and Trent Walton.
+* **[1:19](http://goodstuff.fm/nbsp/132#t=1:19)** How did Nicole Sullivan get into the industry?
+* **[8:49](http://goodstuff.fm/nbsp/132#t=8:49)** Lou Rosenfeld, what's the difference between IA and UX?
+* **[17:02](http://goodstuff.fm/nbsp/132#t=17:0)** The story behind Jessica Hische's Daily Dropcap Project.
+* **[23:15](http://goodstuff.fm/nbsp/132#t=23:15)** Bonus Track: Dan Cederholm and Trent Walton.
 
 
 ### Links:
