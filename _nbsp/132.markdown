@@ -5,9 +5,13 @@ position: 1
 show: nbsp
 episode: 132
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-132.mp3
-description: Christopher Schmitt is out, but that doesn't mean you can't enjoy the time Nicole Sullivan talked about how she read W3C specs for fun, Lou Rosenfeld trying not to start a war between IA vs. UX, and how Jessica Hische became a success.
-sponsor: |-
-  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+description: Christopher Schmitt is out, but that doesn't mean you can't enjoy the
+  time Nicole Sullivan talked about how she read W3C specs for fun, Lou Rosenfeld
+  trying not to start a war between IA vs. UX, and how Jessica Hische became a success.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv132&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
 video: https://www.youtube.com/embed/https://youtu.be/O94c5VVPve4
 image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-01.jpg
 layout: episode
