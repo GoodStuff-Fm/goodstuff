@@ -1,0 +1,27 @@
+---
+title: S09E01 - "Savage Compote"
+date: 2017-09-28 16:48:00 -06:00
+mp3: 
+show: 3g3q
+description: AI, awful waffles, & bed diets
+sponsor: robots, waffles, and a cat named Don Juan
+episode: 131
+layout: episode
+---
+
+![Episode Artwork](http://l.gdwn.co/PSr5r3.jpg)
+
+# Questions 
+
+## Andrew: What job would be a bad idea for robots to take over?
+* [Map People](https://en.wikipedia.org/wiki/Geographic_information_system)
+* [Botpoet.com](http://botpoet.com)
+* [Turing test](https://en.wikipedia.org/wiki/Turing_test)
+* [Dad reflexes](https://youtu.be/BK4zBf825XY)
+
+## Aaron: What’s your awful waffle? (preferred topping combo)
+* [Roscoe's](http://www.roscoeschickenandwaffles.com)
+* [Compote](http://sincerelysavage.com/fruit-compote/)
+
+## Adam: If you didn’t have to work for the rest of your life, starting now, what would you do?
+* [Stout Scot Doesn't Eat for A Year](https://www.yahoo.com/lifestyle/man-didnt-eat-for-382-days-but-somehow-lived-115956502923.html)
