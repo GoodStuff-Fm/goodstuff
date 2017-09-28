@@ -1,7 +1,7 @@
 ---
 title: S09E01 - "Savage Compote"
 date: 2017-09-28 16:48:00 -06:00
-mp3: 
+mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S09E02.mp3
 show: 3g3q
 description: AI, awful waffles, & bed diets
 sponsor: robots, waffles, and a cat named Don Juan
