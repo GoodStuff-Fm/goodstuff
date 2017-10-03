@@ -1,5 +1,5 @@
 ---
-title: Heated Coke Experience
+title: Warm Coke Experience
 date: 2017-10-03 10:28:00 -06:00
 episode: 364
 show: morningshow
