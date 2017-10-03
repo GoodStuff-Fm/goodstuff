@@ -1,7 +1,7 @@
 ---
 title: S05:E03.5 - “Lightning Round”
 date: 2015-11-05 23:41:00 -06:00
-position: 57
+position: 60
 mp3: http://podcasts-1.feedpress.co/13789/19674.mp3
 episode: 66
 show: 3g3q

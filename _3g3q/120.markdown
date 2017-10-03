@@ -1,7 +1,7 @@
 ---
 title: S08:E04 - “Literal Pyramid Scheme”
 date: 2016-10-31 02:42:00 -06:00
-position: 5
+position: 8
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S08E03.mp3
 episode: 120
 description: Bear Bonds, Illuminati parties, & Stevedores

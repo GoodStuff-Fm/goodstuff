@@ -1,7 +1,7 @@
 ---
 title: S05:E04.5 - Lightning Round
 date: 2015-10-29 23:38:00 -06:00
-position: 55
+position: 58
 mp3: http://podcasts-1.feedpress.co/13789/19367.mp3
 episode: 68
 show: 3g3q
