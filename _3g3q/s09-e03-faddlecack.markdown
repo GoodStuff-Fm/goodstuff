@@ -8,7 +8,7 @@ sponsor: didgeridoos...or donts?
 episode: 132
 ---
 
-![Episode Artwork]() 
+![Episode Artwork](http://l.gdwn.co/mda9ah.jpg) 
 
 # Questions 
 
