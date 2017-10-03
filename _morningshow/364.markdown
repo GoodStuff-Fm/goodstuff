@@ -1,7 +1,6 @@
 ---
 title: Warm Coke Experience
 date: 2017-10-03 10:28:00 -06:00
-published: false
 episode: 364
 show: morningshow
 description: It's like watching just Will Smith movies with a warm soda and pumpkin
