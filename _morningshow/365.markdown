@@ -1,7 +1,8 @@
 ---
-title: Shrimptopia
+title: 'Morning Show Mini: Shrimptopia'
 date: 2017-10-10 10:00:00 -06:00
 published: false
+position: 12
 show: morningshow
 episode: 365
 image: 

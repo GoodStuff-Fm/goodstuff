@@ -2,6 +2,7 @@
 title: 'Morning Show Mini: The Pursuit of Happy Meals'
 date: 2017-10-17 10:00:00 -06:00
 published: false
+position: 0
 show: morningshow
 episode: 366
 image: 

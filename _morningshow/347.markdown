@@ -1,7 +1,7 @@
 ---
 title: Blacklight Mozzarella
 date: 2017-05-01 10:00:00 -06:00
-position: 6
+position: 20
 show: morningshow
 episode: 347
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-347.mp3
