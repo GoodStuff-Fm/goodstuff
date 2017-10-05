@@ -1,5 +1,5 @@
 ---
-title: The Pursuit of Happy Meals
+title: 'Morning Show Mini: The Pursuit of Happy Meals'
 date: 2017-10-17 10:00:00 -06:00
 published: false
 show: morningshow
