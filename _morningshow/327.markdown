@@ -6,7 +6,7 @@ tags:
 - Fried or Not
 - Pop-Tart
 - burritos
-position: 82
+position: 96
 episode: '327'
 description: On July 3, 1916, in his small roadside restaurant, now Woodman’s of Essex,
   it is believed Chubby served his customers the first modern day deep fried claims.

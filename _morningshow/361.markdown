@@ -1,7 +1,7 @@
 ---
 title: Big Ken's Bacon Weekend
 date: 2017-08-21 23:37:00 -06:00
-position: 9
+position: 11
 show: morningshow
 episode: 361
 description: It's like you popped and you can't stop wearing a VR headset in the Kitchen

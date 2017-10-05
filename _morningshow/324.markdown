@@ -6,7 +6,7 @@ tags:
 - Lunchables
 - car
 - pizza
-position: 79
+position: 93
 episode: '324'
 description: Kenny quizzes Kyle and the two find out how 90's snack are going to kill
   them.

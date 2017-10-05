@@ -1,7 +1,7 @@
 ---
 title: Easy Peasy Quesadillsy
 date: 2017-09-01 10:00:00 -06:00
-position: 10
+position: 12
 show: morningshow
 episode: 362
 description: It's like filling out your dating profile with your most hated food,

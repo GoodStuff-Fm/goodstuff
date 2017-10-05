@@ -2,7 +2,7 @@
 title: 'Morning Show Mini: That''s it? That''s it. That''s it!'
 date: 2017-10-24 10:00:00 -06:00
 published: false
-position: 13
+position: 0
 show: morningshow
 episode: 367
 image: 

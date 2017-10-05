@@ -1,7 +1,7 @@
 ---
 title: Is a Lobster a Bug?
 date: 2017-07-18 09:44:00 -06:00
-position: 3
+position: 5
 show: morningshow
 episode: 356
 description: It's like getting a pre-portioned meal with cheese, caviar, breakfast

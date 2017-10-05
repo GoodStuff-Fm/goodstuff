@@ -1,7 +1,7 @@
 ---
 title: United Sandwiches of America
 date: 2017-08-08 09:38:00 -06:00
-position: 7
+position: 9
 description: It's like looking directly into the sun after trying Everything chips
   at the Iowa State Fair and paying too much for a burger.
 show: morningshow
