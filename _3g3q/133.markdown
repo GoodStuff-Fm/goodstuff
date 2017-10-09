@@ -2,6 +2,7 @@
 title: S09:E04 - "[tk]"
 date: 2017-10-09 14:29:00 -06:00
 published: false
+layout: episode
 ---
 
 ![Episode Artwork]([tk])
@@ -25,3 +26,21 @@ Adam:
 Aaron: Slug Bug
 Adam: Ditch, Bountiful B, First Trip
 Andrew:  bvc 
+
+---
+
+# Follow Us
+* Aaron: [@AaronLMGoodwin](http://twitter.com/aaronlmgoodwin)
+* Andrew: [@A_Sav](http://twitter.com/a_sav)
+* Adam: [@ThatAdamKid](http://twitter.com/thatadamkid)
+
+# Braaaaaand Engagement
+* [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
+* Call/text us: 760-881-4382
+* [Ask on Tumblr](http://3g3q.co/ask)
+* Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
+
+***
+
+## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
+The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
