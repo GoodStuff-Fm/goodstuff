@@ -2,6 +2,11 @@
 title: S09:E04 - "[tk]"
 date: 2017-10-09 14:29:00 -06:00
 published: false
+mp3: 
+show: 3g3q
+description: Profiles, I.T., & mourning rituals
+sponsor: Adam and Andrew having easily distinguishable voices
+episode: 133
 layout: episode
 ---
 
