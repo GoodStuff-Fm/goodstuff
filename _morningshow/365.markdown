@@ -5,12 +5,22 @@ published: false
 position: 2
 show: morningshow
 episode: 365
-image: 
-description: 
+image: "/uploads/morningshow-365.png"
+description: 'It''s like '
 layout: episode
 ---
 
+* [Here’s everything Google announced today - TechCrunch](https://techcrunch.com/gallery/heres-everything-google-announced-today/)
 
+* [Dropbox redesigns itself as a hipster file sharing service - The Verge](https://www.theverge.com/2017/10/3/16412238/dropbox-redesign-new-ui-colors)
+
+* [Eggs Baked in Hash Browns - Gordon Ramsay - YouTube](https://www.youtube.com/watch?v=nRGz2md8l28)
+
+* [Endless Shrimp® is back at Red Lobster®](https://www.redlobster.com/news-press/press/article/2017/08/30/endless-shrimp-is-back-at-red-lobster)
+
+* [Pizza Box, Pizza Boxes in Stock - ULINE](https://www.uline.com/BL_8682/Pizza-Boxes)
+
+---
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
