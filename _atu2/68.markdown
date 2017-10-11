@@ -1,16 +1,17 @@
 ---
-title: "Pain is What We Salve with Art - A Conversation with Neil McCormick"
+title: Pain is What We Salve with Art - A Conversation with Neil McCormick
 date: 2017-10-11 08:30:00 -06:00
 episode: 68
 show: atu2
-description: "Neil McCormick joins the show to talk about his new book, #Zero, which he is crowdfunding support for. Neil talks about what kind of pop star Zero is, his decision to go the crowdfunding route, the state of book publishing in 2017, and what the heck is that face on his bookshelf?"
+description: 'Neil McCormick joins the show to talk about his new book, #Zero, which
+  he is crowdfunding support for. Neil talks about what kind of pop star Zero is,
+  his decision to go the crowdfunding route, the state of book publishing in 2017,
+  and what the heck is that face on his bookshelf?'
 mp3: http://podcasts-1.feedpress.co/12572/atu2-68.mp3
-image: ""
-video:
+image: ''
+video: 
 layout: episode
 ---
-
-
 
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/)
 * [Submit an audio comment here](https://www.dropbox.com/request/GA6MTwhVo618jrGPyDuE) - Record an audio message with your phone or computer and upload it to us.
