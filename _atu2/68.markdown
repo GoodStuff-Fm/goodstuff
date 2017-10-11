@@ -1,7 +1,6 @@
 ---
 title: Pain is What We Salve with Art - A Conversation with Neil McCormick
 date: 2017-10-11 09:30:00 -06:00
-published: false
 episode: 68
 show: atu2
 description: 'Neil McCormick joins the show to talk about his new book, #Zero, which
