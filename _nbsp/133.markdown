@@ -2,6 +2,7 @@
 title: Simon St. Laurent — Discovery doesn't get Star Trek, iPhone X's Notch, Jeff
   Koons in Snapchat
 date: 2017-10-05 09:00:00 -06:00
+published: false
 position: 1
 show: nbsp
 episode: 133
