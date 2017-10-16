@@ -5,7 +5,8 @@ position: 1
 show: morningshow
 episode: 366
 image: "/uploads/morningshow-366.png"
-description: 'It''s like '
+description: It's like eating only saltine crackers for a week while a robot draws
+  your blood to decide how many more saltines it should feed you at Beignet Fest.
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-366.mp3
 layout: episode
 ---
@@ -16,7 +17,7 @@ layout: episode
 
 * [Taco Bell Made The Best Meal You’ll Never Taste For National Taco Day](http://uproxx.com/life/taco-bell-national-taco-day-menu/)
 
-* [Robots are replacing fast food workers at new Shake Shack | New York Post](http://nypost.com/2017/10/02/robots-are-replacing-fast-food-workers-at-new-shake-shack/)
+* [Robots are replacing fast food workers at new Shake Shack - New York Post](http://nypost.com/2017/10/02/robots-are-replacing-fast-food-workers-at-new-shake-shack/)
 
 ---
 
