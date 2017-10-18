@@ -9,7 +9,7 @@ episode: 133
 layout: episode
 ---
 
-![Episode Artwork]([tk])
+![Episode Artwork](http://l.gdwn.co/nuznM3.jpg)
 
 # Questions 
 
