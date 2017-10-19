@@ -1,0 +1,39 @@
+---
+title: Best of NBSPtv — Volume 2
+date: 2017-10-14 09:00:00 -06:00
+position: 1
+show: nbsp
+episode: 134
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-134.mp3
+description: `The Internet's Christopher Schmitt is out, but that doesn't mean you can't enjoy the Best of Non Breaking Space Show. In this volume, hear about Matt Griffen landing Tim Berners-Lee as a guest star in his web documentary, "What Comes Next is the Future"; how Dan Jurgens and DC Comics created international news by killing off Superman, the first time; what the Big Bang looks like with Dr. Christine Corbett Moran; and learn why to avoid hourly billing in your business by Jonathan Stark.`
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv134&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv134&utm_medium=podcast&utm_campaign=uxdesignnewsletter)";
+video: https://www.youtube.com/embed/https://youtu.be/CxGWOIqOwtA
+image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-02.jpg
+layout: episode
+---
+
+### Time Jumps
+
+* **[1:17](https://goodstuff.fm/nbsp/134#t=1:17)** Matt Griffin landing Tim Berners-Lee as a guest star for his documentary on web design.
+* **[7:54](https://goodstuff.fm/nbsp/134#t=7:54)** Dan Jurgens on the original death of Superman. Well, what of the deaths anyway. 
+* **[12:35](https://goodstuff.fm/nbsp/134#t=12:35)** Talking with Dr. Christine Corbett Moran from the Antartica about the Big Bang.
+* **[19:07](https://goodstuff.fm/nbsp/134#t=19:07)** Why to avoid hourly billing in your business with Jonathan Stark.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [NBSP #81 Wtih Matt Griffin](https://goodstuff.fm/nbsp/81)
+* [NBSP #91 with Dan Jurgens](https://goodstuff.fm/nbsp/91)
+* [NBSP #87 with Dr. Christine Corbett Moran](https://goodstuff.fm/nbsp/87)
+* [NBSP #105 with Jonathan Stark](https://goodstuff.fm/nbsp/105)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
