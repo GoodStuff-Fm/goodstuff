@@ -1,7 +1,6 @@
 ---
 title: Best of NBSPtv — Volume 2
 date: 2017-10-19 09:00:00 -06:00
-published: false
 position: 1
 show: nbsp
 episode: 134
