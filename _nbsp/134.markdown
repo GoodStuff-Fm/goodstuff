@@ -1,6 +1,5 @@
 ---
-title: '134'
-Title: Best of NBSPtv — Volume 2
+title: Best of NBSPtv — Volume 2
 Date: 2006-01-09 00:00:00 -06:00
 Position: 1
 Show: nbsp
