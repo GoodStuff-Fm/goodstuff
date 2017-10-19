@@ -17,6 +17,7 @@ sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=n
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv134&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
 video: https://www.youtube.com/embed/CxGWOIqOwtA
 image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-02.jpg
+position: 1
 ---
 
 ### Time Jumps
