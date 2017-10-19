@@ -1,10 +1,10 @@
 ---
 title: Best of NBSPtv — Volume 2
 Date: 2006-01-09 00:00:00 -06:00
-Position: 1
-Show: nbsp
-Episode: 134
-Description: The Internet's Christopher Schmitt is out, but that doesn't mean you
+position: 1
+show: nbsp
+episode: 134
+description: The Internet's Christopher Schmitt is out, but that doesn't mean you
   can't enjoy the Best of Non Breaking Space Show. In this volume, hear about Matt
   Griffen landing Tim Berners-Lee as a guest star in his web documentary, "What Comes
   Next is the Future"; how Dan Jurgens and DC Comics created international news by
@@ -19,6 +19,7 @@ Sponsor: |-
 Video: https://www.youtube.com/embed/https://youtu.be/CxGWOIqOwtA
 Image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-02.jpg
 Layout: episode
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-134.mp3
 ---
 
 ### Time Jumps
