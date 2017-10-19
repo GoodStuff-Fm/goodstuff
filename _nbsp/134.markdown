@@ -10,17 +10,17 @@ sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=n
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv134&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video:
-image:
+video: https://www.youtube.com/embed/https://youtu.be/CxGWOIqOwtA
+image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-02.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:17](#t=1:17)** Matt Griffin landing Tim Berners-Lee as a guest star.
-* **[7:54](#t=7:54)** Dan Jurgens on the death of Superman.
-* **[12:35](#t=12:35)** Dr. Christine Corbett Moran on the Big Bang.
-* **[19:07](#t=19:07)** Why to avoid hourly billing in your business with Jonathan Stark
+* **[1:17](https://goodstuff.fm/nbsp/134#t=1:17)** Matt Griffin landing Tim Berners-Lee as a guest star for his documentary on web design.
+* **[7:54](https://goodstuff.fm/nbsp/134#t=7:54)** Dan Jurgens on the original death of Superman. Well, what of the deaths anyway. 
+* **[12:35](https://goodstuff.fm/nbsp/134#t=12:35)** Talking with Dr. Christine Corbett Moran from the Antartica about the Big Bang.
+* **[19:07](https://goodstuff.fm/nbsp/134#t=19:07)** Why to avoid hourly billing in your business with Jonathan Stark.
 
 ### Links:
 
