@@ -1,32 +1,29 @@
 ---
-title: Simon St. Laurent — Discovery doesn't get Star Trek, iPhone X's Notch, Jeff
-  Koons in Snapchat
+title: Simon St. Laurent — Discovery doesn't get Star Trek, iPhone X's Notch, Jeff Koons in Snapchat
 date: 2017-10-11 07:00:00 -06:00
 position: 1
 show: nbsp
 episode: 133
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-133.mp3
-description: Discovery doesn't get Star Trek or maybe it's the biggest con since Star
-  Trek II? Meanwhile, iPhone X's Notch changes how we view web design and more in
-  this week's Top (n+1) News Stories of the Week!
+description: Discovery doesn't get Star Trek or maybe it's the biggest con since Star Trek II? Meanwhile, iPhone X's Notch changes how we view web design and more in this week's Top (n+1) News Stories of the Week!
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv133&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv133&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video: 
-image: "/uploads/nbsp-133.jpg"
+video: https://www.youtube.com/embed/dCfZ1gfURPU
+image: "https://goodstuff.fm/nbsp/img/nbsptv-simonstl-133.jpg"
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:13](#t=1:13)** Story #7 Star Trek Discovery launches.
-* **[14:13](#t=14:13)** Story #6 Avatar’s papyrus font keeps Ryan Gosling up at night
-* **[16:24](#t=16:24)** Story #5 iPhone X's Notch
-* **[27:10](#t=27:10)** Story #4 a) Equifax breach explained
-* **[36:12](#t=36:12)** Story #3 Snapchat will put Jeff Koons’ art installations in augmented reality
-* **[42:30](#t=42:30)** Story #2 New LG smartphone keeps mosquitoes away
-* **[43:38](#t=43:38)** Story #1 Scientists win Nobel for explaining our body's internal clock
+* **[1:13](https://goodstuff.fm/nbsp/133#t=1:13)** Story #7 — Star Trek Discovery launches.
+* **[14:13](https://goodstuff.fm/nbsp/133#t=14:13)** Story #6 — Avatar’s papyrus font keeps Ryan Gosling up at night
+* **[16:24](https://goodstuff.fm/nbsp/133#t=16:24)** Story #5 — iPhone X's Notch
+* **[27:10](https://goodstuff.fm/nbsp/133#t=27:10)** Story #4 — Equifax breach explained
+* **[36:12](https://goodstuff.fm/nbsp/133#t=36:12)** Story #3 — Snapchat will put Jeff Koons’ art installations in augmented reality
+* **[42:30](https://goodstuff.fm/nbsp/133#t=42:30)** Story #2 — New LG smartphone keeps mosquitoes away
+* **[43:38](https://goodstuff.fm/nbsp/133#t=43:38)** Story #1 — Scientists win Nobel for explaining our body's internal clock
 
 ### Links:
 
