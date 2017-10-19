@@ -2,18 +2,24 @@
 title: Best of NBSPtv — Volume 2
 date: 2017-10-19 09:00:00 -06:00
 published: false
+position: 1
 show: nbsp
 episode: 134
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-134.mp3
-description: "The Internet's Christopher Schmitt is out, but that doesn't mean you can't enjoy the Best of Non Breaking Space Show. In this volume, hear about Matt Griffen landing Tim Berners-Lee as a guest star in his web documentary, What Comes Next is the Future; how Dan Jurgens and DC Comics created international news by killing off Superman, the first time; what the Big Bang looks like with Dr. Christine Corbett Moran; and learn why to avoid hourly billing in your business by Jonathan Stark."
+description: The Internet's Christopher Schmitt is out, but that doesn't mean you
+  can't enjoy the Best of Non Breaking Space Show. In this volume, hear about Matt
+  Griffen landing Tim Berners-Lee as a guest star in his web documentary, What Comes
+  Next is the Future; how Dan Jurgens and DC Comics created international news by
+  killing off Superman, the first time; what the Big Bang looks like with Dr. Christine
+  Corbett Moran; and learn why to avoid hourly billing in your business by Jonathan
+  Stark.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv134&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv134&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video: "https://www.youtube.com/embed/https://youtu.be/CxGWOIqOwtA"
-image: "https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-02.jpg"
+video: https://www.youtube.com/embed/https://youtu.be/CxGWOIqOwtA
+image: https://goodstuff.fm/nbsp/img/nbsptv-best-of-vol-02.jpg
 layout: episode
-position: 1
 ---
 
 ### Time Jumps
