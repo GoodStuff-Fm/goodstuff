@@ -1,0 +1,63 @@
+---
+title: Jason Pamental — Variable Fonts & The Future of Web Typography
+date: 2017-10-23 09:00:00 -06:00
+position: 1
+show: nbsp
+episode: 135
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-135.mp3
+description: Jason Pamental is the author of *Responsive Typography* from O’Reilly Media. He recently won one of the Best Of awards for his web typography talk at the annual CSS Dev Conference 2017.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv135&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv135&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
+video: https://www.youtube.com/embed/LfX52emDP7s
+image: https://goodstuff.fm/nbsp/img/nbsptv-jason-pamental.jpg
+layout: episode
+---
+
+### Time Jumps
+
+* **[1:29](https://goodstuff.fm/nbsp/135#t=1:29)** How was your CSS Dev Conf 2017 experience?
+* **[6:20](https://goodstuff.fm/nbsp/135#t=6:20)** Is there a sequel to Responsive Typography coming?
+* **[7:30](https://goodstuff.fm/nbsp/135#t=7:30)** Congrats on winning best of at CSS Dev Conf 2017
+* **[9:00](https://goodstuff.fm/nbsp/135#t=9:00)** Can you explain what variable fonts are?
+* **[13:30](https://goodstuff.fm/nbsp/135#t=13:30)** How do the savings come about using this technique?
+* **[17:00](https://goodstuff.fm/nbsp/135#t=17:00)** Is variable fonts a separate, new file format?
+* **[20:20](https://goodstuff.fm/nbsp/135#t=20:20)** Is a variable font a designation within WOFF2 or WOFF?
+* **[22:30](https://goodstuff.fm/nbsp/135#t=22:30)** Can I export variable font from an existing font?
+* **[31:00](https://goodstuff.fm/nbsp/135#t=31:00)** Building on the work of Rachel Andrew and Jen Simmons
+* **[37:20](https://goodstuff.fm/nbsp/135#t=37:20)** What's browser support like for variable fonts?
+* **[41:50](https://goodstuff.fm/nbsp/135#t=41:50)** Is @supports the key?
+* **[43:15](https://goodstuff.fm/nbsp/135#t=43:15)** Anything else you're excited about with variable fonts?
+* **[45:30](https://goodstuff.fm/nbsp/135#t=45:30)** How can people get in touch with you if they have questions about variable fonts?
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Jason Pamental on Twitter](https://twitter.com/jpamental)
+* [Jason Pamental on GitHub](https://github.com/jpamental )
+* [Jason's Responsive Web Typography](http://rwt.io/)
+* [Responsive Typography: Using Type Well on the Web](https://www.amazon.com/Responsive-Typography-Using-Type-Well/dp/1491907096)
+* [CSS Dev Conf 2017: Variable Fonts &amp; The Future of Web Design](http://rwt.io/presentations/talk/variable-fonts-future-web-design)
+* [Matthew Carter](https://en.wikipedia.org/wiki/Matthew_Carter)
+* [📺Matthew Carter's TED Talk: My Life in Typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces )
+* [ARTIFACT Conference](http:www.artifactconf.com)
+* [Richard Rutter's Web Typography](http://www.book.webtypography.net/)
+* [Typekith](https://typekit.com)
+* [Bram Stein](https://www.bramstein.com)
+* [Opentype](https://www.myfonts.com/info/opentype/)
+* [Woff (Web Open Font Format)](https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF)
+* [TrueType](https://www.microsoft.com/typography/WhatIsTrueType.mspx)    
+* [Woff2](https://fileinfo.com/extension/woff2)
+* [Glyphs App](https://glyphsapp.com)
+* [ATypI](https://www.atypi.org/)     
+* [Lawrence Penny on Twitter](https://twitter.com/lorp)
+* [AXIS-PRAXIS.](http://www.axis-praxis.org/)    
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
