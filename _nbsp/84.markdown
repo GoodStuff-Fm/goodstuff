@@ -17,7 +17,6 @@ image: https://goodstuff.fm/nbsp/img/nbsptv-scott-mccloud.jpg
 layout: episode
 ---
 
-
 ### Links:
 
 * [Christopher Schmitt](http://Christopher.org)
