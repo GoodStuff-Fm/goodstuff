@@ -5,7 +5,9 @@ position: 1
 show: nbsp
 episode: 135
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-135.mp3
-description: Jason Pamental is the author of *Responsive Typography* from O’Reilly Media. He recently won one of the Best Of awards for his web typography talk at the annual CSS Dev Conference 2017.
+description: Jason Pamental is the author of *Responsive Typography* from O’Reilly
+  Media. He recently won one of the Best Of awards for his web typography talk at
+  the annual CSS Dev Conference 2017.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv135&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
