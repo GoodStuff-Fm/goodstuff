@@ -10,26 +10,26 @@ sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=n
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv135&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video:
-image:
+video: https://www.youtube.com/embed/LfX52emDP7s
+image: https://goodstuff.fm/nbsp/img/nbsptv-jason-pamental.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:29](#t=1:29)** How was your CSS Dev Conf 2017 experience?
-* **[6:20](#t=6:20)** Is there a sequel to Responsive Typography coming?
-* **[7:30](#t=7:30)** Congrats on winning best of at CSS Dev Conf 2017
-* **[9:00](#t=9:00)** Can you explain what variable fonts are?
-* **[13:30](#t=13:30)** How do the savings come about using this technique?
-* **[17:00](#t=17:00)** Is variable fonts a separate, new file format?
-* **[20:20](#t=20:20)** Is a variable font a designation within WOFF2 or WOFF?
-* **[22:30](#t=22:30)** Can I export variable font from an existing font?
-* **[31:00](#t=31:00)** Building on the work of Rachel Andrew and Jen Simmons
-* **[37:20](#t=37:20)** What's browser support like for variable fonts?
-* **[41:50](#t=41:50)** Is @supports the key?
-* **[43:15](#t=43:15)** Anything else you're excited about with variable fonts?
-* **[45:30](#t=45:30)** How can people get in touch with you if they have questions about variable fonts?
+* **[1:29](https://goodstuff.fm/nbsp/135#t=1:29)** How was your CSS Dev Conf 2017 experience?
+* **[6:20](https://goodstuff.fm/nbsp/135#t=6:20)** Is there a sequel to Responsive Typography coming?
+* **[7:30](https://goodstuff.fm/nbsp/135#t=7:30)** Congrats on winning best of at CSS Dev Conf 2017
+* **[9:00](https://goodstuff.fm/nbsp/135#t=9:00)** Can you explain what variable fonts are?
+* **[13:30](https://goodstuff.fm/nbsp/135#t=13:30)** How do the savings come about using this technique?
+* **[17:00](https://goodstuff.fm/nbsp/135#t=17:00)** Is variable fonts a separate, new file format?
+* **[20:20](https://goodstuff.fm/nbsp/135#t=20:20)** Is a variable font a designation within WOFF2 or WOFF?
+* **[22:30](https://goodstuff.fm/nbsp/135#t=22:30)** Can I export variable font from an existing font?
+* **[31:00](https://goodstuff.fm/nbsp/135#t=31:00)** Building on the work of Rachel Andrew and Jen Simmons
+* **[37:20](https://goodstuff.fm/nbsp/135#t=37:20)** What's browser support like for variable fonts?
+* **[41:50](https://goodstuff.fm/nbsp/135#t=41:50)** Is @supports the key?
+* **[43:15](https://goodstuff.fm/nbsp/135#t=43:15)** Anything else you're excited about with variable fonts?
+* **[45:30](https://goodstuff.fm/nbsp/135#t=45:30)** How can people get in touch with you if they have questions about variable fonts?
 
 ### Links:
 
@@ -54,8 +54,6 @@ layout: episode
 * [ATypI](https://www.atypi.org/)     
 * [Lawrence Penny on Twitter](https://twitter.com/lorp)
 * [AXIS-PRAXIS.](http://www.axis-praxis.org/)    
-* [Rachel Andrew](https://rachelandrew.co.uk)
-* [Jen Simmons](http://jensimmons.com)
 * [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
 * [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
 * [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
