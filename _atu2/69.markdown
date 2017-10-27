@@ -8,10 +8,11 @@ description: Matt and Chris are joined by Sherry, Tassoula, and Mason who call i
   to give their thoughts on the recently wrapped up Joshua Tree Tour 2017.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-69.mp3
 image: "/uploads/atu2-69.jpg"
-video: 
+video: https://www.youtube.com/embed/xDA45nyn3DI
 layout: episode
 ---
 
+* [Watch a video version here](https://www.youtube.com/watch?v=xDA45nyn3DI)
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/)
 * [Submit an audio comment here](https://www.dropbox.com/request/GA6MTwhVo618jrGPyDuE) - Record an audio message with your phone or computer and upload it to us.
 * [U2Conference.com](http://u2conference.com/u2-con-2018/)
