@@ -1,12 +1,12 @@
 ---
-title: Joshua Tree is a Speed Bump on the Road to Experience
+title: The Joshua Tree is a Speed Bump on the Road to Experience
 date: 2017-10-27 12:30:00 -06:00
 episode: 69
 show: atu2
 description: Matt and Chris are joined by Sherry, Tassoula, and Mason who call in
   to give their thoughts on the recently wrapped up Joshua Tree Tour 2017.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-69.mp3
-image: ''
+image: 
 video: 
 layout: episode
 ---
