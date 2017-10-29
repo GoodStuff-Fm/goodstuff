@@ -11,7 +11,7 @@ episode: 368
 layout: episode
 ---
 
-
+![Kyle's Production Soundboard](/uploads/2017-10-29.png)
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
