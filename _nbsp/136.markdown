@@ -5,7 +5,11 @@ position: 1
 show: nbsp
 episode: 136
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-136.mp3
-description: Joined with Simon St. Laurent in talking with Aral Balkan. Aral is a cyborg rights activist and one-third of Ind.ie, a small non-profit organization working for social justice in the digital age. At Ind.ie, he works on Better, a privacy tool that stops trackers while you are surfing the web on Safari browser on the iPhone, iPad, and Mac.
+description: Joined with Simon St. Laurent in talking with Aral Balkan. Aral is a
+  cyborg rights activist and one-third of Ind.ie, a small non-profit organization
+  working for social justice in the digital age. At Ind.ie, he works on Better, a
+  privacy tool that stops trackers while you are surfing the web on Safari browser
+  on the iPhone, iPad, and Mac.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv136&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
