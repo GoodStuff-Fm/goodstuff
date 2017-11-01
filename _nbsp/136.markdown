@@ -60,7 +60,7 @@ layout: episode
 * [Springer](http://www.springer.com/us/)
 * [SpringerOpen](https://www.springeropen.com/)
 * [China’s Tencent is quietly testing a “social credit score” based on people’s online behavior](https://qz.com/1049669/chinas-tencent-hkg-0700-is-quietly-testing-a-social-credit-score-based-on-peoples-online-behavior/)
-* [China’s Tencent is quietly testing a “social credit score” based on people’s online behavior](https://nonprofitquarterly.org/2017/10/30/big-brother-meet-citizen-score-china-cull-online-data-create-individual-rating-system/)
+* [Big Brother, Meet Citizen Score: China to Cull Online Data to Create Individual Rating System](https://nonprofitquarterly.org/2017/10/30/big-brother-meet-citizen-score-china-cull-online-data-create-individual-rating-system/)
 * [Big data meets Big Brother as China moves to rate its citizens](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
 * [Opera browser sold to a Chinese consortium](https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/)
 * [Opera CEO: Sale To Chinese Consortium Wasn’t Our Decision](https://techcrunch.com/2016/02/25/opera-ceo-sale-to-chinese-consortium-wasnt-our-decision/)
