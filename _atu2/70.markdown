@@ -7,8 +7,8 @@ description: Tassoula, Sherry, Matt, and Chris are here to chat about Experience
   Innocence Tour ticketing issues as well as Songs of Experience songs we've heard
   so far.
 mp3: http://podcasts-1.feedpress.co/12572/at2-70.mp3
-image: ''
-video: 
+image: "/uploads/atu2-70.jpg"
+video: https://www.youtube.com/embed/8SGZCxWJMII
 layout: episode
 ---
 
