@@ -12,6 +12,12 @@ video: https://www.youtube.com/embed/8SGZCxWJMII
 layout: episode
 ---
 
+### Want to Watch the Live Show?
+
+* [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
+* [Follow the show on Periscope](http://periscope.tv/ichris)
+* [Subscribe to our YouTube channel](https://www.youtube.com/c/GoodstuffFm-podcasts)
+
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/)
 * [Submit an audio comment here](https://www.dropbox.com/request/GA6MTwhVo618jrGPyDuE) - Record an audio message with your phone or computer and upload it to us.
 * [atU2.com - Tour Announcement details](https://www.atu2.com/news/official-u2s-songs-of-experience-coming-dec-1-supporting-tour-in-2018.html)
@@ -20,9 +26,6 @@ layout: episode
 * [Matt on Twitter](https://twitter.com/mattmcgee)
 * [Tassoula on Twitter](https://twitter.com/tassoula)
 * [Sherry on Twitter](https://twitter.com/atu2comsherry)
-* [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
-* [Follow the show on Periscope](http://periscope.tv/ichris)
-* [Subscribe to our YouTube channel](https://www.youtube.com/c/GoodstuffFm-podcasts)
 * [Twitter atU2](https://twitter.com/atu2)
 * [Facebook atU2com](https://www.facebook.com/atu2com)
 * [Instagram atU2com](https://www.instagram.com/atu2com/)
