@@ -1,0 +1,13 @@
+---
+title: What We Did On Our Vacation
+date: 2017-11-05 18:32:00 -06:00
+published: false
+description: 'Brook and Kari talk about what we''ve been up to, since we haven''t
+  been podcasting a whole lot. Some really good book, movie, and podcast recommendations
+  here. I [Kari] can''t believe I didn''t mention I listened to Shittown. '
+episode: 36
+Field name: grownups
+mp3: 
+layout: episode
+---
+
