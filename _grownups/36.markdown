@@ -1,6 +1,6 @@
 ---
 title: What We Did On Our Vacation
-date: 2017-11-05 18:32:00 -06:00
+date: 2017-11-06 13:32:00 -06:00
 published: false
 description: Brook and Kari talk about what we've been up to, since we haven't been
   podcasting a whole lot. Some really good book, movie, TV, and podcast recommendations
@@ -8,7 +8,7 @@ description: Brook and Kari talk about what we've been up to, since we haven't b
   about gender confirmation surgery.
 episode: 36
 Field name: grownups
-mp3: 
+mp3: http://podcasts-1.feedpress.co/10589/grownups36.mp3
 layout: episode
 ---
 
