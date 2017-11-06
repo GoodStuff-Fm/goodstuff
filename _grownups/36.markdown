@@ -6,7 +6,7 @@ description: Brook and Kari talk about what we've been up to, since we haven't b
   here. I [Kari] can't believe I didn't mention I listened to S-Town. Plus, we talk
   about gender confirmation surgery.
 episode: 36
-Field name: grownups
+show: grownups
 mp3: http://podcasts-1.feedpress.co/10589/grownups36.mp3
 layout: episode
 ---
