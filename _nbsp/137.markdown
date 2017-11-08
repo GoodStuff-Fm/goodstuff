@@ -5,7 +5,10 @@ position: 1
 show: nbsp
 episode: 137
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-137.mp3
-description: Rachel Andrew returns! Rachel is a sought out expert on web design layout technologies like CSS Grid and Flexbox, an invited expert to CSS Working Group, and author of several books. Her latest book, *The New CSS Layout*, is out now from A Book Apart.
+description: Rachel Andrew returns! Rachel is a sought out expert on web design layout
+  technologies like CSS Grid and Flexbox, an invited expert to CSS Working Group,
+  and author of several books. Her latest book, *The New CSS Layout*, is out now from
+  A Book Apart.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv137&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
