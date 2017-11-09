@@ -4,7 +4,8 @@ date: 2017-11-09 13:22:00 -06:00
 show: morningshow
 episode: 369
 image: 
-description: 
+description: It's like paying $30 to go to Disneyland and shake your phone at a self-driving
+  car after driving all the way from Oregon with the Beatles.
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-369.mp3
 layout: episode
 ---
