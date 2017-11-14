@@ -1,11 +1,13 @@
 ---
-title: "Answering FAQ's About Presale Tickets for U2's Experience and Innocence Tour"
+title: Answering FAQ's About Presale Tickets for U2's Experience and Innocence Tour
 date: 2017-11-13 12:30:00 -06:00
 episode: 71
 show: atu2
-description: "We're joined by special guest Big Wave from the Zootopia forum to answer some of the most frequently asked questions about U2's Experience and Innocence Tour pre-sale and general ticket sales."
+description: We're joined by special guest Big Wave from the Zootopia forum to answer
+  some of the most frequently asked questions about U2's Experience and Innocence
+  Tour pre-sale and general ticket sales.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-71.mp3
-image: ""
+image: ''
 video: https://www.youtube.com/embed/vBhdmFXG6JU
 layout: episode
 ---
