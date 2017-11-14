@@ -8,7 +8,7 @@ description: We're joined by special guest Big Wave from the Zootopia forum to a
   some of the most frequently asked questions about U2's Experience and Innocence
   Tour pre-sale and general ticket sales.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-71.mp3
-image: 
+image: "/uploads/atu2-71.jpg"
 video: https://www.youtube.com/embed/vBhdmFXG6JU
 layout: episode
 ---
