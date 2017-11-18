@@ -32,8 +32,8 @@ Click and/or buy from these links and you'll be supporting Goodstuff as well. Yo
 ## [Google Fi →](https://g.co/fi/r/PRK60H)
 Fair and simple. Just the phone plan you’ve been craving. Rake in credits for your unused data with a contract-free plan. Plans start at $20/mo for a single line. Sign up today!
 
-## [Sudden ⚡ Coffee →](http://suddencoffee.refr.cc/5X24RTL)
-Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's quick and efficient for those of you who need a second cup of the day or host a morning show at 7AM. It's hand-packed into a single-serving tube that you can take anywhere. We love it! **Get $5 off your first month by using our link.**
+## [Sudden Coffee →](http://suddencoffee.refr.cc/5X24RTL)
+Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's hand-packed into a single-serving tube that you can take anywhere. We love it! **Get $5 off your first month by using our link.**
 
 ## [Exist →](https://exist.io/?referred_by=kyle)
 By combining data from services you already use, Exist can help you understand what makes you more happy, productive, and active. Bring your activity from your phone or fitness tracker, and add other services like your calendar for greater context on what you're up to. *Get 2 months free with our link!*
