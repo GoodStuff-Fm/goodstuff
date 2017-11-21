@@ -1,6 +1,7 @@
 ---
 title: It's a Bed on Wheels
 date: 2017-11-09 13:22:00 -06:00
+position: 0
 show: morningshow
 episode: 369
 image: "/uploads/morningshow-369.png"

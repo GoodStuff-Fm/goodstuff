@@ -1,6 +1,7 @@
 ---
 title: Halloween Special
 date: 2017-10-29 12:21:00 -06:00
+position: 1
 show: morningshow
 description: Welcome, foolish mortals, to the Haunted Morning Show. I am your cohost,
   your ghost cohost. Kindly put those earbuds all the way in please, and get comfortable.

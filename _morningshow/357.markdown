@@ -1,7 +1,7 @@
 ---
 title: Kenny Breaks Kyle's NDA
 date: 2017-07-24 11:26:00 -06:00
-position: 6
+position: 8
 show: morningshow
 description: It's like trying to relax on a weekend by watching a trailer for a movie
   where a bear races to get the first FastPass from every ride at Disneyland.
