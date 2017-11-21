@@ -1,0 +1,24 @@
+---
+title: Model 3 Frozen Burrito
+date: 2017-11-21 17:48:00 -06:00
+show: morningshow
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-380.mp3
+description: 
+episode: 380
+layout: episode
+---
+
+
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
