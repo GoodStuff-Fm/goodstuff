@@ -3,8 +3,9 @@ title: Model 3 Frozen Burrito
 date: 2017-11-21 17:48:00 -06:00
 show: morningshow
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-370.mp3
-description: 
+description: 'It''s like '
 episode: 370
+image: "/uploads/morningshow-370.png"
 layout: episode
 ---
 
