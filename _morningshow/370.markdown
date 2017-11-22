@@ -3,7 +3,8 @@ title: Model 3 Frozen Burrito
 date: 2017-11-21 17:48:00 -06:00
 show: morningshow
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-370.mp3
-description: 'It''s like '
+description: It's like a eating full meal of Pringles, grilled cheese, Tesla burritos,
+  and fake fast food secret menu items in a theater.
 episode: 370
 image: "/uploads/morningshow-370.png"
 layout: episode
@@ -26,8 +27,6 @@ layout: episode
 * [A disappointing debut for Google’s Pixel Buds - TechCrunch](https://techcrunch.com/2017/11/15/a-disappointing-debut-for-googles-pixel-buds/)
 
 * [Star Wars Battlefront 2 ditches real-money currency hours before launch - Polygon](https://www.polygon.com/2017/11/16/16668218/star-wars-battlefront-2-microtransactions-removed)
-
----
 
 ---
 
