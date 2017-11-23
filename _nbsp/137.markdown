@@ -21,20 +21,20 @@ layout: episode
 ### Time Jumps
 
 
-* **[2:05](#t=2:05)** Why did you write The New CSS Layout?
-* **[4:30](#t=4:30)** What do you think of CSS display table layout in 2017?
-* **[6:50](#t=6:50)** Any 3rd party item probably solves problems you're not dealing with.
-* **[10:00](#t=10:00)** Are people not learning or writing CSS these days?
-* **[15:30](#t=15:30)** The challenges with CSS Grid.
-* **[17:38](#t=17:38)** Where should developers go for help?
-* **[20:00](#t=20:00)** What is a block formatting context?
-* **[24:50](#t=24:50)** Using CSS multi-columns.
-* **[28:00](#t=28:00)** Doing design without media queries
-* **[30:00](#t=30:00)** Source Order vs. Display Order
-* **[33:00](#t=33:00)** Views on fallbacks, feature queries
-* **[35:50](#t=35:50)** Future of non-rectangular grid elements
-* **[38:00](#t=38:00)** CSS Round display coming in the future
-* **[39:10](#t=39:10)** What is Perch CMS and how might people use it?
+* **[2:05](https://goodstuff.fm/nbsp/137#t=2:05)** Why did you write The New CSS Layout?
+* **[4:30](https://goodstuff.fm/nbsp/137#t=4:30)** What do you think of CSS display table layout in 2017?
+* **[6:50](https://goodstuff.fm/nbsp/137#t=6:50)** Any 3rd party item probably solves problems you're not dealing with.
+* **[10:00](https://goodstuff.fm/nbsp/137#t=10:00)** Are people not learning or writing CSS these days?
+* **[15:30](https://goodstuff.fm/nbsp/137#t=15:30)** The challenges with CSS Grid.
+* **[17:38](https://goodstuff.fm/nbsp/137#t=17:38)** Where should developers go for help?
+* **[20:00](https://goodstuff.fm/nbsp/137#t=20:00)** What is a block formatting context?
+* **[24:50](https://goodstuff.fm/nbsp/137#t=24:50)** Using CSS multi-columns.
+* **[28:00](https://goodstuff.fm/nbsp/137#t=28:00)** Doing design without media queries
+* **[30:00](https://goodstuff.fm/nbsp/137#t=30:00)** Source Order vs. Display Order
+* **[33:00](https://goodstuff.fm/nbsp/137#t=33:00)** Views on fallbacks, feature queries
+* **[35:50](https://goodstuff.fm/nbsp/137#t=35:50)** Future of non-rectangular grid elements
+* **[38:00](https://goodstuff.fm/nbsp/137#t=38:00)** CSS Round display coming in the future
+* **[39:10](https://goodstuff.fm/nbsp/137#t=39:10)** What is Perch CMS and how might people use it?
 
 
 ### Links:
