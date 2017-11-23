@@ -1,33 +1,33 @@
 ---
-title: Brenda Storer - Practical CSS Grids
+title: Brenda Storer — Practical CSS Grids
 date: 2017-11-21 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 138
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-138.mp3
-description: Brenda Storer returns! Brenda is Front End Developer and Designer at thoughtbot. She recently won Best Presentation at CSS Dev Conf 2017 New Orleans on the topic of practical CSS grid layouts.
+description: Brenda Storer returns! Brenda is a Front End Developer and Designer at thoughtbot. She recently won Best Presentation at CSS Dev Conf 2017 New Orleans. Her talk focused on the topic of practical CSS grid layouts.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv138&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv138&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video:
-image:
+video: https://www.youtube.com/embed/DPuZk8DUnTs
+image: https://goodstuff.fm/nbsp/img/nbsptv-brenda-storer-138.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:40](#t=1:40)** Winning best of at CSS Dev Conf
-* **[4:50](#t=4:50)** Prepping for a talk on CSS Grid
-* **[11:00](#t=11:00)** What's the difference between CSS Grid and Flexbox?
-* **[17:10](#t=17:10)** Do we need to use Bootstrap anymore?
-* **[26:25](#t=26:25)** CSS isn't intuitive and CSS Grid helps make it easier to maintain.
-* **[33:20](#t=33:20)** Solving real problems with Grid first.
-* **[34:50](#t=34:50)** Pushing and testing the boundaries of CSS Grid
-* **[40:12](#t=40:12)** What tools did you use to help construct Grid?
-* **[41:25](#t=41:25)** Any complaints or issues with CSS Grid?
-* **[47:20](#t=47:20)** Any final suggestions for CSS Grid?
-* **[53:20](#t=53:20)** How can people find you on the internet?
+* **[1:40](https://goodstuff.fm/nbsp/138#t=1:40)** Winning best of at CSS Dev Conf
+* **[4:50](https://goodstuff.fm/nbsp/138#t=4:50)** Prepping for a talk on CSS Grid
+* **[11:00](https://goodstuff.fm/nbsp/138#t=11:00)** What's the difference between CSS Grid and Flexbox?
+* **[17:10](https://goodstuff.fm/nbsp/138#t=17:10)** Do we need to use Bootstrap anymore?
+* **[26:25](https://goodstuff.fm/nbsp/138#t=26:25)** CSS isn't intuitive and CSS Grid helps make it easier to maintain.
+* **[33:20](https://goodstuff.fm/nbsp/138#t=33:20)** Solving real problems with Grid first.
+* **[34:50](https://goodstuff.fm/nbsp/138#t=34:50)** Pushing and testing the boundaries of CSS Grid
+* **[40:12](https://goodstuff.fm/nbsp/138#t=40:12)** What tools did you use to help construct Grid?
+* **[41:25](https://goodstuff.fm/nbsp/138#t=41:25)** Any complaints or issues with CSS Grid?
+* **[47:20](https://goodstuff.fm/nbsp/138#t=47:20)** Any final suggestions for CSS Grid?
+* **[53:20](https://goodstuff.fm/nbsp/138#t=53:20)** How can people find you on the internet?
 
 ### Links:
 
