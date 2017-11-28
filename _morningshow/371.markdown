@@ -1,12 +1,13 @@
 ---
 title: Hamburger Horn
-date: 2017-11-28 11:18:00 -06:00
+date: 2017-11-28 00:18:00 -06:00
 show: morningshow
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-371.mp3
 description: It's like deep frying a turkey in Dr. Pepper while playing the Jumanji
   infinite runner, Animal Crossing, and Pokemon GO while drinking HUGE BUBBLES and
   buying Kyle gifts.
 episode: 371
+image: "/uploads/morningshow-371.png"
 layout: episode
 ---
 
