@@ -56,7 +56,7 @@ layout: episode
 * [The Scary Efficiency of Autonomous Intersections](https://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-scary-efficiency-of-autonomous-intersections)
 * [How Intelligent Cars Will Make Driving Easier and Greener](https://www.popsci.com/cars/article/2011-07/smartening-car)
 * [Autonomous Vehicles: Are You Ready for the New Ride?](https://www.technologyreview.com/s/609450/autonomous-vehicles-are-you-ready-for-the-new-ride/)
-* [AUTONOMOUS VEHICLES | SELF-DRIVING VEHICLES ENACTED LEGISLATION](http://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted-legislation.aspx)
+* [Autonomous Vehicles - Self-Driving Vehicles Enacted Legislation](http://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted-legislation.aspx)
 * [Autonomous Vehicle Technology A Guide for Policymakers](https://www.rand.org/pubs/research_reports/RR443-2.html)
 * [DSRC Radio Description](http://whatis.techtarget.com/definition/dedicated-short-range-communication-DSRC)
 * [The Ethics of Autonomous Cars](https://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
