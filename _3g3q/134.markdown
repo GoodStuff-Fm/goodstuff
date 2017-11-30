@@ -1,0 +1,13 @@
+---
+title: S09:E05 - "Linksplain"
+date: 2017-11-30 15:42:00 -06:00
+published: false
+mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S09E05.mp3
+show: 3g3q
+description: Actually, Link is the princess
+sponsor: 
+episode: 134
+layout: episode
+---
+
+![Episode Artwork](http://l.gdwn.co/Ot5eWQ.jpg)
