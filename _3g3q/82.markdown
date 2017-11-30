@@ -1,7 +1,7 @@
 ---
 title: S06E02.5 - Lightning Round
 date: 2016-01-22 22:59:00 -06:00
-position: 44
+position: 46
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E02_5.mp3
 episode: 82
 show: 3g3q

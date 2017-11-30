@@ -1,7 +1,7 @@
 ---
 title: S04:E01 - "Ceremonial Pantyhose"
 date: 2015-05-04 12:11:00 -06:00
-position: 86
+position: 88
 description: Failure, toilet cash, & back tattoos.
 sponsor: 
 sponsor-link: 

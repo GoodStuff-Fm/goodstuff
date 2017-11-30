@@ -1,7 +1,7 @@
 ---
 title: S07:E08.5 - Lightning Round
 date: 2016-07-15 21:56:00 -06:00
-position: 15
+position: 17
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S07E.08_5.mp3
 episode: 113
 show: 3g3q

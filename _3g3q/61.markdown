@@ -1,7 +1,7 @@
 ---
 title: S05:E01 - “Lil’ Capitalist”
 date: 2015-10-05 23:49:00 -06:00
-position: 65
+position: 67
 mp3: http://podcasts-1.feedpress.co/13789/18078.mp3
 episode: 61
 show: 3g3q

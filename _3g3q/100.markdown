@@ -1,7 +1,7 @@
 ---
 title: S07:E01 - “100 Questions”
 date: 2016-05-10 22:20:00 -06:00
-position: 27
+position: 29
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S07E01.mp3
 episode: 100
 show: 3g3q
