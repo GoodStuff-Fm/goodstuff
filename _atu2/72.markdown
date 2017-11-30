@@ -3,7 +3,8 @@ title: Songs of Experience Eve - How Are You Going to Listen to the New U2 Album
 date: 2017-11-29 12:30:00 -06:00
 episode: 71
 show: atu2
-description: Matt and Chris talk about the various ways people listen to a new U2 album when it's first released.
+description: Matt and Chris talk about the various ways people listen to a new U2
+  album when it's first released.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-72.mp3
 image: "/"
 video: https://www.youtube.com/embed/
