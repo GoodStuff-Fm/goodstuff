@@ -1,0 +1,77 @@
+---
+title: Dr. Sean Brennan and Paul Schmitt — The Technology & Ethics of Self-Autonomous Vehicles
+date: 2017-11-28 09:00:00 -06:00
+position: 1
+show: nbsp
+episode: 139
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-139.mp3
+description: Joined with Simon St. Laurent in talking with Dr. Sean Brannon and Paul Schmitt. Dr. Brannon is Professor from the Dept. of Mechanical and Nuclear Engineering at The Pennsylvania State University; affiliated faculty to the Thomas D. Larson Transportation Institute (LTI); and Director of the Intelligent Vehicles and Systems Research Group. Paul Schmitt is Director of Automated Vehicles at MassRobotics and an invited expert to the White House on Autonomous Vehicles.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv139&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv139&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
+video: https://www.youtube.com/embed/K7xwgwpP0sw
+image: https://goodstuff.fm/nbsp/img/nbsptv-selfdriving-car.jpg
+layout: episode
+---
+
+### Time Jumps
+
+* **[2:16](https://goodstuff.fm/nbsp/139#t=2:16)** Introductions
+* **[3:50](https://goodstuff.fm/nbsp/139#t=3:50)** The state of autonomous vehicles
+* **[7:50](https://goodstuff.fm/nbsp/139#t=7:50)** Laying groundwork to prevent confusion (types of autonomous cars)
+* **[10:00](https://goodstuff.fm/nbsp/139#t=10:00)** Level 5 vehicle updates
+* **[12:35](https://goodstuff.fm/nbsp/139#t=12:35)** Challenges of level 5 vehicles
+* **[14:55](https://goodstuff.fm/nbsp/139#t=14:55)** If level 4 (like Tesla) was popular enough, how would it effect traffic patterns?
+* **[15:40](https://goodstuff.fm/nbsp/139#t=15:40)** What is platooning?
+* **[17:40](https://goodstuff.fm/nbsp/139#t=17:40)** Rules for platooning.
+* **[19:50](https://goodstuff.fm/nbsp/139#t=19:50)** Testing on real roads with real drivers.
+* **[21:40](https://goodstuff.fm/nbsp/139#t=21:40)** Making eye contact with vehicless drivers.
+* **[25:10](https://goodstuff.fm/nbsp/139#t=25:10)** Sharing information between vehicles with Dedicated Short Range Radios
+* **[28:55](https://goodstuff.fm/nbsp/139#t=28:55)** How do you test driverless cars?
+* **[31:15](https://goodstuff.fm/nbsp/139#t=31:15)** Training autonomous vehicles
+* **[33:40](https://goodstuff.fm/nbsp/139#t=33:40)** We're struggling with how safe is safe?
+* **[39:25](https://goodstuff.fm/nbsp/139#t=39:25)** How to make people feel comfortable with autonomous vehicles
+* **[41:10](https://goodstuff.fm/nbsp/139#t=41:10)** What kind of industries or niches can take advantage of autonomous vehicles?
+* **[47:30](https://goodstuff.fm/nbsp/139#t=47:30)** Vehicles will have different apps and customizing them.
+* **[49:00](https://goodstuff.fm/nbsp/139#t=49:00)** How will our road infrastructure change because of autonomous vehicles?
+* **[53:10](https://goodstuff.fm/nbsp/139#t=53:10)** Developing landmarks and sensors on the vehicles
+* **[55:40](https://goodstuff.fm/nbsp/139#t=55:40)** Human decision making is becoming the weak link.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [The road to reality of autonomous vehicles](http://news.psu.edu/story/482497/2017/09/15/public-events/road-reality-autonomous-vehicles)
+* [Intelligent Vehicles and Systems Group](http://mne.psu.edu/ToBoldlyGo/)
+* [Mass Robotics](https://www.massrobotics.org)
+* [Stages of Auto Vehicles](https://www.techrepublic.com/article/autonomous-driving-levels-0-to-5-understanding-the-differences/)
+* [What are the six levels of autonomy?](https://newatlas.com/sae-autonomous-levels-definition-self-driving/49947/)
+* [The Scary Efficiency of Autonomous Intersections](https://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-scary-efficiency-of-autonomous-intersections)
+* [How Intelligent Cars Will Make Driving Easier and Greener](https://www.popsci.com/cars/article/2011-07/smartening-car)
+* [Autonomous Vehicles: Are You Ready for the New Ride?](https://www.technologyreview.com/s/609450/autonomous-vehicles-are-you-ready-for-the-new-ride/)
+* [AUTONOMOUS VEHICLES | SELF-DRIVING VEHICLES ENACTED LEGISLATION](http://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted-legislation.aspx)
+* [Autonomous Vehicle Technology A Guide for Policymakers](https://www.rand.org/pubs/research_reports/RR443-2.html)
+* [DSRC Radio Description](http://whatis.techtarget.com/definition/dedicated-short-range-communication-DSRC)
+* [The Ethics of Autonomous Cars](https://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+* [How do driverless cars work?](http://www.telegraph.co.uk/cars/features/how-do-driverless-cars-work/)
+* [When will the robots hit the road?](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/self-driving-car-technology-when-will-the-robots-hit-the-road)
+* [Mcity](https://mcity.umich.edu/our-work/mcity-test-facility/)
+* [Tesla Auto Pilot program](https://www.tesla.com/autopilot)
+* [History of Autonomous Vehicles](https://www.wired.com/brandlab/2016/03/a-brief-history-of-autonomous-vehicle-technology/)
+* [Atlanta Testing Autonomous Vehicle Technology](https://www.youtube.com/watch?v=6I8Ksxpcr4k&app=desktop)
+* [Self-Driving and Autonomous Vehicles & 6 Reasons Why These Won't Be Coming Soon](https://www.youtube.com/watch?v=mr7ai_Cgg9U)
+* [How Tesla's Self-Driving Autopilot Actually Works](https://www.youtube.com/watch?v=AiOxUcDgsa8)
+* [The Future of Autonomous Vehicles](https://www.youtube.com/watch?v=DeUE4kHRpEk&app=desktop)
+* [Traffic Control for the Future](https://www.youtube.com/watch?v=4pbAI40dK0A)
+
+
+### Follow The Non Breaking Space Show
+
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)
