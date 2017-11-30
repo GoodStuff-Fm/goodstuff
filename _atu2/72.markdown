@@ -6,7 +6,7 @@ show: atu2
 description: Matt and Chris talk about the various ways people listen to a new U2
   album when it's first released.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-72.mp3
-image: "/"
+image: "/uploads/atu2-72.jpg"
 video: https://www.youtube.com/embed/Hr2nMVyPwxQ
 layout: episode
 ---
