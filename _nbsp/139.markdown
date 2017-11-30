@@ -1,11 +1,17 @@
 ---
-title: Dr. Sean Brennan and Paul Schmitt — The Technology & Ethics of Self-Autonomous Vehicles
+title: Dr. Sean Brennan and Paul Schmitt — The Technology & Ethics of Self-Autonomous
+  Vehicles
 date: 2017-11-28 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 139
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-139.mp3
-description: Joined with Simon St. Laurent in talking with Dr. Sean Brannon and Paul Schmitt. Dr. Brannon is Professor from the Dept. of Mechanical and Nuclear Engineering at The Pennsylvania State University; affiliated faculty to the Thomas D. Larson Transportation Institute (LTI); and Director of the Intelligent Vehicles and Systems Research Group. Paul Schmitt is Director of Automated Vehicles at MassRobotics and an invited expert to the White House on Autonomous Vehicles.
+description: Joined with Simon St. Laurent in talking with Dr. Sean Brannon and Paul
+  Schmitt. Dr. Brannon is Professor from the Dept. of Mechanical and Nuclear Engineering
+  at The Pennsylvania State University; affiliated faculty to the Thomas D. Larson
+  Transportation Institute (LTI); and Director of the Intelligent Vehicles and Systems
+  Research Group. Paul Schmitt is Director of Automated Vehicles at MassRobotics and
+  an invited expert to the White House on Autonomous Vehicles.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv139&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
