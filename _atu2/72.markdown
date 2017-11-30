@@ -1,13 +1,13 @@
 ---
 title: Songs of Experience Eve - How Are You Going to Listen to the New U2 Album?
 date: 2017-11-29 12:30:00 -06:00
-episode: 71
+episode: 72
 show: atu2
 description: Matt and Chris talk about the various ways people listen to a new U2
   album when it's first released.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-72.mp3
 image: "/"
-video: https://www.youtube.com/embed/
+video: https://www.youtube.com/embed/Hr2nMVyPwxQ
 layout: episode
 ---
 
@@ -19,6 +19,7 @@ layout: episode
 
 ### Show Notes
 
+* [Watch a video version](https://www.youtube.com/watch?v=Hr2nMVyPwxQ)
 * [Discuss in our subreddit](https://www.reddit.com/r/Goodstuff_fm/)
 * [Submit an audio comment here](https://www.dropbox.com/request/GA6MTwhVo618jrGPyDuE) - Record an audio message with your phone or computer and upload it to us.
 * [U2Conference]( http://u2conference.com/)
@@ -28,7 +29,7 @@ layout: episode
 * [U2 Touring Australia?](https://www.atu2.com/news/edge-u2-are-absolutely-touring-australia-in-2018.html)
 * [U2 and Amazon Offer Songs of Experience Preview](https://www.atu2.com/news/u2-amazon-music-offer-soe-preview-called-the-u2-experience.html)
 * [Bono on Jimmy Kimmel Red Show](https://www.atu2.com/news/bono-joins-chris-martin-diddy-and-more-on-jimmy-kimmel-red-show-1.html)
-
+* [Vote for Matt for Cancun CEO](https://ceo.cancun.com/profile/matt-mcgee)
 * [Matt on Twitter](https://twitter.com/MattMcGee)
 * [Chris on Twitter](https://twitter.com/iChris)
 * [Twitter atU2](https://twitter.com/atu2)
