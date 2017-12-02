@@ -1,12 +1,13 @@
 ---
 title: 'B-Side: You Get What You Pay For'
 date: 2017-12-01 15:30:00 -06:00
+published: false
 episode: 73
 show: atu2
 description: Ian, Matt, and Chris get together for a quick chat to review Songs of
   Experience having heard the album a few times.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-73.mp3
-image: ''
+image: "/uploads/atu2-73.jpg"
 video: https://www.youtube.com/embed/F36aZXJ0x8E
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
