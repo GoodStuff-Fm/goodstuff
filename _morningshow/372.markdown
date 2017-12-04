@@ -5,7 +5,8 @@ show: morningshow
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-372.mp3
 episode: 372
 image: 
-description: 
+description: It's like you got stopped by the Fritter Police after you got your taters
+  smothered, covered, scattered, smashed, and loved.
 layout: episode
 ---
 
