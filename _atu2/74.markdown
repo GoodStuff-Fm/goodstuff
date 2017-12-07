@@ -9,7 +9,7 @@ description: Tassoula, OMG Chris, Collin, and Chris break down Songs of Experien
   song by song and get into all the love and hate we could handle of U2's latest.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-74.mp3
 image: "/uploads/atu2-74.jpg"
-video: 
+video: https://www.youtube.com/embed/exABD_5IUD8
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
