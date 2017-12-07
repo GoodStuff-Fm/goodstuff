@@ -1,12 +1,14 @@
 ---
-title: 'What If This Was the Best Option They Thought Of? - A Discussion of Songs of Experience'
+title: What If This Was the Best Option They Thought Of? - A Discussion of Songs of
+  Experience
 date: 2017-12-06 15:30:00 -06:00
 episode: 74
 show: atu2
-description: Tassoula, OMG Chris, Collin, and Chris break down Songs of Experience song by song and get into all the love and hate we could handle of U2's latest.
+description: Tassoula, OMG Chris, Collin, and Chris break down Songs of Experience
+  song by song and get into all the love and hate we could handle of U2's latest.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-74.mp3
-image: ""
-video:
+image: ''
+video: 
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
