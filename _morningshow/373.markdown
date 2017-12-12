@@ -2,14 +2,16 @@
 title: How to Eat an Entire Advent Calendar in One Day
 date: 2017-12-12 12:22:00 -06:00
 show: morningshow
-image: 
+image: "/uploads/morningshow-373.png"
 description: It's like eating an entire advent calendar of chocolate in one sitting
   with your brother while doing Home Alone trivia.
 episode: 373
 layout: episode
 ---
 
+* [How Well Do You Really Remember 'Home Alone 2'? - Trivia Quiz - Zimbio](http://www.zimbio.com/trivia/AvshGT7_GYG/How+Well+Remember+Home+Alone+2)
 
+---
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
