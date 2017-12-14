@@ -6,7 +6,7 @@ show: atu2
 description: Sherry, Ian, and a bit of Chris are back discussing Songs of Experience.
   Conspiracy theories, lyric dissections, and a whole lot more.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-75.mp3
-image: ''
+image: "/uploads/atu2-wed.jpg"
 video: https://www.youtube.com/embed/Fs8-a40bdFU
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
