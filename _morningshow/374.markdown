@@ -2,7 +2,9 @@
 title: The Italian Muffia
 date: 2017-12-19 11:40:00 -06:00
 show: morningshow
-description: 
+description: 'It''s like spending the whole weekend eating Froot Loops, oatmeal muffins,
+  and fake Taco Bell items at their brand new location, but getting served from the
+  drive through. '
 episode: 374
 image: "/uploads/morningshow-374.png"
 layout: episode
