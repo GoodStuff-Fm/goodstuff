@@ -7,6 +7,7 @@ description: 'It''s like spending the whole weekend eating Froot Loops, oatmeal 
   drive through. '
 episode: 374
 image: "/uploads/morningshow-374.png"
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-374.mp3
 layout: episode
 ---
 
