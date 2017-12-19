@@ -17,7 +17,7 @@ layout: episode
 
 * [This Battery Pack Turns the Google Home Into My Favorite Portable Bluetooth Speaker](https://gizmodo.com/this-battery-pack-turns-your-google-home-into-the-best-1820957201)
 
-* [Unicorn Froot Loops Are Finally Coming to the US | Extra Crispy](http://www.extracrispy.com/food/4603/unicorn-froot-loops-are-galloping-to-american-shores)
+* [Unicorn Froot Loops Are Finally Coming to the US - Extra Crispy](http://www.extracrispy.com/food/4603/unicorn-froot-loops-are-galloping-to-american-shores)
 
 * [Newport Beach’s Taco Bell Cantina opens this weekend — with beer - Daily Pilot](http://www.latimes.com/socal/daily-pilot/news/tn-dpt-me-taco-bell-cantina-20171214-story.html)
 
@@ -28,6 +28,7 @@ layout: episode
 ---
 
 ### Taco Bell or Not
+[Download](https://www.dropbox.com/s/gxnpum6i1d98h7u/Taco%20Bell%20or%20Not.mp3?dl=0)
 
 Taco Bell Taco Bell Menu or Not
 Taco Bell sting and Taco Bell scream
