@@ -6,7 +6,7 @@ show: atu2
 description: Aaron, Kenny, Mason, and Chris complete the atU2 trilogy of discussions
   around U2's Songs of Experience
 mp3: http://podcasts-1.feedpress.co/12572/atu2-76.mp3
-image: ''
+image: "/uploads/atu2-76.jpg"
 video: https://www.youtube.com/embed/NpgMGGwWcUE
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
