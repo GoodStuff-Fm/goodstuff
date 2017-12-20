@@ -1,7 +1,7 @@
 ---
 title: S04:E11 - "Rutabaga Pie"
 date: 2015-07-27 12:11:00 -06:00
-position: 72
+position: 75
 description: Ask Jeeves, hot dog wolverine, & Scott Dracula Bacula.
 sponsor: The Pizza Hut. We're sponsored by the Taco Bell. We're sponsored by the combination
   pizza hut and taco bell.

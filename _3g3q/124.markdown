@@ -1,7 +1,7 @@
 ---
 title: S08:E06 - “Never Got This Far”
 date: 2017-01-07 01:31:00 -06:00
-position: 7
+position: 10
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S08E06.mp3
 sponsor: having a few minutes to talk about our Lord and Savior
 description: Paint repo, Mormo, & Tracting

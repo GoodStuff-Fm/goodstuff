@@ -1,7 +1,7 @@
 ---
 title: S06:E04 - “Juggalo Piñata”
 date: 2016-02-01 22:55:00 -06:00
-position: 43
+position: 46
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E04.mp3
 episode: 85
 show: 3g3q
