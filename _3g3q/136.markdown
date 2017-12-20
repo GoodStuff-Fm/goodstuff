@@ -7,6 +7,7 @@ show: 3g3q
 description: Spruce needles, baubles, & popcorn on a string
 sponsor: saying “merry christmas” again.
 episode: 136
+image: "/uploads/3G3Q_-_S09E07_-_Episode_Art_-_L.jpg"
 layout: episode
 ---
 
