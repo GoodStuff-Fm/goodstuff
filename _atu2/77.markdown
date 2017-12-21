@@ -1,7 +1,6 @@
 ---
 title: '2017: The Year Of The Kimono'
 date: 2017-12-21 09:30:00 -06:00
-published: false
 episode: 77
 show: atu2
 description: Join Tassoula, Matt, and Chris as we countdown the year that was for
