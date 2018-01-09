@@ -64,7 +64,7 @@ wts:
   rss: http://feeds.goodstuff.fm/wts
   itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790
   pocketcasts: http://pca.st/I80b
-  overcast:
+  overcast: https://overcast.fm/itunes1250996790/way-too-seriously
 3g3q:
   name: 3 Guys 3 Questions
   lang: EN
@@ -148,7 +148,7 @@ clockworks:
   rss: http://feeds.goodstuff.fm/clockworks
   itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658
   pocketcasts: http://pca.st/Os98
-  overcast: https://overcast.fm/p565199-VhCqC0
+  overcast: https://overcast.fm/itunes1215340658/clockworks-a-legion-podcast
 grownups:
   name: I Guess We're Grown-Ups Now
   collection: grownups
