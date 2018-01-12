@@ -2,14 +2,15 @@
 title: Potpourri Cereal
 date: 2018-01-12 11:11:00 -06:00
 show: morningshow
-description: 'It''s like '
+description: It's like 2019. Inside your fridge, you have frozen cereal, frozen egg
+  balls, lettuce cups, old poke from a delivery driver, and hot baby food.
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-377.mp3
 image: "/uploads/morningshow-377.png"
 episode: 377
 layout: episode
 ---
 
-* [Here's a look at the top food trends predicted for 2018 - Food and cooking | stltoday.com](http://www.stltoday.com/lifestyles/food-and-cooking/here-s-a-look-at-the-top-food-trends-predicted/collection_ff0cd007-8799-5eef-be91-87f8a82297e1.html)
+* [Here's a look at the top food trends predicted for 2018 - Food and cooking - stltoday.com](http://www.stltoday.com/lifestyles/food-and-cooking/here-s-a-look-at-the-top-food-trends-predicted/collection_ff0cd007-8799-5eef-be91-87f8a82297e1.html)
 
 * [Netflix hid a fake biotech booth in the middle of CES](https://www.engadget.com/2018/01/10/netflix-fake-ces-2018-altered-carbon/)
 
