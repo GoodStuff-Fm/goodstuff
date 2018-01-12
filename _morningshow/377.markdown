@@ -2,8 +2,8 @@
 title: Potpourri Cereal
 date: 2018-01-12 11:11:00 -06:00
 show: morningshow
-description: 
-mp3: 
+description: 'It''s like '
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-377.mp3
 image: 
 episode: 377
 layout: episode
