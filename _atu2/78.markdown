@@ -1,7 +1,6 @@
 ---
 title: A Few Songs of Experience, Theoretically Speaking
 date: 2018-01-25 09:30:00 -06:00
-published: false
 episode: 78
 show: atu2
 description: Chris Endrinal joins Chris to talk about the musical theory behind 4
