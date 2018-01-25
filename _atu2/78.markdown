@@ -1,11 +1,13 @@
 ---
-title: 'A Few Songs of Experience, Theoretically Speaking'
+title: A Few Songs of Experience, Theoretically Speaking
 date: 2018-01-24 09:30:00 -06:00
 episode: 78
 show: atu2
-description: Chris Endrinal joins Chris to talk about the musical theory behind 4 songs from Songs of Experience - Red Flag Day, Little Things, American Soul, and You're the Best Thing About Me.
+description: Chris Endrinal joins Chris to talk about the musical theory behind 4
+  songs from Songs of Experience - Red Flag Day, Little Things, American Soul, and
+  You're the Best Thing About Me.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-78.mp3
-image: ""
+image: ''
 video: https://www.youtube.com/embed/VQt5xxIkrKE
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
