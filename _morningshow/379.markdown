@@ -6,6 +6,7 @@ episode: 379
 description: It's like you can't get your car started so you just sit there and listen
   to this episode.
 image: 
+mp3: https://podcasts-1.feedpress.co/10588/morningshow-379.mp3
 layout: episode
 ---
 
