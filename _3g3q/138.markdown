@@ -6,7 +6,7 @@ show: 3g3q
 description: Exploring the woods, cold pizza, & dolphin tunnels.
 sponsor: WPBH-TV 9 and Punxsutawney Phil.
 episode: 138
-image: 
+image: "/uploads/3G3Q%20-%20S09E09%20-%20Episode%20Art%20-%20S.jpg"
 layout: episode
 ---
 
