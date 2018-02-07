@@ -1,6 +1,12 @@
 ---
 title: S09:E10 - "Newt Hole"
 date: 2018-02-06 19:44:00 -06:00
+mp3: 
+show: 3g3q
+description: Bards, Sunday sleepovers, & The Chive
+sponsor: Green Napron
+episode: 139
+image: "/uploads/3G3Q%20-%20S09E10%20-%20Episode%20Art%20-%20S.jpg"
 layout: episode
 ---
 
