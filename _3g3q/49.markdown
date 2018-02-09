@@ -1,7 +1,7 @@
 ---
 title: S04:E05 - "Celebrity Warship"
 date: 2015-06-08 12:11:00 -06:00
-position: 85
+position: 87
 description: Beyonce II Jenner, Nappy-Q, and word paintings
 sponsor: North Korean Mass Dance Instructional Videos
 sponsor-link: https://youtu.be/NzqQkWZcpAg
