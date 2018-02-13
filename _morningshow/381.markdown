@@ -1,5 +1,27 @@
 ---
 title: Love Apples
 date: 2018-02-13 11:08:00 -06:00
+show: morningshow
+episode: 381
+description: It's like it's your birthday! We gon' party like it's yo birthday! We
+  gon' sip Bacardi like it's your birthday! And you know we don't give a ****, it's
+  still your birthday!
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-381.mp3
+image: 
+layout: episode
 ---
 
+
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
