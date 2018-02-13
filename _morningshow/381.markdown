@@ -11,6 +11,10 @@ image: "/uploads/morningshow-381.png"
 layout: episode
 ---
 
+* [PIZZANISTA!](http://www.pizzanista.com/)
+
+![Cold Pizza](/uploads/IMG_20180209_151454_584.jpg)
+
 * [Do You Really Have to Refrigerate Leftover Pizza?](https://vitals.lifehacker.com/do-you-really-have-to-refrigerate-leftover-pizza-1822672959)
 
 * [Researchers Put 3D Glasses on Praying Mantises and Discovered a New Type of Vision](https://futurism.com/researchers-3d-glasses-praying-mantises-discovered-new-type-vision/)
