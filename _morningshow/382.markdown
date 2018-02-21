@@ -1,6 +1,6 @@
 ---
 title: Everybody Loves a Millionaire
-date: 2018-02-21 00:55:00 -06:00
+date: 2018-02-21 09:55:00 -06:00
 show: morningshow
 episode: 382
 mp3: https://podcasts-1.feedpress.co/10588/morningshow-382.mp3
