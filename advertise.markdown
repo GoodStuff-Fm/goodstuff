@@ -1,23 +1,40 @@
 ---
 title: Advertise
-date: 2016-06-18 14:44:00 -06:00
+date: 2018-02-22 12:44:00 -06:00
 permalink: "/advertise/"
-description: Interested in sponsoring shows on Goodstuff.fm? We'd love to hear from
-  you! We offer week-long, month-long, or quarter-long sponsorships for one or more
-  shows.
+description: Interested in sponsoring shows on Goodstuff.fm? We'd love to help get the word out about whatever it is you're building.
 layout: default
 ---
 
-Thank you so much for your interest in sponsoring. We love sponsors whose products or services we love and use.
+Goodstuff.fm's goal is to entertain and educate our listeners on a variety of topics.
 
-We typically sell our sponsorships on a run-of-network basis, which means your ad is featured on all of our shows for the length of your sponsorship. Individual shows are also available for sponsorship if you'd prefer. Goodstuff.fm offers week-long, month-long, or quarter-long sponsorships.
+We sell sponsorships on a run-of-network basis, which means your ad is featured on all of our shows for the length of your sponsorship. Your sponsorship will run for 28 days (4 weeks) from the first Monday it is approved.
+
+If you don't already have your ad copy, we'll work with you on crafting the perfect sponsor read that matches the personality of Goodstuff with your campaign.
 
 ## Sponsorships typically include:
 
-* A mention during the introduction of the show.
-* A 2-3 minute spot in the mid-roll of the show (depending on the show)
+* A brief mention during the introduction of the show.
+* A 3-5 minute spot roughly in the middle of the show.
 * Thanks at the end of the show
-* Link in the episode page and RSS feed
+* A link in the episode page.
 * Run-of-network sponsorships also receive a tweet at the beginning and end of each week from the [Goodstuff.fm Twitter account][1].
+
+## Sample Sponsor Link
+
+<img src='https://d.pr/i/crJfL1+' alt="Sample ad from a recent podcast episode on Goodstuff">
+
+## Stats
+
+* 9 Podcasts
+* Over 16,000 subscribers
+
+## Interested?
+
+If you'd like to discuss how a sponsorship on Goodstuff could help your product launch, marketing efforts, or hiring campaign, please contact <a href="mailto:chris@goodstuff.fm">Chris</a> or <a href="matil:kyle@goodstuff.fm">Kyle</a> and let us know:
+
+* Your goals for sponsoring
+* Your budget
+* Timeline
 
 [1]: http://www.twitter.com/goodstufffm
