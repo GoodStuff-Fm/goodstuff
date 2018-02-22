@@ -23,7 +23,7 @@ If you don't already have your ad copy, we'll work with you on crafting the perf
 
 ## Sample Sponsor Link
 
-<img src='https://d.pr/i/crJfL1+' alt="Sample ad from a recent podcast episode on Goodstuff">
+![iPad-Retina-Display-Mockup.jpg](/uploads/iPad-Retina-Display-Mockup.jpg)
 
 ## Stats
 
