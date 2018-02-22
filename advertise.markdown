@@ -2,7 +2,8 @@
 title: Advertise
 date: 2018-02-22 12:44:00 -06:00
 permalink: "/advertise/"
-description: Interested in sponsoring shows on Goodstuff.fm? We'd love to help get the word out about whatever it is you're building.
+description: Interested in sponsoring shows on Goodstuff.fm? We'd love to help get
+  the word out about whatever it is you're building.
 layout: default
 ---
 
