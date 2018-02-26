@@ -6,7 +6,7 @@ description: Brook and Kari chat about recent movies we've seen, books read, and
   about experiences they don't have.
 episode: 37
 show: grownups
-mp3: 
+mp3: https://podcasts-1.feedpress.co/10589/grownups37.mp3
 layout: episode
 ---
 
