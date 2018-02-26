@@ -1,0 +1,17 @@
+---
+title: Movie and Book Recap
+date: 2018-02-26 10:17:00 -06:00
+published: false
+description: 37 Brook and Kari chat about the movies we've seen and books we've read
+  and podcasts we've listened to. Contains both spoilers and upsides of 50 Shades
+  of Gray.
+episode: 37
+show: grownups
+layout: episode
+---
+
+Movies we talk about:
+
+Our Goodreads lists:
+
+Podcasts:
