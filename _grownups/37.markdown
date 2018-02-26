@@ -1,11 +1,12 @@
 ---
 title: Dom Jorts
 date: 2018-02-26 10:17:00 -06:00
-description: Brook and Kari chat about recent movies we've seen, books we've read,
-  and podcasts we've listened to. 50 Shades spoilers. Tolkien white guys. Superhero
-  movies. Writers writing about experiences they don't have.
+description: Brook and Kari chat about recent movies we've seen, books read, and podcasts
+  listened to. 50 Shades spoilers. Tolkien white guys. Superhero movies. Writers writing
+  about experiences they don't have.
 episode: 37
 show: grownups
+mp3: 
 layout: episode
 ---
 
