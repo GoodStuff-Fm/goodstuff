@@ -1,27 +1,27 @@
 ---
 title: Dom Jorts
 date: 2018-02-26 10:17:00 -06:00
-description: Brook and Kari chat about the movies we've seen and books we've read
-  and podcasts we've listened to. Contains both spoilers and upsides of 50 Shades
-  of Gray.
+description: Brook and Kari chat about recent movies we've seen, books we've read,
+  and podcasts we've listened to. 50 Shades spoilers. Tolkien white guys. Superhero
+  movies. Writers writing about experiences they don't have.
 episode: 37
 show: grownups
 layout: episode
 ---
 
 Movies we talk about:
-- [Black Panther]()
-- [Get Out]()
-- [Cloverfield Paradox]()
-- [Cloverfield]()
-- [50 Shades of Gray]()
-- [I Don't Feel at Home in this World Anymore]()
-- [Hunt for the Wilderpeople]()
-- [Thor Ragnarok]()
+- [Black Panther](http://www.imdb.com/title/tt1825683/)
+- [Get Out](http://www.imdb.com/title/tt5052448/)
+- [Cloverfield Paradox](http://www.imdb.com/title/tt2548396/)
+- [Cloverfield](http://www.imdb.com/title/tt1060277/)
+- [50 Shades of Grey](http://www.imdb.com/title/tt2322441/)
+- [I Don't Feel at Home in this World Anymore](http://www.imdb.com/title/tt5710514/)
+- [Hunt for the Wilderpeople](http://www.imdb.com/title/tt4698684/)
+- [Thor: Ragnarok](http://www.imdb.com/title/tt3501632/)
 
 Our Goodreads lists:
-- [Brook]()
-- [Kari]()
+- [Brook](https://www.goodreads.com/user/show/1222812-brook)
+- [Kari](https://www.goodreads.com/user/show/63643277-kari-halsted)
 
 [Mo's video game](http://queermogames.com/) and [Patreon](https://www.patreon.com/queerquest)
 
