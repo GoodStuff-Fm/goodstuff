@@ -11,7 +11,19 @@ layout: episode
 ---
 
 Movies we talk about:
+- [Black Panther]()
+- [Get Out]()
+- [Cloverfield Paradox]()
+- [Cloverfield]()
+- [50 Shades of Gray]()
+- [I Don't Feel at Home in this World Anymore]()
+- [Hunt for the Wilderpeople]()
+- [Thor Ragnarok]()
 
 Our Goodreads lists:
+- [Brook]()
+- [Kari]()
 
 Podcasts:
+- [Burn It All Down]()
+- [Imogen]()
