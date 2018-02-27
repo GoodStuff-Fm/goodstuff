@@ -3,8 +3,8 @@ title: Strawberry Butts Forever
 date: 2018-02-27 11:34:00 -06:00
 show: morningshow
 description: 'It''s like '
-mp3: 
-image: 
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-383.mp3
+image: "/uploads/morningshow-383.png"
 episode: 383
 layout: episode
 ---
