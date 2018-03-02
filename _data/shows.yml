@@ -129,6 +129,27 @@ morningshow:
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   pocketcasts: http://pca.st/transmission
   overcast: https://overcast.fm/itunes843374491/morning-show
+todaysspecial:
+  name: Today's Special
+  collection: todaysspecial
+  hosts: Kyle Roderick and Kenny Roderick
+  description: Celebrating a different food each day.
+  artwork: "/uploads/artwork-todaysspecial.jpg"
+  color: #5BC4FE
+  explicit: no
+  keywords: comedy, tech, technology, fun, morning, show, trivia, games
+  show-twitter: "@goodstufffm"
+  hosts-twitter: "@dogburps and @kennyaroderick"
+  category1: "Food"
+  category2: "Comedy"
+  category3: "Health"
+  email: kyle@goodstuff.fm
+  support:
+  rss: https://anchor.fm/s/2ae3b64/podcast/rss
+  anchor: https://anchor.fm/todaysspecial
+  itunes:
+  pocketcasts:
+  overcast:
 clockworks:
   name: Clockworks - A Legion Podcast
   collection: clockworks
