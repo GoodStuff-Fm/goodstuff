@@ -35,6 +35,9 @@
               {% if show.youtube %}
                 <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
               {% endif %}
+              {% if show.anchor %}
+                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor"></a>
+              {% endif %}
             </li>
         </ul>
 
@@ -75,11 +78,20 @@
         </div>
         {% endif %}
 
+        {% if page.anchor %}
+          <div class="episode__player__anchor">
+            <div class="videoWrapper">
+              <iframe width="100%" height="162px" src="{{ page.anchor }}" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if page.mp3 %}
+
         <div class="episode__feedpress">
           Feed and MP3 files are proudly hosted by <a href="https://feed.press/?affid=9263">Feed.Press</a>
         </div>
 
-        {% if page.mp3 %}
         <div class="episode__player__mp3">
             <audio style="width: 100%;" controls="">
             <source src="{{ page.mp3 }}" type="audio/mp3">
