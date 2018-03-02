@@ -101,6 +101,13 @@ collections:
     permalink: "/atu2/:path"
     live: false
     retired: false
+  todaysspecial:
+    title: Today's Special
+    output: true
+    permalink: "/todaysspecial/:path"
+    slug: todaysspecial
+    retired: false
+    live: false
   uploads:
     title: Uploads
     output: true
@@ -115,13 +122,6 @@ collections:
     live: false
     hidden: false
     slug: wts
-  todaysspecial:
-    title: Today's Special
-    output: true
-    permalink: "/todaysspecial/:path"
-    slug: todaysspecial
-    retired: false
-    live: false
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.fm

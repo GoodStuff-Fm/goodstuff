@@ -6,7 +6,7 @@ anchor: https://anchor.fm/todaysspecial/embed/episodes/Peanut-Butter-Lovers-e14l
 description: Whether you like it crunchy, chunky, crispy, smooth, or soupy, we're
   here to celebrate everyone's favorite legume butter!
 show: todaysspecial
-image: 
+image: "/uploads/todaysspecial-1.jpg"
 layout: episode
 ---
 
