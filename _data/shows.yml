@@ -147,9 +147,9 @@ todaysspecial:
   support:
   rss: https://anchor.fm/s/2ae3b64/podcast/rss
   anchor: https://anchor.fm/todaysspecial
-  itunes:
-  pocketcasts:
-  overcast:
+  itunes: https://itunes.apple.com/us/podcast/todays-special/id1354730921
+  pocketcasts: http://pca.st/d3H2
+  overcast: https://overcast.fm/itunes1354730921/todays-special
 clockworks:
   name: Clockworks - A Legion Podcast
   collection: clockworks
