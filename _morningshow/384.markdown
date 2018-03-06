@@ -4,8 +4,9 @@ date: 2018-03-06 13:42:00 -06:00
 show: morningshow
 episode: 384
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-384.mp3
-description: 
-image: 
+description: It's like you moved to escape the bear, but ended up in Fairbanks, AK
+  where there are plenty of bears.
+image: "/uploads/morningshow-384.png"
 layout: episode
 ---
 
