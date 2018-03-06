@@ -3,6 +3,9 @@ title: Ye Olde Beste Potato Chip
 date: 2018-03-06 13:42:00 -06:00
 show: morningshow
 episode: 384
+mp3: http://podcasts-1.feedpress.co/10588/morningshow-384.mp3
+description: 
+image: 
 layout: episode
 ---
 
