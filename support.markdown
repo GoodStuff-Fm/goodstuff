@@ -32,6 +32,9 @@ Click and/or buy from these links and you'll be supporting Goodstuff as well. Yo
 ## [Google Fi →](https://g.co/fi/r/PRK60H)
 Fair and simple. Just the phone plan you’ve been craving. Rake in credits for your unused data with a contract-free plan. Plans start at $20/mo for a single line. Sign up today!
 
+## [Privacy →](https://privacy.com/join/5QM37)
+Privacy lets you generate smart, virtual debit cards to use online! Check it out!
+
 ## [Sudden Coffee →](http://suddencoffee.refr.cc/5X24RTL)
 Sudden Coffee is 100% real, instant coffee that can be brewed in hot or cold water. It's hand-packed into a single-serving tube that you can take anywhere. We love it! **Get $5 off your first month by using our link.**
 
