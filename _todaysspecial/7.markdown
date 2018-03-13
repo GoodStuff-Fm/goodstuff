@@ -2,7 +2,7 @@
 title: Artichoke Hearts
 date: 2018-03-16 08:00:00 -06:00
 published: false
-position: 1
+position: 0
 show: todaysspecial
 description: Whether you dip them in mayo, ketchup, or even store them in empty Pringles
   cans, we won't judge.

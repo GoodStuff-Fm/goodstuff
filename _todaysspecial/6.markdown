@@ -1,8 +1,8 @@
 ---
 title: Pears Hélène
-date: 2018-03-14 08:00:00 -06:00
+date: 2018-03-15 08:00:00 -06:00
 published: false
-position: 0
+position: 1
 show: todaysspecial
 episode: 6
 description: So many pears, so little time! Actually, 3,000 is quite a lot of pear
