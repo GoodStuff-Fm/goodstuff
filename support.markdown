@@ -25,7 +25,7 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 ***
 
-# Listener Offers
+# Stuff We Like
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
