@@ -3,8 +3,8 @@ title: Hot Liquid Lava
 date: 2018-03-13 10:27:00 -06:00
 show: morningshow
 episode: 385
-mp3: 
-description: 
+mp3: https://podcasts-1.feedpress.co/10588/morningshow-385.mp3
+description: 'It''s like '
 image: 
 layout: episode
 ---
