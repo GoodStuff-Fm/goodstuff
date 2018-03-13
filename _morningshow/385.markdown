@@ -6,7 +6,7 @@ episode: 385
 mp3: https://podcasts-1.feedpress.co/10588/morningshow-385.mp3
 description: It's like a trip to the arctic where the only thing keeping you warm
   is the food you ate the day before.
-image: 
+image: "/uploads/morningshow-385.png"
 layout: episode
 ---
 
