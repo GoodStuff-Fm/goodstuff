@@ -4,7 +4,7 @@ date: 2018-03-15 08:00:00 -06:00
 published: false
 position: 1
 show: todaysspecial
-episode: 6
+episode: 7
 description: So many pears, so little time! Actually, 3,000 is quite a lot of pear
   varieties so even if you ate one per day that'd still be at least a few years.
 layout: episode
