@@ -1,0 +1,27 @@
+---
+title: Baked Scallops
+date: 2018-03-13 13:13:00 -06:00
+anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
+description: 
+---
+
+* [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
+
+* [The Nibble: Coquilles Saint Jacques Recipe](https://www.thenibble.com/reviews/main/fish/seafood/coquilles-saint-jacques.asp)
+
+* [Scallop - Wikipedia](https://en.wikipedia.org/wiki/Scallop)
+
+***
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
