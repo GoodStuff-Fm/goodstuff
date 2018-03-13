@@ -1,0 +1,10 @@
+---
+title: Pears Hélène
+date: 2018-03-13 16:00:00 -06:00
+show: todaysspecial
+episode: 5
+description: So many pears, so little time! Actually, 3,000 is quite a lot of pear
+  varieties so even if you ate one per day that'd still be at least a few years.
+layout: episode
+---
+
