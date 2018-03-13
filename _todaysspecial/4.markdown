@@ -2,7 +2,7 @@
 title: Baked Scallops
 date: 2018-03-13 13:13:00 -06:00
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
-description: 
+description: Take those scallops straight out of the oven and put them in your mouth!
 episode: 4
 show: todaysspecial
 ---
