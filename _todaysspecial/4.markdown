@@ -3,6 +3,7 @@ title: Baked Scallops
 date: 2018-03-13 13:13:00 -06:00
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
 description: 
+episode: 4
 ---
 
 * [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
