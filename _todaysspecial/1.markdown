@@ -1,6 +1,7 @@
 ---
 title: Today's Special is Here!
 date: 2018-03-01 12:11:00 -06:00
+position: 3
 episode: 1
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Todays-Special-is-Here-e14la7/a-a2ifai
 description: Kyle and Kenny are the hosts of The Goodstuff Morning Show on Goodstuff.fm

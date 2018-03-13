@@ -1,20 +1,16 @@
 ---
-title: Chicken Noodle Soup
-date: 2018-03-13 08:00:00 -06:00
-position: 2
+title: Artichoke Hearts
+date: 2018-03-16 08:00:00 -06:00
+published: false
+position: 1
 show: todaysspecial
-anchor: https://anchor.fm/todaysspecial/embed/episodes/Chicken-Soup-e15p58/a-a2l4u9
-episode: 5
-description: When your intestines are like noodles and Eric, the scientist, won't
-  stop eating soup.
+description: Whether you dip them in mayo, ketchup, or even store them in empty Pringles
+  cans, we won't judge.
+episode: 7
 layout: episode
 ---
 
-* [March 13 – Chicken Noodle Soup Day - Foodimentary - National Food Holidays](https://foodimentary.com/2012/03/13/march-13-chicken-noodle-soup-day/)
 
-* [Chicken soup - Wikipedia](https://en.wikipedia.org/wiki/Chicken_soup)
-
-***
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
