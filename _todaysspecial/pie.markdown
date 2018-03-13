@@ -5,5 +5,24 @@ published: false
 show: todaysspecial
 description: 3.141592653589793
 episode: 5
+layout: episode
 ---
 
+* [The History of Pie from Egypt to Greece, Rome, Europe and Now – everythingPIES.com](https://www.everythingpies.com/history-of-pie/#pieworld)
+
+* [A Brief History of Pie - Time](http://time.com/3958057/history-of-pie/)
+
+***
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
