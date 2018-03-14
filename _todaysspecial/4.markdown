@@ -6,6 +6,7 @@ anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a
 description: Take those scallops straight out of the oven and put them in your mouth!
 episode: 4
 show: todaysspecial
+layout: episode
 ---
 
 * [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
