@@ -1,21 +1,19 @@
 ---
-title: Baked Scallops
-date: 2018-03-12 08:00:00 -06:00
-position: 3
-anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
-description: Take those scallops straight out of the oven and put them in your mouth!
-episode: 4
+title: Pears Hélène
+date: 2018-03-15 08:00:00 -06:00
+position: 1
 show: todaysspecial
+episode: 7
+description: So many pears, so little time! Actually, 3,000 is quite a lot of pear
+  varieties so even if you ate one per day that'd still be at least a few years.
 layout: episode
 ---
 
-* [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
-
-* [The Nibble: Coquilles Saint Jacques Recipe](https://www.thenibble.com/reviews/main/fish/seafood/coquilles-saint-jacques.asp)
-
-* [Scallop - Wikipedia](https://en.wikipedia.org/wiki/Scallop)
+* [MARCH 15TH, 2013 – NATIONAL PEARS HELENE DAY – NATIONAL EVERYTHING YOU THINK IS WRONG DAY - National Day Calendar](https://nationaldaycalendar.com/2013/03/14/march-15th-2013-national-pears-helene-day-national-everything-you-think-is-wrong-day/)
 
 ***
+
+
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!

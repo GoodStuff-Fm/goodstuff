@@ -1,19 +1,15 @@
 ---
-title: Baked Scallops
-date: 2018-03-12 08:00:00 -06:00
-position: 3
-anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
-description: Take those scallops straight out of the oven and put them in your mouth!
-episode: 4
+title: Pie
+date: 2018-03-14 08:00:00 -06:00
 show: todaysspecial
+description: 3.141592653589793
+episode: 6
 layout: episode
 ---
 
-* [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
+* [The History of Pie from Egypt to Greece, Rome, Europe and Now – everythingPIES.com](https://www.everythingpies.com/history-of-pie/#pieworld)
 
-* [The Nibble: Coquilles Saint Jacques Recipe](https://www.thenibble.com/reviews/main/fish/seafood/coquilles-saint-jacques.asp)
-
-* [Scallop - Wikipedia](https://en.wikipedia.org/wiki/Scallop)
+* [A Brief History of Pie - Time](http://time.com/3958057/history-of-pie/)
 
 ***
 

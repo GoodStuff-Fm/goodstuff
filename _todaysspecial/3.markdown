@@ -1,10 +1,12 @@
 ---
 title: Banana Cream Pie
 date: 2018-03-02 13:55:00 -06:00
+position: 4
 show: todaysspecial
 episode: 3
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Banana-Cream-Pie-e14qa3
-description: 
+description: Bananas, or more properly "naners", are a vital component in Today's
+  Special!
 layout: episode
 ---
 

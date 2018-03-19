@@ -1,19 +1,18 @@
 ---
-title: Baked Scallops
-date: 2018-03-12 08:00:00 -06:00
-position: 3
-anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
-description: Take those scallops straight out of the oven and put them in your mouth!
-episode: 4
+title: Chicken Noodle Soup
+date: 2018-03-13 08:00:00 -06:00
+position: 2
 show: todaysspecial
+anchor: https://anchor.fm/todaysspecial/embed/episodes/Chicken-Soup-e15p58/a-a2l4u9
+episode: 5
+description: When your intestines are like noodles and Eric, the scientist, won't
+  stop eating soup.
 layout: episode
 ---
 
-* [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
+* [March 13 – Chicken Noodle Soup Day - Foodimentary - National Food Holidays](https://foodimentary.com/2012/03/13/march-13-chicken-noodle-soup-day/)
 
-* [The Nibble: Coquilles Saint Jacques Recipe](https://www.thenibble.com/reviews/main/fish/seafood/coquilles-saint-jacques.asp)
-
-* [Scallop - Wikipedia](https://en.wikipedia.org/wiki/Scallop)
+* [Chicken soup - Wikipedia](https://en.wikipedia.org/wiki/Chicken_soup)
 
 ***
 

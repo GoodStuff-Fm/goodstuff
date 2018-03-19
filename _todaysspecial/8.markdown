@@ -1,21 +1,16 @@
 ---
-title: Baked Scallops
-date: 2018-03-12 08:00:00 -06:00
-position: 3
-anchor: https://anchor.fm/todaysspecial/embed/episodes/Baked-Scallops-e15p20/a-a2l4pf
-description: Take those scallops straight out of the oven and put them in your mouth!
-episode: 4
+title: Artichoke Hearts
+date: 2018-03-16 08:00:00 -06:00
+published: false
+position: 0
 show: todaysspecial
+description: Whether you dip them in mayo, ketchup, or even store them in empty Pringles
+  cans, we won't judge.
+episode: 8
 layout: episode
 ---
 
-* [NATIONAL BAKED SCALLOPS DAY – March 12 - National Day Calendar](https://nationaldaycalendar.com/national-baked-scallops-day-march-12/)
 
-* [The Nibble: Coquilles Saint Jacques Recipe](https://www.thenibble.com/reviews/main/fish/seafood/coquilles-saint-jacques.asp)
-
-* [Scallop - Wikipedia](https://en.wikipedia.org/wiki/Scallop)
-
-***
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
