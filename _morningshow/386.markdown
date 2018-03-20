@@ -3,8 +3,9 @@ title: STEVE!
 date: 2018-03-20 10:25:00 -06:00
 show: morningshow
 episode: 386
-description: 
-image: 
+description: It's like you're visiting your sky-friend, Steve, who only eats nacho
+  flavored jelly beans, but you still love him.
+image: "/uploads/morningshow-386.png"
 mp3: http://podcasts-1.feedpress.co/10588/morningshow-386.mp3
 layout: episode
 ---
