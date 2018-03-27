@@ -1,7 +1,6 @@
 ---
-title: Episode or Not?
+title: Best of Morning Show Vol. 1
 date: 2018-03-27 08:00:00 -06:00
-published: false
 show: morningshow
 mp3: https://podcasts-1.feedpress.co/10588/morningshow-387-1.mp3
 description: It's like Kenny forgot to tell Kyle until after the show last time that
