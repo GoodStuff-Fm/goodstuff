@@ -20,7 +20,7 @@ collections:
     output: true
     permalink: "/buzzled/:path"
     slug: buzzled
-    retired: false
+    retired: true
     live: false
   clockworks:
     title: Clockworks - A Legion Podcast
