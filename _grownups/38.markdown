@@ -1,8 +1,8 @@
 ---
-title: Conferences
+title: Enunciate the syllables
 date: 2018-03-27 18:34:00 -06:00
 description: 'Brook and Kari talk about conferences: going to them, enjoying yourself,
-  getting your money''s worth, doing a talk, understanding the code of conduct.'
+  getting your money''s worth, doing a talk, understanding the code of conduct. '
 episode: 38
 show: grownups
 mp3: 
