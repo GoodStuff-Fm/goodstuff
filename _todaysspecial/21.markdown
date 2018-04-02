@@ -2,6 +2,7 @@
 title: Cordon Bleu
 date: 2018-04-04 08:00:00 -06:00
 published: false
+position: 0
 show: todaysspecial
 description: Gordon Ramsay's got a bone to pick with Kyle's 'ChickHameese' concoction
   today!

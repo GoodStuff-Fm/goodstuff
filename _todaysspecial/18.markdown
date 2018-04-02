@@ -1,6 +1,7 @@
 ---
 title: Hot Chicken
 date: 2018-03-30 08:00:00 -06:00
+position: 12
 show: todaysspecial
 description: This Nashville specialty is a type of fried chicken covered in cayenne
   pepper.

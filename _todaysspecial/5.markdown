@@ -1,7 +1,7 @@
 ---
 title: Chicken Noodle Soup
 date: 2018-03-13 08:00:00 -06:00
-position: 3
+position: 16
 show: todaysspecial
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Chicken-Soup-e15p58/a-a2l4u9
 episode: 5

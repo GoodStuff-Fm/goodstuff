@@ -1,6 +1,7 @@
 ---
 title: Water
 date: 2018-03-22 08:00:00 -06:00
+position: 6
 show: todaysspecial
 description: Water we talking about? We're talking about access to clean water and
   how you can help!

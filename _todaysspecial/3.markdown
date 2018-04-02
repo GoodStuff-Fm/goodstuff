@@ -1,7 +1,7 @@
 ---
 title: Banana Cream Pie
 date: 2018-03-02 13:55:00 -06:00
-position: 5
+position: 18
 show: todaysspecial
 episode: 3
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Banana-Cream-Pie-e14qa3

@@ -1,6 +1,7 @@
 ---
 title: French Bread
 date: 2018-03-21 08:00:00 -06:00
+position: 5
 show: todaysspecial
 description: The French take their bread very seriously! And you should too!
 episode: 11

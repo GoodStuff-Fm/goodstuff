@@ -1,6 +1,7 @@
 ---
 title: Paella
 date: 2018-03-27 08:00:00 -06:00
+position: 9
 show: todaysspecial
 description: Nourishing, vibrant, and without pretension, paella has held a place
   of honor and practicality in Spanish homes for centuries.

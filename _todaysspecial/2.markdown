@@ -1,7 +1,7 @@
 ---
 title: Peanut Butter Lovers
 date: 2018-03-01 13:11:00 -06:00
-position: 6
+position: 19
 episode: 2
 anchor: https://anchor.fm/todaysspecial/embed/episodes/Peanut-Butter-Lovers-e14lae/a-a2ifes
 description: Whether you like it crunchy, chunky, crispy, smooth, or soupy, we're

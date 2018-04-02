@@ -1,6 +1,7 @@
 ---
 title: Spinach
 date: 2018-03-26 08:00:00 -06:00
+position: 8
 episode: 14
 show: todaysspecial
 description: <iframe src="https://anchor.fm/todaysspecial/embed/episodes/Spinach-e182t5/a-a2r9m8"

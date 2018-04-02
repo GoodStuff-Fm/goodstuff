@@ -2,6 +2,7 @@
 title: Peanut Butter & Jelly
 date: 2018-04-02 08:00:00 -06:00
 published: false
+position: 2
 show: todaysspecial
 description: Crunchy? Smooth? Quantum? How do you like your Whole Foods Branded Bread
   Dispenser?

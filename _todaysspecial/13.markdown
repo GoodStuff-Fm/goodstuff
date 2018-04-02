@@ -1,6 +1,7 @@
 ---
 title: Chips and Dip
 date: 2018-03-23 08:00:00 -06:00
+position: 7
 show: todaysspecial
 description: What's that perfect chip to dip ratio? What even is a dip? Is chowder
   a dip? We answer the HARD questions.
