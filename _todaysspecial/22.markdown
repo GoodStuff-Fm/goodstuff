@@ -7,10 +7,12 @@ description: Located in the seedy underbelly of Bangkok, the Raisin and Spice Ba
   is home to some of the roughest and most dangerous criminals on Earth. Sebastian
   Heller is among the strongest of the bunch, and he doesn't let anyone pass without
   first feeling the burning wrath of a Super-Street-Fighter-2 style Tiger Uppercut.
-  Sing-Song McCracken Fortunately for you, a New York Times reporter has made her
-  way in to this closed community of killers. You can hear the grimy tales of destruction
-  and mayhem straight from the source today. Can you stomach the force of the Raisin
-  and Spice Bar?
+  Sing-Song McCracken forges the path behind with his signature Karate-Kid-3 style
+  flippy kick. Thomas "The Tank" Engine will downright steamroll his foes without
+  so much as a glance. Fortunately for you, New York Times reporter Laura Ghuitarre
+  has made her way in to this closed community of killers. You can hear the grimy
+  tales of destruction and mayhem straight from the source today. Can you stomach
+  the sinister force of the Raisin and Spice Bar?
 episode: 22
 anchor: 
 layout: episode
