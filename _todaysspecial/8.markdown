@@ -6,7 +6,7 @@ show: todaysspecial
 description: Whether you dip them in mayo, ketchup, or even store them in empty Pringles
   cans, we won't judge.
 episode: 8
-anchor: 
+anchor: https://anchor.fm/todaysspecial/embed/episodes/Artichoke-Heart-e16evd/a-a2mtqu
 layout: episode
 ---
 
