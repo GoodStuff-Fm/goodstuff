@@ -10,7 +10,7 @@ episode: 8
 layout: episode
 ---
 
-
+Whether you dip them in mayo, ketchup, or even store them in empty Pringles cans, we won't judge.
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
