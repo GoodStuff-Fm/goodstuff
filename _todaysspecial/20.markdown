@@ -1,7 +1,6 @@
 ---
 title: Chocolate Mousse
 date: 2018-04-03 08:00:00 -06:00
-published: false
 position: 1
 show: todaysspecial
 description: If you'd rather not have a savory dessert loaded into your caulking gun,
