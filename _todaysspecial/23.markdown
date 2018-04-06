@@ -1,7 +1,6 @@
 ---
 title: Caramel Popcorn
 date: 2018-04-06 08:00:00 -06:00
-published: false
 show: todaysspecial
 description: You say 'ca-ra-mel', we say 'popcorn is okay but have you had the unpopped
   kernels?'
