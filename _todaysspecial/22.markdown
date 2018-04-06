@@ -1,7 +1,6 @@
 ---
 title: Raisin and Spice Bar
 date: 2018-04-05 08:00:00 -06:00
-published: false
 show: todaysspecial
 description: Located in the seedy underbelly of Bangkok, the Raisin and Spice Bar
   is home to some of the roughest and most dangerous criminals on Earth. Sebastian
