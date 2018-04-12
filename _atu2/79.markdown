@@ -3,10 +3,11 @@ title: I’ve Caught Myself a Bono Instead of a Pokemon
 date: 2018-04-12 08:00:00 -06:00
 episode: 79
 show: atu2
-description: We're back and talking about all that we left behind over the last 3 months since we last recorded.
+description: We're back and talking about all that we left behind over the last 3
+  months since we last recorded.
 mp3: http://podcasts-1.feedpress.co/12572/atu2-79.mp3
-image: ""
-video:
+image: ''
+video: 
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
