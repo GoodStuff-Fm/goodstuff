@@ -5,7 +5,7 @@ episode: 79
 show: atu2
 description: We're back and talking about all that we left behind over the last 3
   months since we last recorded.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-79.mp3
+mp3: https://podcasts-1.feedpress.co/12572/atu2-79.mp3
 image: "/uploads/atu2-79.jpg"
 video: https://www.youtube.com/embed/fhx1dZuUo-E
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
