@@ -5,7 +5,7 @@ description: 'Brook and Kari talk about conferences: going to them, enjoying you
   getting your money''s worth, doing a talk, understanding the code of conduct. '
 episode: 38
 show: grownups
-mp3: https://podcasts-1.feedpress.co/10589/grownups38.mp3
+mp3: https://media.transistor.fm/6ca21a94.mp3
 layout: episode
 ---
 
