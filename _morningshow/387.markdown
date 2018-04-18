@@ -2,7 +2,7 @@
 title: Best of Morning Show Vol. 1
 date: 2018-03-27 08:00:00 -06:00
 show: morningshow
-mp3: https://podcasts-1.feedpress.co/10588/morningshow-387-1.mp3
+mp3: https://media.transistor.fm/f83991c5.mp3
 description: It's like Kenny forgot to tell Kyle until after the show last time that
   he wouldn't be able to record our next episode live, so Kyle made a collection of
   dumb segments from other episodes.
