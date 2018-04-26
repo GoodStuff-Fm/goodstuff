@@ -6,8 +6,8 @@ show: atu2
 description: SPOILERS AHEAD! Matt, Mason, Collin, and Chris are talking about U2's
   Experience and Innocence tour that's starting in 7 days and we're talking spoilers
   all over the place.
-mp3: 
-image: ''
+mp3: https://media.transistor.fm/5eab7709.mp3
+image: "/uploads/atu2-80.jpg"
 video: https://www.youtube.com/embed/UK2rU0t_rYY
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
