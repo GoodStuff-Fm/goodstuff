@@ -60,6 +60,7 @@
 <meta name="twitter:description" value="{{ show.description }}" />
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
+<meta name="apple-itunes-app" content="app-id={{ show.appid }}, affiliate-data=at=10l4Ki&ct=websiteshow">
 {% elsif page.layout == "episode" %}
 <meta property="og:title" content="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
@@ -68,6 +69,7 @@
 <meta name="twitter:domain" value="goodstuff.fm" />
 <meta name="twitter:title" value="{{ show.name }} {{ page.episode }}: {{ page.title }}" />
 <meta name="twitter:description" value="{{ page.description }}" />
+<meta name="apple-itunes-app" content="app-id={{ show.appid }}, affiliate-data=at=10l4Ki&ct=websiteeps">
 {% if page.video and page.image %}
   <meta name="twitter:card" content="player">
   <meta name="twitter:player" value="{{ page.video }}" />

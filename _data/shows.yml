@@ -41,6 +41,7 @@ highcontrast:
   category5:
   rss: http://feeds.goodstuff.fm/highcontrast
   itunes: https://itunes.apple.com/us/podcast/high-contrast/id1251036231
+  appid: 1251036231
   pocketcasts: http://pca.st/xfk8
   overcast:
 wts:
@@ -63,6 +64,7 @@ wts:
   category5:
   rss: http://feeds.goodstuff.fm/wts
   itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790
+  appid: 1250996790
   pocketcasts: http://pca.st/I80b
   overcast: https://overcast.fm/itunes1250996790/way-too-seriously
 3g3q:
@@ -85,6 +87,7 @@ wts:
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  appid: 914129482
   pocketcasts: http://pca.st/Mw9G
   overcast: https://overcast.fm/itunes914129482/3-guys-3-questions
 dailyish:
@@ -107,6 +110,7 @@ dailyish:
   supportlink: http://www.patreon.com/ichris
   rss: http://feeds.goodstuff.fm/dailyish
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+  appid: 815675012
   pocketcasts: http://pca.st/Vifv
   overcast: https://overcast.fm/itunes815675012/daily-ish
 morningshow:
@@ -127,6 +131,7 @@ morningshow:
   support:
   rss: http://feeds.goodstuff.fm/transmission
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+  appid: 843374491
   pocketcasts: http://pca.st/transmission
   overcast: https://overcast.fm/itunes843374491/morning-show
 todaysspecial:
@@ -148,6 +153,7 @@ todaysspecial:
   rss: https://anchor.fm/s/2ae3b64/podcast/rss
   anchor: https://anchor.fm/todaysspecial
   itunes: https://itunes.apple.com/us/podcast/todays-special/id1354730921
+  appid: 1354730921
   pocketcasts: http://pca.st/d3H2
   overcast: https://overcast.fm/itunes1354730921/todays-special
 clockworks:
@@ -168,6 +174,7 @@ clockworks:
   support:
   rss: http://feeds.goodstuff.fm/clockworks
   itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658
+  appid: 1215340658
   pocketcasts: http://pca.st/Os98
   overcast: https://overcast.fm/itunes1215340658/clockworks-a-legion-podcast
 grownups:
@@ -185,6 +192,7 @@ grownups:
   support:
   rss: http://feeds.goodstuff.fm/grownups
   itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
+  appid: 920093038
   pocketcasts: http://pca.st/OEf0
   overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
 nbsp:
@@ -205,6 +213,7 @@ nbsp:
   support:
   rss: http://feeds.goodstuff.fm/nbsp
   itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
+  appid: 507162981
   pocketcasts: http://pca.st/Izn0
   overcast: https://overcast.fm/itunes507162981/non-breaking-space-show
 master:
@@ -226,6 +235,7 @@ master:
   category5:
   rss: http://feeds.goodstuff.fm/
   itunes: https://itunes.apple.com/us/podcast/goodstuff-broadcasting-master/id849966174?mt=2
+  appid: 849966174
   pocketcasts: http://pca.st/xiPV
   overcast: https://overcast.fm/itunes849966174/goodstuff-broadcasting-master-audio-feed
 atu2:
@@ -248,6 +258,7 @@ atu2:
   category5:
   rss: http://feeds.goodstuff.fm/atu2
   itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2
+  appid: 1018994132
   pocketcasts: http://pca.st/9jwK
   overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
 aux:
@@ -270,6 +281,7 @@ aux:
   category5:
   rss: http://feed.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
+  appid: 914129482
   pocketcasts: http://feed.3g3q.co/
   overcast: http://feed.3g3q.co/
 ll:
@@ -283,6 +295,7 @@ ll:
   category: "Business"
   rss: http://goodstuff.fm/ll/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/lost-lemon-brothers-in-business/id467564174?mt=2
+  appid: 467564174
   pocketcasts: http://pca.st/emvK
   overcast: https://overcast.fm/itunes467564174/lost-and-lemon
 neverdigdown:
@@ -301,6 +314,7 @@ neverdigdown:
   support:
   rss: http://goodstuff.fm/neverdigdown/feed.xml
   itunes: https://itunes.apple.com/us/podcast/never-dig-down/id902068369?mt=2
+  appid: 902068369
   pocketcasts: http://pca.st/5YwG
   overcast: https://overcast.fm/itunes902068369/never-dig-down
 smym:
@@ -323,6 +337,7 @@ smym:
   category5:
   rss: http://feeds.goodstuff.fm/smym
   itunes: https://geo.itunes.apple.com/ca/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki
+  appid: 602836998
   pocketcasts: http://pca.st/M3P3
   overcast: https://overcast.fm/itunes602836998/show-me-your-mic
 specials:
@@ -345,5 +360,6 @@ specials:
   category5:
   rss: http://goodstuff.fm/specials/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2
+  appid: 854159948
   pocketcasts: http://pca.st/LvG0
   overcast: https://overcast.fm/itunes854159948/goodstuff-specials
