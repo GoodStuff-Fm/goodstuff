@@ -5,7 +5,7 @@ description: How the farmer sausage is made, a true hatred of tomatoes, and a de
   dive into every single icon on our home screens.
 show: highcontrast
 episode: 8
-mp3: http://podcasts-1.feedpress.co/17645/highcontrast-8.mp3
+mp3: https://media.transistor.fm/aa89cb46.mp3
 image: "/uploads/highcontrast-8.png"
 layout: episode
 ---
