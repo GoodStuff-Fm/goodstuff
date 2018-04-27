@@ -4,7 +4,7 @@ date: 2017-05-23 09:00:00 -06:00
 position: 18
 show: morningshow
 episode: 350
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-350.mp3
+mp3: https://media.transistor.fm/c3d0f906.mp3
 video: https://www.youtube.com/embed/l1IHzgFx8Fg
 image: "/uploads/morningshow-350-image.png"
 description: It's like eating stale twister fries covered in contaminated cheese before

@@ -7,7 +7,7 @@ episode: 365
 image: "/uploads/morningshow-365.png"
 description: It's like boxing up your old phone in a pizza box to get enough money
   to go to Red Lobster for Endless Shrimp cooked by Gordon Ramsay without any ingredients.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-365.mp3
+mp3: https://media.transistor.fm/2b198f13.mp3
 layout: episode
 ---
 

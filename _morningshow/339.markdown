@@ -4,7 +4,7 @@ date: 2017-02-28 09:00:00 -06:00
 position: 28
 show: morningshow
 episode: 339
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-339.mp3
+mp3: https://media.transistor.fm/504ef8a4.mp3
 sponsor: Hosting and feed support provided by Feed.Press. Sign-up today and try FeedPress
   on a 14 day trial (no contracts or commitments). Use promo code `morningshow` during
   checkout to get 10% off your first year.

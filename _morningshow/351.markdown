@@ -3,7 +3,7 @@ title: National Milk Julep Day
 date: 2017-05-30 07:51:00 -06:00
 position: 19
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-351.mp3
+mp3: https://media.transistor.fm/a839c8b1.mp3
 description: It's like carrying a bunch of boxes of candy through the bridge of the
   Enterprise in VR to the bow of the Enterprise and hoping to not get sea sick.
 image: "/uploads/morningshow-351.png"

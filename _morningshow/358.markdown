@@ -4,7 +4,7 @@ date: 2017-08-01 09:30:00 -06:00
 position: 9
 show: morningshow
 episode: 358
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-358.mp3
+mp3: https://media.transistor.fm/7c29d8af.mp3
 image: "/uploads/morningshow-358.png"
 description: 'It''s like only paying $3 for U2 bread, a processed spreadable cheese,
   and glorious everything bagel potato chips from the back seat of a car in a drive

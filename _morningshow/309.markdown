@@ -13,7 +13,7 @@ description: Are we back yet?, Kyle and Kenny explain their absence, Drink alcoh
   a person?, Cheetos is going nuts, Audio Pictionary, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-309.mp3
+mp3: https://media.transistor.fm/fc5950c6.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

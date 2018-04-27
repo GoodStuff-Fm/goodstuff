@@ -13,7 +13,7 @@ description: Brothers win weird lottery amount, There's no crying in space, I'll
   that counts for you, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-281.mp3
+mp3: https://media.transistor.fm/d72b2370.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

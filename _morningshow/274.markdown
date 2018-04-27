@@ -13,7 +13,7 @@ description: Drive around in your very own NERF car, How much does it cost to ma
   just nightmare fuel, Sit and stand at the same time, Food Friday, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-274.mp3
+mp3: https://media.transistor.fm/e0c35d29.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

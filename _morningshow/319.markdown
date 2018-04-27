@@ -13,7 +13,7 @@ description: Apple is very excited again, Galaxy Note 7 woes, Stop recycling use
   and more!
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-319.mp3
+mp3: https://media.transistor.fm/cebbc6ba.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

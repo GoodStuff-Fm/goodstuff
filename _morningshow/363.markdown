@@ -5,7 +5,7 @@ position: 10
 show: morningshow
 description: It's like waking up from a fever dream in which you're stuck smelling
   pizza and farts from the top of a roller coaster before a 96º drop to your death.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-363.mp3
+mp3: https://media.transistor.fm/cc749497.mp3
 episode: 363
 layout: episode
 ---

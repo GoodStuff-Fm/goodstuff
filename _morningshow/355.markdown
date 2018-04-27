@@ -5,7 +5,7 @@ position: 5
 show: morningshow
 description: It's like adding Top Ramen Pringles, the NutZoom, a grape slicer, boozy
   ice cream, and a second thumb to your Amazon cart while driving.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-355.mp3
+mp3: https://media.transistor.fm/23f440aa.mp3
 image: "/uploads/morningshow-355.png"
 episode: 355
 video: https://www.youtube.com/embed/w_itJM12eHM

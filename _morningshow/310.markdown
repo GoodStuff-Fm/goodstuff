@@ -13,7 +13,7 @@ description: It's 2 weeks later and a lot has happened, Pokemon Go has taken ove
   Pizza Robotics is an actual thing now, 2 Stupid Games, and much more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-310.mp3
+mp3: https://media.transistor.fm/4ab89360.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

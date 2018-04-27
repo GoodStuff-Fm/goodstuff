@@ -13,7 +13,7 @@ description: Little Caesars is bringing back an instant classic, How are you wat
   without wafers are a tragedy, Go ahead and ask Alexa for a pizza - it’ll work now,
   and more.
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/transmission-268.mp3
+mp3: https://media.transistor.fm/861dcbb6.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

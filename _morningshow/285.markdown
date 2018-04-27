@@ -13,7 +13,7 @@ description: Two whole years! We discover the secrets of St. Patrick's Day, Self
   factory that isn't really what you think it is, Ska Band or Racehorse?, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-285.mp3
+mp3: https://media.transistor.fm/c9c763f1.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
