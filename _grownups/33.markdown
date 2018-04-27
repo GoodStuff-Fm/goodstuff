@@ -6,7 +6,7 @@ description: Brook and Kari discuss drinks, from breastfeeding and tap water, to
   drinks. Mnemonic rhymes aren't as helpful as just not drinking too much.
 episode: 33
 show: grownups
-mp3: http://podcasts-1.feedpress.co/10589/grownups33.mp3
+mp3: https://media.transistor.fm/e1e7e97e.mp3
 layout: episode
 ---
 

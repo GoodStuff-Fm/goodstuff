@@ -2,7 +2,7 @@
 title: Ask Me About My IUD
 date: 2014-10-09 02:00:00 -06:00
 episode: 5
-mp3: http://podcasts-1.feedpress.co/10589/grownups-5.mp3
+mp3: https://media.transistor.fm/96589ac2.mp3
 description: Kari talks with Kate Daly about the Pill, IUDs, sponges, access to knowledge
   about your own body, sex ed, and bad birth control puns. We share pregnancy pics
   with fun back-stories and probably way TMI. Sorry not sorry.

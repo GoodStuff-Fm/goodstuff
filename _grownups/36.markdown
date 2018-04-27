@@ -7,7 +7,7 @@ description: Brook and Kari talk about what we've been up to, since we haven't b
   about gender confirmation surgery.
 episode: 36
 show: grownups
-mp3: http://podcasts-1.feedpress.co/10589/grownups36.mp3
+mp3: https://media.transistor.fm/4d354bb0.mp3
 layout: episode
 ---
 

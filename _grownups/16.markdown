@@ -2,7 +2,7 @@
 title: I Can Make a Bedbug Party
 date: 2015-03-22 02:15:00 -06:00
 episode: 16
-mp3: http://podcasts-1.feedpress.co/10589/grownups-16.mp3
+mp3: https://media.transistor.fm/1f99c05b.mp3
 description: 'Kari and Liz James discuss adult ADHD: definitions, advantages, getting
   diagnosed, strategies for thriving with it, fantastic metaphors, treatments, marrying
   well, accidental vacations, and black diamond people.'

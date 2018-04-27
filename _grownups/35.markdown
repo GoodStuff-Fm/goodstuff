@@ -6,7 +6,7 @@ description: Brook and Kari talk about Pride month, celebrations, marches, mains
   for the actual work the rest of the year. Should you go? Yes.
 episode: 35
 show: grownups
-mp3: http://podcasts-1.feedpress.co/10589/grownups35.mp3
+mp3: https://media.transistor.fm/9d6103ba.mp3
 layout: episode
 ---
 

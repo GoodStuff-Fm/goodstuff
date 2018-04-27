@@ -2,7 +2,7 @@
 title: Grain Truck Full of Beer
 date: 2014-09-27 12:11:00 -06:00
 episode: 3
-mp3: http://podcasts-1.feedpress.co/10589/grownups-3.mp3
+mp3: https://media.transistor.fm/d85feca2.mp3
 description: Kari talks with Sheena Greer about divorce, second weddings, the care
   and feeding of second marriages, blending families, and giving yourself gifts instead
   of treats. And how Sheena’s life goals include being a member of Run-DMC.

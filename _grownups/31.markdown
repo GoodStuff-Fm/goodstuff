@@ -5,7 +5,7 @@ episode: 31
 show: grownups
 description: Brook and Kari discuss crying, particularly at work, and what it means,
   why we do it, and what to do if you see someone doing it.
-mp3: http://podcasts-1.feedpress.co/10589/grownups-31.mp3
+mp3: https://media.transistor.fm/d676e8f2.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/grownups
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
