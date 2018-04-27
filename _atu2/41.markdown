@@ -1,7 +1,7 @@
 ---
 title: Crikey! They’ve Gone to the Popular Masses! — A Discussion of The Joshua Tree
 date: 2016-10-06 03:04:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-41.mp3
+mp3: https://media.transistor.fm/601a6dbb.mp3
 episode: 41
 description: Becky, Kenny, Matt, and Chris are talking The Joshua Tree - U2’s biggest
   selling album to date. Join us as we trip through your wires, with or without you,

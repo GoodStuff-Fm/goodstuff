@@ -3,7 +3,7 @@ title: Jiffy Pop Or Rain - A Discussion of Passengers
 date: 2017-04-05 08:30:00 -06:00
 show: atu2
 episode: 55
-mp3: http://podcasts-1.feedpress.co/12572/atu2-55.mp3
+mp3: https://media.transistor.fm/d54f7f68.mp3
 description: Is Passengers an actual U2 album? Is it rain or jiffy pop at the start
   of that song? New atU2 staffers Collin and Eric join Ian, Steve, and Chris to finally
   discuss Passengers in our album by album series.

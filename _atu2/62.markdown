@@ -9,7 +9,7 @@ sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and producti
   Its logical and intuitive production workflow can be mastered by anyone from school
   kids to senior citizens in very short time. And yet it is so powerful, it also satisfies
   the broadcasting veterans wildest dreams."
-mp3: http://podcasts-1.feedpress.co/12572/atu2-62fix.mp3
+mp3: https://media.transistor.fm/66a57e20.mp3
 episode: 62
 video: https://www.youtube.com/embed/T8RYMXkounM
 show: atu2

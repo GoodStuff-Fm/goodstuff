@@ -1,7 +1,7 @@
 ---
 title: Outside Podcast - A Discussion of Achtung Baby
 date: 2016-11-05 03:06:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-43%20%281%29.mp3
+mp3: https://media.transistor.fm/3f534aa1.mp3
 episode: 43
 description: Adam prefers sandalwood and the atU2 crew prefer Achtung Baby. Sherry,
   Tassoula, Matt, and Chris try to talk like this and act like that to figure out

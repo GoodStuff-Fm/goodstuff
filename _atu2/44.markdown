@@ -1,7 +1,7 @@
 ---
 title: Basking in Lemon — A Discussion of Zooropa
 date: 2016-11-24 03:07:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-44.mp3
+mp3: https://media.transistor.fm/b016eccb.mp3
 episode: 44
 description: A man builds a podcast, with guests and commentary. A man records a conversation
   so he can hear himself up close. Marylinn, Sherry, Ian, and Chris are talking Zooropa

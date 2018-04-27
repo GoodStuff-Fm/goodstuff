@@ -1,7 +1,7 @@
 ---
 title: Turn in Your @U2 Card Right Now — A Discussion of Boy
 date: 2016-06-30 02:56:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-34.mp3
+mp3: https://media.transistor.fm/a36ead4b.mp3
 episode: 34
 description: As part of our U240 celebrations, we're going to talk through each of
   U2's albums and what better place to start than with U2's first album, Boy. Tassoula,

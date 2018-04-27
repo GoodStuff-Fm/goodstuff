@@ -1,7 +1,7 @@
 ---
 title: 'B-Side #1: U2 Announces Joshua Tree Tour 2017'
 date: 2017-01-09 03:11:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-47.mp3
+mp3: https://media.transistor.fm/241cdb15.mp3
 episode: 47
 description: For our first b-side we convene a panel of folks to chat about The Joshua
   Tree Tour announcement — ticket pricing, availability, and whether Drunk Chicken

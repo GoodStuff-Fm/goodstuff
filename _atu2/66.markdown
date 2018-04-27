@@ -5,7 +5,7 @@ episode: 66
 show: atu2
 description: The Blackout is over and we're back to talk about "You're The Best Thing
   About Me" with Matt, Sherry, Collin, and Chris.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-66.mp3
+mp3: https://media.transistor.fm/104f893a.mp3
 image: "/uploads/atu2-66.jpg"
 video: https://www.youtube.com/embed/K-V7sNbdf4U
 layout: episode
