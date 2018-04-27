@@ -2,7 +2,7 @@
 title: Retire Before I Die
 date: 2014-09-23 12:11:00 -06:00
 episode: 2
-mp3: http://podcasts-1.feedpress.co/10589/grownups-2.mp3
+mp3: https://media.transistor.fm/43050bea.mp3
 description: Kari and Jay Baron talk about comparing our adult lives to our parents,
   perpetual adolescence, what it’s like being a role model, and scratching undone
   things off the bucket list. We try really hard not to be a parenting podcast.

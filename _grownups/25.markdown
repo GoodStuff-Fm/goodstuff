@@ -2,7 +2,7 @@
 title: Forcing It
 date: 2016-03-05 02:28:00 -06:00
 episode: 25
-mp3: http://podcasts-1.feedpress.co/10589/grownups-25.mp3
+mp3: https://media.transistor.fm/2b23fe6b.mp3
 description: 'Brook and Kari talk about forcing it with desk legs, friendships, love,
   taxes, being disciplined, and work. Also: the question of whether telling 20-somethings
   to just work hard is good advice.'

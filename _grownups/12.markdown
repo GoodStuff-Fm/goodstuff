@@ -2,7 +2,7 @@
 title: Successful Instances of Shutting Up are Unheard Of
 date: 2015-01-14 02:10:00 -06:00
 episode: 12
-mp3: http://podcasts-1.feedpress.co/10589/grownups-12.mp3
+mp3: https://media.transistor.fm/660fc7e1.mp3
 description: Kari talks about the benefits of speaking out, and also the benefits
   of shutting up. And about potential future topics for I Guess We’re Grown-Ups Now.
 layout: episode

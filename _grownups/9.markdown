@@ -2,7 +2,7 @@
 title: You’ve Just Got to Stop Thinking
 date: 2014-12-01 02:07:00 -06:00
 episode: 9
-mp3: http://podcasts-1.feedpress.co/10589/grownups-9.mp3
+mp3: https://media.transistor.fm/aca8db52.mp3
 description: Kari talks with Adam Clark about the trouble with answering the question
   “What do you do?” and tying your identity to your work; worrying about not having
   value to add to the world; not having all the answers; fear of looking like a fool;

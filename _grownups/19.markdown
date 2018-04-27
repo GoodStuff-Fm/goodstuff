@@ -2,7 +2,7 @@
 title: The Dark Side of Decisiveness
 date: 2015-09-07 02:19:00 -06:00
 episode: 19
-mp3: http://podcasts-1.feedpress.co/10589/grownups-19.mp3
+mp3: https://media.transistor.fm/c2e098d8.mp3
 description: Hilary (@theOtherHilary) is back to chat with Kari about hating yourself-in-other-people,
   respectful conversation, when and how we indulge ourselves, the statute of limitations
   on being mean, safe places for venting, and self-regulation.

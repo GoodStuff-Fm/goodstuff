@@ -2,7 +2,7 @@
 title: My Friendship Car is in Miles Per Hour
 date: 2015-12-20 02:24:00 -06:00
 episode: 22
-mp3: http://podcasts-1.feedpress.co/10589/grownups-22.mp3
+mp3: https://media.transistor.fm/4ce6366f.mp3
 description: Brook and Kari talk about adult friendships and the Internet, cross-pollination,
   intensity, friending regret, breakups, retweeting, aspirational friends, attraction,
   homogeneity, and the roommate switch.

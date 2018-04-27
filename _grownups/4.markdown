@@ -2,7 +2,7 @@
 title: Try Uni No Wait Don’t Try Uni
 date: 2014-10-03 01:58:00 -06:00
 episode: 4
-mp3: http://podcasts-1.feedpress.co/10589/grownups-4.mp3
+mp3: https://media.transistor.fm/b5e2e7e7.mp3
 description: 'Kari and her guest Garth Braithwaite talk all things food and being
   a grown-up: managing hangry-ness, marrying into food traditions, living with diabetes,
   LDS food guidelines, what we eat after our kids are in bed, and how to find a sushi

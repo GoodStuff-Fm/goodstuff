@@ -2,7 +2,7 @@
 title: Family Meeting in the Blanket Fort
 date: 2015-02-09 02:12:00 -06:00
 episode: 14
-mp3: http://podcasts-1.feedpress.co/10589/grownups-14.mp3
+mp3: https://media.transistor.fm/a36adf4e.mp3
 description: 'Kari and Megan Cheesbrough talk about advanced parenting: collaborating
   with minors; de-escallating bad behavior without shame; showing your children you’re
   on their team; negotiating with teachers; and worrying that your kid’s a sociopath.'
