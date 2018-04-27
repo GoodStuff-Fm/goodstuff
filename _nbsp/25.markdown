@@ -9,7 +9,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 25
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-25.mp3
+mp3: https://media.transistor.fm/3ebca7e2.mp3
 layout: episode
 ---
 

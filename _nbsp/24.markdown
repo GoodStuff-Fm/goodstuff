@@ -11,7 +11,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 24
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-24.mp3
+mp3: https://media.transistor.fm/d086eaba.mp3
 layout: episode
 ---
 

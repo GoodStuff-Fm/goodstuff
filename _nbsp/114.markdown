@@ -4,7 +4,7 @@ date: 2017-04-11 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 114
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-114.mp3
+mp3: https://media.transistor.fm/e420b14c.mp3
 description: "Whitney is Co-Director of Civic Design and is an expert in user research,
   user experience, and usability, with a passion for clear communication. \nShe’s
   the author of three books: *A Web for Everyone*, *Storytelling in User Experience*,

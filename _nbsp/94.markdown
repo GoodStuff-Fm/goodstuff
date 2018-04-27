@@ -12,7 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 94
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-94.mp3
+mp3: https://media.transistor.fm/fed31ab8.mp3
 layout: episode
 ---
 

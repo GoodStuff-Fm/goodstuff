@@ -4,7 +4,7 @@ date: 2017-04-03 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 112
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-112.mp3
+mp3: https://media.transistor.fm/1952c04c.mp3
 description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been working
   in the field of design and user experience. She is the author of *How To Get People
   To Do Stuff*, *Neuro Web Design: What Makes Them Click?* and *100 Things Every Designer

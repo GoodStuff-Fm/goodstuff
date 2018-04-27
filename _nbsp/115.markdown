@@ -5,7 +5,7 @@ date: 2017-04-18 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 115
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-115.mp3
+mp3: https://media.transistor.fm/b5467b47.mp3
 description: The state of Angular, Apple's self-driving vehicles, parking spaces in
   space, American Dream is stuck in a rut, and The Last Jedi teaser trailer reaching
   over 20 million views.

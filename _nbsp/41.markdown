@@ -10,7 +10,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 41
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-41.mp3
+mp3: https://media.transistor.fm/f7a8ccd8.mp3
 layout: episode
 ---
 

@@ -10,7 +10,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 17
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-17.mp3
+mp3: https://media.transistor.fm/5b4dfb1e.mp3
 layout: episode
 ---
 

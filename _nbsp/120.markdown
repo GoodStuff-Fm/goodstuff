@@ -4,7 +4,7 @@ date: 2017-05-31 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 120
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-120.mp3
+mp3: https://media.transistor.fm/7f63dabc.mp3
 description: Dan Brown is co-founder of EightShapes, a UX design discovery shop that
   serves clients in healthcare, education, not-for-profit and high-tech. He’s recently
   written a book called, *Practical Design Discovery,* published by A Book Apart.

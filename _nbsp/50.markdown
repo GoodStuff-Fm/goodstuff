@@ -14,7 +14,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   nbsp* during checkout to get 10% off your first year.
 episode: 50
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-50.mp3
+mp3: https://media.transistor.fm/ec9834fa.mp3
 layout: episode
 ---
 

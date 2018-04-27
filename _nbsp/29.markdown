@@ -10,7 +10,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 29
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-29.mp3
+mp3: https://media.transistor.fm/f647cf32.mp3
 layout: episode
 ---
 

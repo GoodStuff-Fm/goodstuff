@@ -12,7 +12,7 @@ sponsor: |-
   * **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year.
 episode: 107
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-107.mp3
+mp3: https://media.transistor.fm/b373dd46.mp3
 video: https://www.youtube.com/embed/Y7wIoAAL48M
 image: https://goodstuff.fm/nbsp/img/nbsptv-hugh-forrest.jpg
 layout: episode

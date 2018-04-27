@@ -9,7 +9,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 37
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-37.mp3
+mp3: https://media.transistor.fm/f938b7bd.mp3
 layout: episode
 ---
 

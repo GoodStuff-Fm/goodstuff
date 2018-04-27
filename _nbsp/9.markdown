@@ -16,7 +16,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 9
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-9.mp3
+mp3: https://media.transistor.fm/dcf1d3a0.mp3
 image: https://goodstuff.fm/nbsp/img/nbsptv-kristina-halvorson.jpg
 layout: episode
 ---

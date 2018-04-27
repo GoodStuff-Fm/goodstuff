@@ -11,7 +11,7 @@ sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support 
   10% off your first year."
 episode: 102
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-102.mp3
+mp3: https://media.transistor.fm/3fd4760b.mp3
 video: https://www.youtube.com/embed/ZP6ZyPwUxg0
 image: https://goodstuff.fm/nbsp/img/nbsptv-cssdevconf-2016.jpg
 layout: episode

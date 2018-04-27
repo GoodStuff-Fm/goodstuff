@@ -11,7 +11,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 16
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-16.mp3
+mp3: https://media.transistor.fm/4cc62174.mp3
 layout: episode
 ---
 
