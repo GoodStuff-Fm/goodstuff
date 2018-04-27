@@ -4,7 +4,7 @@ date: 2017-04-11 00:17:00 -06:00
 position: 23
 show: morningshow
 episode: 344
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-344.mp3
+mp3: https://media.transistor.fm/1a9b5b28.mp3
 description: 'It''s like a one-way ticket to Disneyland to hug a warm robot made of
   fast-food vape juice and ballpark food. '
 layout: episode

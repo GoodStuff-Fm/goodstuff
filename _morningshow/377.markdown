@@ -4,7 +4,7 @@ date: 2018-01-12 11:11:00 -06:00
 show: morningshow
 description: It's like 2019. Inside your fridge, you have frozen cereal, frozen egg
   balls, lettuce cups, old poke from a delivery driver, and hot baby food.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-377.mp3
+mp3: https://media.transistor.fm/45cfa521.mp3
 image: "/uploads/morningshow-377.png"
 episode: 377
 layout: episode

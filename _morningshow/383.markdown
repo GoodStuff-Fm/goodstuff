@@ -4,7 +4,7 @@ date: 2018-02-27 11:34:00 -06:00
 show: morningshow
 description: It's like you watched all of the flavors nominated for the next Coca
   Cola flavor, but they all tasted like beaver's butt gland at a ballpark.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-383.mp3
+mp3: https://media.transistor.fm/e2f884f5.mp3
 image: "/uploads/morningshow-383.png"
 episode: 383
 layout: episode

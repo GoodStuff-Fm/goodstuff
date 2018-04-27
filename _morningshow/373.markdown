@@ -6,7 +6,7 @@ image: "/uploads/morningshow-373.png"
 description: It's like eating an entire advent calendar of chocolate in one sitting
   with your brother while doing Home Alone trivia.
 episode: 373
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-373.mp3
+mp3: https://media.transistor.fm/8b687691.mp3
 layout: episode
 ---
 

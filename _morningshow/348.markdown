@@ -8,7 +8,7 @@ description: It's like stabbing yourself over and over with a knife made of fren
 episode: 348
 show: morningshow
 image: http://3.bp.blogspot.com/-rqzIGxoHtVA/T4ASYBfvuQI/AAAAAAAADO0/egD-pLObP2k/s1600/Nintendo_Twister_09.jpg
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-348.mp3
+mp3: https://media.transistor.fm/c2c1d973.mp3
 layout: episode
 ---
 

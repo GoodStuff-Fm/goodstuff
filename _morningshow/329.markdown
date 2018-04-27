@@ -7,7 +7,7 @@ description: In 2001, a Dachshund named Saucisse was a mayoral candidate. He won
   Story, the French version of Big Brother. He entered the house on Day 36. His secret
   is that he was a candidate at the election of Marseille Mayor. To protect his secret,
   he entered the house with the nickname “Secret”.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-329.mp3
+mp3: https://media.transistor.fm/da2a5ac5.mp3
 episode: 329
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow

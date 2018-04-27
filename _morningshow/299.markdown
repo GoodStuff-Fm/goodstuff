@@ -8,7 +8,7 @@ description: We discuss some important animal facts, Welcome to Earth, Fighting 
   out now, Cheerios that are late to the game, Food Friday, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-299.mp3
+mp3: https://media.transistor.fm/258a61f5.mp3
 ---
 
 * [This Flying Saucer Zaps Fires with Sound](http://futurism.com/meet-flying-saucer-douses-flames-sound/)

@@ -13,7 +13,7 @@ description: Get your free chips and guac today, Customize your coffee to your e
   best breakfast burrito, Food Friday, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-289.mp3
+mp3: https://media.transistor.fm/9360bf98.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

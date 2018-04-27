@@ -3,7 +3,7 @@ title: Olive Gordon
 date: 2018-02-06 12:25:00 -06:00
 show: morningshow
 episode: 380
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-380.mp3
+mp3: https://media.transistor.fm/331504c4.mp3
 description: It's like talking really slowly about $1 fusion nacho fries fried in
   cold marinara sauce that regrows french fry hair.
 image: "/uploads/morningshow-380.png"

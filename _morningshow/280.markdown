@@ -13,7 +13,7 @@ description: We finally tackle the Tim Tam, Our favorite video game gets a renew
   WHAT in her green beans?, Food Friday, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-280.mp3
+mp3: https://media.transistor.fm/a9ef7810.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

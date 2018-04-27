@@ -13,7 +13,7 @@ description: "'Get ready to learn what a femtobarn is, Start smelling with your 
   your mirrorless vehicle with your voice, 2 Stupid Games, and more.'"
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-301.mp3
+mp3: https://media.transistor.fm/77daceed.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

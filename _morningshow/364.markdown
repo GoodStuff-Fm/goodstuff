@@ -6,7 +6,7 @@ episode: 364
 show: morningshow
 description: It's like watching just Will Smith movies with a warm soda and pumpkin
   spiced popcorn with a beagle on your lap for the next two months.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-364.mp3
+mp3: https://media.transistor.fm/035982ed.mp3
 image: "/uploads/morningshow-364.png"
 layout: episode
 ---

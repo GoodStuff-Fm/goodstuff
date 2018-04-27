@@ -7,7 +7,7 @@ episode: 366
 image: "/uploads/morningshow-366.png"
 description: It's like eating only saltine crackers for a week while a robot draws
   your blood to decide how many more saltines it should feed you at Beignet Fest.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-366.mp3
+mp3: https://media.transistor.fm/0796bfe4.mp3
 layout: episode
 ---
 

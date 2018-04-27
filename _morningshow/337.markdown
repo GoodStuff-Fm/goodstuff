@@ -11,7 +11,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
   during checkout to get 10% off your first year
 episode: 337
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-337.mp3
+mp3: https://media.transistor.fm/27198bcf.mp3
 layout: episode
 ---
 

@@ -8,7 +8,7 @@ image: "/uploads/morningshow-367.png"
 description: It's like accidentally ordering a Grand Slam while waiting in line at
   Nationals Ballpark and then just receiving a hot dog. Like, just a hot dog with
   nothing on it.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-367.mp3
+mp3: https://media.transistor.fm/de3b9fdf.mp3
 layout: episode
 ---
 

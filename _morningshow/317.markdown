@@ -12,7 +12,7 @@ description: Astronaut Ice Cream, too much pizza, sharing a microphone, and a re
   short episode. We'll be back on Tuesday!
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-317.mp3
+mp3: https://media.transistor.fm/6b3fe667.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
