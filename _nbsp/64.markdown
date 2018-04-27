@@ -11,7 +11,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 64
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-64.mp3
+mp3: https://media.transistor.fm/f3734260.mp3
 image: https://goodstuff.fm/nbsp/img/nbsptv-jeffrey-zeldman.jpg
 video: https://www.youtube.com/embed/rvSaOZusk10
 layout: episode

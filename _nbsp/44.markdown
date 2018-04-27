@@ -10,7 +10,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 44
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-44.mp3
+mp3: https://media.transistor.fm/e60d5a09.mp3
 layout: episode
 ---
 

@@ -12,7 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 86
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-86.mp3
+mp3: https://media.transistor.fm/0e889bb3.mp3
 video: https://www.youtube.com/embed/j-hMZyQw-GE
 image: https://goodstuff.fm/nbsp/img/nbsptv-dave-olsen.jpg
 layout: episode

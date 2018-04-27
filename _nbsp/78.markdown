@@ -12,7 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 78
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-78.mp3
+mp3: https://media.transistor.fm/5fc0f20d.mp3
 video: https://www.youtube.com/embed/odgtaU_a8Zg
 layout: episode
 ---

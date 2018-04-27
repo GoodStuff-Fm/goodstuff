@@ -11,7 +11,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   nbsp* during checkout to get 10% off your first year.
 episode: 51
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-51.mp3
+mp3: https://media.transistor.fm/e199e8fa.mp3
 video: https://www.youtube.com/embed/H4GMmJXK2Ok
 image: https://goodstuff.fm/nbsp/img/nbsptv-margot-bloomstein.jpg
 layout: episode

@@ -11,7 +11,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 70
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-70.mp3
+mp3: https://media.transistor.fm/f723780a.mp3
 video: https://www.youtube.com/embed/1wpVke08fL8
 image: https://goodstuff.fm/nbsp/img/nbsptv-zell-liew.jpg
 layout: episode

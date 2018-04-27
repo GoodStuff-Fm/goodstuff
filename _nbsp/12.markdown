@@ -12,7 +12,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 12
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/Eric-Meyer-on-NBSPtv.mp3
+mp3: https://media.transistor.fm/6b96812b.mp3
 layout: episode
 image: https://goodstuff.com/nbsp/img/nbsptv-eric-meyer.jpg
 video: https://www.youtube.com/embed/0d4_zns3LE0

@@ -18,7 +18,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   try FeedPress on a 14 day trial (no contracts or commitments). Use promo code "nbsp"  during  checkout
   to get 10% off your first year.
 episode: 36
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-36.mp3
+mp3: https://media.transistor.fm/9a57b2f6.mp3
 layout: episode
 ---
 

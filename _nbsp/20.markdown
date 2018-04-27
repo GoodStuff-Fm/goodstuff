@@ -12,7 +12,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 20
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-20.mp3
+mp3: https://media.transistor.fm/7dec4909.mp3
 layout: episode
 ---
 

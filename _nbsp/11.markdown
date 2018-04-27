@@ -11,7 +11,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 11
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/Brian-Hoff-on-NBSPtv.mp3
+mp3: 
 layout: episode
 ---
 

@@ -13,7 +13,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 67
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-67.mp3
+mp3: https://media.transistor.fm/8c34af87.mp3
 video: https://www.youtube.com/embed/4uFodMgt4VE
 layout: episode
 ---

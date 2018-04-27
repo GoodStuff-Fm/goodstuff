@@ -11,7 +11,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 79
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-79.mp3
+mp3: https://media.transistor.fm/d1b4c518.mp3
 video: https://www.youtube.com/embed/6E5cFroFq90
 image: https://goodstuff.fm/nbsp/img/nbsptv-leslie-jensen-inman.jpg
 layout: episode

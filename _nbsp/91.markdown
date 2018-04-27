@@ -12,7 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 91
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-91.mp3
+mp3: https://media.transistor.fm/883b04c0.mp3
 video: https://www.youtube.com/embed/RygzkwRd2Xc
 layout: episode
 ---

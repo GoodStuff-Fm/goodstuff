@@ -4,7 +4,7 @@ date: 2017-05-08 11:00:00 -06:00
 position: 1
 show: nbsp
 episode: 118
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-118.mp3
+mp3: https://media.transistor.fm/4ae26c37.mp3
 description: Nicole Hallberg and Martin Schneider swapped email address for a couple
   of weeks. Guess what happened? Join Nicole and Martin as they to talk about their
   experiences in dealing with and recognizing sexism in the tech workplace and suggestions

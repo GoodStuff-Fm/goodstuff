@@ -10,7 +10,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 23
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-23.mp3
+mp3: https://media.transistor.fm/115c13b5.mp3
 layout: episode
 ---
 

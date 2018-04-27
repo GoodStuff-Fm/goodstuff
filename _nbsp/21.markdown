@@ -12,7 +12,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 21
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-21.mp3
+mp3: https://media.transistor.fm/39d2dd70.mp3
 layout: episode
 image: https://goodstuff.fm/nbsp/img/nbsptv-jessica-hische.jpg
 video: https://www.youtube.com/embed/7D301riH9iI"

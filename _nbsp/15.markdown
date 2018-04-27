@@ -11,7 +11,7 @@ sponsor-link:
 sponsor-copy: 
 episode: 15
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-15.mp3
+mp3: https://media.transistor.fm/3dda9904.mp3
 video: https://www.youtube.com/embed/D2L1Mevv7co"
 image: https://goodstuff.fm/nbsp/img/nbsptv-nicole-sullivan.jpg
 layout: episode

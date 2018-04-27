@@ -12,7 +12,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 39
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-39.mp3
+mp3: https://media.transistor.fm/feeda0f9.mp3
 layout: episode
 ---
 

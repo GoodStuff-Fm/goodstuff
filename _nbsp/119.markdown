@@ -4,7 +4,7 @@ date: 2017-05-16 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 119
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-119fix.mp3
+mp3: https://media.transistor.fm/ae6167a8.mp3
 description: Sarah Drasner is an award-winning speaker, consultant, and staff writer
   at CSS-Tricks. Sarah is also the co-founder of Web Animation Workshops, with Val
   Head. She’s given a Frontend Masters Workshop on Advanced SVG Animations and is

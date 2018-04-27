@@ -15,7 +15,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 81
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-81.mp3
+mp3: https://media.transistor.fm/5f1bae65.mp3
 video: https://www.youtube.com/embed/__2D3zrdKAU
 image: https://goodstuff.fm/nbsp/img/nbsptv-matt-griffin.jpg
 layout: episode

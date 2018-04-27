@@ -14,7 +14,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 32
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-32.mp3
+mp3: https://media.transistor.fm/ec2227e4.mp3
 layout: episode
 ---
 

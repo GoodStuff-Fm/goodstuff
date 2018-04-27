@@ -17,7 +17,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 83
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-83.mp3
+mp3: https://media.transistor.fm/46d9e410.mp3
 video: https://www.youtube.com/embed/t2lTx0X35jg
 image: https://goodstuff.fm/nbsp/img/nbsptv-uf-brands.jpg
 layout: episode

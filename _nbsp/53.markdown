@@ -14,7 +14,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 53
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-53.mp3
+mp3: https://media.transistor.fm/21411264.mp3
 video: https://www.youtube.com/embed/0aijIINXJTk
 layout: episode
 ---

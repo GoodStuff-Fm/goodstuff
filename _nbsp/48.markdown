@@ -11,7 +11,7 @@ sponsor-link: http://www.campaignmonitor.com/
 sponsor-copy: Tell them you heard about it on Goodstuff
 episode: 48
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-48.mp3
+mp3: https://media.transistor.fm/b1254add.mp3
 video: https://www.youtube.com/embed/n9Necok5lwI
 layout: episode
 ---

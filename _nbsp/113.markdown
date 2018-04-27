@@ -4,7 +4,7 @@ date: 2017-04-10 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 113
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-113.mp3
+mp3: https://media.transistor.fm/828c48f0.mp3
 description: 'Val Head is a web animation expert and author with a talent for getting
   designers and developers alike excited about the power of animation. She’s the author
   of *Designing Interface Animation* and teaches CSS Animation on lynda.com.

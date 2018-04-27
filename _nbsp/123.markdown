@@ -5,7 +5,7 @@ date: 2017-06-28 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 123
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-123.mp3
+mp3: https://media.transistor.fm/d5e28081.mp3
 description: Amazon has the best week ever. Meanwhile, we're not good enough for Apple
   Maps, so Apple's making self-driving cars? What could go wrong and more in this
   week's Top (n+1) News Stories of the Week!

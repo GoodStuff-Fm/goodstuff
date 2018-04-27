@@ -4,7 +4,7 @@ date: 2017-06-21 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 122
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-122.mp3
+mp3: https://media.transistor.fm/37b149c0.mp3
 description: Dan Mall returns! Dan is the director of SuperFriendly, a design collaborative,
   and author of a new book about the approaches professionals can take to valuing
   their project rates called _Pricing Design_, which published by A Book Apart.

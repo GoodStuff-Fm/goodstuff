@@ -16,7 +16,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
   during checkout to get 10% off your first year.
 episode: 75
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-75.mp3
+mp3: https://media.transistor.fm/435e5396.mp3
 video: https://www.youtube.com/embed/3gENZl9t4z4
 layout: episode
 ---
