@@ -5,7 +5,7 @@ episode: 67
 show: atu2
 description: 'Matt and Chris are joined by the band December to talk about their new
   album 33 which contains 10 U2 songs that they''ve reinterpreted as an ode to U2. '
-mp3: http://podcasts-1.feedpress.co/12572/atu2-67.mp3
+mp3: https://media.transistor.fm/086be689.mp3
 image: "/uploads/atu2-67.jpg"
 video: 
 layout: episode

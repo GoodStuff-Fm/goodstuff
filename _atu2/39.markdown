@@ -2,7 +2,7 @@
 title: This is Bongolese Preserved for the Ages — A Discussion of The Unforgettable
   Fire
 date: 2016-09-08 03:02:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-39.mp3
+mp3: https://media.transistor.fm/3cd147eb.mp3
 episode: 39
 description: Marylinn, Tassoula, Matt, and Chris are back discussing U2’s 1984 album
   The Unforgettable Fire. New producers on the record and a new location to record

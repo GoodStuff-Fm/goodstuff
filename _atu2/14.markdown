@@ -12,7 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
   during checkout to get 10% off your first year.
 episode: 14
 show: atu2
-mp3: http://podcasts-1.feedpress.co/12572/atu2-14.mp3
+mp3: https://media.transistor.fm/9217edf6.mp3
 layout: episode
 ---
 

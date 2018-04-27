@@ -6,7 +6,7 @@ episode: 74
 show: atu2
 description: Tassoula, OMG Chris, Collin, and Chris break down Songs of Experience
   song by song and get into all the love and hate we could handle of U2's latest.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-74.mp3
+mp3: https://media.transistor.fm/43195bb1.mp3
 image: "/uploads/atu2-74.jpg"
 video: https://www.youtube.com/embed/exABD_5IUD8
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production

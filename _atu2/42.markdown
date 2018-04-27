@@ -1,7 +1,7 @@
 ---
 title: I Know We’re Not Talking About the Film — A Discussion of Rattle & Hum
 date: 2016-10-20 03:05:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-42.mp3
+mp3: https://media.transistor.fm/023df4b7.mp3
 episode: 42
 description: 'It’s time for our musical journey - a look back at Rattle & Hum, U2’s
   6th album. Kenny, Sherry, Aaron, and Chris are back to talk through the album as
