@@ -7,7 +7,7 @@ description: 'The U2 machine is rumbling again! Not only is the Joshua Tree Tour
   about to resume, but U2 fans are getting strange letters promoting a new song and
   it looks like an album announcement could be coming soon. Sherry, Becky, Mason and
   Matt talk about all that, and answer your #askatu2 questions, in our latest podcast.'
-mp3: http://podcasts-1.feedpress.co/12572/atu2-65.mp3
+mp3: https://media.transistor.fm/62119d38.mp3
 layout: episode
 ---
 

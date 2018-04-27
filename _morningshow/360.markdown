@@ -8,7 +8,7 @@ image: "/uploads/morningshow-360.png"
 description: It's like eating a large chicken with your mutant aunt while watching
   the eclipse in VR at a baseball stadium.
 video: https://www.youtube.com/embed/by3xS7mgGaQ
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-360.mp3
+mp3: https://media.transistor.fm/ae503041.mp3
 layout: episode
 ---
 

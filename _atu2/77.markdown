@@ -6,7 +6,7 @@ show: atu2
 description: Join Tassoula, Matt, and Chris as we countdown the year that was for
   U2. From the Joshua Tree tour announcement up to the Live at the BBC concert, we
   cover the highlights of 2017 for U2.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-77.mp3
+mp3: https://media.transistor.fm/9441a865.mp3
 image: "/uploads/atu2-77.jpg"
 video: https://www.youtube.com/embed/YbwGYtlfGSA
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production

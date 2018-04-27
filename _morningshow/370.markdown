@@ -2,7 +2,7 @@
 title: Model 3 Frozen Burrito
 date: 2017-11-21 17:48:00 -06:00
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-370.mp3
+mp3: https://media.transistor.fm/69a50018.mp3
 description: It's like a eating full meal of Pringles, grilled cheese, Tesla burritos,
   and fake fast food secret menu items in a theater.
 episode: 370

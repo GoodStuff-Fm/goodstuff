@@ -1,7 +1,7 @@
 ---
 title: No Girly Hearts — A Discussion of All That You Can’t Leave Behind
 date: 2017-01-05 03:10:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-46.mp3
+mp3: https://media.transistor.fm/b9e278be.mp3
 episode: 46
 description: All that you fashion and all that you make can turn into a 90m discussion
   of All That You Can’t Leave Behind. Ian, Sherry, Tassoula, Marylinn, and Chris spend

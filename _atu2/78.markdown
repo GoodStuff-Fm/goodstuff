@@ -6,7 +6,7 @@ show: atu2
 description: Chris Endrinal joins Chris to talk about the musical theory behind 4
   songs from Songs of Experience - Red Flag Day, Little Things, American Soul, and
   You're the Best Thing About Me.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-78.mp3
+mp3: https://media.transistor.fm/beefc07e.mp3
 image: "/uploads/atu2-78.jpg"
 video: https://www.youtube.com/embed/VQt5xxIkrKE
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production

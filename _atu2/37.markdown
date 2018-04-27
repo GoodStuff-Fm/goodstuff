@@ -1,7 +1,7 @@
 ---
 title: He Was Paid in Mars Bars — A Discussion of War
 date: 2016-08-04 02:59:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-37.mp3
+mp3: https://media.transistor.fm/2c82719e.mp3
 episode: 37
 description: Tassoula, Becky, Marylinn, and Chris continue our album by album discussion
   with War, U2's third album, and some (on this podcast) would claim as their best.

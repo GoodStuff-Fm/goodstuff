@@ -4,7 +4,7 @@ date: 2017-05-01 10:00:00 -06:00
 position: 20
 show: morningshow
 episode: 347
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-347.mp3
+mp3: https://media.transistor.fm/c05f3192.mp3
 description: It's like Alexa screaming a nacho recipe at you while you drive to New
   York to get an ice-cold ketchup drink with thrice-fried chicken on top that glows
   in the dark.

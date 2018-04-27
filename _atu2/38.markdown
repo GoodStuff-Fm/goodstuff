@@ -1,7 +1,7 @@
 ---
 title: It’s All About Bono’s T-Shirt — Under a Blood Red Sky
 date: 2016-08-26 03:01:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-38.mp3
+mp3: https://media.transistor.fm/01fd413c.mp3
 episode: 38
 description: Kenny, Sherry, and Chris continue our album series by discussing this
   live album from U2 released in 1983. Hair, guitar solos, bass intros, and plaid

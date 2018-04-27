@@ -14,7 +14,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
   during checkout to get 10% off your first year
 episode: 335
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-335.mp3
+mp3: https://media.transistor.fm/1f6e0865.mp3
 layout: episode
 ---
 

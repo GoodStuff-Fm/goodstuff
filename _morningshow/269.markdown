@@ -12,7 +12,7 @@ description: We watched the Super Bowl so you don't have to, Kyle became a pizza
   over the weekend, Utah wants you to throw their stuff into lakes, Salads at McDonald's
   are fatter than fat, We play Audio Pictionary, and more.
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/transmission-269.mp3
+mp3: https://media.transistor.fm/294c6492.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

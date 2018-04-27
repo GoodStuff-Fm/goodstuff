@@ -2,7 +2,7 @@
 title: Pyramid Cake
 date: 2017-12-27 11:12:00 -06:00
 show: morningshow
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-375.mp3
+mp3: https://media.transistor.fm/11049fe5.mp3
 description: It's like a robot is reading lines for Mickey while eating the world's
   heaviest ancient Egyptian fruit cake from the other Antarctica.
 image: "/uploads/morningshow-375.png"

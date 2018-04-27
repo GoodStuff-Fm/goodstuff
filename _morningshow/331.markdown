@@ -7,7 +7,7 @@ description: Sandwiches under your bed, Doritos Hot or Not?, playing a pizza-sha
   flute, regretful Soylent talk, and Kenny ponders the social pressures of wrist computers.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-331.mp3
+mp3: https://media.transistor.fm/d92022e1.mp3
 ---
 
 # Support Us

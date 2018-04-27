@@ -4,7 +4,7 @@ date: 2017-06-23 11:35:00 -06:00
 position: 16
 show: morningshow
 episode: 353
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-353.mp3
+mp3: https://media.transistor.fm/6ee34dbd.mp3
 image: "/uploads/morningshow-353.png"
 description: It's like telling your stomachist that you've eaten fig newtons, cashews
   with glass, and 50,000 lbs of Charlie the Chicken while sailing on the Hydrogen

@@ -7,7 +7,7 @@ description: It's like playing Donkey Kong Country while drinking Spicy Watermel
 show: morningshow
 episode: 354
 image: "/uploads/morningshow-354.png"
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-354.mp3
+mp3: https://media.transistor.fm/a06e90d4.mp3
 layout: episode
 ---
 

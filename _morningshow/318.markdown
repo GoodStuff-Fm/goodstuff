@@ -13,7 +13,7 @@ description: Nullam non rutrum odio. In vel tincidunt enim. Proin lobortis ipsum
   odio facilisis. Aenean vehicula consequat metus, and more!
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-318.mp3
+mp3: https://media.transistor.fm/31bca956.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

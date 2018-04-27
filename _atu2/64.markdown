@@ -5,7 +5,7 @@ episode: 64
 show: atu2
 description: Matt, Ian and Sherry are back to discuss the rumors surrounding Songs
   of Experience and the two videos the band recently filmed.
-mp3: http://podcasts-1.feedpress.co/12572/atu2-64.mp3
+mp3: https://media.transistor.fm/7874daba.mp3
 layout: episode
 ---
 

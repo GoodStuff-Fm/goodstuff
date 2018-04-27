@@ -13,7 +13,7 @@ description: We discover the origins of pizza, Noodles of every shape and form, 
   a hidden colony of orange tans!, Food Friday, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-283.mp3
+mp3: https://media.transistor.fm/73c7bb48.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

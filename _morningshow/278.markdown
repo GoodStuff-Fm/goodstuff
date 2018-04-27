@@ -14,7 +14,7 @@ description: It's the last day we have to say the word 'February'!, We cover the
   more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-278.mp3
+mp3: https://media.transistor.fm/ce06569e.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

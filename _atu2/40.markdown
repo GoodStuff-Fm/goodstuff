@@ -1,7 +1,7 @@
 ---
 title: Live From the Rock Hall of Fame with Dave Fanning
 date: 2016-09-29 03:03:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-40.mp3
+mp3: https://media.transistor.fm/427b44f4.mp3
 episode: 40
 description: 'From #U240 in Cleveland at the Rock Hall we recorded a live conversation
   with Dave Fanning about his history with U2 - stories of hearing new albums in Bono’s

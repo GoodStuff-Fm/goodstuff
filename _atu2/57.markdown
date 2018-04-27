@@ -3,7 +3,7 @@ title: The Dalton Brothers
 date: 2017-04-27 15:30:00 -06:00
 show: atu2
 episode: 57
-mp3: http://podcasts-1.feedpress.co/12572/atu2-57.mp3
+mp3: https://media.transistor.fm/050d9830.mp3
 description: 'Sherry, Matt, and Chris gather round the fire to swap stories of a band
   that only plays two kinds of music: country and western'
 video: https://www.youtube.com/embed/n93CFx02QnQ?rel=0

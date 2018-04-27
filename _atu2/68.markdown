@@ -7,7 +7,7 @@ description: 'Neil McCormick joins the show to talk about his new book, #Zero, w
   he is crowdfunding support for. Neil talks about what kind of pop star Zero is,
   his decision to go the crowdfunding route, the state of book publishing in 2017,
   and what the heck is that face on his bookshelf?'
-mp3: http://podcasts-1.feedpress.co/12572/atu2-68.mp3
+mp3: https://media.transistor.fm/787e144b.mp3
 image: "/uploads/atu2-68.jpg"
 video: 
 layout: episode

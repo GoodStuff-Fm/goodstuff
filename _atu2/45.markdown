@@ -1,7 +1,7 @@
 ---
 title: Maybe I Had My Lemon Up My Butt — A Discussion of Pop
 date: 2016-12-08 03:09:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-45.mp3
+mp3: https://media.transistor.fm/bf2e128d.mp3
 episode: 45
 description: Ian, Sherry, Marylinn, and Chris take on one of U2’s under-appreciated
   albums that had a complicated arrival to the world with a lot of flash on the surface.

@@ -12,7 +12,7 @@ description: On July 3, 1916, in his small roadside restaurant, now Woodman’s 
   it is believed Chubby served his customers the first modern day deep fried claims.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-327.mp3
+mp3: https://media.transistor.fm/b9605409.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

@@ -8,7 +8,7 @@ description: It's like filling out your dating profile with your most hated food
   your ideal chip flavor, your ideal water flavor, and hot chicken.
 image: 
 video: 
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-362.mp3
+mp3: https://media.transistor.fm/8d9e3546.mp3
 layout: episode
 ---
 

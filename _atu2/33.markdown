@@ -1,7 +1,7 @@
 ---
 title: I Got 6 GA Tickets Sitting In The Pew In Church
 date: 2016-06-02 02:55:00 -06:00
-mp3: http://podcasts-1.feedpress.co/12572/atu2-33.mp3
+mp3: https://media.transistor.fm/bc2164a1.mp3
 episode: 33
 description: Tim, Matt, Sherry, and Chris talk about how and when to introduce your
   family to U2, what to do if your family doesn’t like U2 (Chris learned it’s not

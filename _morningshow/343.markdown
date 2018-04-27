@@ -3,7 +3,7 @@ title: Twinkie Goo
 date: 2017-04-04 10:03:00 -06:00
 position: 25
 episode: 343
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-343.mp3
+mp3: https://media.transistor.fm/4bd7b903.mp3
 description: 'Welcome to The Goodstuff Morning Show: It''s like sneaking into the
   movie theater with cordon bleu in your purse to see a movie with a Tyrannosaurus
   Rex on Mars.'

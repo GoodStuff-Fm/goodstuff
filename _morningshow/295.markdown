@@ -13,7 +13,7 @@ description: Amazon really wants us to read, Facebook is trying to revive chatbo
   car horn, 2 Stupid Games, and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-295.mp3
+mp3: https://media.transistor.fm/e8bcd8b1.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

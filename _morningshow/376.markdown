@@ -3,7 +3,7 @@ title: It's in My Smart Toilet
 date: 2018-01-09 11:03:00 -06:00
 show: morningshow
 episode: 376
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-376.mp3
+mp3: https://media.transistor.fm/b598dab8.mp3
 image: "/uploads/morningshow-376.png"
 description: It's like getting down with the sickness. You know, getting up and getting
   down with the sickness? Come on, just get down with the sickness. *cough* *cough*

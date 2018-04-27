@@ -6,7 +6,7 @@ episode: 381
 description: It's like it's your birthday! We gon' party like it's yo birthday! We
   gon' sip Bacardi like it's your birthday! And you know we don't give a ****, it's
   still your birthday!
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-381.mp3
+mp3: https://media.transistor.fm/39c922d0.mp3
 image: "/uploads/morningshow-381.png"
 layout: episode
 ---

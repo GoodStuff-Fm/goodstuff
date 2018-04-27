@@ -13,7 +13,7 @@ description: Texas has a lot going on today, KILL FLASH, Kyle and Kenny learn wh
   and more.
 show: morningshow
 layout: episode
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-307.mp3
+mp3: https://media.transistor.fm/e262eb2e.mp3
 sponsor: Feed.Press
 sponsor-link: http://feed.press/morningshow
 sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try

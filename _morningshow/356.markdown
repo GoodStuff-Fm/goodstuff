@@ -6,7 +6,7 @@ show: morningshow
 episode: 356
 description: It's like getting a pre-portioned meal with cheese, caviar, breakfast
   ketchup, and a burger with pizza buns delivered to your door via waterslide.
-mp3: http://podcasts-1.feedpress.co/10588/morningshow-356.mp3
+mp3: https://media.transistor.fm/396d8be9.mp3
 image: "/uploads/morningshow-356.png"
 video: https://www.youtube.com/embed/o0_0ZwTfCxE
 layout: episode
