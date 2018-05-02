@@ -150,4 +150,5 @@ include:
 gems:
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-admin
 reddit: https://www.reddit.com/r/Goodstuff_fm/
