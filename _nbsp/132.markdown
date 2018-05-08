@@ -4,7 +4,7 @@ date: 2017-09-26 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 132
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-132.mp3
+mp3: https://media.transistor.fm/38ca4364.mp3
 description: Christopher Schmitt is out, but that doesn't mean you can't enjoy the
   time Nicole Sullivan talked about how she read W3C specs for fun, Lou Rosenfeld
   trying not to start a war between IA vs. UX, and how Jessica Hische became a success.

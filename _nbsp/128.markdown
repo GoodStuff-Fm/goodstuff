@@ -4,7 +4,7 @@ date: 2017-08-15 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 128
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-128.mp3
+mp3: https://media.transistor.fm/78403c90.mp3
 description: Peter Nowell is an independent designer, whose clients include Apple,
   Flinto, and Juice Shop. Peter is also the creator of Sketch Master, a set of online
   video courses for learning Sketch app.

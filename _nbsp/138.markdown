@@ -4,7 +4,7 @@ date: 2017-11-21 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 138
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-138.mp3
+mp3: https://media.transistor.fm/82c0ae27.mp3
 description: Brenda Storer returns! Brenda is a Front End Developer and Designer at
   thoughtbot. She recently won Best Presentation at CSS Dev Conf 2017 New Orleans.
   Her talk focused on the topic of practical CSS grid layouts.

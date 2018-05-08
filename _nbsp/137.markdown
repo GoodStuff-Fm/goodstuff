@@ -4,7 +4,7 @@ date: 2017-11-06 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 137
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-137.mp3
+mp3: https://media.transistor.fm/15a96e02.mp3
 description: Rachel Andrew returns! Rachel is a sought out expert on web design layout
   technologies like CSS Grid and Flexbox, an invited expert to CSS Working Group,
   and author of several books. Her latest book, *The New CSS Layout*, is out now from

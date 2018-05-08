@@ -4,7 +4,7 @@ date: 2017-10-31 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 136
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-136.mp3
+mp3: https://media.transistor.fm/040a5bae.mp3
 description: Joined with Simon St. Laurent in talking with Aral Balkan. Aral is a
   cyborg rights activist and one-third of Ind.ie, a small non-profit organization
   working for social justice in the digital age. At Ind.ie, he works on Better, a

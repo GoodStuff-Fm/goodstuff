@@ -5,7 +5,7 @@ date: 2017-11-28 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 139
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-139.mp3
+mp3: https://media.transistor.fm/a0b09ad0.mp3
 description: Joined with Simon St. Laurent in talking with Dr. Sean Brannon and Paul
   Schmitt. Dr. Brannon is Professor from the Dept. of Mechanical and Nuclear Engineering
   at The Pennsylvania State University; affiliated faculty to the Thomas D. Larson
