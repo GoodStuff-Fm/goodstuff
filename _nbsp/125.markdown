@@ -4,7 +4,7 @@ date: 2017-07-11 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 125
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-125.mp3
+mp3: https://media.transistor.fm/0c922bea.mp3
 description: Kirupa Chinnathambi works as a Program Manager in the Web Platform team
   at Microsoft. His latest book, *Creating Web Animations* published by O'Reilly Media,
   examines how animations are made in today's user interfaces.

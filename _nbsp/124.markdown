@@ -4,7 +4,7 @@ date: 2017-07-04 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 124
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-124.mp3
+mp3: hhttps://media.transistor.fm/479ca3d5.mp3
 description: Lara Hogan is an engineering director at Etsy and the author of *Designing
   for Performance* and the coauthor of *Building a Device Lab*. Her latest book, *Demystifying
   Public Speaking*, tackles every step involved in taking the podium and delivering

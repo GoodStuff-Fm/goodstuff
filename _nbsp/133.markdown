@@ -5,7 +5,7 @@ date: 2017-10-11 07:00:00 -06:00
 position: 1
 show: nbsp
 episode: 133
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-133.mp3
+mp3: https://media.transistor.fm/9841a59d.mp3
 description: Discovery doesn't get Star Trek or maybe it's the biggest con since Star
   Trek II? Meanwhile, iPhone X's Notch changes how we view web design and more in
   this week's Top (n+1) News Stories of the Week!

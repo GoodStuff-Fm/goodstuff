@@ -4,7 +4,7 @@ date: 2017-08-30 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 130
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-130.mp3
+mp3: https://media.transistor.fm/bb5f5d8b.mp3
 description: Nathan Curtis co-founded EightShapes in 2006 and is passionate about
   interaction design, information architecture, and front-end development. He specializes
   in design systems consulting for teams large and small, regularly writing about

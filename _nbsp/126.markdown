@@ -4,7 +4,7 @@ date: 2017-07-19 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 126
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-126.mp3
+mp3: https://media.transistor.fm/36f29cd5.mp3
 description: Jina Anne and Michah Godbolt are back on the show, but together for the
   first time, to talk about design systems, how they are using design systems at their
   respective jobs, and what is the state of design systems.
@@ -33,7 +33,7 @@ layout: episode
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [Jina Anne](https://www.sushiandrobots.com) 
+* [Jina Anne](https://www.sushiandrobots.com)
 * [Jina Anne on Twitter](https://twitter.com/jina)
 * [Non Breaking Space Show №20 with Jina Bolton](https://goodstuff.fm/nbsp/20)
 * [Micah GodBolt](https://micahgodbolt.com)

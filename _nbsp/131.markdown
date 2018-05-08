@@ -4,7 +4,7 @@ date: 2017-08-31 09:00:00 -06:00
 position: 1
 show: nbsp
 episode: 131
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-131.mp3
+mp3: https://media.transistor.fm/ae8b6939.mp3
 description: Rachel Nabors has worked with Mozilla, the W3C, and Salesforce. Currently,
   Rachel is a Program Manager on the Microsoft Edge Team representing Web design and
   animation communities.

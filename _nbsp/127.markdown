@@ -4,7 +4,7 @@ date: 2017-07-31 10:00:00 -06:00
 position: 1
 show: nbsp
 episode: 127
-mp3: https://podcasts-1.feedpress.co/10609/nbsp-127.mp3
+mp3: https://media.transistor.fm/a138d1c2.mp3
 description: Since 2008, Dan Denney has worked closely with designers and writing
   HTML, CSS and JavaScript. He also founded the Front End Design Conference in St.
   Petersburg, FL. After working as a front-end developer at Code School, Dan is currently
