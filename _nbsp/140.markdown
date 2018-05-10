@@ -6,33 +6,33 @@ position: 1
 show: nbsp
 episode: 140
 mp3: https://media.transistor.fm/5b3a5ff6.mp3
-description: Christopher and Simon talk about your cousin's DNA and the legal system,
+description: Christopher Schmitt and Simon St. Laurent talk about your cousin's DNA and the legal system,
   Apple getting out of routers, Avengers Infinity War, getting off Google Analytics
   and Facebook, and Flickr getting bought by Smugmug.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv140&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv140&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video: 
-image: 
+video: https://www.youtube.com/embed/0bfsaIN6_fw
+image: https://goodstuff.fm/nbsp/img/nbsptv-simonstl-140.jpg
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[1:50](#t=1:50)** Introductions and returns to the show
-* **[6:30](#t=6:30)** #1 Relative's DNA from genealogy websites cracked East Area Rapist case, DA's office says
-* **[13:40](#t=13:40)** #2 Apple's Done Making Routers
-* **[25:30](#t=25:30)** #3 Avengers: Infinity War smashing box office records
-* **[46:50](#t=46:50)** #4 Turning Off Google Analytics
-* **[1:02:02](#t=1:02:02)** #5 Zuckerberg's comments in front of Congress
-* **[1:09:15](#t=1:09:15)** #6 Flickr gets bought by Smugmug
+* **[1:50](https://goodstuff.fm/nbsp/140#t=1:50)** Introductions
+* **[6:30](https://goodstuff.fm/nbsp/140#t=6:30)** Story #1 — Relative's DNA from genealogy websites cracked East Area Rapist case, DA's office says
+* **[13:40](https://goodstuff.fm/nbsp/140#t=13:40)** Story #2 — Apple's Done Making Routers
+* **[25:30](https://goodstuff.fm/nbsp/140#t=25:30)** Story #3 — _Avengers: Infinity War_ smashing box office records
+* **[46:50](https://goodstuff.fm/nbsp/140#t=46:50)** Story #4 — Turning Off Google Analytics
+* **[1:02:02](https://goodstuff.fm/nbsp/140#t=1:02:02)** Story #5 — Zuckerberg's comments in front of Congress
+* **[1:09:15](https://goodstuff.fm/nbsp/140#t=1:09:15)** Story #6 — Flickr gets bought by Smugmug
 
 ### Links:
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [SimonStl.com](http://simonstl.com)
+* [Simon St. Laurent](http://simonstl.com)
 * [Relative's DNA from genealogy websites cracked East Area Rapist case, DA's office says](http://www.sacbee.com/latest-news/article209913514.html)
 * [How a Genealogy Website Led to the Alleged Golden State Killer](https://thebestsites.com/website/literary-cultural-commentary-magazine-atlantic/)
 * [The Daily Friday May 4th on Golden State Killer DNA Story](https://pca.st/8f3L)
@@ -46,7 +46,6 @@ layout: episode
 * [Facebook f8 Developer Conference](https://www.f8.com/)
 * [Facebook Dating Looks a Whole Lot Like Hinge](https://www.wired.com/story/facebook-dating-hinge-app/)
 * [flickr agrees to be acquired by SmugMug](https://www.smugmug.com/together/)
-
 
 ### Follow The Non Breaking Space Show
 
