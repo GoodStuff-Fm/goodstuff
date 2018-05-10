@@ -6,8 +6,8 @@ show: atu2
 description: On this episode Chris gets Tassoula & Matt to open up about their experience
   at U2's eXPERIENCE + iNNOCENCE. Also - we get some help from the livestream audience
   on what's going on with that One video.
-mp3: 
-image: ''
+mp3: https://media.transistor.fm/3a4ac5c6.mp3
+image: "/uploads/atu2-81-5c0ec4.jpg"
 video: https://www.youtube.com/embed/SfL9SflLD3o
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
