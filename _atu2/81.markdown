@@ -1,11 +1,13 @@
 ---
-title: "Just End the Show: A Review of U2's E+I Tour (So Far)"
+title: 'Just End the Show: A Review of U2''s E+I Tour (So Far)'
 date: 2018-05-09 08:00:00 -06:00
 episode: 81
 show: atu2
-description: "On this episode Chris gets Tassoula & Matt to open up about their experience at U2's eXPERIENCE + iNNOCENCE. Also - we get some help from the livestream audience on what's going on with that One video."
-mp3:
-image: ""
+description: On this episode Chris gets Tassoula & Matt to open up about their experience
+  at U2's eXPERIENCE + iNNOCENCE. Also - we get some help from the livestream audience
+  on what's going on with that One video.
+mp3: 
+image: ''
 video: https://www.youtube.com/embed/SfL9SflLD3o
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
