@@ -11,9 +11,26 @@
 
     <div class="container">
 
+      <!-- List of all of our shows -->
+      <div class="container__our-shows">
+          <div class="page__header"><h1>Our Shows</h1></div>
+          <div class="our-shows">
+              {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true or collection.hidden == true %} {% assign show = site.data.shows[collection.label] %}
+              <div class="our-shows__list">
+                  <div class="our-shows__artwork">
+                      <a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" /></a>
+                  </div>
+                  <div class="our-shows__title"><a href="{{ show.collection }}">{{ show.name }}</a></div>
+              </div>
+              {% endunless %} {% endfor %}
+          </div>
+      </div>
+<hr class="page__rule">
+
+
         <!-- Latest Episodes -->
 
-        <h1 class="page__header">Latest Episodes</h1> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true or collection.hidden == true %} {%
+        <h1 class="page__header">Listen to a Recent Episode of One of Our Shows</h1> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.label == 'specials' or collection.label == 'aux' or collection.retired == true or collection.hidden == true %} {%
         assign show = site.data.shows[collection.label] %} {% assign latest = collection.docs | sort | reverse %} {% for doc in latest offset:1 limit:1 %}
 
         <div class="latest-episode">
@@ -48,22 +65,11 @@
 
         </div>
 
-        <hr class="page__rule"> {% endfor %} {% endunless %} {% endfor %}
+        {% endfor %} {% endunless %} {% endfor %}
+        <hr class="page__rule">
 
-        <!-- List of all of our shows -->
-        <div class="container__our-shows">
-            <div class="our-shows__header">Our Shows</div>
-            <div class="our-shows">
-                {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true or collection.hidden == true %} {% assign show = site.data.shows[collection.label] %}
-                <div class="our-shows__list">
-                    <div class="our-shows__artwork">
-                        <a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" /></a>
-                    </div>
-                    <div class="our-shows__title"><a href="{{ show.collection }}">{{ show.name }}</a></div>
-                </div>
-                {% endunless %} {% endfor %}
-            </div>
-        </div>
+
+
     </div>
 
     </div>
