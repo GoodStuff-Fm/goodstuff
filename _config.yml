@@ -147,7 +147,7 @@ sass:
   sass_dir: "./styles"
 include:
 - twitter
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
 - jekyll-admin
