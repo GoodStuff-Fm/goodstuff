@@ -7,6 +7,7 @@ description: It’s like Kenny forgot to tell Kyle until after the show last tim
 show: todaysspecial
 layout: episode
 image: https://images.transistor.fm/images/episode/1595/full_1523590826-artwork.jpg
+slug: '122'
 mp3: https://media.transistor.fm/f83991c5.mp3
 ---
 
