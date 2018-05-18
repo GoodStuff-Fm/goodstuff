@@ -67,7 +67,7 @@ collections:
   morningshow:
     title: Morning Show
     output: true
-    permalink: "/morningshow/:episode"
+    permalink: "/morningshow/:path"
     retired: false
     live: false
   neverdigdown:
@@ -104,7 +104,7 @@ collections:
   todaysspecial:
     title: Today's Special
     output: true
-    permalink: "/todaysspecial/:episode"
+    permalink: "/todaysspecial/:path"
     slug: todaysspecial
     retired: false
     live: false
