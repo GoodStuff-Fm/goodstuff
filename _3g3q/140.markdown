@@ -8,6 +8,7 @@ description: Sauce estimation, depression, and tarps.
 sponsor: Our Parents’ Expectations
 episode: 140
 image: "/uploads/3G3Q%20-%20S10E01%20-%20Episode%20Art%20-%20L.jpg"
+layout: episode
 ---
 
 # Questions 
