@@ -1,7 +1,7 @@
 ---
 title: S05:E02.5 - “Lightning Round”
 date: 2015-10-15 23:45:00 -06:00
-position: 74
+position: 73
 mp3: http://podcasts-1.feedpress.co/13789/18519.mp3
 episode: 64
 show: 3g3q
