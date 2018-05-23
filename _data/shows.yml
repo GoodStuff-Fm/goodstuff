@@ -85,7 +85,7 @@ wts:
   category3: "Technology"
   category4:
   category5:
-  rss: http://feed.3g3q.co/
+  rss: https://feeds.transistor.fm/3-guys-3-questions
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
   pocketcasts: http://pca.st/Mw9G
@@ -129,7 +129,7 @@ morningshow:
   category3: "Technology"
   email: kyle@goodstuff.fm
   support:
-  rss: http://feeds.goodstuff.fm/transmission
+  rss: https://feeds.transistor.fm/the-goodstuff-morning-show
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   appid: 843374491
   pocketcasts: http://pca.st/transmission
