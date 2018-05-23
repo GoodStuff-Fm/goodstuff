@@ -2,6 +2,7 @@
 title: S10:E01 - "Teen Court"
 date: 2018-05-22 17:00:00 -06:00
 published: false
+position: 2
 mp3: 
 show: 3g3q
 description: Sauce estimation, depression, and tarps.

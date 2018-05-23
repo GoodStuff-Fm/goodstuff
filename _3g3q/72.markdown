@@ -1,7 +1,7 @@
 ---
 title: S05:E06.5 - Lightning Round
 date: 2015-11-19 23:33:00 -06:00
-position: 61
+position: 66
 mp3: http://podcasts-1.feedpress.co/13789/20980.mp3
 episode: 72
 show: 3g3q

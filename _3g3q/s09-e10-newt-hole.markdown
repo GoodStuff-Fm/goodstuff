@@ -1,5 +1,6 @@
 ---
 title: S09:E10 - "Newt Hole"
+position: 3
 episode: '111'
 description: Bards, Sunday sleepovers, & The Chive
 show: 3g3q
