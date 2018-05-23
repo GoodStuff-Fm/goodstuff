@@ -1,7 +1,7 @@
 ---
 title: S09:E01 - "Brainerd, MN"
 date: 2017-09-20 00:00:00 -06:00
-position: 8
+position: 13
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S09E01.mp3
 show: 3g3q
 description: Maladies, biopics, & factoids

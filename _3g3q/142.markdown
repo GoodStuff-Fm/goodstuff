@@ -2,6 +2,7 @@
 title: S10:E03 - "Butt Blaster Through the Universe"
 date: 2018-06-05 12:31:00 -06:00
 published: false
+position: 0
 mp3: 
 show: 3g3q
 description: This episode is all about saying “excelsior”.
