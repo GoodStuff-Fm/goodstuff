@@ -6,6 +6,8 @@ description: Sauce estimation, depression, and tarps.
 show: 3g3q
 slug: 140
 mp3: https://media.transistor.fm/365d4cfe.mp3
+image: "/uploads/3G3Q%20-%20S10E01%20-%20Episode%20Art%20-%20S.jpg"
+sponsor: Our Parents’ Expectations
 layout: episode
 ---
 
