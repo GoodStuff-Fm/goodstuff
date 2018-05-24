@@ -1,14 +1,14 @@
 ---
-title: Woo or Whatever
+title: Woo or Whatever - U2 Plays in Chicago and Our Podcast Opens For Them - Kinda
 date: 2018-05-24 08:00:00 -06:00
 episode: 82
 show: atu2
 description: 'We talk U2''s #U2eiTour stop in Chicago, Bono and Edge on Ellen, and
   your questions about set lists, Joshua Tree 2017 tour video, Pop remasters, and
   where to go for drinks in Nashville.'
-mp3: 
-image: ''
-video: https://www.youtube.com/embed/
+mp3: https://media.transistor.fm/4cb455c5.mp3
+image: "/uploads/atu2-82.jpg"
+video: https://www.youtube.com/embed/ZYjy6FNVllY
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -23,7 +23,7 @@ layout: episode
 
 ### Show Notes
 
-* [Watch a video version of this episode]()
+* [Watch a video version of this episode](https://www.youtube.com/watch?v=ZYjy6FNVllY)
 * [Free U2 ei Tour Wallpapers for your phone](https://www.atu2.com/news/free-u2eitour-wallpapers-for-your-smartphone.html)
 * [atU2 News Brief on Anchor](https://anchor.fm/atu2)
 * [Mix 104.1 Radio](https://mix1041.radio.com)
