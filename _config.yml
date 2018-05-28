@@ -2,6 +2,13 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
+  icebreaker:
+    title: Icebreaker
+    output: true
+    permalink: "/icebreaker/:slug"
+    slug: icebreaker
+    retired: false
+    live: false
   3g3q:
     title: 3G3Q
     output: true
