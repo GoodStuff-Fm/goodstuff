@@ -1,9 +1,11 @@
 ---
-title:  "Is Yakupov done in the NHL? Who will benefit most from the rising Cap?"
+title: Is Yakupov done in the NHL? Who will benefit most from the rising Cap?
 date: 2017-04-01 12:11:00 -06:00
 episode: 6
 mp3: https://media.transistor.fm/baf4474c.mp3
-description: "Happy Easter, everyone! It's Episode 6, and we talk Yakupov, Scott Foster, the rising Cap, and who it benefits most. Plus, we play our first ever game on the podcast!"
+description: Happy Easter, everyone! It's Episode 6, and we talk Yakupov, Scott Foster,
+  the rising Cap, and who it benefits most. Plus, we play our first ever game on the
+  podcast!
 show: icebreaker
 image: "/"
 layout: episode

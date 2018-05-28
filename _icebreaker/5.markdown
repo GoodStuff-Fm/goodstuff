@@ -1,9 +1,11 @@
 ---
-title:  "Flames, William Karlsson, and checking in with trade deadline players."
+title: Flames, William Karlsson, and checking in with trade deadline players.
 date: 2017-03-25 12:11:00 -06:00
 episode: 5
 mp3: https://media.transistor.fm/c29e79a1.mp3
-description: "WE LIVE WITH EPISODE FIVE! Break into a jive. Okay, enough rhyming. Will the Flames make a big trade for a 1st round pick? What's William Karlsson's next contract going to look like? We also check in on the players acquired at the deadline."
+description: WE LIVE WITH EPISODE FIVE! Break into a jive. Okay, enough rhyming. Will
+  the Flames make a big trade for a 1st round pick? What's William Karlsson's next
+  contract going to look like? We also check in on the players acquired at the deadline.
 show: icebreaker
 image: "/"
 layout: episode

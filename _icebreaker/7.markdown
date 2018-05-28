@@ -1,9 +1,11 @@
 ---
-title:  "Holland, Vigneault, the Sedins, and a full playoff preview!"
+title: Holland, Vigneault, the Sedins, and a full playoff preview!
 date: 2017-04-08 12:11:00 -06:00
 episode: 7
 mp3: https://media.transistor.fm/a57af551.mp3
-description: "The playoffs are (nearly) here! We touch on Ken Holland's extension, Vigneault's firing, the Sedins retiring, and we do a breakdown of each playoff series, and give our predictions! You heard them here first from 2 (non) experts."
+description: The playoffs are (nearly) here! We touch on Ken Holland's extension,
+  Vigneault's firing, the Sedins retiring, and we do a breakdown of each playoff series,
+  and give our predictions! You heard them here first from 2 (non) experts.
 show: icebreaker
 image: "/"
 layout: episode
