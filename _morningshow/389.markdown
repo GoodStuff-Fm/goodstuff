@@ -5,7 +5,6 @@ episode: 389
 description: It's like we drove into a restaurant, ordered a bunch of old segments,
   and ate it all shamefully in the car.
 show: morningshow
-slug: 389
 mp3: https://media.transistor.fm/a81c25bc.mp3
 layout: episode
 ---
