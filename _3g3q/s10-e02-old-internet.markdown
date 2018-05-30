@@ -6,7 +6,7 @@ description: "* * * * * [LOADING]"
 show: 3g3q
 slug: 141
 mp3: https://media.transistor.fm/be9bc746.mp3
-image: 
+image: uploads/3G3Q%20-%20S10E02%20-%20Episode%20Art%20-%20S.jpg
 sponsor: 
 layout: episode
 ---
