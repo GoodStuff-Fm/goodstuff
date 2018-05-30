@@ -1,9 +1,8 @@
 ---
 title: S10:E02 - "Old Internet"
 date: 2018-05-29 12:23:00 -06:00
-published: false
 position: 1
-mp3: 
+mp3: https://media.transistor.fm/be9bc746.mp3
 show: 3g3q
 description: "* * * * * [LOADING]"
 sponsor: making sure nobody picks up the phone while we’re recording
