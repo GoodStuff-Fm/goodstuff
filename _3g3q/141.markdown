@@ -1,6 +1,7 @@
 ---
 title: S10:E02 - "Old Internet"
-date: 2018-05-29 12:23:00 -06:00
+date: 2018-05-30 12:23:00 -06:00
+permalink: "/3g3q/141"
 position: 1
 mp3: https://media.transistor.fm/be9bc746.mp3
 show: 3g3q
@@ -8,6 +9,7 @@ description: "* * * * * [LOADING]"
 sponsor: making sure nobody picks up the phone while we’re recording
 episode: 141
 image: "/uploads/3G3Q%20-%20S10E02%20-%20Episode%20Art%20-%20S.jpg"
+layout: episode
 ---
 
 # Questions 
