@@ -2,7 +2,7 @@
 title: Youtube Pluremium
 date: 2018-05-19 13:54:00 -06:00
 show: morningshow
-mp3: https://transistorfm.s3.amazonaws.com/media/62/3453a7bc604fa8eb4bfe9d7327531004.mp3
+mp3: https://media.transistor.fm/1605c4b6.mp3
 description: It's like we didn't record a show for two months and then recorded in-person
   while eating snacks from Japan.
 image: "/uploads/morningshow-388.png"
