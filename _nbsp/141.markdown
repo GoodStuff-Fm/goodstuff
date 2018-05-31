@@ -20,7 +20,7 @@ layout: episode
 
 ### Time Jumps
 
-* **[1:51](#t=1:51)** Story #1 - Woman says her Amazon device recorded private conversation, sent it out to random contact.
+* **[1:51](#t=1:51)** Story #1 - Woman says her Amazon device recorded private conversation.
 * **[8:40](#t=8:40)** Story #2 - Baboon escapes cage at airport.
 * **[11:05](#t=11:05)** Story #3 - Uber closes self driving operations in Arizona.
 * **[18:50](#t=18:50)** Story #4 - The US is running out of bombs.
