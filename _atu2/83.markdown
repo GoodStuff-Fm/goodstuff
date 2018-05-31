@@ -7,7 +7,7 @@ description: Caroline van Oosten de Boer joins Chris to talk about where she got
   with U2 and she also helps Chris answer a bunch of questions about U2's current
   tour and more.
 mp3: https://media.transistor.fm/683dba2b.mp3
-image: 
+image: "/uploads/atu2-83.jpg"
 video: https://www.youtube.com/embed/eKWZdGkPr8k
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
