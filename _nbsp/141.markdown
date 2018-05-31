@@ -5,7 +5,7 @@ published: false
 position: 1
 show: nbsp
 episode: 141
-mp3: 
+mp3: https://media.transistor.fm/edf6895e.mp3
 description: Simon and Christopher talk about news in the world of tech like Amazon
   recording your conversations, Uber closing self driving operations, GDPR, the new
   Star Wars movie, and Twitter mixing it up with politics.
