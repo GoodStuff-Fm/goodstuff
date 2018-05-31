@@ -1,11 +1,13 @@
 ---
-title: "Maybe You're Not Sleeping With the Right Person - An AMA About U2"
+title: Maybe You're Not Sleeping With the Right Person - An AMA About U2
 date: 2018-05-31 08:00:00 -06:00
 episode: 83
 show: atu2
-description: "Caroline van Oosten de Boer joins Chris to talk about where she got started with U2 and she also helps Chris answer a bunch of questions about U2's current tour and more."
+description: Caroline van Oosten de Boer joins Chris to talk about where she got started
+  with U2 and she also helps Chris answer a bunch of questions about U2's current
+  tour and more.
 mp3: https://media.transistor.fm/683dba2b.mp3
-image: ""
+image: ''
 video: https://www.youtube.com/embed/eKWZdGkPr8k
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
