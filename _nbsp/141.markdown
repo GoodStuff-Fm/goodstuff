@@ -1,7 +1,6 @@
 ---
 title: Simon St. Laurent — GDPR n' Roses
 date: 2018-05-30 09:00:00 -06:00
-published: false
 position: 1
 show: nbsp
 episode: 141
