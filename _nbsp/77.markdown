@@ -14,7 +14,7 @@ episode: 77
 show: nbsp
 mp3: https://media.transistor.fm/b4c5770a.mp3
 video: https://www.youtube.com/embed/ZBsCgV2k9tk
-image: https://goodstuff.fm/nbsp/img/nbsptv-wren-lanier.jpg
+image: /uploads/nbsptv-wren-lanier.jpg
 layout: episode
 ---
 

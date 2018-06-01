@@ -12,7 +12,7 @@ sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today an
 episode: 66
 show: nbsp
 mp3: https://media.transistor.fm/bef256a6.mp3
-image: https://goodstuff.fm/nbsp/img/nbsptv-svg-summit-2016.jpg
+image: /uploads/nbsptv-svg-summit-2016.jpg
 layout: episode
 ---
 

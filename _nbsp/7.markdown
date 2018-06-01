@@ -11,7 +11,7 @@ sponsor-copy:
 episode: 7
 show: nbsp
 mp3: https://media.transistor.fm/33e2723f.mp3
-image: https://goodstuff.fm/nbsp/img/nbsptv-brad-frost-7.jpg
+image: /uploads/nbsptv-brad-frost-7.jpg
 video: https://www.youtube.com/embed/XEPVPrm9dp4
 layout: episode
 ---

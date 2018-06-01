@@ -16,7 +16,7 @@ episode: 96
 show: nbsp
 mp3: https://media.transistor.fm/9046968a.mp3
 video: https://www.youtube.com/embed/-A43xUdPgIw
-image: https://goodstuff.fm/nbsp/img/nbsptv-nick-pettit.jpg
+image: /uploads/nbsptv-nick-pettit.jpg
 layout: episode
 ---
 

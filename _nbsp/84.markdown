@@ -13,7 +13,7 @@ episode: 84
 show: nbsp
 mp3: https://media.transistor.fm/63d93e90.mp3
 video: https://www.youtube.com/embed/BSG8L_06RGs
-image: https://goodstuff.fm/nbsp/img/nbsptv-scott-mccloud.jpg
+image: /uploads/nbsptv-scott-mccloud.jpg
 layout: episode
 ---
 

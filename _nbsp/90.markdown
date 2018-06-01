@@ -13,7 +13,7 @@ episode: 90
 show: nbsp
 mp3: https://media.transistor.fm/32ab5699.mp3
 video: https://www.youtube.com/embed/zE7YSufH25s
-image: https://goodstuff.fm/nbsp/img/nbsptv-chris-coyier.jpg
+image: /uploads/nbsptv-chris-coyier.jpg
 layout: episode
 ---
 
