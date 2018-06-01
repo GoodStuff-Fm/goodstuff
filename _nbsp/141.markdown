@@ -6,14 +6,14 @@ position: 1
 show: nbsp
 episode: 141
 mp3: https://media.transistor.fm/edf6895e.mp3
-description: Simon and Christopher talk about news in the world of tech like Amazon
-  recording your conversations, Uber closing self driving operations, GDPR, the new
-  Star Wars movie, and Twitter mixing it up with politics.
+description: Simon St. Laurent joins Christopher Schmitt talk about Amazon recording
+  personal conversations, Uber closing self-driving operations, the awakening of GDPR,
+  the new Star Wars movie, and Twitter mixing it up with politics.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv141&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv141&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video: https://www.youtube.com/embed/
+video: https://www.youtube.com/embed/mpiPPEnnHKo
 image: "/uploads/Ep-141---posterframe.jpg"
 layout: episode
 ---
