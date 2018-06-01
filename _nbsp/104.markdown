@@ -15,7 +15,7 @@ episode: 104
 show: nbsp
 mp3: https://media.transistor.fm/8b11d460.mp3
 video: https://www.youtube.com/embed/4dtU22Huq-I
-image: /uploads/nbsptv-simonstl.jpg
+image: "/uploads/nbsptv-simonstl.jpg"
 layout: episode
 ---
 

@@ -13,7 +13,7 @@ episode: 79
 show: nbsp
 mp3: https://media.transistor.fm/d1b4c518.mp3
 video: https://www.youtube.com/embed/6E5cFroFq90
-image: /uploads/nbsptv-leslie-jensen-inman.jpg
+image: "/uploads/nbsptv-leslie-jensen-inman.jpg"
 layout: episode
 ---
 

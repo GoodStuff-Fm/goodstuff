@@ -17,7 +17,7 @@ sponsor-copy:
 episode: 9
 show: nbsp
 mp3: https://media.transistor.fm/dcf1d3a0.mp3
-image: /uploads/nbsptv-kristina-halvorson.jpg
+image: "/uploads/nbsptv-kristina-halvorson.jpg"
 layout: episode
 ---
 

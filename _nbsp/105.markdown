@@ -14,7 +14,7 @@ episode: 105
 show: nbsp
 mp3: https://media.transistor.fm/dcbbbe7c.mp3
 video: https://www.youtube.com/embed/KD3QJfamAEQ
-image: /uploads/nbsptv-jonathan-stark.jpg
+image: "/uploads/nbsptv-jonathan-stark.jpg"
 layout: episode
 ---
 

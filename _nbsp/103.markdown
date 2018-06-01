@@ -15,7 +15,7 @@ episode: 103
 show: nbsp
 mp3: https://media.transistor.fm/17e8914b.mp3
 video: https://www.youtube.com/embed/Bit_5tlgfiw
-image: /uploads/nbsptv-brad-frost.jpg
+image: "/uploads/nbsptv-brad-frost.jpg"
 layout: episode
 ---
 

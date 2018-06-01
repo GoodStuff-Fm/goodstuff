@@ -13,7 +13,7 @@ sponsor-copy:
 episode: 43
 show: nbsp
 mp3: https://media.transistor.fm/b65d5631.mp3
-image: /uploads/nbsptv-jared-spool.jpg
+image: "/uploads/nbsptv-jared-spool.jpg"
 video: https://www.youtube.com/embed/Tbh61AANinc
 layout: episode
 ---

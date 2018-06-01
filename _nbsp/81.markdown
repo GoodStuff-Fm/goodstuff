@@ -17,7 +17,7 @@ episode: 81
 show: nbsp
 mp3: https://media.transistor.fm/5f1bae65.mp3
 video: https://www.youtube.com/embed/__2D3zrdKAU
-image: /uploads/nbsptv-matt-griffin.jpg
+image: "/uploads/nbsptv-matt-griffin.jpg"
 layout: episode
 ---
 

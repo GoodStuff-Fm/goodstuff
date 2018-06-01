@@ -16,7 +16,7 @@ episode: 76
 show: nbsp
 mp3: https://media.transistor.fm/95cdd159.mp3
 video: https://www.youtube.com/embed/2jPS8_euZ_g
-image: /uploads/nbsptv-sean-vanaman.jpg
+image: "/uploads/nbsptv-sean-vanaman.jpg"
 layout: episode
 ---
 

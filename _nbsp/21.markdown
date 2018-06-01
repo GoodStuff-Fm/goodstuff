@@ -14,7 +14,7 @@ episode: 21
 show: nbsp
 mp3: https://media.transistor.fm/39d2dd70.mp3
 layout: episode
-image: /uploads/nbsptv-jessica-hische.jpg
+image: "/uploads/nbsptv-jessica-hische.jpg"
 video: https://www.youtube.com/embed/7D301riH9iI"
 ---
 

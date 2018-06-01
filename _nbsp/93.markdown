@@ -13,7 +13,7 @@ episode: 93
 show: nbsp
 mp3: https://media.transistor.fm/2f0e785c.mp3
 video: https://www.youtube.com/embed/S2Z733xsuhs
-image: /uploads/nbsptv-cecy-correa.jpg
+image: "/uploads/nbsptv-cecy-correa.jpg"
 layout: episode
 ---
 

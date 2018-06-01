@@ -16,7 +16,7 @@ sponsor-copy:
 episode: 10
 show: nbsp
 mp3: https://media.transistor.fm/79ae93c9.mp3
-image: /uploads/nbsptv-aarron-walter.jpg
+image: "/uploads/nbsptv-aarron-walter.jpg"
 layout: episode
 ---
 

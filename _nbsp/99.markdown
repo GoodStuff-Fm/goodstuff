@@ -14,7 +14,7 @@ episode: 99
 show: nbsp
 mp3: https://media.transistor.fm/4b4fcd7a.mp3
 video: https://www.youtube.com/embed/eSXvrc0Wa8Q
-image: /uploads/nbsptv-mat-marquis.jpg
+image: "/uploads/nbsptv-mat-marquis.jpg"
 layout: episode
 ---
 

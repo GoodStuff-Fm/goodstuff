@@ -14,7 +14,7 @@ episode: 89
 show: nbsp
 mp3: https://media.transistor.fm/bd4c4d8d.mp3
 video: https://www.youtube.com/embed/Ww0nQJYvy9M
-image: /uploads/nbsptv-wes-bos.jpg
+image: "/uploads/nbsptv-wes-bos.jpg"
 layout: episode
 ---
 

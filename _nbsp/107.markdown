@@ -14,7 +14,7 @@ episode: 107
 show: nbsp
 mp3: https://media.transistor.fm/b373dd46.mp3
 video: https://www.youtube.com/embed/Y7wIoAAL48M
-image: /uploads/nbsptv-hugh-forrest.jpg
+image: "/uploads/nbsptv-hugh-forrest.jpg"
 layout: episode
 ---
 

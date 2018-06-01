@@ -14,7 +14,7 @@ episode: 14
 show: nbsp
 mp3: https://podcasts-1.feedpress.co/10609/nbsp-14.mp3
 video: https://www.youtube.com/embed/dIzZFKVKcZ0
-image: /uploads/nbsptv-lou-rosenfeld.jpg
+image: "/uploads/nbsptv-lou-rosenfeld.jpg"
 layout: episode
 ---
 

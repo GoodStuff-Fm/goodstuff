@@ -14,7 +14,7 @@ episode: 106
 show: nbsp
 mp3: https://media.transistor.fm/9d897e7d.mp3
 video: https://www.youtube.com/embed/ich3uW6u3FI
-image: /uploads/nbsptv-dudley-storey.jpg
+image: "/uploads/nbsptv-dudley-storey.jpg"
 layout: episode
 ---
 
