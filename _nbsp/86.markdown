@@ -14,7 +14,7 @@ episode: 86
 show: nbsp
 mp3: https://media.transistor.fm/0e889bb3.mp3
 video: https://www.youtube.com/embed/j-hMZyQw-GE
-image: https://goodstuff.fm/nbsp/img/nbsptv-dave-olsen.jpg
+image: /uploads/nbsptv-dave-olsen.jpg
 layout: episode
 ---
 

@@ -11,7 +11,7 @@ episode: 101
 show: nbsp
 mp3: https://media.transistor.fm/35e6f970.mp3
 video: https://www.youtube.com/embed/HE5UtJ9Rv74
-image: https://goodstuff.fm/nbsp/img/nbsptv-lauren-golembiewski.jpg
+image: /uploads/nbsptv-lauren-golembiewski.jpg
 layout: episode
 ---
 

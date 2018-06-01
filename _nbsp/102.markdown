@@ -13,7 +13,7 @@ episode: 102
 show: nbsp
 mp3: https://media.transistor.fm/3fd4760b.mp3
 video: https://www.youtube.com/embed/ZP6ZyPwUxg0
-image: https://goodstuff.fm/nbsp/img/nbsptv-cssdevconf-2016.jpg
+image: /uploads/nbsptv-cssdevconf-2016.jpg
 layout: episode
 ---
 

@@ -14,7 +14,7 @@ sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=n
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv133&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
 video: https://www.youtube.com/embed/dCfZ1gfURPU
-image: https://goodstuff.fm/nbsp/img/nbsptv-simonstl-133.jpg
+image: /uploads/nbsptv-simonstl-133.jpg
 layout: episode
 ---
 

@@ -13,7 +13,7 @@ episode: 109
 show: nbsp
 mp3: https://media.transistor.fm/92e14fed.mp3
 video: https://www.youtube.com/embed/BwqO-_ZA3Yo
-image: https://goodstuff.fm/nbsp/img/nbsptv-steve-portigal.jpg
+image: /uploads/nbsptv-steve-portigal.jpg
 layout: episode
 ---
 
