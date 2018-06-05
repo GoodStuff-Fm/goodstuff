@@ -1,0 +1,27 @@
+---
+title: Pasta Car
+date: 2018-05-29 08:00:00 -06:00
+show: morningshow
+mp3: https://media.transistor.fm/b160d80f.mp3
+episode: 390
+description: It's like doing a cannon ball right into a N64 game while trying to squeeze
+  Rob Zombie onto a cartridge while discussing food opinions and slipping on all the
+  wet gum on the ground.
+slug: 390
+layout: episode
+---
+
+Hey! Sorry for the audio issues this episode. We had to use the backup stream audio from Twitch.
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
