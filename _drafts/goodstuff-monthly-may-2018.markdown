@@ -1,6 +1,7 @@
 ---
 title: 'Goodstuff Monthly: May 2018'
 date: 2018-06-04 18:00:00 -06:00
+image: 
 ---
 
 Hey there 👋🏻 It's been a while since we've put together a snapshot of our stats for the month. Almost a year, in fact. So in the interest of improved transparency here at Goodstuff, here are our numbers for May 2018 - patrons, listeners, site visitors, and anything else you'd like to know:
