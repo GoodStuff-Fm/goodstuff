@@ -54,6 +54,7 @@ collections:
     live: false
     hidden: false
     slug: wts
+
 defaults:
   -
     scope:
@@ -65,6 +66,7 @@ defaults:
       show: "morningshow"
       description:
       episode:
+permalink: pretty
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.fm
