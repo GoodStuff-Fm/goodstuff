@@ -3,125 +3,125 @@ title: Goodstuff.FM
 timezone: America/Regina
 collections:
     3g3q:
-    title: 3G3Q
-    output: true
-    permalink: "/3g3q/:path"
-    slug: 3g3q
-    retired: false
-    live: false
-  buzzled:
-    title: Buzzled
-    output: true
-    permalink: "/buzzled/:path"
-    slug: buzzled
-    retired: true
-    live: false
-  clockworks:
-    title: Clockworks - A Legion Podcast
-    output: true
-    permalink: "/clockworks/:path"
-    retired: false
-    live: false
-  dailyish:
-    title: Daily(ish)
-    output: true
-    permalink: "/dailyish/:path"
-    description: Just as it says on the tin this is a daily(ish) podcast from Chris
-      Enns.
-    retired: false
-    live: false
-  specials:
-    title: Goodstuff Specials
-    output: false
-    permalink: "/specials/:path"
-    retired: true
-    live: false
-  highcontrast:
-    title: High Contrast
-    output: true
-    permalink: "/highcontrast/:path"
-    slug: highcontrast
-    description: Kyle and Chris talk about nerdy things that relate to a singular
-      topic from two different perspectives.
-    retired: false
-    live: false
-    hidden: false
-  grownups:
-    title: I Guess We're Grown-Ups Now
-    output: true
-    permalink: "/grownups/:path"
-    retired: false
-    live: false
-  icebreaker:
-    title: Icebreaker
-    output: true
-    permalink: "/icebreaker/:path"
-    slug: icebreaker
-    retired: false
-    live: false
-  ll:
-    title: Lost & Lemon
-    output: true
-    permalink: "/ll/:slug"
-    retired: true
-    live: false
-  morningshow:
-    title: Morning Show
-    output: true
-    permalink: "/morningshow/:path"
-    retired: false
-    live: false
-  neverdigdown:
-    title: Never Dig Down
-    output: true
-    permalink: "/neverdigdown/:path"
-    retired: true
-    live: false
-  nbsp:
-    title: Non Breaking Space Show
-    output: true
-    permalink: "/nbsp/:path"
-    live: false
-    retired: false
-  people:
-    title: People
-    output: true
-    permalink: "/people/:path"
-  posts:
-    title: Posts
-    output: true
-  smym:
-    title: Show Me Your Mic
-    output: true
-    permalink: "/smym/:path"
-    retired: true
-    live: false
-  atu2:
-    title: The atU2 Podcast
-    output: true
-    permalink: "/atu2/:path"
-    live: false
-    retired: false
-  todaysspecial:
-    title: Today's Special
-    output: true
-    permalink: "/todaysspecial/:path"
-    retired: false
-    live: false
-  uploads:
-    title: Uploads
-    output: true
-  wts:
-    title: Way Too Seriously
-    output: true
-    permalink: "/wts/:path"
-    description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett
-      talk about the implicit biases, the assumptions, and the thematic implications
-      of kids' movies with exactly the appropriate level of seriousness.
-    retired: false
-    live: false
-    hidden: false
-    slug: wts
+      title: 3G3Q
+      output: true
+      permalink: "/3g3q/:path"
+      slug: 3g3q
+      retired: false
+      live: false
+    buzzled:
+      title: Buzzled
+      output: true
+      permalink: "/buzzled/:path"
+      slug: buzzled
+      retired: true
+      live: false
+    clockworks:
+      title: Clockworks - A Legion Podcast
+      output: true
+      permalink: "/clockworks/:path"
+      retired: false
+      live: false
+    dailyish:
+      title: Daily(ish)
+      output: true
+      permalink: "/dailyish/:path"
+      description: Just as it says on the tin this is a daily(ish) podcast from Chris
+        Enns.
+      retired: false
+      live: false
+    specials:
+      title: Goodstuff Specials
+      output: false
+      permalink: "/specials/:path"
+      retired: true
+      live: false
+    highcontrast:
+      title: High Contrast
+      output: true
+      permalink: "/highcontrast/:path"
+      slug: highcontrast
+      description: Kyle and Chris talk about nerdy things that relate to a singular
+        topic from two different perspectives.
+      retired: false
+      live: false
+      hidden: false
+    grownups:
+      title: I Guess We're Grown-Ups Now
+      output: true
+      permalink: "/grownups/:path"
+      retired: false
+      live: false
+    icebreaker:
+      title: Icebreaker
+      output: true
+      permalink: "/icebreaker/:path"
+      slug: icebreaker
+      retired: false
+      live: false
+    ll:
+      title: Lost & Lemon
+      output: true
+      permalink: "/ll/:slug"
+      retired: true
+      live: false
+    morningshow:
+      title: Morning Show
+      output: true
+      permalink: "/morningshow/:path"
+      retired: false
+      live: false
+    neverdigdown:
+      title: Never Dig Down
+      output: true
+      permalink: "/neverdigdown/:path"
+      retired: true
+      live: false
+    nbsp:
+      title: Non Breaking Space Show
+      output: true
+      permalink: "/nbsp/:path"
+      live: false
+      retired: false
+    people:
+      title: People
+      output: true
+      permalink: "/people/:path"
+    posts:
+      title: Posts
+      output: true
+    smym:
+      title: Show Me Your Mic
+      output: true
+      permalink: "/smym/:path"
+      retired: true
+      live: false
+    atu2:
+      title: The atU2 Podcast
+      output: true
+      permalink: "/atu2/:path"
+      live: false
+      retired: false
+    todaysspecial:
+      title: Today's Special
+      output: true
+      permalink: "/todaysspecial/:path"
+      retired: false
+      live: false
+    uploads:
+      title: Uploads
+      output: true
+    wts:
+      title: Way Too Seriously
+      output: true
+      permalink: "/wts/:path"
+      description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett
+        talk about the implicit biases, the assumptions, and the thematic implications
+        of kids' movies with exactly the appropriate level of seriousness.
+      retired: false
+      live: false
+      hidden: false
+      slug: wts
 defaults:
 - scope:
     path: ''
