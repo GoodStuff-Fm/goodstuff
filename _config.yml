@@ -2,6 +2,81 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
+    3g3q:
+    title: 3G3Q
+    output: true
+    permalink: "/3g3q/:slug"
+    slug: 3g3q
+    retired: false
+    live: false
+  aux:
+    title: Auxiliary
+    output: false
+    permalink: "/aux/:slug"
+    retired: true
+    live: false
+  buzzled:
+    title: Buzzled
+    output: true
+    permalink: "/buzzled/:slug"
+    slug: buzzled
+    retired: true
+    live: false
+  clockworks:
+    title: Clockworks - A Legion Podcast
+    output: true
+    permalink: "/clockworks/:slug"
+    retired: false
+    live: false
+  dailyish:
+    title: Daily(ish)
+    output: true
+    permalink: "/dailyish/:slug"
+    description: Just as it says on the tin this is a daily(ish) podcast from Chris
+      Enns.
+    retired: false
+    live: false
+  specials:
+    title: Goodstuff Specials
+    output: false
+    permalink: "/specials/:slug"
+    retired: true
+    live: false
+  highcontrast:
+    title: High Contrast
+    output: true
+    permalink: "/highcontrast/:slug"
+    slug: highcontrast
+    description: Kyle and Chris talk about nerdy things that relate to a singular
+      topic from two different perspectives.
+    retired: false
+    live: false
+    hidden: false
+  grownups:
+    title: I Guess We're Grown-Ups Now
+    output: true
+    permalink: "/grownups/:slug"
+    retired: false
+    live: false
+  icebreaker:
+    title: Icebreaker
+    output: true
+    permalink: "/icebreaker/:slug"
+    slug: icebreaker
+    retired: false
+    live: false
+  ll:
+    title: Lost & Lemon
+    output: true
+    permalink: "/ll/:slug"
+    retired: true
+    live: false
+  morningshow:
+    title: Morning Show
+    output: true
+    permalink: "/morningshow/:slug"
+    retired: false
+    live: false
   neverdigdown:
     title: Never Dig Down
     output: true
@@ -37,7 +112,6 @@ collections:
     title: Today's Special
     output: true
     permalink: "/todaysspecial/:path"
-    slug: todaysspecial
     retired: false
     live: false
   uploads:
@@ -60,10 +134,10 @@ defaults:
     type: morningshow
   values:
     layout: episode
-    mp3: 
+    mp3:
     show: morningshow
-    description: 
-    episode: 
+    description:
+    episode:
 permalink: pretty
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
