@@ -5,13 +5,13 @@ collections:
   neverdigdown:
     title: Never Dig Down
     output: true
-    permalink: "/neverdigdown/:slug"
+    permalink: "/neverdigdown/:path"
     retired: true
     live: false
   nbsp:
     title: Non Breaking Space Show
     output: true
-    permalink: "/nbsp/:slug"
+    permalink: "/nbsp/:path"
     live: false
     retired: false
   people:
@@ -24,19 +24,19 @@ collections:
   smym:
     title: Show Me Your Mic
     output: true
-    permalink: "/smym/:slug"
+    permalink: "/smym/:path"
     retired: true
     live: false
   atu2:
     title: The atU2 Podcast
     output: true
-    permalink: "/atu2/:slug"
+    permalink: "/atu2/:path"
     live: false
     retired: false
   todaysspecial:
     title: Today's Special
     output: true
-    permalink: "/todaysspecial/:slug"
+    permalink: "/todaysspecial/:path"
     slug: todaysspecial
     retired: false
     live: false
@@ -46,7 +46,7 @@ collections:
   wts:
     title: Way Too Seriously
     output: true
-    permalink: "/wts/:slug"
+    permalink: "/wts/:path"
     description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett
       talk about the implicit biases, the assumptions, and the thematic implications
       of kids' movies with exactly the appropriate level of seriousness.
@@ -60,10 +60,10 @@ defaults:
     type: morningshow
   values:
     layout: episode
-    mp3: 
+    mp3:
     show: morningshow
-    description: 
-    episode: 
+    description:
+    episode:
 permalink: pretty
 url: https://goodstuff.fm
 podcast_subtitle: A network of good shows with good people doing good things
