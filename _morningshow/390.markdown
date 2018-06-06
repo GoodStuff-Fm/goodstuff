@@ -7,7 +7,7 @@ episode: 390
 description: It's like doing a cannon ball right into a N64 game while trying to squeeze
   Rob Zombie onto a cartridge while discussing food opinions and slipping on all the
   wet gum on the ground.
-slug: 390
+path: 390
 layout: episode
 ---
 
