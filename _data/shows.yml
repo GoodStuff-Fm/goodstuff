@@ -5,7 +5,7 @@ icebreaker:
   collection: icebreaker
   hosts: Spencer Meisner and Matt Jennings
   description: Hockey from every angle.
-  artwork: "/uploads/icebreaker-small.jpg"
+  artwork: "/uploads/icebreaker-artwork.jpg"
   color: "#5658CE"
   show-twitter: icebreaker_pod
   hosts-twitter:
