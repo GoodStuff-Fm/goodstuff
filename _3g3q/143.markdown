@@ -6,6 +6,7 @@ mp3: https://media.transistor.fm/5d70766a.mp3
 image: 
 show: 3g3q
 episode: 143
+layout: episode
 ---
 
 This week we are sponsored by: replacing wood chips with those lil’ rubber cubes
