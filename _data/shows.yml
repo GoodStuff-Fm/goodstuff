@@ -151,13 +151,13 @@ morningshow:
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
-  hosts-twitter: "@dogburps and @kennyaroderick"
+  hosts-twitter: "@dogburps and @kennyroderick_"
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
   email: kyle@goodstuff.fm
   support:
-  rss: https://feeds.transistor.fm/the-goodstuff-morning-show
+  rss: https://goodstuff.fm/morningshow/feed
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   appid: 843374491
   pocketcasts: http://pca.st/transmission

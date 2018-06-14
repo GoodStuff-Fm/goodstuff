@@ -10,8 +10,6 @@ episode: 388
 layout: episode
 ---
 
-
-
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
 
