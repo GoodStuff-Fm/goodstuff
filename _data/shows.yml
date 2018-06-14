@@ -284,6 +284,7 @@ atu2:
   appid: 1018994132
   pocketcasts: http://pca.st/9jwK
   overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
+  latest: https://share.transistor.fm/e/the-atu2-podcast/latest
 aux:
   name: Auxiliary
   lang: EN
