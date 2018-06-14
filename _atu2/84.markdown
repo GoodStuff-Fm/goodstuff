@@ -3,7 +3,8 @@ title: Edge's Calves Probably Aren't Hurting Like This Today
 date: 2018-06-14 08:00:00 -06:00
 episode: 84
 show: atu2
-description: Chris reviews U2's 2 show stop in Montreal, Tassoula covers U2 at The Apollo, and Matt tries to get a word in between.
+description: Chris reviews U2's 2 show stop in Montreal, Tassoula covers U2 at The
+  Apollo, and Matt tries to get a word in between.
 mp3: https://media.transistor.fm/b8b82d0a.mp3
 image: "/uploads/atu2-84.jpg"
 video: https://www.youtube.com/embed/2QK3uUyYt9Y
