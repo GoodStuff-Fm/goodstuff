@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: morningshow
-layout:
+layout: 
 ---
 
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
