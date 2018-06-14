@@ -40,6 +40,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="{{ show.category2 }}" />
 <itunes:category text="{{ show.category3 }}" />
 <itunes:explicit>{{ show.explicit }}</itunes:explicit>
+<itunes:new-feed-url>{{ show.rss }}</itunes:new-feed-url>
 
 {% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
   <item>
