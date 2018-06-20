@@ -5,7 +5,7 @@ position: 0
 show: 3g3q
 description: To-do's, adhesive sticks, and dual monitors
 mp3: https://media.transistor.fm/aed55c16.mp3
-image: 
+image: "/uploads/3G3Q%20-%20S10E05%20-%20Episode%20Art%20-%20S.jpg"
 episode: 144
 layout: episode
 ---
@@ -41,7 +41,7 @@ This week we are sponsored by: all the post-its we’ve stolen from office
 
 # Braaaaaand Engagement
 
-- [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G }) on Twitter!
+- [#Ask3G](http://twitter.com/intent/tweet?text={#Ask3G}) on Twitter!
 - Call/text us: 760–881–4382
 - [Ask on Tumblr](http://3g3q.co/ask)
 - Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
