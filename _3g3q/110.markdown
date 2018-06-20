@@ -1,7 +1,7 @@
 ---
 title: S07:E07.5 - Lightning Round
 date: 2016-07-01 22:03:00 -06:00
-position: 28
+position: 30
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S07E07_5%20-%20Lightning%20Round.mp3
 episode: 110
 show: 3g3q

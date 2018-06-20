@@ -2,7 +2,7 @@
 title: S10:E02 - "Old Internet"
 date: 2018-05-30 12:23:00 -06:00
 permalink: "/3g3q/141"
-position: 1
+position: 3
 mp3: https://media.transistor.fm/be9bc746.mp3
 show: 3g3q
 description: "* * * * * [LOADING]"

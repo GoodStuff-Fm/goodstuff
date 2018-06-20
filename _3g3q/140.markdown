@@ -1,7 +1,7 @@
 ---
 title: S10:E01 - "Teen Court"
 date: 2018-05-23 14:00:00 -06:00
-position: 2
+position: 4
 episode: 140
 description: Sauce estimation, depression, and tarps.
 show: 3g3q
