@@ -88,7 +88,7 @@ wts:
   category4:
   category5:
   rss: https://goodstuff.fm/wts/feed
-  itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790
+  itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790?mt=2&at=10l4Ki&ct=website
   appid: 1250996790
   pocketcasts: http://pca.st/I80b
   overcast: https://overcast.fm/itunes1250996790/way-too-seriously
@@ -136,7 +136,7 @@ dailyish:
   email: chris@goodstuff.fm
   supportlink: http://www.patreon.com/ichris
   rss: https://goodstuff.fm/dailyish/feed
-  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012
+  itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/daily-ish/latest
   appid: 815675012
   pocketcasts: http://pca.st/Vifv
@@ -202,7 +202,7 @@ clockworks:
   email: clockworkscast@gmail.com
   support:
   rss: https://goodstuff.fm/clockworks/feed
-  itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658
+  itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/clockworks-a-legion-podcast/latest
   appid: 1215340658
   pocketcasts: http://pca.st/Os98
@@ -221,7 +221,7 @@ grownups:
   email: kayayarai@gmail.com
   support:
   rss: https://goodstuff.fm/grownups/feed
-  itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2
+  itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2&at=10l4Ki&ct=website
   appid: 920093038
   pocketcasts: http://pca.st/OEf0
   overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
@@ -243,13 +243,13 @@ nbsp:
   email: chris@goodstuff.fm
   support:
   rss: https://goodstuff.fm/nbsp/feed
-  itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981
+  itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981?mt=2&at=10l4Ki&ct=website
   appid: 507162981
   pocketcasts: http://pca.st/Izn0
   overcast: https://overcast.fm/itunes507162981/non-breaking-space-show
   latest: https://share.transistor.fm/e/non-breaking-space-show/latest
 master:
-  explicit: yes
+  explicit: no
   name: Goodstuff Master Audio Feed
   lang: EN
   hosts: Goodstuff.FM
@@ -266,10 +266,10 @@ master:
   category4:
   category5:
   rss: https://goodstuff.fm/feed
-  itunes: https://itunes.apple.com/us/podcast/goodstuff-broadcasting-master/id849966174?mt=2
-  appid: 849966174
+  itunes: https://itunes.apple.com/us/podcast/goodstuff-master-audio-feed/id1332045499?mt=2&at=10l4Ki&ct=website
+  appid: 1332045499
   pocketcasts: http://pca.st/xiPV
-  overcast: https://overcast.fm/itunes849966174/goodstuff-broadcasting-master-audio-feed
+  overcast: https://overcast.fm/itunes1332045499/goodstuff-broadcasting-master-audio-feed
 atu2:
   explicit: no
   name: The atU2 Podcast
@@ -289,7 +289,7 @@ atu2:
   category4:
   category5:
   rss: https://goodstuff.fm/atu2/feed
-  itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2
+  itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2&at=10l4Ki&ct=website
   appid: 1018994132
   pocketcasts: http://pca.st/9jwK
   overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
@@ -369,7 +369,7 @@ smym:
   category4:
   category5:
   rss: https://goodstuff.fm/smym/feed
-  itunes: https://geo.itunes.apple.com/ca/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki
+  itunes: https://itunes.apple.com/us/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki&ct=website
   appid: 602836998
   pocketcasts: http://pca.st/M3P3
   overcast: https://overcast.fm/itunes602836998/show-me-your-mic
@@ -393,7 +393,7 @@ specials:
   category4:
   category5:
   rss: https://goodstuff.fm/specials/feed
-  itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2
+  itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2&at=10l4Ki&ct=website
   appid: 854159948
   pocketcasts: http://pca.st/LvG0
   overcast: https://overcast.fm/itunes854159948/goodstuff-specials
