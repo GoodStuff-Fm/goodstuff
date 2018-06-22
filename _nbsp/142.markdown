@@ -6,7 +6,9 @@ position: 1
 show: nbsp
 episode: 142
 mp3: 
-description: 
+description: Erika Hall is on the show to talk about her new book, Conversational
+  Design, and also about how Mule Design works with teams to communicate and design
+  better and more collaboratively.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv141&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
