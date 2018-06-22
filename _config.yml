@@ -94,7 +94,7 @@ collections:
     title: Show Me Your Mic
     output: true
     permalink: "/smym/:path"
-    retired: true
+    retired: false
     live: false
   atu2:
     title: The atU2 Podcast
