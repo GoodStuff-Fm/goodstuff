@@ -1,7 +1,7 @@
 ---
 title: Feed
 position: 0
-layout: 
+layout:
 show: master
 ---
 
@@ -50,7 +50,7 @@ show: master
 {% unless doc.title == 'Feed' %}
 
 <item>
-  <title>{{ doc.title | xml_escape }}</title>
+  <title>{{ collection.title | xml_escape }} {{ doc.episode | xml_escape }}: {{ doc.title | xml_escape }}</title>
   <link>{{ site.itunes-url }}{{ doc.url }}</link>
   <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
   <description>{{ doc.description | xml_escape }}</description>
@@ -60,13 +60,17 @@ show: master
   <itunes:subtitle>{{ doc.description | xml_escape }}</itunes:subtitle>
   <itunes:summary>{{ doc.description | xml_escape }}</itunes:summary>
   <itunes:duration>{{ doc.duration }}</itunes:duration>
-  <itunes:keywords>{{ show.keywords }}</itunes:keywords>
-  <itunes:image href="{{ show.artwork }}" />
   <itunes:explicit>{{ doc.explicit }}</itunes:explicit>
   <itunes:block>{{ doc.block }}</itunes:block>
-  <content:encoded>
-    <![CDATA[{{ doc.content | xml_escape }}]]>
+  <content:encoded><![CDATA[{{ doc.description | markdownify | expand_urls: site.url | cdata_escape }}<br>
+    {% if doc.sponsor %}
+    This episode of {{ show.name }} is sponsored by: <br>
+        {{ doc.sponsor | markdownify | expand_urls: site.url | cdata_escape }}<br>
+    {% endif %}
+    {{ doc.content | markdownify | expand_urls: site.url | cdata_escape }}
+    ]]>
   </content:encoded>
+  <itunes:image href="{{ site.url }}{{ show.artwork }}" />
 </item>
 
 {% endunless %}
