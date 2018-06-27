@@ -5,6 +5,7 @@ show: 3g3q
 mp3: https://media.transistor.fm/c83254a5.mp3
 image: 
 description: Party Shirts, Hip Hop, & Proven Science
+episode: 145
 layout: episode
 ---
 
