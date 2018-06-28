@@ -4,7 +4,7 @@ date: 2018-06-27 09:00:00 -06:00
 published: false
 position: 1
 show: nbsp
-episode: 144
+episode: 143
 mp3: https://media.transistor.fm/47117acc.mp3
 description: Keith J Grant stops by to talk about his book, CSS In Depth, and what
   he's learned about CSS during the writing process.
