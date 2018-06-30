@@ -6,7 +6,7 @@ description: Brook and Kari talk about adult female friendships, meeting Interne
   work, lessons from Oceans 8, how friendships awkwardly dissipate.
 episode: 39
 show: grownups
-mp3: 
+mp3: https://media.transistor.fm/3f177a4c.mp3
 layout: episode
 ---
 
