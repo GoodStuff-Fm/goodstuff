@@ -1,6 +1,14 @@
 ---
 title: Soggy Microwave
 date: 2018-07-04 11:47:00 -06:00
+show: morningshow
+episode: 391
+mp3: 
+image: 
+description: 'It''s like you warped through space and time and tours to arrive right
+  back at the same place you know and love: Morning Show''s Fair or Not Game featuring
+  the Minnesota State Fair.'
+layout: episode
 ---
 
 - [R.I.P. Warped Tour. At Least We Still Have Vans. - The New York Times](https://www.nytimes.com/2018/07/03/style/warped-tour-vans.html?partner=rss&emc=rss)
