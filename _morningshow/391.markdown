@@ -3,7 +3,7 @@ title: Soggy Microwave
 date: 2018-07-04 11:47:00 -06:00
 show: morningshow
 episode: 391
-mp3: 
+mp3: https://media.transistor.fm/7de896d5.mp3
 image: 
 description: 'It''s like you warped through space and time and tours to arrive right
   back at the same place you know and love: Morning Show''s Fair or Not Game featuring
