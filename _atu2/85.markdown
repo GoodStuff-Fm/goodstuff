@@ -6,7 +6,7 @@ show: atu2
 description: Sherry, Collin, Mason, and Chris recap U2's North American leg of Experience
   + Innocence, Sherry beach house show with Bono and Edge, and other U2 happenings
   in June.
-mp3: 
+mp3: https://media.transistor.fm/a0f0097e.mp3
 image: "/uploads/atu2-85.jpg"
 video: https://www.youtube.com/embed/
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
