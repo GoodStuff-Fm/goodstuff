@@ -8,7 +8,7 @@ description: Sherry, Collin, Mason, and Chris recap U2's North American leg of E
   in June.
 mp3: https://media.transistor.fm/a0f0097e.mp3
 image: "/uploads/atu2-85.jpg"
-video: https://www.youtube.com/embed/
+video: 
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
@@ -23,7 +23,7 @@ layout: episode
 
 ### Show Notes
 
-* [Watch a video version of this episode]()
+* [Watch a video version of this episode](https://www.youtube.com/watch?v=Y1uDFrePFB0)
 * [U2 Conference](http://u2conference.com)
 * [Bono and Edge at Beach House](https://www.atu2.com/news/bono--edge-perform-at-mix-1041-beach-house-event-on-cape-cod.html)
 * [Chris on Twitter](https://twitter.com/iChris)
@@ -35,3 +35,4 @@ layout: episode
 * [Instagram atU2com](https://www.instagram.com/atu2com/)
 * [Flickr atu2](https://www.flickr.com/photos/atu2com/)
 * [Theme song by Simon Peyda](https://simonpeyda.wordpress.com/2016/04/06/how-to-dismantle-a-sirens-song-the-making-of-a-podcast-theme/)
+* [Chris recorded a video of editing the U2 podcast](https://www.youtube.com/watch?v=ZB6K3tnRhP4)
