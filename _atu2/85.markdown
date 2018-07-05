@@ -3,8 +3,10 @@ title: Bono's Used Up His Words for 2018
 date: 2018-07-05 08:00:00 -06:00
 episode: 85
 show: atu2
-description: Sherry, Collin, Mason, and Chris recap U2's North American leg of Experience + Innocence, Sherry beach house show with Bono and Edge, and other U2 happenings in June.
-mp3:
+description: Sherry, Collin, Mason, and Chris recap U2's North American leg of Experience
+  + Innocence, Sherry beach house show with Bono and Edge, and other U2 happenings
+  in June.
+mp3: 
 image: "/uploads/atu2-85.jpg"
 video: https://www.youtube.com/embed/
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
