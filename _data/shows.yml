@@ -169,7 +169,7 @@ todaysspecial:
   hosts: Kyle Roderick and Kenny Roderick
   description: Celebrating a different food each day.
   artwork: "/uploads/artwork-todaysspecial.jpg"
-  color: #5BC4FE
+  color: 
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
   show-twitter: "@goodstufffm"
@@ -185,6 +185,7 @@ todaysspecial:
   appid: 1354730921
   pocketcasts: http://pca.st/d3H2
   overcast: https://overcast.fm/itunes1354730921/todays-special
+  latest: https://share.transistor.fm/e/todaysspecial/latest
 clockworks:
   name: Clockworks - A Legion Podcast
   collection: clockworks
