@@ -11,9 +11,9 @@ Goodstuff.fm's goal is to entertain and educate our listeners on a variety of to
 
 We sell sponsorships on a run-of-network basis, which means your ad is featured on all of our shows for the length of your sponsorship. Your sponsorship will run for 28 days (4 weeks) from the first Monday it is approved.
 
-If you don't already have your ad copy, we'll work with you on crafting the perfect sponsor read that matches the personality of Goodstuff with your campaign.
+If you don't already have your ad copy, we'll work with you on crafting the perfect sponsor read that matches the personality of Goodstuff with your company and specific ad campaign requirements.
 
-## Sponsorships typically include:
+## Sponsorships Typically Include:
 
 * A brief mention during the introduction of the show.
 * A 3-5 minute spot roughly in the middle of the show.
@@ -32,7 +32,7 @@ If you don't already have your ad copy, we'll work with you on crafting the perf
 
 ## Interested?
 
-If you'd like to discuss how a sponsorship on Goodstuff could help your product launch, marketing efforts, or hiring campaign, please contact <a href="mailto:chris@goodstuff.fm">Chris</a> or <a href="matil:kyle@goodstuff.fm">Kyle</a> and let us know:
+If you'd like to discuss how a sponsorship on Goodstuff could help your product launch, marketing efforts, or hiring campaign, please contact <a href="mailto:chris@goodstuff.fm">Chris</a> or <a href="mailto:kyle@goodstuff.fm">Kyle</a> and let us know:
 
 * Your goals for sponsoring
 * Your budget
