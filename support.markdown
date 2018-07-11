@@ -12,15 +12,42 @@ The most direct way to show your support is with your hard-earned monies, Canadi
 
 Plus it literally pays the bills.
 
-## [Support 3 Guys 3 Questions →](http://patreon.com/3g3q)
+* [Support 3 Guys 3 Questions →](http://patreon.com/3g3q)
 
-## [Support Chris Enns →](http://patreon.com/ichris)
+* [Support Chris Enns →](http://patreon.com/ichris)
+
+* [Support Clockworks / Way Too Seriously →](https://www.patreon.com/clockworkscast)
+
+# Newsletter
+
+Want to be notified when we launch the Goodstuff network Patreon campaign? Sign up to the Goodstuff newsletter and we'll let you know:
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://goodstuff.us18.list-manage.com/subscribe/post?u=af3ba6bbcfd21ee3727849b08&amp;id=eb4e76b04f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_af3ba6bbcfd21ee3727849b08_eb4e76b04f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 ***
 
 # The Free Way
 
-## [Write an iTunes Review →](https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2)
+[Write an iTunes Review →](https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2)
 No, not like the road. Like the way you graciously give your time in an effort to help other people find the show! Then again, time = money. So technically you gave us free money?
 
 ***
@@ -29,7 +56,7 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
-## [Google Fi →](https://g.co/fi/r/PRK60H)
+### [Google Fi →](https://g.co/fi/r/PRK60H)
 Fair and simple. Just the phone plan you’ve been craving. Rake in credits for your unused data with a contract-free plan. Plans start at $20/mo for a single line. Sign up today!
 
 ## [Privacy →](https://privacy.com/join/5QM37)
