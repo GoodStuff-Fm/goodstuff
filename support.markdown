@@ -56,6 +56,10 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
+### [Transistor.fm →](https://transistor.fm/?via=chris)
+
+Podcast hosting with a built in website, great analytics, and a couple of nerds who are hungry to improve the state of podcasting in the world.
+
 ### [Google Fi →](https://g.co/fi/r/PRK60H)
 Fair and simple. Just the phone plan you’ve been craving. Rake in credits for your unused data with a contract-free plan. Plans start at $20/mo for a single line. Sign up today!
 
