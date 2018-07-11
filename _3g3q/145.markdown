@@ -9,8 +9,6 @@ episode: 145
 layout: episode
 ---
 
-# Untitled
-
 This week we are sponsored by: [David Avocado Wolfe](http://dobyfriday.com/19)
 
 # Challenges
