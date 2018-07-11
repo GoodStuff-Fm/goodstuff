@@ -7,6 +7,7 @@ description: Conspiracy Theories, chip imperialism, & cart problems.
 show: 3g3q
 mp3: https://media.transistor.fm/e90859ba.mp3
 episode: 147
+image: "/uploads/3G3Q%20-%20S10E08%20-%20Episode%20Art%20-%20S.jpg"
 layout: episode
 ---
 
