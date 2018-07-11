@@ -4,6 +4,7 @@ date: 2018-07-11 14:45:00 -06:00
 description: This episode is all about space!
 show: 3g3q
 mp3: https://media.transistor.fm/91acabad.mp3
+episode: 146
 layout: episode
 ---
 
