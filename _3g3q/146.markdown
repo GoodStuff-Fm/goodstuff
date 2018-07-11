@@ -1,6 +1,7 @@
 ---
 title: S10:E07 - "Oops, I Lost My Lasers"
 date: 2018-07-11 14:45:00 -06:00
+position: 1
 description: This episode is all about space!
 show: 3g3q
 mp3: https://media.transistor.fm/91acabad.mp3

@@ -1,7 +1,7 @@
 ---
 title: S10:E05 "Stress-ball Skee-ball"
 date: 2018-06-20 08:02:00 -06:00
-position: 0
+position: 3
 show: 3g3q
 description: To-do's, adhesive sticks, and dual monitors
 mp3: https://media.transistor.fm/aed55c16.mp3

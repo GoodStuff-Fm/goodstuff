@@ -1,7 +1,7 @@
 ---
 title: S04:E07.5 - "Slip-N-Slide Master"
 date: 2015-06-26 12:11:00 -06:00
-position: 89
+position: 92
 description: Lightning Round
 sponsor: 
 sponsor-link: 

@@ -1,6 +1,7 @@
 ---
 title: S10:E06 - "Oh No, My Podcast!"
 date: 2018-06-27 10:00:00 -06:00
+position: 2
 show: 3g3q
 mp3: https://media.transistor.fm/c83254a5.mp3
 image: 

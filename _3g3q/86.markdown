@@ -1,7 +1,7 @@
 ---
 title: S05:E04.5 - Lightning Round
 date: 2016-02-05 22:53:00 -06:00
-position: 53
+position: 56
 mp3: http://podcasts-1.feedpress.co/13789/3G3Q%20-%20S06E04_5.mp3
 episode: 86
 show: 3g3q

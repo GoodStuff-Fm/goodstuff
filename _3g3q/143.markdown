@@ -1,7 +1,7 @@
 ---
 title: S10:E04 - "Giant Steel Rocket"
 date: 2018-06-13 08:45:00 -06:00
-position: 1
+position: 4
 description: Smooth trunks, weenie roasts, & sega tents
 mp3: https://media.transistor.fm/5d70766a.mp3
 image: "/uploads/3G3Q%20-%20S10E04%20-%20Episode%20Art%20-%20S.jpg"
