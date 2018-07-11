@@ -6,6 +6,7 @@ description: This episode is all about space!
 show: 3g3q
 mp3: https://media.transistor.fm/91acabad.mp3
 episode: 146
+image: "/uploads/3G3Q%20-%20S10E07%20-%20Episode%20Art%20-%20S.jpg"
 layout: episode
 ---
 
