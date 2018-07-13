@@ -5,7 +5,7 @@ position: 1
 show: nbsp
 episode: 142
 mp3: https://media.transistor.fm/07ecdec3.mp3
-description: Co-founder of Mule Design, Erika Hall, joins Christopher talks about
+description: Co-founder of Mule Design, Erika Hall, joins Christopher to talk about
   her new book, Conversational Design, and also about how Mule Design works with teams
   to communicate and design better and more collaboratively.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv141&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
