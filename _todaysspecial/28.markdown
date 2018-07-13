@@ -5,7 +5,7 @@ published: false
 show: todaysspecial
 description: How do you feel about french fries? Which variation is your favorite?
   Is "FryDay" stuck in your head now too?
-mp3: 
+mp3: https://media.transistor.fm/681fe64c.mp3
 layout: episode
 ---
 
