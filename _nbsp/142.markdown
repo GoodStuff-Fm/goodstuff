@@ -1,7 +1,6 @@
 ---
 title: Erika Hall — Conversational Design
 date: 2018-06-21 09:00:00 -06:00
-published: false
 position: 1
 show: nbsp
 episode: 142
