@@ -1,7 +1,6 @@
 ---
 title: French Fry
 date: 2018-07-13 04:00:00 -06:00
-published: false
 show: todaysspecial
 description: How do you feel about french fries? Which variation is your favorite?
   Is "FryDay" stuck in your head now too?
