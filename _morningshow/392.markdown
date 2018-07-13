@@ -6,7 +6,7 @@ description: It's like the new Mac Book announcement is more important than donu
   MAC NEWS POD ON EARTH
 show: morningshow
 episode: 392
-mp3: 
+mp3: https://media.transistor.fm/cc5e12af.mp3
 layout: episode
 ---
 
