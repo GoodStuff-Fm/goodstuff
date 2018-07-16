@@ -1,12 +1,13 @@
 ---
 title: Daiquiri
 date: 2018-07-19 04:00:00 -06:00
-description: Straight-up, blended on ice, or melted in a cup! This Daiquiri is *mine*, not yours!
+published: false
+description: Straight-up, blended on ice, or melted in a cup! This Daiquiri is *mine*,
+  not yours!
 show: todaysspecial
 episode: 32
 mp3: https://media.transistor.fm/7e762813.mp3
 layout: episode
-published: false
 ---
 
 ## Support Us

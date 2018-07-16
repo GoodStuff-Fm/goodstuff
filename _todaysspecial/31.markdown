@@ -1,12 +1,12 @@
 ---
 title: Caviar
 date: 2018-07-18 04:00:00 -06:00
+published: false
 description: They're like Dippin Dots, but fish flavored!
 show: todaysspecial
 episode: 31
 mp3: https://media.transistor.fm/382279cd.mp3
 layout: episode
-published: false
 ---
 
 ## Support Us
