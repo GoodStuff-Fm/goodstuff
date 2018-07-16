@@ -1,7 +1,6 @@
 ---
 title: Corn Fritter
 date: 2018-07-16 04:00:00 -06:00
-published: false
 description: Are they cookies? Are they not? Are they round? What is a corn fritter?
 show: todaysspecial
 episode: 29
