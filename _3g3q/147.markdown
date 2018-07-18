@@ -1,7 +1,6 @@
 ---
 title: S10E08 - "Grammar Judge Dredd"
 date: 2018-07-18 05:00:00 -06:00
-published: false
 position: 0
 description: Conspiracy Theories, chip imperialism, & cart problems.
 show: 3g3q
