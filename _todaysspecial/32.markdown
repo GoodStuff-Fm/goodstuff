@@ -1,7 +1,6 @@
 ---
 title: Daiquiri
 date: 2018-07-19 04:00:00 -06:00
-published: false
 description: Straight-up, blended on ice, or melted in a cup! This Daiquiri is *mine*,
   not yours!
 show: todaysspecial
