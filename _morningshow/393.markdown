@@ -6,6 +6,7 @@ episode: 393
 mp3: https://media.transistor.fm/07eb2521.mp3
 description: It's like you went to the movies alone to see someone play Fortnite in
   VR on a water slide with a bag of deep dish pizza.
+image: "/uploads/morningshow-393.jpg"
 layout: episode
 ---
 
