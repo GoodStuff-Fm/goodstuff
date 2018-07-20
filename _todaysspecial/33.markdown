@@ -1,7 +1,6 @@
 ---
 title: Fortune Cookie
 date: 2018-07-20 04:00:00 -06:00
-published: false
 description: All the troubles you have will pass away very quickly. If winter comes,
   can spring be far behind? Good things are on their way.
 show: todaysspecial
