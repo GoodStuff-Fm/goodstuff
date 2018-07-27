@@ -6,6 +6,7 @@ episode: 394
 description: It's like we're piloting a new show where we read ideas from people and
   talk about them!
 mp3: https://media.transistor.fm/ec8a2a75.mp3
+image: "/uploads/morningshow-394.jpg"
 layout: episode
 ---
 
