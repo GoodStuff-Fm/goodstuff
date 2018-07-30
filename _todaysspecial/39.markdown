@@ -3,7 +3,7 @@ title: Cheesecake
 date: 2018-07-30 04:00:00 -06:00
 show: todaysspecial
 episode: 39
-mp3: 
+mp3: https://media.transistor.fm/eb23193a.mp3
 description: Cheese for dessert!
 ---
 
