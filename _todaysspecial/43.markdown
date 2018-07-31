@@ -5,7 +5,7 @@ published: false
 show: todaysspecial
 episode: 43
 description: Pour one out for Watermelon!
-mp3: 
+mp3: https://media.transistor.fm/6a23cf3f.mp3
 layout: episode
 ---
 
