@@ -1,49 +1,47 @@
 ---
-title: CSS in Depth with Keith J Grant
-date: 2018-06-27 09:00:00 -06:00
+title: Comic Con, Scutoids, and Burnt Out Millennials
+date: 2018-07-31 09:00:00 -06:00
 published: false
 position: 1
 show: nbsp
 episode: 143
-mp3: https://media.transistor.fm/47117acc.mp3
-description: Keith J Grant stops by to talk about his book, CSS In Depth, and what
-  he's learned about CSS during the writing process.
-sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv144&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+mp3: https://media.transistor.fm/ae6816b6.mp3
+description: Simon St. Laurent stops by the show to discuss the winners of Comic-Con San Diego, the finding of a new shape, and the bittersweet tanking of social media companies Twitter and Facebook failing to grow revenue off our data.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv143&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
-  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv144&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv143&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
 video: https://www.youtube.com/embed/
-image: 
+image:
 layout: episode
 ---
 
 ### Time Jumps
 
-* **[0:50](#t=0:50)** How'd you get involved with the web?
-* **[2:45](#t=2:45)** What was your talk about at CSS Dev Conf?
-* **[4:10](#t=4:10)** Setting font sizes to pixels vs ems/rems.
-* **[7:50](#t=7:50)** What was the process for writing your book?
-* **[12:50](#t=12:50)** What topics did you have to leave out?
-* **[16:10](#t=16:10)** Covering grid and float in the same book?
-* **[17:10](#t=17:10)** What's sub grid?
-* **[23:20](#t=23:20)** Why is CSS the most neglected part of the web stack?
-* **[26:30](#t=26:30)** Anything new about CSS that you learned writing this book?
-* **[28:00](#t=28:00)** Do you just port animations over to javascript now?
-
+* **[2:05](#t=2:05)** Story #8 Ranking San Diego Comic Con 2018 Trailers, From Worst to Best
+* **[24:10](#t=24:10)** Story #7 Meet the 11% of Americans who don’t use the internet
+* **[35:20](#t=35:20)** Story #6 Burned-out millennials are quitting lucrative jobs
+* **[42:10](#t=42:10)** Story #5 Facebook’s forecast for the future looks suddenly bleak
+* **[47:15](#t=47:15)** Story #4 Twitter shares drop 19 percent after reporting declining monthly active users
+* **[50:30](#t=50:30)** Story #3 Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots
+* **[55:20](#t=55:20)** Story #2 Scientists discover a new shape and it's been hiding inside your skin
+* **[59:10](#t=59:10)** Story #1 Liquid water 'lake' revealed on Mars
 
 ### Links:
 
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
-* [KeithJGrant](https://keithjgrant.com)
-* [@KeithJGrant on Twitter](https://twitter.com/keithjgrant)
-* [Keith Grant on GitHub](https://github.com/keithjgrant)
-* [CSS In Depth](https://www.manning.com/books/css-in-depth)
-* [Stop Thinking in Pixels](https://keithjgrant.com/talks/stop-thinking-in-pixels/)
-* [CSS Secrets by Lea Verou](http://shop.oreilly.com/product/0636920031123.do)
-* [CSS The Definitive Guide](https://meyerweb.com/eric/books/css-tdg/)
-* [Resilient, Declarative, Contextual](https://keithjgrant.com/posts/2018/06/resilient-declarative-contextual/)
-
+* [Simon on Twitter](https://twitter.com/simonstl)
+* [Best San Dieog Comic Con 2018 Trailers from Worst to Best](https://www.rollingstone.com/movies/movie-features/ranking-san-diego-comic-con-2018-trailers-from-worst-to-best-702373/)
+* [Meet the 11% of Americans who don’t use the internet](https://thehustle.co/meet-the-11-of-americans-who-dont-use-the-internet/)
+* [Burned-out millennials are quitting lucrative jobs](https://nypost.com/2018/07/25/millennials-are-bailing-on-their-high-paying-jobs-to-travel/)
+* [Facebook’s forecast for the future looks suddenly bleak](https://www.theverge.com/2018/7/26/17615330/facebook-earnings-forecast-user-growth-revenue)
+* [Zuckerberg loses more than $15 billion in record Facebook fall](https://www.reuters.com/article/us-facebook-results-stock/zuckerberg-loses-more-than-15-billion-in-record-facebook-fall-idUSKBN1KG1TN)
+* [Twitter shares drop 19 percent after reporting declining monthly active users ](https://www.cnbc.com/2018/07/27/twitter-earnings-q2-2018.html)
+* [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
+* [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
+* [SCUTOID: SCIENTISTS DISCOVER AN ENTIRELY NEW SHAPE—AND IT'S BEEN HIDING INSIDE YOUR SKIN CELLS](https://webcache.googleusercontent.com/search?q=cache:7eTOA5NugRAJ:https://www.newsweek.com/scutoid-scientists-discover-entirely-new-shape-and-its-been-hiding-inside-1045097+&cd=2&hl=en&ct=clnk&gl=us)
+* [Liquid water 'lake' revealed on Mars](https://www.bbc.com/news/science-environment-44952710)
 
 ### Follow The Non Breaking Space Show
 
