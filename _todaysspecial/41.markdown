@@ -5,7 +5,7 @@ published: false
 show: todaysspecial
 episode: 41
 description: So many berries for your pies!
-mp3: 
+mp3: https://media.transistor.fm/4b6648d9.mp3
 layout: episode
 ---
 
