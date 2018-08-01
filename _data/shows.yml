@@ -45,6 +45,7 @@ buzzled:
   pocketcasts:
   overcast:
   youtube: https://www.youtube.com/playlist?list=PLw3RqjOjTPyyiZiHqnke9_Kam9sfXCubS
+  retired: true
 highcontrast:
   name: High Contrast
   lang: EN
@@ -69,6 +70,7 @@ highcontrast:
   pocketcasts: http://pca.st/xfk8
   overcast: https://overcast.fm/itunes1251036231/high-contrast
   latest: https://share.transistor.fm/e/high-contrast/latest
+  retired: true
 wts:
   name: Way Too Seriously
   lang: EN
@@ -332,6 +334,7 @@ ll:
   appid: 467564174
   pocketcasts: http://pca.st/emvK
   overcast: https://overcast.fm/itunes467564174/lost-and-lemon
+  retired: true
 neverdigdown:
   name: Never Dig Down
   collection: neverdigdown
@@ -351,6 +354,7 @@ neverdigdown:
   appid: 902068369
   pocketcasts: http://pca.st/5YwG
   overcast: https://overcast.fm/itunes902068369/never-dig-down
+  retired: true
 smym:
   name: Show Me Your Mic
   lang: EN
