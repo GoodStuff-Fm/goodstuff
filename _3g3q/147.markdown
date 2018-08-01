@@ -1,5 +1,5 @@
 ---
-title: S10E08 - "Grammar Judge Dredd"
+title: S10:E08 - "Grammar Judge Dredd"
 date: 2018-07-18 05:00:00 -06:00
 position: 0
 description: Conspiracy Theories, chip imperialism, & cart problems.
