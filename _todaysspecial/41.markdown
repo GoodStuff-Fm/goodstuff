@@ -8,7 +8,6 @@ mp3: https://media.transistor.fm/4b6648d9.mp3
 layout: episode
 ---
 
-
 ## Support Us
 *Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
 
@@ -16,6 +15,6 @@ layout: episode
 - [Kyle on Twitter](http://twitter.com/dogburps)
 - [Kenny on Twitter](http://twitter.com/kennyroderick_)
 - [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
-## About
 
+## About
 Today's Special is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
