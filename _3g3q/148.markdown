@@ -5,6 +5,7 @@ show: 3g3q
 episode: 148
 description: This episode is all about daily routines.
 mp3: https://media.transistor.fm/6a7fac8a.mp3
+image: "/uploads/3G3Q%20-%20S10E09%20-%20Episode%20Art%20S.jpg"
 layout: episode
 ---
 
