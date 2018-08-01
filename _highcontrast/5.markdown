@@ -3,7 +3,7 @@ title: Podcast Listening or Hot Wind from the Desert
 date: 2017-07-10 08:22:00 -06:00
 show: highcontrast
 episode: 5
-mp3: https://media.transistor.fm/d73569c0.mp3
+mp3: https://f001.backblazeb2.com/file/goodstuff/High+Contrast/highcontrast-5.mp3
 image: "/uploads/hc5.png"
 description: Comparing and contrasting our humidity, opening the kimono all the way,
   playing a live game of Clash Royale, and how we listen to podcasts.

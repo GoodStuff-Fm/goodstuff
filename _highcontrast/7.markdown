@@ -6,7 +6,7 @@ episode: 7
 description: Headphones bleeding, Mace Windu in your Finder, safe-word followup, and
   a tour through our coffee-drinking history and current brewing setups.
 image: "/uploads/highcontrast-7.png"
-mp3: https://media.transistor.fm/452e7aa0.mp3
+mp3: https://f001.backblazeb2.com/file/goodstuff/High+Contrast/highcontrast-7.mp3
 layout: episode
 ---
 

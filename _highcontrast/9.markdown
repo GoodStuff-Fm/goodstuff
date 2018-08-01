@@ -6,7 +6,7 @@ description: Audio Hijacking, putting an Airpod into a cat, ketchup catch up, pi
   Twitter.
 show: highcontrast
 episode: 9
-mp3: https://media.transistor.fm/005c031a.mp3
+mp3: https://f001.backblazeb2.com/file/goodstuff/High+Contrast/highcontrast-9.mp3
 image: "/uploads/hc9.png"
 layout: episode
 ---
