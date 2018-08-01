@@ -4,6 +4,7 @@ date: 2018-08-01 09:00:00 -06:00
 show: 3g3q
 episode: 148
 description: This episode is all about daily routines.
+mp3: https://media.transistor.fm/6a7fac8a.mp3
 layout: episode
 ---
 
