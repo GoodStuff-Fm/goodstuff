@@ -13,8 +13,8 @@ sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=n
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
   to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv143&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
-video: https://www.youtube.com/embed/
-image: 
+video: https://www.youtube.com/embed/Mc8S4C_Wlok
+image: "/uploads/nbsptv-143-simon-stlaurent.jpg"
 layout: episode
 ---
 
@@ -42,7 +42,7 @@ layout: episode
 * [Twitter shares drop 19 percent after reporting declining monthly active users ](https://www.cnbc.com/2018/07/27/twitter-earnings-q2-2018.html)
 * [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
 * [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
-* [SCUTOID: SCIENTISTS DISCOVER AN ENTIRELY NEW SHAPE—AND IT'S BEEN HIDING INSIDE YOUR SKIN CELLS](https://webcache.googleusercontent.com/search?q=cache:7eTOA5NugRAJ:https://www.newsweek.com/scutoid-scientists-discover-entirely-new-shape-and-its-been-hiding-inside-1045097+&cd=2&hl=en&ct=clnk&gl=us)
+* [Scutoid: Scientists Discover an Entirely New Shape—and It's Been Hiding Inside Your Skin Cells](https://webcache.googleusercontent.com/search?q=cache:7eTOA5NugRAJ:https://www.newsweek.com/scutoid-scientists-discover-entirely-new-shape-and-its-been-hiding-inside-1045097+&cd=2&hl=en&ct=clnk&gl=us)
 * [Liquid water 'lake' revealed on Mars](https://www.bbc.com/news/science-environment-44952710)
 
 ### Follow The Non Breaking Space Show
