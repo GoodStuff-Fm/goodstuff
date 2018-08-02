@@ -1,7 +1,6 @@
 ---
 title: Ice Cream Sandwich
 date: 2018-08-02 04:00:00 -06:00
-published: false
 show: todaysspecial
 episode: 42
 description: Why not fill a baguette full of ice cream scoops?
