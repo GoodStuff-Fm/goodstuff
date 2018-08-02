@@ -1,7 +1,6 @@
 ---
 title: Comic-Con, Scutoids, and Burnt Out Millennials
 date: 2018-07-31 09:00:00 -06:00
-published: false
 position: 1
 show: nbsp
 episode: 143
@@ -20,14 +19,14 @@ layout: episode
 
 ### Time Jumps
 
-* **[2:05](#t=2:05)** Story #8 Ranking San Diego Comic Con 2018 Trailers, From Worst to Best
-* **[24:10](#t=24:10)** Story #7 Meet the 11% of Americans who don’t use the internet
-* **[35:20](#t=35:20)** Story #6 Burned-out millennials are quitting lucrative jobs
-* **[42:10](#t=42:10)** Story #5 Facebook’s forecast for the future looks suddenly bleak
-* **[47:15](#t=47:15)** Story #4 Twitter shares drop 19 percent after reporting declining monthly active users
-* **[50:30](#t=50:30)** Story #3 Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots
-* **[55:20](#t=55:20)** Story #2 Scientists discover a new shape and it's been hiding inside your skin
-* **[59:10](#t=59:10)** Story #1 Liquid water 'lake' revealed on Mars
+* **[2:05](https://goodstuff.fm/nbsp/143#t=2:05)** Story #8 — Ranking San Diego Comic Con 2018 Trailers, From Worst to Best
+* **[24:10](https://goodstuff.fm/nbsp/143#t=24:10)** Story #7 — Meet the 11% of Americans who don’t use the internet
+* **[35:20](https://goodstuff.fm/nbsp/143#t=35:20)** Story #6 — Burned-out millennials are quitting lucrative jobs
+* **[42:10](https://goodstuff.fm/nbsp/143#t=42:10)** Story #5 — Facebook’s forecast for the future looks suddenly bleak
+* **[47:15](https://goodstuff.fm/nbsp/143#t=47:15)** Story #4 — Twitter shares drop 19 percent after reporting declining monthly active users
+* **[50:30](https://goodstuff.fm/nbsp/143#t=50:30)** Story #3 — Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots
+* **[55:20](https://goodstuff.fm/nbsp/143#t=55:20)** Story #2 — Scientists discover a new shape and it's been hiding inside your skin
+* **[59:10](https://goodstuff.fm/nbsp/143#t=59:10)** Story #1 — Liquid water 'lake' revealed on Mars
 
 ### Links:
 
