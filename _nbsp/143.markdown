@@ -1,5 +1,5 @@
 ---
-title: Comic Con, Scutoids, and Burnt Out Millennials
+title: Comic-Con, Scutoids, and Burnt Out Millennials
 date: 2018-07-31 09:00:00 -06:00
 published: false
 position: 1
@@ -34,7 +34,7 @@ layout: episode
 * [Christopher Schmitt](http://Christopher.org)
 * [Christopher Schmitt on Twitter](https://twitter.com/teleject)
 * [Simon on Twitter](https://twitter.com/simonstl)
-* [Best San Dieog Comic Con 2018 Trailers from Worst to Best](https://www.rollingstone.com/movies/movie-features/ranking-san-diego-comic-con-2018-trailers-from-worst-to-best-702373/)
+* [Best San Dieog Comic-Con 2018 Trailers from Worst to Best](https://www.rollingstone.com/movies/movie-features/ranking-san-diego-comic-con-2018-trailers-from-worst-to-best-702373/)
 * [Meet the 11% of Americans who don’t use the internet](https://thehustle.co/meet-the-11-of-americans-who-dont-use-the-internet/)
 * [Burned-out millennials are quitting lucrative jobs](https://nypost.com/2018/07/25/millennials-are-bailing-on-their-high-paying-jobs-to-travel/)
 * [Facebook’s forecast for the future looks suddenly bleak](https://www.theverge.com/2018/7/26/17615330/facebook-earnings-forecast-user-growth-revenue)
