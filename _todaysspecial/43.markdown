@@ -1,7 +1,6 @@
 ---
 title: Watermelon
 date: 2018-08-03 04:00:00 -06:00
-published: false
 show: todaysspecial
 episode: 43
 description: Pour one out for Watermelon!
