@@ -1,5 +1,5 @@
 ---
-title: CSS in Depth with Keith J Grant
+title: CSS in Depth with Keith J. Grant
 date: 2018-06-27 09:00:00 -06:00
 published: false
 position: 1
