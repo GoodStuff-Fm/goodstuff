@@ -39,7 +39,7 @@ layout: episode
 * [KeithJGrant](https://keithjgrant.com)
 * [@KeithJGrant on Twitter](https://twitter.com/keithjgrant)
 * [Keith Grant on GitHub](https://github.com/keithjgrant)
-* [CSS In Depth](https://www.manning.com/books/css-in-depth)
+* [CSS in Depth](https://www.manning.com/books/css-in-depth)
 * [Stop Thinking in Pixels](https://keithjgrant.com/talks/stop-thinking-in-pixels/)
 * [CSS Secrets by Lea Verou](http://shop.oreilly.com/product/0636920031123.do)
 * [CSS The Definitive Guide](https://meyerweb.com/eric/books/css-tdg/)
