@@ -6,8 +6,9 @@ position: 1
 show: nbsp
 episode: 144
 mp3: https://media.transistor.fm/47117acc.mp3
-description: Keith J Grant stops by to talk about his book, CSS In Depth, and what
-  he's learned about CSS during the writing process.
+description: Keith J. Grant stops by to talk with Christopher about his new book,
+  CSS in Depth, and what he's discovered about the design language of the web during
+  the writing process.
 sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv144&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
   — A weekly free newsletter containing a collection of tutorials, articles, and videos
   about front-end design and development, plus tips on how to bring better engagement
@@ -23,12 +24,12 @@ layout: episode
 * **[2:45](#t=2:45)** What was your talk about at CSS Dev Conf?
 * **[4:10](#t=4:10)** Setting font sizes to pixels vs ems/rems.
 * **[7:50](#t=7:50)** What was the process for writing your book?
-* **[12:50](#t=12:50)** What topics did you have to leave out?
-* **[16:10](#t=16:10)** Covering grid and float in the same book?
-* **[17:10](#t=17:10)** What's sub grid?
-* **[23:20](#t=23:20)** Why is CSS the most neglected part of the web stack?
-* **[26:30](#t=26:30)** Anything new about CSS that you learned writing this book?
-* **[28:00](#t=28:00)** Do you just port animations over to javascript now?
+* **[12:50](#t=12:50)** What CSS topics did you have to leave out?
+* **[16:10](https://goodstuff.fm/nbsp/144#t=16:10)** Covering CSS grid and float in the same book?
+* **[17:10](https://goodstuff.fm/nbsp/144#t=17:10)** What's sub grid?
+* **[23:20](https://goodstuff.fm/nbsp/144#t=23:20)** Why is CSS the most neglected part of the web stack?
+* **[26:30](https://goodstuff.fm/nbsp/144#t=26:30)** What's new about CSS that you learned writing this book?
+* **[28:00](https://goodstuff.fm/nbsp/144#t=28:00)** Do you just port animations over to JavaScript now?
 
 
 ### Links:
