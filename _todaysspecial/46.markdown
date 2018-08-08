@@ -1,7 +1,6 @@
 ---
-title: Zuccini
+title: Zucchini
 date: 2018-08-08 04:00:00 -06:00
-published: false
 description: I'm Kyle Roderick and I'm Zuccenny Roderick
 show: todaysspecial
 episode: 46
