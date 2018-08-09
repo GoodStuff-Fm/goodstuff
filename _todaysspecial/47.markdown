@@ -1,7 +1,6 @@
 ---
 title: Rice Pudding
 date: 2018-08-09 04:00:00 -06:00
-published: false
 show: todaysspecial
 episode: 47
 mp3: https://media.transistor.fm/795cfd2f.mp3
