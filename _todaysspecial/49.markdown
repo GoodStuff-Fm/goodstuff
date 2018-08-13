@@ -1,7 +1,6 @@
 ---
 title: Filet Mignon
 date: 2018-08-13 04:00:00 -06:00
-published: false
 show: todaysspecial
 episode: 49
 mp3: https://media.transistor.fm/a58ede66.mp3
