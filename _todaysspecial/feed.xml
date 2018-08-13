@@ -1,8 +1,8 @@
 ---
 title: Feed
 position: 0
-show: ts
-layout: 
+show: todaysspecial
+layout:
 ---
 
 {% include feed.html %}
