@@ -8,9 +8,6 @@ description: AWW PWAHHVWAHHH
 layout: episode
 ---
 
-## Support Us
-*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
-
 ## Get in Touch
 - [Kyle on Twitter](http://twitter.com/dogburps)
 - [Kenny on Twitter](http://twitter.com/kennyroderick_)
