@@ -1,0 +1,17 @@
+---
+title: Creamsicle
+date: 2018-08-14 04:00:00 -06:00
+show: todaysspecial
+description: It's just a 6 foot snake on a 2x4
+episode: 50
+mp3: 
+layout: episode
+---
+
+## Get in Touch
+- [Kyle on Twitter](http://twitter.com/dogburps)
+- [Kenny on Twitter](http://twitter.com/kennyroderick_)
+- [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+## About
+
+Today's Special is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
