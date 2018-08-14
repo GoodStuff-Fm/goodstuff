@@ -4,7 +4,7 @@ date: 2018-08-14 04:00:00 -06:00
 show: todaysspecial
 description: It's just a 6 foot snake on a 2x4
 episode: 50
-mp3: 
+mp3: https://media.transistor.fm/3998b573.mp3
 layout: episode
 ---
 
