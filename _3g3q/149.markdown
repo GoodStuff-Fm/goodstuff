@@ -1,8 +1,8 @@
 ---
 title: S10:E10 - "Know The Protocol"
-date: 2018-08-15 02:07:00 -06:00
+date: 2018-08-15 02:00:00 -06:00
 show: 3g3q
-mp3: 
+mp3: https://media.transistor.fm/1f3b5670.mp3
 description: Condiment bandoleer, socialist rants, & pickup problems
 episode: 149
 layout: episode
