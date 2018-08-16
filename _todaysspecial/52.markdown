@@ -1,7 +1,6 @@
 ---
 title: Bratwurst
 date: 2018-08-16 04:00:00 -06:00
-published: false
 show: todaysspecial
 episode: 52
 description: We only brat you the best for this episode. We promise.
