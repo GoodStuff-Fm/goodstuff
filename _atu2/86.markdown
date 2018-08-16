@@ -3,10 +3,13 @@ title: There's Always a Bigger U2 Fan Than You
 date: 2018-08-15 08:00:00 -06:00
 episode: 86
 show: atu2
-description: Eric, Marylinn, Matt, and Chris convene to talk about the final songs of U2's albums - which ones we loved, which we hated, and which ones we thought could've worked better elsewhere. Lots of fun listener comments on this topic as well.
-mp3:
+description: Eric, Marylinn, Matt, and Chris convene to talk about the final songs
+  of U2's albums - which ones we loved, which we hated, and which ones we thought
+  could've worked better elsewhere. Lots of fun listener comments on this topic as
+  well.
+mp3: 
 image: "/uploads/atu2-86.jpg"
-video:
+video: 
 sponsor: "[Mimo Live](https://boinx.com/mimolive/): Video streaming and production
   provided by Mimo Live. Learning how to use mimoLive is child's play – literally.
   Its logical and intuitive production workflow can be mastered by anyone from school
