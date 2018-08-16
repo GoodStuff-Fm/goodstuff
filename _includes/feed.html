@@ -57,7 +57,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:explicit>{{ show.explicit }}</itunes:explicit>
     <content:encoded><![CDATA[
     {% if show.support %}
-      <a rel="payment" href="{{ show.support }}" title="Support">Support {{ show.name }} →</a>
+      <a rel="payment" href="{{ show.support }}" title="Support">Support {{ show.name }}</a>
+      <br>
+      <hr>
       <br>
     {% endif %}
     {{ doc.description | markdownify | expand_urls: site.url | cdata_escape }}<br>
