@@ -1,7 +1,6 @@
 ---
 title: Vanilla Custard
 date: 2018-08-17 04:00:00 -06:00
-published: false
 show: todaysspecial
 mp3: https://media.transistor.fm/58cf5b2b.mp3
 episode: 53
