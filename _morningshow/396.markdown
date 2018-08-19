@@ -1,0 +1,17 @@
+---
+title: Quadruple Meat, Please
+date: 2018-08-18 21:32:00 -06:00
+show: morningshow
+description: It's like putting bacon on your iPad and drinking some protein Surge,
+  all while autonomously driving some chilled ramen and chicken tenders with Juicy
+  J and Double-Double.
+mp3: 
+episode: 396
+layout: episode
+---
+
+## Get in Touch
+- [Email](mailto:kyle@goodstuff.fm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!
