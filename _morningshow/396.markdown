@@ -5,7 +5,7 @@ show: morningshow
 description: It's like putting bacon on your iPad and drinking some protein Surge,
   all while autonomously driving some chilled ramen and chicken tenders with Juicy
   J and Double-Double.
-mp3: 
+mp3: https://media.transistor.fm/fc3bfa9d.mp3
 episode: 396
 layout: episode
 ---
