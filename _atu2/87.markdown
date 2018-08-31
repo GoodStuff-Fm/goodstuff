@@ -3,15 +3,14 @@ title: Stuck in a Moment For the European Tour
 date: 2018-08-30 08:00:00 -06:00
 episode: 87
 show: atu2
-description: Aaron, Kenny, and Chris preview the upcoming European start of the Experience + Innocence tour.
+description: Aaron, Kenny, and Chris preview the upcoming European start of the Experience
+  + Innocence tour.
 mp3: https://media.transistor.fm/aec31451.mp3
 image: "/uploads/atu2-87.jpg"
-video:
-sponsor: "Want to help Chris make the show? [Support him on his Patreon](https://www.patreon.com/ichris)"
+video: 
+sponsor: Want to help Chris make the show? [Support him on his Patreon](https://www.patreon.com/ichris)
 layout: episode
 ---
-
-
 
 ### Want to Watch the Live Show?
 
