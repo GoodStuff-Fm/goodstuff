@@ -3,8 +3,9 @@ title: Jail.exe
 date: 2018-09-03 11:52:00 -06:00
 show: morningshow
 episode: 397
-mp3: 
-description: 
+mp3: https://media.transistor.fm/a2a08a92.mp3
+description: It's like we moved and hired 5 new audio engineers and fed them nothing
+  but pumpkin spiced foods.
 layout: episode
 ---
 
