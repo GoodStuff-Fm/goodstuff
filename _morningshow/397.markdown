@@ -6,6 +6,7 @@ episode: 397
 mp3: https://media.transistor.fm/a2a08a92.mp3
 description: It's like we moved and hired 5 new audio engineers and fed them nothing
   but pumpkin spiced foods.
+image: "/uploads/morningshow-397.png"
 layout: episode
 ---
 
