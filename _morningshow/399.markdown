@@ -6,6 +6,7 @@ description: It's like we had two new hosts from another podcast on while hating
   pizza and looking for stallions on the internet.
 image: "/uploads/morningshow-399.png"
 mp3: https://media.transistor.fm/3d8d78fe.mp3
+episode: 399
 layout: episode
 ---
 
