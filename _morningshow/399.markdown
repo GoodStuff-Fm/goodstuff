@@ -1,6 +1,6 @@
 ---
 title: Cardboard Go-GURT
-date: 2018-10-06 20:17:00 -06:00
+date: 2018-10-07 07:00:00 -06:00
 show: morningshow
 description: It's like we had two new hosts from another podcast on while hating cold
   pizza and looking for stallions on the internet.
