@@ -97,7 +97,7 @@ collections:
     retired: false
     live: false
   atu2:
-    title: The atU2 Podcast
+    title: The @U2 Podcast
     output: true
     permalink: "/atu2/:path"
     live: false
