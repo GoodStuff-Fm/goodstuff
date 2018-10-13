@@ -7,6 +7,7 @@ description: 'On this episode of Way Too Seriously we are talking about 1982''s 
   We talk about undifferentiated otherness, the calcification of gender roles and
   whether capitalism can be redeemed. '
 mp3: https://media.transistor.fm/7d5db07f.mp3
+layout: episode
 ---
 
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!\
