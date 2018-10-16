@@ -1,11 +1,11 @@
 ---
 title: Toilet TV
-date: 2018-10-15 23:01:00 -06:00
+date: 2018-10-16 01:00:00 -06:00
 show: morningshow
 mp3: 
 description: It's like you froze all your pizzas and then melted them with 400 episodes
   of a molten hot podcast.
-image: 
+image: "/uploads/morningshow-400.png"
 episode: 400
 layout: episode
 ---
