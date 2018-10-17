@@ -1,0 +1,108 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: _3g3q
+  label: 3g3q
+  create: all
+  match: "**/*"
+- type: directory
+  path: _buzzled
+  label: Buzzled
+  create: all
+  match: "**/*"
+- type: directory
+  path: _clockworks
+  label: Clockworks
+  create: all
+  match: "**/*"
+- type: directory
+  path: _dailyish
+  label: Dailyish
+  create: all
+  match: "**/*"
+- type: directory
+  path: _specials
+  label: Specials
+  create: all
+  match: "**/*"
+- type: directory
+  path: _highcontrast
+  label: Highcontrast
+  create: all
+  match: "**/*"
+- type: directory
+  path: _grownups
+  label: Grownups
+  create: all
+  match: "**/*"
+- type: directory
+  path: _icebreaker
+  label: Icebreaker
+  create: all
+  match: "**/*"
+- type: directory
+  path: _ll
+  label: Ll
+  create: all
+  match: "**/*"
+- type: directory
+  path: _morningshow
+  label: Morningshow
+  create: all
+  match: "**/*"
+- type: directory
+  path: _neverdigdown
+  label: Neverdigdown
+  create: all
+  match: "**/*"
+- type: directory
+  path: _nbsp
+  label: Nbsp
+  create: all
+  match: "**/*"
+- type: directory
+  path: _people
+  label: People
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: _smym
+  label: Smym
+  create: all
+  match: "**/*"
+- type: directory
+  path: _atu2
+  label: Atu2
+  create: all
+  match: "**/*"
+- type: directory
+  path: _todaysspecial
+  label: Todaysspecial
+  create: all
+  match: "**/*"
+- type: directory
+  path: _uploads
+  label: Uploads
+  create: all
+  match: "**/*"
+- type: directory
+  path: _wts
+  label: Wts
+  create: all
+  match: "**/*"
+- type: jekyll-pages
+  label: Pages
+  create: all
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
