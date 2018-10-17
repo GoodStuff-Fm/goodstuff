@@ -1,0 +1,13 @@
+---
+label: Morning Show
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: show
+  label: show
+  hidden: true
+  default: morningshow
+- type: include
+  template: morning-show-episode
+  label: Episode Details
