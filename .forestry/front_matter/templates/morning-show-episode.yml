@@ -14,7 +14,11 @@ fields:
   default: morningshow
   hidden: true
 - type: text
-  name: slug
+  name: title
+  label: Episode Title
+  description: ''
+- type: text
+  name: path
   label: Path
   description: https://goodstuff.fm/morningshow/
 - type: datetime
