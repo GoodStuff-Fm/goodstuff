@@ -3,14 +3,11 @@ label: Morning Show
 hide_body: false
 is_partial: false
 fields:
-- type: include
-  template: morning-show-episode
-  label: Episode Details
-  name: episode_details
-- type: include
-  name: sponsor
-  label: Sponsor
-  template: sponsor
+- type: text
+  label: Path
+  name: permalink
+  description: Permalink for the episode starting with https://goodstuff.fm
+  default: "/morningshow/"
 - type: text
   name: show
   label: show
@@ -21,10 +18,13 @@ fields:
   label: layout
   hidden: true
   default: episode
-- type: text
-  label: Path
-  name: permalink
-  description: Permalink for the episode starting with https://goodstuff.fm
-  default: "/morningshow/"
+- type: include
+  template: morning-show-episode
+  label: Episode Details
+  name: episode_details
+- type: include
+  name: sponsor
+  label: Sponsor
+  template: sponsor
 pages:
 - _morningshow/401.md
