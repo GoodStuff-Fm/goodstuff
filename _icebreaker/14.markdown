@@ -1,12 +1,11 @@
 ---
 title: The Season Has Started, and Carolina is... Good?
 date: 2018-10-17 16:34:00 -06:00
-published: false
 episode: 14
 mp3: https://media.transistor.fm/d538f124.mp3
 description: 
 show: icebreaker
-image: 
+image: "/uploads/icebreakers-14.jpg"
 layout: episode
 ---
 
