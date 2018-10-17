@@ -5,13 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _3g3q
-  label: 3g3q
+  path: _neverdigdown
+  label: Neverdigdown
   create: all
   match: "**/*"
 - type: directory
-  path: _buzzled
-  label: Buzzled
+  path: _3g3q
+  label: 3g3q
   create: all
   match: "**/*"
 - type: directory
@@ -55,8 +55,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _neverdigdown
-  label: Neverdigdown
+  path: _buzzled
+  label: Buzzled
   create: all
   match: "**/*"
 - type: directory
@@ -79,23 +79,18 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _atu2
-  label: Atu2
-  create: all
-  match: "**/*"
-- type: directory
   path: _todaysspecial
-  label: Todaysspecial
-  create: all
-  match: "**/*"
-- type: directory
-  path: _uploads
-  label: Uploads
+  label: Today's Special
   create: all
   match: "**/*"
 - type: directory
   path: _wts
   label: Wts
+  create: all
+  match: "**/*"
+- type: directory
+  path: _atu2
+  label: "@U2 Podcast"
   create: all
   match: "**/*"
 - type: jekyll-pages
