@@ -38,6 +38,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: text
+  name: mp3
+  label: MP3 URL
 - type: file
   name: image
   label: Social Image
