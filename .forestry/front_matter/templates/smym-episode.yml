@@ -1,0 +1,28 @@
+---
+label: SMYM Episode
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: show
+  label: Show
+  hidden: true
+  default: smym
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: episode
+- type: text
+  name: permalink
+  label: Path
+  description: Permalink for the episode starting with https://goodstuff.fm
+  default: "/smym/"
+- type: include
+  template: morning-show-episode
+  label: Episode Details
+  name: episode_details
+- type: include
+  template: sponsor
+  label: Sponsor
+  name: sponsor
