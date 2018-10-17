@@ -3,7 +3,7 @@ title: This is the Final Title
 layout: episode
 show: morningshow
 permalink: "/morningshow/401"
-date: 2018-10-16 00:00:00 +0000
+date: 2018-10-17 21:17:57 -0700
 episode: 401
 description: "It’s October! My favorite part of the podcasting season and episode
   399 is no exception. After a few weeks of organizing, we have guests [NickJLancaster](https://twitter.com/NickJLancaster) and [TweetsbyAndrew](https://twitter.com/TweetsbyAndrew) of
