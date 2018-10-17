@@ -30,5 +30,3 @@ fields:
   name: image
   label: Social Image
   description: 'Recommended size: 1012w by 506h'
-pages:
-- _morningshow/401.md
