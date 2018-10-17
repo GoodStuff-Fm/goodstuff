@@ -1,5 +1,5 @@
 ---
-label: Podcast Episode
+label: Morning Show Episode
 hide_body: false
 is_partial: false
 fields:
@@ -8,6 +8,15 @@ fields:
   label: layout
   hidden: true
   default: episode
+- type: text
+  name: show
+  label: show
+  default: morningshow
+  hidden: true
+- type: text
+  name: slug
+  label: slug
+  description: https://goodstuff.fm/morningshow/
 - type: datetime
   name: date
   label: Publish Date
