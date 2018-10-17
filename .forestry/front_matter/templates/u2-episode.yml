@@ -26,3 +26,5 @@ fields:
   name: sponsor
   label: Sponsor
   template: sponsor
+pages:
+- _atu2/episode-88.md
