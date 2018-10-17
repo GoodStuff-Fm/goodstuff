@@ -20,8 +20,8 @@ fields:
 - type: text
   name: permalink
   label: Path
-  description: Usually the episode number with / in front
-  default: "/"
+  description: ''
+  default: "/morningshow/"
 - type: datetime
   name: date
   label: Publish Date
