@@ -1,27 +1,12 @@
 ---
-label: Morning Show Episode
-hide_body: false
+label: Episode Details
+hide_body: true
 is_partial: false
 fields:
-- type: text
-  name: layout
-  label: layout
-  hidden: true
-  default: episode
-- type: text
-  name: show
-  label: show
-  default: morningshow
-  hidden: true
 - type: text
   name: title
   label: Episode Title
   description: ''
-- type: text
-  name: permalink
-  label: Path
-  description: ''
-  default: "/morningshow/"
 - type: datetime
   name: date
   label: Publish Date
