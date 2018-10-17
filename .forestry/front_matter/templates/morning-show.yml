@@ -1,0 +1,23 @@
+---
+label: Morning Show
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  template: morning-show-episode
+  label: Episode Details
+  name: episode_details
+- type: include
+  name: sponsor
+  label: Sponsor
+  template: sponsor
+- type: text
+  name: show
+  label: show
+  hidden: true
+  default: morningshow
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: episode
