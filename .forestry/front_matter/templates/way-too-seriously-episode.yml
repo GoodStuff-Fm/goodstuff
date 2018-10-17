@@ -1,0 +1,28 @@
+---
+label: Way Too Seriously Episode
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: show
+  label: Show
+  hidden: true
+  default: wts
+- type: text
+  name: layout
+  label: layout
+  default: episode
+  hidden: true
+- type: text
+  name: permalink
+  label: Path
+  description: Permalink for the episode starting with https://goodstuff.fm
+  default: "/wts/"
+- type: include
+  name: episode_details
+  label: Episode Details
+  template: morning-show-episode
+- type: include
+  name: sponsor
+  label: Sponsor
+  template: sponsor
