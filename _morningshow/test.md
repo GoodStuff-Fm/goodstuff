@@ -1,12 +1,13 @@
 ---
-title: Test
+title: This is a Test
 layout: episode
 show: morningshow
-date: 2018-10-16 00:00:00 +0000
+date: 2018-10-16 20:45:20 -0700
 slug: 401
 episode: 401
 description: This is a test.
 image: ''
+path: 401
 published: false
 
 ---
