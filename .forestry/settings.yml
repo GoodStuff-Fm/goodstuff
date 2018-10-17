@@ -8,7 +8,7 @@ sections:
   label: Podcasts
 - type: directory
   path: _3g3q
-  label: 3g3q
+  label: 3 Guys 3 Questions
   create: all
   match: "**/*"
 - type: directory
@@ -23,7 +23,7 @@ sections:
   match: "**/*"
 - type: directory
   path: _highcontrast
-  label: Highcontrast
+  label: High Contrast
   create: all
   match: "**/*"
 - type: directory
@@ -37,23 +37,18 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _ll
-  label: Ll
-  create: all
-  match: "**/*"
-- type: directory
   path: _morningshow
-  label: Morningshow
+  label: Morning Show
   create: all
   match: "**/*"
 - type: directory
   path: _nbsp
-  label: Nbsp
+  label: Non-Breaking Space
   create: all
   match: "**/*"
 - type: directory
   path: _smym
-  label: Smym
+  label: Show Me Your Mic
   create: all
   match: "**/*"
 - type: directory
@@ -63,7 +58,7 @@ sections:
   match: "**/*"
 - type: directory
   path: _wts
-  label: Wts
+  label: Way Too Seriously
   create: all
   match: "**/*"
 - type: directory
