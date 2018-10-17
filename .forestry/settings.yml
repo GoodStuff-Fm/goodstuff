@@ -7,11 +7,6 @@ sections:
 - type: heading
   label: Podcasts
 - type: directory
-  path: _neverdigdown
-  label: Neverdigdown
-  create: all
-  match: "**/*"
-- type: directory
   path: _3g3q
   label: 3g3q
   create: all
@@ -24,11 +19,6 @@ sections:
 - type: directory
   path: _dailyish
   label: Dailyish
-  create: all
-  match: "**/*"
-- type: directory
-  path: _specials
-  label: Specials
   create: all
   match: "**/*"
 - type: directory
@@ -57,22 +47,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _buzzled
-  label: Buzzled
-  create: all
-  match: "**/*"
-- type: directory
   path: _nbsp
   label: Nbsp
-  create: all
-  match: "**/*"
-- type: directory
-  path: _people
-  label: People
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
   create: all
   match: "**/*"
 - type: directory
@@ -93,6 +69,17 @@ sections:
 - type: directory
   path: _atu2
   label: "@U2 Podcast"
+  create: all
+  match: "**/*"
+- type: heading
+  label: Content
+- type: directory
+  path: _people
+  label: People
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
   create: all
   match: "**/*"
 - type: jekyll-pages
