@@ -15,7 +15,7 @@ fields:
   hidden: true
 - type: text
   name: slug
-  label: slug
+  label: Path
   description: https://goodstuff.fm/morningshow/
 - type: datetime
   name: date
