@@ -42,7 +42,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - morning-show-episode
+  - morning-show
 - type: directory
   path: _nbsp
   label: Non-Breaking Space
