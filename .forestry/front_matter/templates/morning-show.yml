@@ -11,3 +11,5 @@ fields:
 - type: include
   template: morning-show-episode
   label: Episode Details
+pages:
+- _morningshow/test-1.md
