@@ -14,13 +14,17 @@ sections:
 - type: directory
   path: _clockworks
   label: Clockworks
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - clockworks-episode
 - type: directory
   path: _dailyish
   label: Dailyish
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - dailyish-episode
 - type: directory
   path: _highcontrast
   label: High Contrast
@@ -51,8 +55,10 @@ sections:
 - type: directory
   path: _smym
   label: Show Me Your Mic
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - smym-episode
 - type: directory
   path: _todaysspecial
   label: Today's Special
@@ -61,13 +67,17 @@ sections:
 - type: directory
   path: _wts
   label: Way Too Seriously
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - way-too-seriously-episode
 - type: directory
   path: _atu2
   label: "@U2 Podcast"
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - u2-episode
 - type: heading
   label: Content
 - type: directory
