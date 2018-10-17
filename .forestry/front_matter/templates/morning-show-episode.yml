@@ -1,0 +1,35 @@
+---
+label: Morning Show Episode
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: show
+  label: Show
+  hidden: true
+  default: morningshow
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: episode
+- type: datetime
+  name: date
+  label: Publish Date
+- type: number
+  name: episode
+  label: Episode Number
+  config:
+    min: '1'
+    step: '1'
+- type: textarea
+  name: description
+  label: Episode Summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: image
+  label: Social Image
+  description: 'Recommended size: 1012w by 506h'
