@@ -39,8 +39,10 @@ sections:
 - type: directory
   path: _morningshow
   label: Morning Show
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - morning-show-episode
 - type: directory
   path: _nbsp
   label: Non-Breaking Space
