@@ -21,5 +21,10 @@ fields:
   label: layout
   hidden: true
   default: episode
+- type: text
+  label: Path
+  name: permalink
+  description: Permalink for the episode starting with https://goodstuff.fm
+  default: "/morningshow/"
 pages:
 - _morningshow/401.md
