@@ -1,5 +1,5 @@
 ---
-label: Icebreaker
+label: icebreaker-episode
 hide_body: false
 is_partial: false
 fields:
@@ -7,10 +7,17 @@ fields:
   name: show
   label: show
   default: icebreaker
+  hidden: true
 - type: text
   name: layout
   label: layout
   default: episode
+  hidden: true
+- type: text
+  label: Path
+  name: permalink
+  description: Permalink for the episode starting with https://goodstuff.fm
+  default: "/icebreaker/"
 - type: include
   template: morning-show-episode
 - type: textarea
