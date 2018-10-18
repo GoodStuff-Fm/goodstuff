@@ -1,5 +1,5 @@
 ---
-label: icebreaker-episode
+label: Icebreaker Episode
 hide_body: false
 is_partial: false
 fields:
@@ -20,12 +20,7 @@ fields:
   default: "/icebreaker/"
 - type: include
   template: morning-show-episode
-- type: textarea
-  name: sponsor
-  label: sponsor
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
+- type: include
+  template: sponsor
 pages:
 - _icebreaker/14.md
