@@ -1,0 +1,22 @@
+---
+label: Icebreaker
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: show
+  label: show
+  default: icebreaker
+- type: text
+  name: layout
+  label: layout
+  default: episode
+- type: include
+  template: morning-show-episode
+- type: textarea
+  name: sponsor
+  label: sponsor
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
