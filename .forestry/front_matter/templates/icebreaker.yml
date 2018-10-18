@@ -27,5 +27,3 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-pages:
-- _icebreaker/14.md
