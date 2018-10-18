@@ -11,3 +11,8 @@ image: "/uploads/icebreakers-14.jpg"
 layout: episode
 ---
 
+Follow us on Twitter!
+
+* [@Icebreaker_pod](https://twitter.com/icebreaker_pod)
+* [@SpencerMeisner](https://twitter.com/spencermeisner)
+* [@MattJennings44](https://twitter.com/mattjennings44)

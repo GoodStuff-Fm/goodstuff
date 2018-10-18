@@ -7,7 +7,6 @@ description: Oh thank heavens, it's episode 11. We look back (quickly) at the St
   Cup Finals, look towards the Draft, and explore possible signing/trade scenarios
   for Tavares, Carlson, the Islanders, Coyotes, Penguins... almost every team actually.
 show: icebreaker
-image: "/"
 layout: episode
 ---
 

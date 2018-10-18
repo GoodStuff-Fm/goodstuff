@@ -7,7 +7,6 @@ description: Happy Easter, everyone! It's Episode 6, and we talk Yakupov, Scott 
   the rising Cap, and who it benefits most. Plus, we play our first ever game on the
   podcast!
 show: icebreaker
-image: "/"
 layout: episode
 ---
 

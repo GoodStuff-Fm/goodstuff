@@ -6,7 +6,6 @@ mp3: https://media.transistor.fm/e6efa78a.mp3
 description: Our very first episode! We dive into the moves made at the deadline,
   and look towards playoffs to see who can ultimately take home the Stanley Cup.
 show: icebreaker
-image: "/"
 layout: episode
 ---
 

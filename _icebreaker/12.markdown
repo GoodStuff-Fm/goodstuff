@@ -7,7 +7,6 @@ description: Boy, when we start talking about free agents, we just go and go! Th
   week's episode contains a draft recap, trade recaps, free agency preview, a look
   back at some random years of the Canucks, and of course, goalie talk.
 show: icebreaker
-image: 
 layout: episode
 ---
 

@@ -6,7 +6,6 @@ mp3: https://media.transistor.fm/a3d1f3f4.mp3
 description: Hockey goalies are the most confusing of all athletes, but we try and
   take a stab at figuring them out! We talk Mrazek, Elliot, Niemi, Bishop, and more!
 show: icebreaker
-image: "/"
 layout: episode
 ---
 

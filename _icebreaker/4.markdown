@@ -6,7 +6,6 @@ mp3: https://media.transistor.fm/e6efa78a.mp3
 description: Are starting goalies playing too much? Who's going to be Carolina's next
   GM? We also take a look at The Hockey News' new list of the Top 100 NHL Prospects.
 show: icebreaker
-image: "/"
 layout: episode
 ---
 
