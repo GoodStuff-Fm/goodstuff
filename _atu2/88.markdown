@@ -3,10 +3,10 @@ title: A Nipple Chafing Celebration of U2's Rattle and Hum
 date: 2018-10-18 08:00:00 -06:00
 episode: 88
 show: atu2
-description:
-mp3:
+description: 
+mp3: 
 image: "/uploads/atu2-88.jpg"
-video:
+video: 
 sponsor: Want to help Chris make the show? [Support him on his Patreon](https://www.patreon.com/ichris)
 layout: episode
 ---
