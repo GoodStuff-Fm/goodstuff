@@ -1,9 +1,13 @@
 ---
 title: A Nipple Chafing Celebration of U2's Rattle and Hum
 date: 2018-10-18 08:00:00 -06:00
+published: false
 episode: 88
 show: atu2
-description: 
+description: It's a musical journey and we're celebrating the 30th anniversary of
+  that journey U2 took on Rattle and Hum - the movie and the album. Matt, Collin,
+  and Chris are your guides for this discussion of U2's trip into the heartland of
+  America.
 mp3: 
 image: "/uploads/atu2-88.jpg"
 video: 
