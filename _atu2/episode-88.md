@@ -13,7 +13,6 @@ description: It's a musical journey and we're celebrating the 30th anniversary o
   America.
 mp3: https://media.transistor.fm/f3632313.mp3
 image: "/uploads/atu2-88.jpg"
-published: false
 
 ---
 ### Want to Watch the Live Show?
@@ -22,7 +21,7 @@ published: false
 
 ### Show Notes
 
-* [Watch a video version of this episode](#)
+* [Watch a video version of this episode](https://www.youtube.com/watch?v=tQyKUpZFSms)
 * [Rattle and Hum on Letterboxd](https://letterboxd.com/film/u2-rattle-and-hum/)
 * [@iChris](https://twitter.com/ichris)
 * [@MattMcgee](https://twitter.com/mattmcgee)
