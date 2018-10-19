@@ -1,7 +1,6 @@
 ---
 title: A Nipple Chafing Celebration of U2's Rattle and Hum
 date: 2018-10-18 08:00:00 -06:00
-published: false
 episode: 88
 show: atu2
 description: It's a musical journey and we're celebrating the 30th anniversary of
