@@ -12,7 +12,7 @@ description: On this episode of WTS we're talking about Wreck-It Ralph. We talk 
   the importance of representation in both movies and video games, about accepting
   the role society assigns for you, and about whether girls should reject being princesses.
 mp3: https://media.transistor.fm/5b6a7f10.mp3
-image: ''
+image: "/uploads/wts-70.jpg"
 published: false
 
 ---
