@@ -13,7 +13,6 @@ description: On this episode of WTS we're talking about Wreck-It Ralph. We talk 
   the role society assigns for you, and about whether girls should reject being princesses.
 mp3: https://media.transistor.fm/5b6a7f10.mp3
 image: "/uploads/wts-70.jpg"
-published: false
 
 ---
 If you like us or if you want more, please \[support us on Patreon\]([https://www.patreon.com/clockworkscast](https://www.patreon.com/clockworkscast "https://www.patreon.com/clockworkscast"))!
