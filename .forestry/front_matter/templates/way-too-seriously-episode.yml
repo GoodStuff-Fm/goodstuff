@@ -26,3 +26,5 @@ fields:
   name: sponsor
   label: Sponsor
   template: sponsor
+pages:
+- _wts/wreck-it-ralph-the-medal-was-not-a-metaphor.md
