@@ -1,10 +1,13 @@
 ---
-title: Title 70
+title: 'Wreck-It Ralph: The Medal Was Not A Metaphor'
 date: 2018-10-19 14:00:00 -06:00
 show: wts
 episode: 70
-description: Description
+description: On this episode of WTS we're talking about Wreck-It Ralph. We talk about
+  the importance of representation in both movies and video games, about accepting
+  the role society assigns for you, and about whether girls should reject being princesses.
 mp3: https://media.transistor.fm/5b6a7f10.mp3
+image: "/uploads/wts-70.jpg"
 layout: episode
 ---
 
