@@ -26,11 +26,6 @@ sections:
   templates:
   - dailyish-episode
 - type: directory
-  path: _highcontrast
-  label: High Contrast
-  create: all
-  match: "**/*"
-- type: directory
   path: _grownups
   label: Grownups
   create: all
