@@ -15,4 +15,4 @@ Goodstuff.fm is run by Chris Enns and Kyle Roderick and they're joined by a grou
 
 Kyle Roderick lives in sunny California where he works on [Untappd](https://untappd.com/ "Untappd").
 
-Chris Enns lives in wintery Saskatchewan where he runs a web design and podcast production company 🍋 out of his snow cave.
+Chris Enns lives in wintery Saskatchewan where he runs a podcast production company, [Lemon Productions](https://www.lemonproductions.ca), out of his snow cave.
