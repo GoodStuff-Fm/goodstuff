@@ -7,3 +7,14 @@ fields:
   label: layout
   name: layout
   default: post
+  hidden: true
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: permalink
+  label: Path
+  default: "/posts/"
