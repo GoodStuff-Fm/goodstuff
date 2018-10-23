@@ -7,7 +7,6 @@ description: What a milestone! 10 episodes! We look back at the Conference Final
   look towards the Stanley Cup finals, and chat about Evander Kane, Kyle Dubas, and
   John Tavares!
 show: icebreaker
-image: "/"
 layout: episode
 ---
 

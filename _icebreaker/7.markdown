@@ -7,7 +7,6 @@ description: The playoffs are (nearly) here! We touch on Ken Holland's extension
   Vigneault's firing, the Sedins retiring, and we do a breakdown of each playoff series,
   and give our predictions! You heard them here first from 2 (non) experts.
 show: icebreaker
-image: "/"
 layout: episode
 ---
 

@@ -6,7 +6,6 @@ mp3: https://media.transistor.fm/4f146dcd.mp3
 description: Taking a look back at round 2, and looking ahead to round 3! Who are
   the goalies that are good, and who's garbage?
 show: icebreaker
-image: "/"
 layout: episode
 ---
 
