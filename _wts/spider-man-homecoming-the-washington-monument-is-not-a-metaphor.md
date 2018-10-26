@@ -13,7 +13,6 @@ description: 'In this episode, we talk about Spider-Man: Homecoming! We discuss 
   of a 15 year old should be.'
 mp3: https://media.transistor.fm/6fc58193.mp3
 image: "/uploads/wts-71.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a weekly extra WTS episode about a kid's book!
