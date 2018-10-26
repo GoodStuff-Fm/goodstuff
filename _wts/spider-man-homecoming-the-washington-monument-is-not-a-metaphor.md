@@ -6,13 +6,13 @@ permalink: "/wts/71"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-date: 2018-10-26 15:18:08 -0700
+date: 2018-10-26 15:07:08 -0700
 episode: 71
 description: 'In this episode, we talk about Spider-Man: Homecoming! We discuss whether
   this counts as a kids movie, what constitutes bad language and how old the aunt
   of a 15 year old should be.'
 mp3: https://media.transistor.fm/6fc58193.mp3
-image: ''
+image: "/uploads/wts-71.jpg"
 published: false
 
 ---
