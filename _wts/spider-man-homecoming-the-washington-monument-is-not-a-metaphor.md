@@ -11,7 +11,7 @@ episode: 71
 description: 'In this episode, we talk about Spider-Man: Homecoming! We discuss whether
   this counts as a kids movie, what constitutes bad language and how old the aunt
   of a 15 year old should be.'
-mp3: ''
+mp3: https://media.transistor.fm/6fc58193.mp3
 image: ''
 published: false
 
