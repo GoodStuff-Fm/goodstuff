@@ -146,7 +146,8 @@ exclude:
 sass:
   sass_dir: "./styles"
 include:
-- twitter
+- _twitter
+- _redirects
 plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
