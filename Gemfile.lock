@@ -247,10 +247,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-feed
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   liquid_pluralize
 
 BUNDLED WITH
-   1.16.2
+   1.16.5

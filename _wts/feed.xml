@@ -2,7 +2,7 @@
 title: Feed
 position: 0
 show: wts
-layout: 
+layout: null
 ---
 
 {% include feed.html %}

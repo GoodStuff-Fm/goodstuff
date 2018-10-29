@@ -150,5 +150,6 @@ include:
 plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-feed
 reddit: https://www.reddit.com/r/Goodstuff_fm/
 future: false

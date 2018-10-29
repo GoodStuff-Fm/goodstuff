@@ -16,7 +16,7 @@ icebreaker:
   category3:
   category4:
   category5:
-  rss: https://goodstuff.fm/icebreaker/feed
+  rss: https://goodstuff.fm/icebreaker/feed.xml
   itunes: https://itunes.apple.com/us/podcast/icebreaker/id1399629430?mt=2&at=10l4Ki&ct=website
   appid: 1399629430
   pocketcasts: https://pca.st/Vlwu
@@ -40,7 +40,7 @@ buzzled:
   category3:
   category4:
   category5:
-  rss: https://goodstuff.fm/buzzled/feed
+  rss: https://goodstuff.fm/buzzled/feed.xml
   itunes:
   pocketcasts:
   overcast:
@@ -64,7 +64,7 @@ highcontrast:
   category3:
   category4:
   category5:
-  rss: https://goodstuff.fm/highcontrast/feed
+  rss: https://goodstuff.fm/highcontrast/feed.xml
   itunes: https://itunes.apple.com/us/podcast/high-contrast/id1251036231
   appid: 1251036231
   pocketcasts: http://pca.st/xfk8
@@ -90,7 +90,7 @@ wts:
   category4:
   category5:
   support: https://www.patreon.com/clockworkscast
-  rss: https://goodstuff.fm/wts/feed
+  rss: https://goodstuff.fm/wts/feed.xml
   itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790?mt=2&at=10l4Ki&ct=website
   appid: 1250996790
   pocketcasts: http://pca.st/I80b
@@ -114,7 +114,7 @@ wts:
   category3: "Technology"
   category4:
   category5:
-  rss: https://goodstuff.fm/3g3q/feed
+  rss: https://goodstuff.fm/3g3q/feed.xml
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
   pocketcasts: http://pca.st/Mw9G
@@ -139,7 +139,7 @@ dailyish:
   category5:
   email: chris@goodstuff.fm
   support: http://www.patreon.com/ichris
-  rss: https://goodstuff.fm/dailyish/feed
+  rss: https://goodstuff.fm/dailyish/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/daily-ish/latest
   appid: 815675012
@@ -161,7 +161,7 @@ morningshow:
   category3: "Technology"
   email: kyle@goodstuff.fm
   support:
-  rss: https://goodstuff.fm/morningshow/feed
+  rss: https://goodstuff.fm/morningshow/feed.xml
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   appid: 843374491
   pocketcasts: http://pca.st/transmission
@@ -183,7 +183,7 @@ todaysspecial:
   category3: "Health"
   email: kyle@goodstuff.fm
   support: https://anchor.fm/todaysspecial/support
-  rss: https://goodstuff.fm/todaysspecial/feed
+  rss: https://goodstuff.fm/todaysspecial/feed.xml
   anchor: https://anchor.fm/todaysspecial
   itunes: https://itunes.apple.com/us/podcast/todays-special/id1354730921
   appid: 1354730921
@@ -206,7 +206,7 @@ clockworks:
   category3: "Visual Arts"
   email: clockworkscast@gmail.com
   support: https://www.patreon.com/clockworkscast
-  rss: https://goodstuff.fm/clockworks/feed
+  rss: https://goodstuff.fm/clockworks/feed.xml
   itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/clockworks-a-legion-podcast/latest
   appid: 1215340658
@@ -225,7 +225,7 @@ grownups:
   category: "Society & Culture"
   email: kayayarai@gmail.com
   support:
-  rss: https://goodstuff.fm/grownups/feed
+  rss: https://goodstuff.fm/grownups/feed.xml
   itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2&at=10l4Ki&ct=website
   appid: 920093038
   pocketcasts: http://pca.st/OEf0
@@ -247,7 +247,7 @@ nbsp:
   hosts-twitter: "@teleject"
   email: chris@goodstuff.fm
   support:
-  rss: https://goodstuff.fm/nbsp/feed
+  rss: https://goodstuff.fm/nbsp/feed.xml
   itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981?mt=2&at=10l4Ki&ct=website
   appid: 507162981
   pocketcasts: http://pca.st/Izn0
@@ -270,7 +270,7 @@ master:
   category3: "Technology"
   category4:
   category5:
-  rss: https://goodstuff.fm/feed
+  rss: https://goodstuff.fm/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-master-audio-feed/id1332045499?mt=2&at=10l4Ki&ct=website
   appid: 1332045499
   pocketcasts: http://pca.st/xiPV
@@ -293,7 +293,7 @@ atu2:
   category3:
   category4:
   category5:
-  rss: https://goodstuff.fm/atu2/feed
+  rss: https://goodstuff.fm/atu2/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2&at=10l4Ki&ct=website
   appid: 1018994132
   pocketcasts: http://pca.st/9jwK
@@ -317,11 +317,11 @@ aux:
   category3: "Technology"
   category4:
   category5:
-  rss: http://feed.3g3q.co/
+  rss: http://feed.xml.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
-  pocketcasts: http://feed.3g3q.co/
-  overcast: http://feed.3g3q.co/
+  pocketcasts: http://feed.xml.3g3q.co/
+  overcast: http://feed.xml.3g3q.co/
 ll:
   name: Lost and Lemon
   collection: ll
@@ -331,7 +331,7 @@ ll:
   email: chris@goodstuff.fm
   keywords: business, technology, Chris, Enns, Huebert
   category: "Business"
-  rss: https://goodstuff.fm/ll/feed
+  rss: https://goodstuff.fm/ll/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/lost-lemon-brothers-in-business/id467564174?mt=2
   appid: 467564174
   pocketcasts: http://pca.st/emvK
@@ -351,7 +351,7 @@ neverdigdown:
   explicit: no
   email: chris@goodstuff.fm
   support:
-  rss: https://goodstuff.fm/neverdigdown/feed
+  rss: https://goodstuff.fm/neverdigdown/feed.xml
   itunes: https://itunes.apple.com/us/podcast/never-dig-down/id902068369?mt=2
   appid: 902068369
   pocketcasts: http://pca.st/5YwG
@@ -375,7 +375,7 @@ smym:
   category3:
   category4:
   category5:
-  rss: https://goodstuff.fm/smym/feed
+  rss: https://goodstuff.fm/smym/feed.xml
   itunes: https://itunes.apple.com/us/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki&ct=website
   appid: 602836998
   pocketcasts: http://pca.st/M3P3
@@ -399,7 +399,7 @@ specials:
   category3: "Technology"
   category4:
   category5:
-  rss: https://goodstuff.fm/specials/feed
+  rss: https://goodstuff.fm/specials/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2&at=10l4Ki&ct=website
   appid: 854159948
   pocketcasts: http://pca.st/LvG0
