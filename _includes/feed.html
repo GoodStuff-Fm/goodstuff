@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+<channel>
+
+{% assign show = site.data.shows[page.show] %}
+
+<atom:link href="{{ site.url }}/{{ show.collection }}/feed.xml" rel="self" type="application/rss+xml" />
+<title>{{ show.name | xml_escape }}</title>
+<description>{{ show.description | xml_escape }}</description>
+<link>{{ site.url }}/{{ show.collection }}</link>
+<language>EN</language>
+<managingEditor>{{ site.itunes-email | xml_escape }} ({{ site.itunes-author | xml_escape }})</managingEditor>
+<webMaster>{{ site.itunes-email | xml_escape }} ({{ site.itunes-author | xml_escape }})</webMaster>
+<copyright>2014-2018 {{ site.title | xml_escape }}</copyright>
+<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+<image>
+  <link>{{ site.url }}/{{ show.collection }}</link>
+  <url>{{ site.url }}{{ show.artwork }}</url>
+  <title>{{ show.name | xml_escape }}</title>
+</image>
+<itunes:subtitle>{{ show.description | xml_escape }}</itunes:subtitle>
+<itunes:author>{{ site.itunes-author | xml_escape }}</itunes:author>
+<itunes:summary>{{ show.description | xml_escape }}</itunes:summary>
+<itunes:keywords>{{ show.keywords | xml_escape }}</itunes:keywords>
+<itunes:owner>
+  <itunes:name>{{ site.itunes-author | xml_escape }}</itunes:name>
+  <itunes:email>{{ site.itunes-email | xml_escape }}</itunes:email>
+</itunes:owner>
+<itunes:image href="{{ site.url }}{{ show.artwork }}" />
+<itunes:category text="{{ show.category1 | xml_escape }}" />
+<itunes:category text="{{ show.category2 | xml_escape }}" />
+<itunes:category text="{{ show.category3 | xml_escape }}" />
+<itunes:explicit>{{ show.explicit | xml_escape }}</itunes:explicit>
+<itunes:new-feed-url>{{ show.rss | xml_escape }}</itunes:new-feed-url>
+
+{% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
+  <item>
+    <title>{{ doc.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ doc.url }}</link>
+    <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
+    <description><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></description>
+    <guid isPermaLink="true">{{ site.url }}{{ doc.url }}</guid>
+    <enclosure url="{{ doc.mp3 }}" type="audio/mp3"/>
+    <itunes:author>{{ show.hosts | xml_escape }}</itunes:author>
+    <itunes:subtitle><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:subtitle>
+    <itunes:summary><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:summary>
+    <itunes:keywords>{{ show.keywords | xml_escape }}</itunes:keywords>
+    <itunes:explicit>{{ show.explicit | xml_escape }}</itunes:explicit>
+    <content:encoded><![CDATA[
+    {% if show.support %}
+      <a rel="payment" href="{{ show.support | xml_escape }}" title="Support">Support {{ show.name | xml_escape }}</a>
+      <br>
+      <hr>
+      <br>
+    {% endif %}
+    {{ doc.description | markdownify | expand_urls: site.url | cdata_escape }}<br>
+      {% if doc.sponsor %}
+      This episode of {{ show.name | xml_escape }} is sponsored by: <br>
+          {{ doc.sponsor | markdownify | expand_urls: site.url | cdata_escape }}<br>
+      {% endif %}
+      {{ doc.content | markdownify | expand_urls: site.url | cdata_escape }}
+      ]]>
+    </content:encoded>
+    <itunes:image href="{{ site.url }}{{ show.artwork }}" />
+  </item>
+{% endunless %}
+{% endif %}
+{% endfor %}
+
+</channel>
+</rss>

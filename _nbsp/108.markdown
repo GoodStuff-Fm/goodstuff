@@ -1,0 +1,57 @@
+---
+title: Steve Krug — Advanced Common Sense Approach to Web Usability
+date: 2017-02-28 12:11:00 -06:00
+position: 1
+description: A highly sought-after speaker, Steve Krug is a usability consultant who
+  has more than 20 years of experience as a user advocate for companies like Apple,
+  Netscape, AOL, Lexus, and others. He is best known for his book Don't Make Me Think
+  about human-computer interaction and web usability.  His second book, Rocket Surgery
+  Made Easy, is a DIY guide for Finding and fixing usability problems.
+sponsor: |-
+  * **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv107&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code `NONBREAKINGSPACESHOW` for 20% off.
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+  * **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year.
+episode: 108
+show: nbsp
+mp3: https://media.transistor.fm/0ea6af72.mp3
+video: https://www.youtube.com/embed/3Lp8xcQOymQ
+image: "/uploads/nbsptv-steve-krug.jpg"
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[7:25](#t=7:25)** Introduction of Steve's books
+* **[8:25](#t=8:25)** A discussion of mobile first
+* **[10:55](#t=10:55)** Did responsive design hurt web design?
+* **[16:20](#t=16:20)** Weatherbug as an example of a good app.
+* **[18:55](#t=18:55)** Double tapping on an article instead of responsive design as Steve Jobs intended.
+* **[21:00](#t=21:00)** Why don't more people do usabilty testing?
+* **[26:00](#t=26:00)** Failed prediction: usability will never get to be a line item on budgets.
+* **[29:00](#t=29:00)** Reasons why you can't predict the future.
+* **[30:15](#t=30:15)** 6 maxims from Steve's book
+* **[34:00](#t=34:00)** Making usability tests a spectator sport
+* **[35:10](#t=35:10)** How do I get buy in from my boss?
+* **[38:20](#t=38:20)** Making sure to have good snacks for usability testing.
+* **[39:10](#t=39:10)** What qualifies as a good snack for usability testing?
+* **[39:50](#t=39:50)** Focus ruthlessly on a smaller number of problems.
+* **[42:40](#t=42:40)** When faced with problems, do the least you can do.
+* **[44:50](#t=44:50)** Dealing with legacy sites.
+* **[48:15](#t=48:15)** Brundlefly
+* **[49:15](#t=49:15)** Getting lost in Home Depot
+* **[51:25](#t=51:25)** How difficult it is to keep a blog up to date.
+* **[54:05](#t=54:05)** Contributing to the walled garden of Facebook vs blogging
+* **[56:00](#t=56:00)** Where to find Steve Krug online.
+* **[57:10](#t=57:10)** LinkedIn dark pattern annoyance.
+
+### LINKS:
+
+* [Sensible.com](https://www.sensible.com)
+* [Steve Krug on Twitter](https://twitter.com/skrug)
+* [Don’t Make Me Think](https://www.sensible.com/dmmt.html)
+* [Rocket Surgery Made Easy](https://www.sensible.com/rsme.html)
+* [LukeW](http://www.lukew.com)
+* [LukeW on Twitter](https://twitter.com/lukew)
+* [Hipmunk](https://www.hipmunk.com)
+* [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)

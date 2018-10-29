@@ -1,0 +1,36 @@
+---
+title: Media or PerPlexed by Streaming
+date: 2017-06-07 12:12:00 -06:00
+position: 1
+episode: 2
+mp3: https://f001.backblazeb2.com/file/goodstuff/High+Contrast/highcontrast-2.mp3
+description: Comparing our Letterboxd diaries leads to a discussion of how we watch
+  streaming media in 2017.
+show: highcontrast
+image: "/uploads/highcontrast-002.jpg"
+layout: episode
+---
+
+* [Kyle on Letterboxd](https://letterboxd.com/kyle/)
+* [Chris on Letterboxd](https://letterboxd.com/ichris/)
+* [Thank God for Jokes](https://letterboxd.com/ichris/film/mike-birbiglia-thank-god-for-jokes/)
+* [Guardians of the Galaxy 2](https://letterboxd.com/ichris/film/guardians-of-the-galaxy-vol-2/)
+* [Keeping Up with the Joneses](http://www.imdb.com/title/tt2387499/)
+* [Louis CK 2017](https://letterboxd.com/ichris/film/louis-ck-2017/)
+* [The Most Hated Woman in America](https://letterboxd.com/ichris/film/the-most-hated-woman-in-america/)
+* [Independence Day Resurgance](https://letterboxd.com/kyle/film/independence-day-resurgence/)
+* [Kyle's review of Doctor Strange](https://letterboxd.com/kyle/film/doctor-strange-2016/)
+* [Kyle's review of Nocturnal Animals](https://letterboxd.com/kyle/film/nocturnal-animals/)
+* [Kyle's review of The Amazing Spider Man 2](https://letterboxd.com/kyle/film/the-amazing-spider-man-2/)
+* [Plex](https://www.plex.tv)
+
+### Kyle
+
+* [@dogburps](https://twitter.com/dogburps)
+* [The Goodstuff Morning Show](https://goodstuff.fm/morningshow/)
+
+### Chris
+
+* [@iChris](https://twitter.com/ichris)
+* [Dailyish](https://goodstuff.fm/dailyish/)
+* [Support Chris on Patreon](https://www.patreon.com/ichris)

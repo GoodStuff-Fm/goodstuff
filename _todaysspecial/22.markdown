@@ -1,0 +1,32 @@
+---
+title: Raisin and Spice Bar
+date: 2018-04-05 08:00:00 -06:00
+show: todaysspecial
+description: Located in the seedy underbelly of Bangkok, the Raisin and Spice Bar
+  is home to some of the roughest and most dangerous criminals on Earth. Sebastian
+  Heller is among the strongest of the bunch, and he doesn't let anyone pass without
+  first feeling the burning wrath of a Super-Street-Fighter-2 style Tiger Uppercut.
+  Sing-Song McCracken forges the path behind with his signature Karate-Kid-3 style
+  flippy kick. Thomas "The Tank" Engine will downright steamroll his foes without
+  so much as a glance. Fortunately for you, New York Times reporter Laura Ghuitarre
+  has made her way in to this closed community of killers. You can hear the grimy
+  tales of destruction and mayhem straight from the source today. Can you stomach
+  the sinister force of the Raisin and Spice Bar?
+episode: 22
+anchor: 
+layout: episode
+---
+
+
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+Today's Special is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

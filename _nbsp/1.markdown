@@ -1,0 +1,19 @@
+---
+title: Ethan Marcotte
+date: 2012-01-23 12:11:00 -06:00
+position: 1
+description: Ethan is a web designer & developer who lives in Cambridge, Massachusetts.
+  He’s also the author several web design books including Responsive Web Design, a
+  book that’s helped revolutionize the way websites are built. He frequently speaks
+  on web standards and responsive web design at conferences and tweets about it @beep
+  and @rwd.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 1
+show: nbsp
+mp3: http://podcasts-1.feedpress.co/10609/nbsp-1.mp3
+layout: episode
+---
+
+* [Ethan Marcotte is a web designer & developer who lives in Boston.](http://ethanmarcotte.com/)

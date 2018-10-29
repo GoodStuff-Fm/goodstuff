@@ -1,0 +1,61 @@
+---
+title: Jina Anne and Micah Godbolt — The State of Design Systems
+date: 2017-07-19 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 126
+mp3: https://media.transistor.fm/36f29cd5.mp3
+description: Jina Anne and Michah Godbolt are back on the show, but together for the
+  first time, to talk about design systems, how they are using design systems at their
+  respective jobs, and what is the state of design systems.
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv126&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video: https://www.youtube.com/embed/Am7-M_qIXw8
+image: https://goodstuff.com/nbsp/img/nbsptv-jina-bolton-micah-godbolt-126.jpg
+layout: episode
+---
+
+### Time Jumps
+
+* **[2:10](#t=2:10)** What are design systems and what is the state of design systems?
+* **[7:25](#t=7:25)** History of implementing a design system in place at Salesforce.
+* **[11:01](#t=11:01)** What types of things can get stored in design systems?
+* **[15:00](#t=15:00)** What's Micah's history with design systems?
+* **[20:15](#t=20:15)** Design systems help build apps and projects that might not even be created yet.
+* **[23:20](#t=23:20)** Does Microsoft Fabric distribute components or is their one repo in use?
+* **[25:20](#t=25:20)** How beneficial is it for small companies to use design systems?
+* **[27:10](#t=27:10)** What are some good tests for determining a good design tool?
+* **[30:13](#t=30:13)** What do you see for the future of design systems?
+* **[37:00](#t=37:00)** Join the Design Systems Slack group.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Jina Anne](https://www.sushiandrobots.com)
+* [Jina Anne on Twitter](https://twitter.com/jina)
+* [Non Breaking Space Show №20 with Jina Bolton](https://goodstuff.fm/nbsp/20)
+* [Micah GodBolt](https://micahgodbolt.com)
+* [Micah Godbolt on Twitter](https://twitter.com/micahgodbolt)
+* [Non Breaking Space Show №48 with Micah Godbolt](https://goodstuff.fm/nbsp/48)
+* [Non Breaking Space Show №74 with Micah Godbolt](https://goodstuff.fm/nbsp/74)
+* [Pattern Lab](http://patternlab.io)
+* [Style Tiles](http://styletil.es)
+* [Sparkbox](https://seesparkbox.com)
+* [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
+* [Microsoft Fabric](https://dev.office.com/fabric)
+* [Figma](https://www.figma.com)
+* [Sketch](https://sketchapp.com)
+* [Adobe Experience](http://www.adobe.com/ca/products/experience-design.html)
+* [Microsoft Fluent Design Systems](http://fluent.microsoft.com)
+* [Design Systems Slack Group](http://designsystems.herokuapp.com)
+* [Clarity Conference](https://www.clarityconf.com)
+* [Frontend Architecture for Design Systems](http://shop.oreilly.com/product/0636920040156.do)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

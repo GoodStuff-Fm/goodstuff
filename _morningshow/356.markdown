@@ -1,0 +1,40 @@
+---
+title: Is a Lobster a Bug?
+date: 2017-07-18 09:44:00 -06:00
+position: 7
+show: morningshow
+episode: 356
+description: It's like getting a pre-portioned meal with cheese, caviar, breakfast
+  ketchup, and a burger with pizza buns delivered to your door via waterslide.
+mp3: https://media.transistor.fm/396d8be9.mp3
+image: "/uploads/morningshow-356.png"
+video: https://www.youtube.com/embed/o0_0ZwTfCxE
+layout: episode
+---
+
+* [New emoji alert! Apple shows off some of the characters coming to iOS later this year](https://www.imore.com/new-emoji-alert-apple-shows-some-characters-coming-ios-later-year)
+
+* [Amazon-made meal kits could come to your doorstep soon](https://arstechnica.com/business/2017/07/amazon-may-enter-the-meal-kit-market-pushing-blue-apron-further-to-the-edge/)
+
+* [Do Amusement Park Rides Count As a Workout?](http://www.shape.com/fitness/cardio/do-amusement-parks-count-workout)
+
+* [SI Eats (@SI_Eats)](https://twitter.com/SI_Eats)
+
+* [SI Eats: Welcome to Sports Illustrated's food vertical](https://www.si.com/eats/2017/06/30/welcome-to-si-eats-food-vertical)
+
+* [Burgerizza](https://cdn-s3.si.com/s3fs-public/2017/06/28/burgerizza2.jpg)
+
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

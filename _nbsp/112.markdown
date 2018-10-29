@@ -1,0 +1,60 @@
+---
+title: Susan Weinschenk, Ph.D. — How To Get People To Do Stuff
+date: 2017-04-03 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 112
+mp3: https://media.transistor.fm/1952c04c.mp3
+description: 'Dr. Susan Weinschenk is a behavioral psychologist who has been working
+  in the field of design and user experience. She is the author of *How To Get People
+  To Do Stuff*, *Neuro Web Design: What Makes Them Click?* and *100 Things Every Designer
+  Needs to Know About People*.'
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv112&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video: https://www.youtube.com/embed/cXolX7oxWFo
+image: "/uploads/nbsptv-susan-weinschenk.jpg"
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[2:25](#t=2:25)** What's a normal day for you?
+* **[3:45](#t=3:45)** Being a science advisor on a TV show.
+* **[6:40](#t=6:40)** YouTube stars vs. TV stars
+* **[8:55](#t=8:55)** How do self stories help people keep resolutions?
+* **[11:24](#t=11:24)** If you're talking about making a big change in your life, habit will only get you so far.
+* **[12:30](#t=12:30)** What is an example of a self story?
+* **[15:20](#t=15:20)** They were editing their stories based on what other people had said they did.
+* **[16:40](#t=16:40)** Sometimes I'll write out what I think my story is right now.
+* **[17:30](#t=17:30)** There's always more than one way to look at a situation.
+* **[18:50](#t=18:50)** The way you describe your life has a huge effect on you.
+* **[20:50](#t=20:50)** Is the best way to do it to write it down?
+* **[24:01](#t=24:01)** Don't lie in your story. Your story has to be grounded in reality.
+* **[30:00](#t=30:00)** Do you have personas on the project?
+* **[31:50](#t=31:50)** What's a "deep interview?"
+* **[36:10](#t=36:10)** I had someone crying in an interview about hooking up a television.
+* **[39:00](#t=39:00)** What you need is the story from people.
+* **[41:30](#t=41:30)** Customer support and trust is a big deal on the internet
+* **[43:00](#t=43:00)** You're not an expert because you don't make this kind of purchase every day.
+* **[47:00](#t=47:00)** Chris' Instantpot story
+* **[51:00](#t=51:00)** Susan's tent story.
+* **[59:00](#t=59:00)** Would you spend $18,000 without details about your insurance?
+* **[1:01:45](#t=1:01:45)** How can people find you on the web?
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt @teleject](https://twitter.com/teleject)
+* [Susan Weinschenk on Twitter](https://twitter.com/thebrainlady)
+* [The Team W](https://www.theteamw.com)
+* [Podcast - Human Tech](https://www.humantech.theteamw.com) Your hosts Guthrie and Dr. Susan Weinschenk explore how behavioral and brain science affects our technologies and how technologies affect our brains.
+* [YouTube Red](http://youtube.com/red)
+* [Mind Field on YouTube](https://www.youtube.com/watch?v=iqKdEhx-dD4&list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2)
+* [Susan’s Books](https://www.theteamw.com/#books)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

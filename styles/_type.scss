@@ -1,0 +1,754 @@
+// Type
+//
+// Styles for fonts, weights, sizes, and other font-related styles.
+
+.latest-episode {
+
+  &__header {
+    font-size: 1.6rem;
+    color: $blue;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  &__details {
+
+    &__show a {
+      color: $bright-red;
+      font-size: 1.2rem;
+      font-weight: 600;
+      font-family: 'Roboto', sans-serif;
+      text-decoration: none;
+    }
+
+    &__title a {
+      color: $bright-red;
+      font-size: 1.7rem;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    &__date {
+      color: $blue;
+      font-size: .95rem;
+      opacity: .6;
+    }
+
+    &__hosts {
+      font-size: .95rem;
+      font-weight: 700;
+      color: $blue;
+    }
+
+    &__description {
+      font-size: 1rem;
+      color: $light-blue;
+      line-height: 1.7rem;
+    }
+
+    &__listen a {
+      float: left;
+      max-width: 50%;
+      border-radius: 4pt;
+      color: white;
+      font-size: 1.1rem;
+      background: #DA5647;
+      padding: 10pt 20pt 10pt 20pt;
+      border: solid #C4392E 1pt;
+      text-decoration: none;
+    }
+
+    &__listen:hover a {
+      background: #C4392E;
+      text-decoration: none;
+    }
+
+  }
+
+}
+
+.header {
+  height: 70pt;
+  vertical-align: middle;
+  line-height: 70pt;
+
+  &__list {
+
+    &__live a {
+      text-transform: uppercase;
+      background-color: $bright-red;
+      color: white;
+      font-weight: 700;
+      padding: 8pt;
+      border-radius: 4pt;
+    }
+
+    &__notlive a {
+      text-transform: uppercase;
+      color: white;
+      font-weight: 700;
+      padding: 8pt;
+      border-radius: 4pt;
+      border: 2pt solid $blue;
+    }
+
+    &__item a {
+      font-size: 1rem;
+      text-decoration: none;
+      color: white;
+    }
+
+  }
+
+}
+
+.recent-episodes {
+
+  &__header {
+    color: #4A5160;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+  }
+
+  &__list {
+    text-align: center;
+  }
+
+  &__title a {
+    color: #4A5160;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  &__date {
+    color: $bright-red;
+    font-size: .85rem;
+  }
+
+}
+
+.our-shows {
+
+  &__header {
+    color: #4A5160;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+  }
+
+  &__list a {
+    color: #4A5160;
+    font-size: .8rem;
+    font-weight: 500;
+    text-decoration: none;
+  }
+
+  &__title {
+    text-align: center;
+  }
+
+}
+
+.page {
+
+  &__header {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: $blue;
+  }
+
+  &__subheader {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: $light-blue;
+  }
+
+  &__rule {
+    border: 0;
+    height: 0;
+    border-top: 1px $light-gray;
+    border-bottom: 1px solid $light-gray;
+  }
+
+  &__description {
+    font-size: 1rem;
+    font-weight: 400;
+    color: $light-blue;
+    line-height: 160%;
+
+    a {
+      color: $bright-red;
+      text-decoration: none;
+    }
+
+    p {
+      padding-bottom: 16pt;
+      em {
+        font-style: italic;
+      }
+    }
+
+    h1 {
+      font-size: 1.4em;
+      font-weight: 600;
+      color: $blue;
+      padding-bottom: 8pt;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      color: $blue;
+      font-weight: 600;
+      padding: 4pt 0 8pt 0;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      padding-top: 8pt;
+      padding-bottom: 4pt;
+      color: $blue;
+    }
+
+    h4 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      padding-top: 8pt;
+      padding-bottom: 4pt;
+      color: $light-blue;
+    }
+
+    h5 {
+      font-size: 1rem;
+      font-weight: 700;
+      padding: 0 0 8pt 0;
+      color: $light-blue;
+      text-transform: uppercase;
+    }
+
+    ul {
+      list-style: disc;
+      padding-left: 2pt;
+      color: $blue;
+      padding-bottom: 10pt;
+    }
+
+    ol {
+      padding: 20px;
+    }
+
+    ol li {
+      margin-left: 35px;
+    }
+
+    ul li {
+      margin-left: 15pt;
+      color: $light-blue;
+    }
+
+    hr {
+      margin: 4pt 0 24pt 0;
+      border: 0;
+      height: 0;
+      border-top: 1px $light-gray;
+      border-bottom: 1px solid $light-gray;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    blockquote {
+      font-size: 1rem;
+      font-style: italic;
+      width: 100%;
+      margin: 12pt 0;
+      padding: 0 0 0 12pt;
+      position: relative;
+      border-left: 4pt solid $light-gray;
+    }
+
+  }
+
+}
+
+.shows {
+
+  &__list {
+
+    &__name {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: $dark-blue;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+    }
+
+    &__hosts {
+      font-size: .95rem;
+      font-weight: 700;
+      color: $blue;
+    }
+
+    &__description {
+      font-size: 1.05rem;
+      font-weight: 400;
+      color: $light-blue;
+      line-height: 1.7rem;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+        font-weight: 400;
+      }
+    }
+
+    &__link {
+      font-size: .95rem;
+      font-weight: 600;
+      color: $light-blue;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+        font-weight: 400;
+      }
+    }
+
+  }
+}
+
+.hosts {
+
+  &__list {
+
+    &__name a {
+      font-size: .85rem;
+      color: $bright-red;
+      text-decoration: none;
+    }
+  }
+}
+
+.show {
+
+  &__description {
+    font-size: 1.45rem;
+    font-weight: 400;
+    color: $light-blue;
+    line-height: 2rem;
+  }
+
+  &__episode {
+
+    &__title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: $blue;
+      line-height: 1.9rem;
+      a {
+        text-decoration: none;
+        color: $bright-red
+      }
+    }
+
+    &__date {
+      color: $light-blue;
+      opacity: 50%;
+      font-size: .95rem;
+    }
+
+    &__description {
+      color: $light-blue;
+      font-size: 1rem;
+      padding-top: 8pt;
+      padding-bottom: 8pt;
+      line-height: 1.7rem;
+    }
+
+
+  }
+}
+
+.episode {
+
+  &__navigation {
+    font-size: 1rem;
+    padding-bottom: 16pt;
+    a {
+      color: $bright-red;
+      font-weight: 400;
+      text-decoration: none;
+    }
+  }
+
+  &__title {
+    font-size: 2.3rem;
+    color: $blue;
+    font-weight: 700;
+    padding-bottom: 16pt;
+    padding-top: 16pt;
+    line-height: 2.5rem;
+    a{
+      color: $bright-red;
+      text-decoration: none;
+    }
+  }
+
+  &__date {
+    color: $light-blue;
+    opacity: 50%;
+    font-size: .95rem;
+    padding-bottom: 16pt;
+  }
+
+  &__description {
+    color: $light-blue;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+    padding-top: 8pt;
+    padding-bottom: 16pt;
+  }
+
+  &__sponsor {
+    padding: 20pt;
+    margin-top: 12pt;
+    margin-bottom: 24pt;
+    background-color: $light-gray;
+    color: $light-blue;
+    font-size: 1rem;
+    border-radius: 4pt;
+    height: auto;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    &__header {
+      font-weight: 700;
+      line-height: 20pt;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+        font-weight: 700;
+      }
+    }
+
+    &__copy {
+      padding-top: 12pt;
+      line-height: 20pt;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+      ul {
+        list-style: disc;
+        padding-left: 2pt;
+        color: $blue;
+      }
+
+      ol {
+        padding: 20px;
+      }
+
+
+      ol li {
+        margin-left: 35px;
+      }
+
+      ul li {
+        margin-left: 15pt;
+        color: $light-blue;
+        padding-bottom: 8pt;
+      }
+
+      hr {
+        border: 0;
+        height: 0;
+        border-top: 1px $light-gray;
+        border-bottom: 1px solid $light-gray;
+      }
+    }
+  }
+
+  &__transistor {
+    color: $light-blue;
+    opacity: 50%;
+    font-size: .95rem;
+    padding-bottom: 24pt;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 700;
+    }
+  }
+
+
+  &__show {
+
+    &__name {
+      font-size: 1.35rem;
+      font-weight: 600;
+      color: $dark-blue;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+    }
+
+    &__hosts {
+      font-size: .95rem;
+      font-weight: 700;
+      color: $blue;
+    }
+
+    &__description {
+      font-size: 1.05rem;
+      font-weight: 400;
+      color: $light-blue;
+      line-height: 1.6rem;
+    }
+
+    &__link {
+      font-size: .95rem;
+      font-weight: 600;
+      color: $light-blue;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+        font-weight: 400;
+      }
+    }
+
+
+
+  }
+
+  &__player {
+
+    &__mp3 {
+      width: 100%;
+      padding-top: 8pt;
+      padding-bottom: 8pt;
+    }
+
+    &__links {
+      font-size: .95rem;
+      font-weight: 400;
+      padding-top: 8pt;
+      padding-bottom: 24pt;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+      i {
+        padding-right: 8pt;
+      }
+
+      li {
+        display: inline;
+        padding-right: 24pt;
+      }
+    }
+  }
+
+
+  &__header {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: $blue;
+    padding-top: 24pt;
+    padding-bottom: 16pt;
+  }
+
+  &__content {
+    font-size: 1.05rem;
+    font-weight: 400;
+    color: $light-blue;
+    line-height: 1.8rem;
+    padding-bottom: 100pt;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+    }
+
+    p {
+      padding-bottom: 8pt;
+      em {
+        font-style: italic;
+      }
+    }
+
+    h1 {
+      font-size: 1.4em;
+      font-weight: 600;
+      color: $blue;
+      padding-top: 12pt;
+      padding-bottom: 4pt;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      color: $blue;
+      font-weight: 600;
+      padding-top: 12pt;
+      padding-bottom: 4pt;
+
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      padding-top: 8pt;
+      padding-bottom: 4pt;
+      color: $blue;
+    }
+
+    ul {
+      list-style: disc;
+      padding-left: 2pt;
+      color: $blue;
+      padding-bottom: 10pt;
+    }
+
+    ol {
+      padding: 20px;
+    }
+
+
+    ol li {
+      margin-left: 35px;
+    }
+
+    ul li {
+      margin-left: 15pt;
+      color: $light-blue;
+    }
+
+    hr {
+      border: 0;
+      height: 0;
+      border-top: 1px $light-gray;
+      border-bottom: 1px solid $light-gray;
+    }
+
+  }
+}
+
+.person {
+
+  &__header {
+    font-size: 2.2rem;
+    color: $blue;
+    font-weight: 700;
+  }
+
+  &__subheader {
+    font-size: 1.1rem;
+    color: $light-blue;
+    font-weight: 400;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__tagline {
+    font-size: 1rem;
+    font-weight: normal;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__description {
+    font-size: 1.05rem;
+    font-weight: normal;
+    color: $light-blue;
+    a {
+      color: $bright-red;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__shows {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $blue;
+  }
+
+
+  &__show {
+    &__name {
+      font-size: 1.2rem;
+      font-weight: 600;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+    }
+    &__description {
+      font-size: 1.1rem;
+      font-weight: normal;
+      color: $light-blue;
+    }
+  }
+
+
+}
+
+.footer {
+  color: $blue;
+
+  &__left {
+
+    &__description {
+      color: $dark-blue;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.6rem;
+    }
+
+    &__copyright {
+      color: $blue;
+      font-weight: 500;
+    }
+
+    &__transistor a {
+      color: $bright-red;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    &__link {
+    }
+
+  }
+
+  &__right {
+
+    &__header {
+      color: $dark-blue;
+      font-size: 1rem;
+      font-weight: 500;
+    }
+
+    &__page a {
+      color: $blue;
+      font-weight: 500;
+      font-size: .9rem;
+      text-decoration: none;
+    }
+
+  }
+
+}

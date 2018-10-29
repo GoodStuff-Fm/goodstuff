@@ -1,0 +1,53 @@
+---
+title: Dan Cederholm —  Dribbble and Design
+date: 2012-12-13 12:11:00 -06:00
+position: 24
+description: |-
+  Dan is a designer, author, speaker, husband, and father living in Salem, Massachusetts. He is the Founder and Principal of SimpleBits, LLC, a tiny web design studio, and co-founder and designer of Dribbble, a vibrant community for sharing screenshots of your work.
+  Dan is a recognized expert in the field of standards-based web design and has worked with YouTube, Microsoft, Google, MTV, ESPN, and others. He has authored four books including “CSS3 For Web Designers”, “Handcrafted CSS”, “Bulletproof Web Design”, and “Web Standards Solutions”.
+  In early 2012, he received a TechFellow award for Product Design & Marketing. Dan enjoys sharing his simplistic approach to web design while spreading the word on the standards-based markup and style techniques he’s collected by speaking at conferences and events around the globe.
+sponsor: 
+sponsor-link: 
+sponsor-copy: 
+episode: 24
+show: nbsp
+mp3: https://media.transistor.fm/d086eaba.mp3
+layout: episode
+---
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Dan Cederholm on Twitter](http://twitter.com/simplebits)
+* [SimpleBits.com](http://simplebits.com)
+* [Jessica Hische interview on Non-Breaking Space](http://nonbreakingspace.tv/jessica-hische/)
+* [Fast Company Magazine](http://www.fastcompany.com)
+* [Wired Magazine](http://www.wired.com)
+* [Doug Bowman - 10 Years Later on Wired Redesign](http://stopdesign.com)
+* [Mike Davidson](http://www.mikeindustries.com/)
+* [ESPN](http://espn.go.com)
+* [Meagan Fisher](http://owltastic.com)
+* [Dribbble](http://dribbble.com)
+* [Dave Rupert](http://daverupert.com)
+* [Molly Holzschlag](http://www.molly.com)
+* [BeOS](http://en.wikipedia.org/wiki/BeOS)
+* [K10k Project](http://www.cubancouncil.com/work/project/kaliber-10000)
+* [Wayback Machine Simplebits.com](http://wayback.archive.org/web/*/http://simplebits.com)
+* [2008 Simplebits.com](http://web.archive.org/web/20080112094611/http://www.simplebits.com/)
+* [Simplebits Quiz from 2003](http://web.archive.org/web/20031203090255/http://www.simplebits.com/)
+* [Web Standards Solutions](http://www.amazon.com/Web-Standards-Solutions-Handbook-Pioneering/dp/1590593812)
+* [Foamee.com](http://foamee.com)
+* [Many Face Of…](http://themanyfacesof.com)
+* [Lost Worlds Fairs](http://lostworldsfairs.com)
+* [Dan Benjamin](http://benjamin.org/dan/)
+* [Cork&rsquo;d](http://content.corkd.com)
+* [Cameron Moll Screen grab Confab](http://cameronmoll.com/archives/000043.html)
+* [Rich Thornett](http://thornett.com)
+* [Dribbble](http://dribbble.com/simplebits)
+* [Trent Walton on Twitter](http://twitter.com/trentwalton)
+* [Paravel](http://paravelinc.com)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

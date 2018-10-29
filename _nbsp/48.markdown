@@ -1,0 +1,32 @@
+---
+title: Micah Godbolt — Front-End Architecture
+date: 2015-02-23 12:11:00 -06:00
+position: 46
+description: A regular code contributor and speaker at worldwide open source events,
+  Micah Godbolt is highly involved in teaching and training new developers, sometimes
+  as a guest lecturer at local colleges. He leads a Sass and front-end meetup in Portland
+  and publishes a weekly video blog called Sass Bites.
+sponsor: Campaign Monitor
+sponsor-link: http://www.campaignmonitor.com/
+sponsor-copy: Tell them you heard about it on Goodstuff
+episode: 48
+show: nbsp
+mp3: https://media.transistor.fm/b1254add.mp3
+video: https://www.youtube.com/embed/n9Necok5lwI
+layout: episode
+---
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+*  [Sketch notes](https://twitter.com/samkap/status/569325916016369664) from this episode
+*  [Style Guide podcast](styleguides.io/podcast/) podcast by Brad Frost and Anna Debenham
+*  [Resources on Front-end Architecture](https://github.com/micahgodbolt/front-end-architecture)
+*  [The Specialist-Generalist Balance](http://alistapart.com/article/the-specialist-generalist-balance)
+*  [Micah Godbolt on Twitter](https://twitter.com/micahgodbolt)
+*  [Sass Bites podcast](http://youtube.com/SassBites)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

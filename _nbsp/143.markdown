@@ -1,0 +1,55 @@
+---
+title: Comic-Con, Scutoids, and Burnt Out Millennials
+date: 2018-07-31 09:00:00 -06:00
+position: 1
+show: nbsp
+episode: 143
+mp3: https://media.transistor.fm/ae6816b6.mp3
+description: Simon St. Laurent stops by the show to discuss with Christopher the winners
+  of Comic-Con San Diego, the finding of a new shape, and the bittersweet tanking
+  of social media companies Twitter and Facebook failing to grow revenue off our data.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv143&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv143&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
+video: https://www.youtube.com/embed/Mc8S4C_Wlok
+image: "/uploads/nbsptv-143-simon-stlaurent.jpg"
+layout: episode
+---
+
+### Time Jumps
+
+* **[2:05](https://goodstuff.fm/nbsp/143#t=2:05)** Story #8 — Ranking San Diego Comic Con 2018 Trailers, From Worst to Best
+* **[24:10](https://goodstuff.fm/nbsp/143#t=24:10)** Story #7 — Meet the 11% of Americans who don’t use the internet
+* **[35:20](https://goodstuff.fm/nbsp/143#t=35:20)** Story #6 — Burned-out millennials are quitting lucrative jobs
+* **[42:10](https://goodstuff.fm/nbsp/143#t=42:10)** Story #5 — Facebook’s forecast for the future looks suddenly bleak
+* **[47:15](https://goodstuff.fm/nbsp/143#t=47:15)** Story #4 — Twitter shares drop 19 percent after reporting declining monthly active users
+* **[50:30](https://goodstuff.fm/nbsp/143#t=50:30)** Story #3 — Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots
+* **[55:20](https://goodstuff.fm/nbsp/143#t=55:20)** Story #2 — Scientists discover a new shape and it's been hiding inside your skin
+* **[59:10](https://goodstuff.fm/nbsp/143#t=59:10)** Story #1 — Liquid water 'lake' revealed on Mars
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Simon on Twitter](https://twitter.com/simonstl)
+* [Best San Dieog Comic-Con 2018 Trailers from Worst to Best](https://www.rollingstone.com/movies/movie-features/ranking-san-diego-comic-con-2018-trailers-from-worst-to-best-702373/)
+* [Meet the 11% of Americans who don’t use the internet](https://thehustle.co/meet-the-11-of-americans-who-dont-use-the-internet/)
+* [Burned-out millennials are quitting lucrative jobs](https://nypost.com/2018/07/25/millennials-are-bailing-on-their-high-paying-jobs-to-travel/)
+* [Facebook’s forecast for the future looks suddenly bleak](https://www.theverge.com/2018/7/26/17615330/facebook-earnings-forecast-user-growth-revenue)
+* [Zuckerberg loses more than $15 billion in record Facebook fall](https://www.reuters.com/article/us-facebook-results-stock/zuckerberg-loses-more-than-15-billion-in-record-facebook-fall-idUSKBN1KG1TN)
+* [Twitter shares drop 19 percent after reporting declining monthly active users ](https://www.cnbc.com/2018/07/27/twitter-earnings-q2-2018.html)
+* [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
+* [Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28)
+* [Scutoid: Scientists Discover an Entirely New Shape—and It's Been Hiding Inside Your Skin Cells](https://webcache.googleusercontent.com/search?q=cache:7eTOA5NugRAJ:https://www.newsweek.com/scutoid-scientists-discover-entirely-new-shape-and-its-been-hiding-inside-1045097+&cd=2&hl=en&ct=clnk&gl=us)
+* [Liquid water 'lake' revealed on Mars](https://www.bbc.com/news/science-environment-44952710)
+
+### Follow The Non Breaking Space Show
+
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

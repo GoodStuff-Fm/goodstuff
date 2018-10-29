@@ -1,0 +1,54 @@
+---
+title: Gene Crawford and Carl Smith of Bizcraft
+date: 2013-01-31 12:11:00 -06:00
+position: 26
+description: |-
+  Our guests for this episode are the hosts of the BizCraft, the podcast about the business side of web design, Carl Smith of nGen Works and Gene Crawford of UnmatchedStyle.
+  Gene Crawford is the Editor for unmatchedstyle.com, organizer of convergese.com. President AIGA South Carolina and he also runs Period Three.
+  Carl Smith is the founding member of nGen Works. He has worked with some great teams that won the New York Art Directors Award for Interactive Development, The Hospitality Industry’s Best of Show Award, and two National C.A.S.E. awards for Educational Web Development. Featured in Kelly Goto’s best-selling book, Web Redesign: Workflow That Works.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 27
+show: nbsp
+mp3: https://media.transistor.fm/9487d840.mp3
+layout: episode
+---
+
+-  [Jennifer Robbins interview](http://nonbreakingspace.tv/jennifer-robbins/)
+
+-  [Ngen Works](http://www.ngenworks.com/)
+
+-  [@carlsmith](http://twitter.com/carlsmith)
+
+-  [Period-three](http://period-three.com)
+
+-  [Unmatched Style](http://unmatchedstyle.com)
+
+-  [NClud](http://nclud.com)
+
+-  [Filament Group](http://filamentlab.com)
+
+-  [Boston Globe](http://bostonglobe.com)
+
+-  [Secrets of Successful Websites](http://www.amazon.com/Secrets-Successful-Sites-David-Siegel/dp/1568303823)
+
+-  [Kelly Goto](http://www.gotomedia.com)
+
+-  [Kristina Halvorson’s interview](http://nonbreakingspace.tv/kristina-halvorson/)
+
+-  [Rachel Gertz](http://www.ngenworks.com/team/rachel-gertz/)
+
+-  [Josh Clark](http://globalmoxie.com/index.shtml)
+
+-  [Paravel](http://paravelinc.com)
+
+-  [The Jellyfish Model](http://www.ngenworks.com/blog/the-jellyfish-model/)
+
+-  [The Jellyfish Work Model](http://www.ngenworks.com/blog/the-jellyfish-model-a-video-summary/)
+
+-  [@carlsmith](https://twitter.com/carlsmith)
+
+-  [@genecrawford](https://twitter.com/genecrawford)
+
+-  [@unmatchedstyle](https://twitter.com/ummatchedstyle)

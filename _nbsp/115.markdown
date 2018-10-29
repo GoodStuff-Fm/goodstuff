@@ -1,0 +1,59 @@
+---
+title: Simon St. Laurent — The Last Jedi Trailer, Burger King Hacking, Life in Space,
+  and More
+date: 2017-04-18 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 115
+mp3: https://media.transistor.fm/b5467b47.mp3
+description: The state of Angular, Apple's self-driving vehicles, parking spaces in
+  space, American Dream is stuck in a rut, and The Last Jedi teaser trailer reaching
+  over 20 million views.
+sponsor: |-
+  * [AccessU Summit](http://accessusummit.com/) is a virtual conference on digital accessibility techniques and policies taking place online on May 18th. Early bird tickets now on sale at [AccessUSummit.com](http://accessusummit.com/).
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv115&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv115&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv115&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv115&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video: https://www.youtube.com/embed/CsG8M9gLvpw
+image: "/uploads/nbsptv-simonstl-115.jpg"
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[1:55](#t=1:55)** Nothing's more important than this show, right?
+* **[2:10](#t=2:10)** #9 Signage at the Angular Conference.
+* **[15:40](#t=15:40)** #8 The state of Angular
+* **[19:30](#t=19:30)** #7 DMV grants Apple to test self driving software.
+* **[29:20](#t=29:20)** #6 The Post JavaScript Apocalypse
+* **[37:50](#t=37:50)** #5 Parking Space in Space
+* **[42:26](#t=42:26)** #4 Enceladus' Subsurface Energy Source
+* **[48:20](#t=48:20)** #3 Burger King takes over your robot butler
+* **[53:44](#t=53:44)** #2 Why Americans Have Stopped Moving
+* **[1:02:50](#t=1:02:50)** #1 Last Jedi Trailer released
+
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Simon St. Laurent on Twitter](https://twitter.com/simonstl)
+* [📺 Simon St Laurent — The Last Jedi Trailer, Burger King Hacking, Life in Space, and More](https://youtu.be/CsG8M9gLvpw)
+* [Signage at Angular Conference](http://simonstl.com/ng-conf-signs/)
+* [State of Angular](http://ng-conf.com/)
+* [Apple gets DMV Approval to test self driving cars in California](https://www.bloomberg.com/news/articles/2017-04-14/apple-gets-dmv-approval-to-test-self-driving-cars-in-california)
+* [The Post JavaScript Apocalypse](https://youtu.be/NPB34lDZj3E)
+* [Astronauts Are About to Install a Parking Space for SpaceX and Boeing](http://www.popularmechanics.com/space/a22414/spacewalk-install-new-iss-components/)
+* [Enceladus' Subsurface Energy Source: What It Means for Search for Life](http://www.space.com/36469-enceladus-energy-souce-search-for-life.html)
+* [Alamo Draft House](https://drafthouse.com)
+* [Burger King Takes Over Your Robot Butler](https://www.washingtonpost.com/news/the-switch/wp/2017/04/12/burger-king-thought-is-had-a-great-idea-instead-it-ended-up-with-a-whopper-of-a-problem/?utm_term=.940e0d6fbb92)
+* [Why Americans Have Stopped Moving](https://nypost.com/2017/04/15/why-americans-have-stopped-moving/)
+* [Last Jedi Teaser Trailer](https://www.youtube.com/watch?v=zB4I68XVPzQ)
+* [Thor Ragnorak trailer](https://www.youtube.com/watch?v=v7MGUNV8MxU)
+* [Mystery Science Theatre 3000 The Return on Netflix](https://www.netflix.com/title/80128275)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

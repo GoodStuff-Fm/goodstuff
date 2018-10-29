@@ -1,0 +1,48 @@
+---
+title: The Seaweed Sheets
+date: 2016-03-11 08:17:00 -06:00
+tags:
+- Food Friday
+- noodles
+- eclipse
+- glass
+position: 52
+episode: '283'
+description: We discover the origins of pizza, Noodles of every shape and form, What
+  the eclipse looked like from space, Watch out for glass in your beer, Look out for
+  a hidden colony of orange tans!, Food Friday, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/73c7bb48.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Amazon Is Leasing 20 Boeing Aircrafts To Streamline Its Delivery Operations - Fast Company - Business + Innovation](http://www.fastcompany.com/3057641/most-innovative-companies/amazon-is-leasing-20-boeing-aircrafts-to-streamline-its-delivery-o?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29)
+* [FINALLY, McDonald's Tests EVERY Breakfast Item For Its All Day Menu](http://www.foodbeast.com/news/mcdonalds-true-all-day-breakfast/)
+* [Solar eclipse spotted from air and space](http://www.geekwire.com/2016/total-solar-eclipse-spotted-air-space/)
+* [Weather for the Blind, A Synthesizer That Creates Musical Interpretations of Weather Conditions](http://laughingsquid.com/weather-for-the-blind-a-synthesizer-that-creates-musical-interpretations-of-weather-conditions/)
+* [Corona Recalls Their Bottles After Tiny Bits Of Glass Found In Beer](http://www.foodbeast.com/news/corona-recall/)
+* [Study: Posting photos of your food could make it taste better - SFGate](http://www.sfgate.com/food/article/Study-posting-photos-of-your-food-taste-better-6878726.php)
+* [Another Chipotle Closes After Employees Get Sick—Is It Finally Qdoba's Chance??](http://gizmodo.com/another-chipotle-closes-after-employees-get-sick-is-it-1763824680)
+* [Binge-Watching TV Is Making Us Depressed, According to an Incredibly Depressing Study - VICE - United States](http://www.vice.com/read/binge-watching-tv-is-making-us-depressed-according-to-incredibly-depressing-study-909)
+* [A Scientific Answer to the Question of Whether a Human Could Eat an Entire Bus](http://laughingsquid.com/a-scientific-answer-to-the-question-of-whether-a-human-could-eat-an-entire-bus/)
+* [Scientists find 'hidden' colony of orangutans - MNN - Mother Nature Network](http://www.mnn.com/earth-matters/animals/blogs/scientists-uncover-hidden-population-orangutans)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

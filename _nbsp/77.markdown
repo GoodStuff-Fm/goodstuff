@@ -1,0 +1,20 @@
+---
+title: Wren Lanier — Designing for New Media
+date: 2016-05-10 12:11:00 -06:00
+description: Wren Lanier is a senior product designer, speaker, and writer based out
+  of Durham, North Carolina. Designer and strategist with a passion for creating beautiful
+  digital products, Wren specializes in mobile design, user interface design, lean
+  UX, information architecture, team leadership, and product strategy.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 77
+show: nbsp
+mp3: https://media.transistor.fm/b4c5770a.mp3
+video: https://www.youtube.com/embed/ZBsCgV2k9tk
+image: "/uploads/nbsptv-wren-lanier.jpg"
+layout: episode
+---
+

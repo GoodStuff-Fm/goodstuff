@@ -1,0 +1,20 @@
+---
+title: Jeff Croft
+date: 2012-03-21 12:11:00 -06:00
+position: 5
+description: Our guest for today’s show is Jeff Croft, a designer and developer working
+  out of his home in Seattle. He works at the web agency nGen Works and he’s also
+  a blogger, speaker, critic, and industry thought leader. Jeff is the co-founder
+  of the popular eBook sharing community, Lendle.me, he’s co-authored two books, Pro
+  CSS Techniques, and Web Standards Creativity. He has been working on the web full-time
+  since 1995. While Jeff does plenty of programming, his true passion lies in design,
+  user experience, communication, and social media.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 5
+show: nbsp
+mp3: https://media.transistor.fm/30744880.mp3
+layout: episode
+---
+

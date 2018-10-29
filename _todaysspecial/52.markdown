@@ -1,0 +1,12 @@
+---
+title: Bratwurst
+date: 2018-08-16 04:00:00 -06:00
+show: todaysspecial
+episode: 52
+description: We only brat you the best for this episode. We promise.
+mp3: https://media.transistor.fm/f56c5691.mp3
+---
+
+Got feedback? [Email us!](mailto:kyle@goodstuff.fm)
+
+Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

@@ -1,0 +1,10 @@
+---
+title: Pecan Pie
+date: 2018-07-12 04:00:00 -06:00
+show: todaysspecial
+episode: 27
+mp3: https://media.transistor.fm/0facf292.mp3
+description: Bugs can be food too!
+layout: episode
+---
+

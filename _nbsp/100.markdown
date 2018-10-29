@@ -1,0 +1,18 @@
+---
+title: Simon St. Laurent and Chris Enns — Vine Closing, Twitter Buyer, Stranger Things,
+  and More
+date: 2016-12-02 12:11:00 -06:00
+description: Vine is shutting down, who should buy Twitter, the story of Christopher
+  dancing as Chewbacca, the cons of a MacBook Pro, CSS Devconf recap, Stranger Things
+  and binging on Netflix, and walking away from The Walking Dead.
+sponsor: "**[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided
+  by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day
+  trial (no contracts or commitments). Use promo code `NBSP` during checkout to get
+  10% off your first year."
+episode: 100
+show: nbsp
+mp3: https://media.transistor.fm/0f69e497.mp3
+video: https://www.youtube.com/embed/lqJPVKQ5dpk
+layout: episode
+---
+

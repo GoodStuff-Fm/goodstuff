@@ -1,0 +1,43 @@
+---
+title: Milky Buns, Red Buns
+date: 2016-04-01 07:22:00 -06:00
+tags:
+- April Fools
+- Food Friday
+- lasers
+- burger
+position: 60
+episode: '291'
+description: We're not April Fools, Google turns out to be a fool today, Chipotle
+  wants to enter another food market, Zap your fridge with a laser, Hot buns - meet
+  Milky Buns, That's a lot of potatoes, Food Friday, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/547184bc.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Nintendo's First iOS Game 'Miitomo' Now Available in the United States - Mac Rumors](http://www.macrumors.com/2016/03/31/miitomo-launches-us-app-store/)
+* [Facebook Messenger Gains Airline Information Bot - Mac Rumors](http://www.macrumors.com/2016/03/31/facebook-messenger-gains-airline-information-bot/)
+* [Chipotle trademarks 'Better Burger' for new food chain](http://www.cnbc.com/2016/03/30/chipotle-trademarks-better-burger-for-new-food-chain.html)
+* [Having a fridge laser could spare you from food poisoning - Ars Technica](http://arstechnica.com/science/2016/03/having-a-fridge-laser-could-spare-you-from-food-poisoning/)
+* [No, Whataburger isn't selling burgers for a dollar today - Houston Chronicle](http://www.chron.com/news/strange-weird/article/No-Whataburger-isn-t-selling-burgers-for-a-7215380.php)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

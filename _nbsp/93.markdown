@@ -1,0 +1,19 @@
+---
+title: Cecy Correa — From Project Managing to Coder
+date: 2016-09-07 12:11:00 -06:00
+description: In this episode, Christopher Schmitt is joined by Cecy Correa, who is
+  an Associate Software Engineer at Return Path and is a co-organizer for Refresh
+  Austin, a monthly web and mobile design and development meetup.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 93
+show: nbsp
+mp3: https://media.transistor.fm/2f0e785c.mp3
+video: https://www.youtube.com/embed/S2Z733xsuhs
+image: "/uploads/nbsptv-cecy-correa.jpg"
+layout: episode
+---
+

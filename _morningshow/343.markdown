@@ -1,0 +1,32 @@
+---
+title: Twinkie Goo
+date: 2017-04-04 10:03:00 -06:00
+position: 25
+episode: 343
+mp3: https://media.transistor.fm/4bd7b903.mp3
+description: 'Welcome to The Goodstuff Morning Show: It''s like sneaking into the
+  movie theater with cordon bleu in your purse to see a movie with a Tyrannosaurus
+  Rex on Mars.'
+video: https://www.youtube.com/embed/q1HsWgyxBow
+show: morningshow
+layout: episode
+---
+
+* [Tyrannosaurus rex was a sensitive lover, new dinosaur discovery suggests](https://www.theguardian.com/science/2017/mar/30/tyrannosaurus-rex-was-a-sensitive-lover-new-dinosaur-discovery-suggests)
+* [Everybody Hits The Deck As Bees Swarm Spring Training Game](http://deadspin.com/everybody-hits-the-deck-as-bees-swarm-spring-training-g-1793874848)
+* [Mad Catz shuts down after months of financial woes - Polygon](http://www.polygon.com/2017/3/31/15137812/mad-catz-shut-down-bankruptcy)
+* [NASA finally thinks it knows where all of Mars’ water went](https://www.yahoo.com/tech/nasa-finally-thinks-knows-where-mars-water-went-175759986.html)
+* [People are sharing the weirdest food they've snuck into the movies](http://www.breakingnews.ie/discover/people-are-sharing-the-weirdest-food-theyve-snuck-into-the-movies-784117.html)
+
+## Support Us
+*Want to support the show?* Visit our [Support page](/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

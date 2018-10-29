@@ -1,0 +1,23 @@
+---
+title: Veerle Pieters
+date: 2012-11-29 12:11:00 -06:00
+position: 23
+description: |-
+  Veerle is a Belgian web and graphic designer, known throughout the world for her elegantly designed web projects, her tutorials promoting CSS, and her articles and blog posts on graphic design, web design, and modern home design.
+  In 2000, she founded Duoh! with Geert Leyseele. They choose their projects based on how well they connect with a company, and have worked on everything from ExpressionEngine 2.0’s GUI to innovative, creative projects for the Library of Congress and sites for businesses large and small.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 23
+show: nbsp
+mp3: https://media.transistor.fm/115c13b5.mp3
+layout: episode
+---
+
+-  [http://veerle.duoh.com](http://veerle.duoh.com)
+
+-  [@vpieters](http://twitter.com/vpieters) on Twitter
+
+-  [Dribbble](http://dribbble.com/players/veerlepieters)
+
+-  [Facebook](https://www.facebook.com/veerle.pieters)

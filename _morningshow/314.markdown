@@ -1,0 +1,51 @@
+---
+title: π
+date: 2016-08-22 22:24:00 -06:00
+tags:
+- Android
+- sandwich
+- startups
+- Playstation
+position: 83
+episode: '314'
+description: Eat some Nougat and a Cuban Sandwich today, Playstation plus 10 dollars,
+  Barbra drops the ball and a date, Y Combinator gives us things we didn't ask for,
+  Records of the Week, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/e81e2fea.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Android 7.0 Nougat Begins Official Rollout To Google Nexus Devices - ARC - ARC](https://arc.applause.com/2016/08/22/android-7-0-nougat-officially-available/)
+* [Roborace reveals a working prototype of its self-driving racecar - The Verge](http://www.theverge.com/2016/8/22/12592938/roborace-self-driving-car-test-prototype-watch)
+* [PlayStation Plus annual fee jumping $10 in September, no new features - Ars Technica](http://arstechnica.com/gaming/2016/08/playstation-plus-annual-fee-jumping-10-in-september-no-new-features/)
+* [Ringling Bros. new space-themed show brings Cirque to the circus - TechCrunch](https://techcrunch.com/2016/08/22/ringling-bros-new-space-themed-show-brings-cirque-to-the-circus/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Twitter rolling out night mode for iOS - VentureBeat - Social - by Ken Yeung](http://venturebeat.com/2016/08/22/twitter-rolling-out-night-mode-for-ios/)
+* [The new Streisand Effect: Barbra calls Tim Cook to change Siri’s pronunciation - Ars Technica](http://arstechnica.com/apple/2016/08/the-new-streisand-effect-barbra-calls-tim-cook-to-change-siris-pronunciation/)
+* [Whales Can't Taste Anything But Salt - Science - AAAS](http://www.sciencemag.org/news/2014/05/whales-cant-taste-anything-salt)
+* [World's Smallest Snake - Popular Science](http://www.popsci.com/scitech/article/2008-08/worlds-smallest-snake)
+* [Most Sports Jerseys Worn At Once - World Record - Tom Hunter](https://recordsetter.com/world-record/sports-jerseys-worn-once/48615?autoplay=true)
+* [Most Objects Put In A Basketball Hoop - World Record - Selina Vaith](https://recordsetter.com/world-record/objects-put-basketball-hoop/48638?autoplay=true)
+* [Most Pencils Fit In A T-Shirt While Wearing It - World Record - Keegan Bennett](https://recordsetter.com/world-record/pencils-fit-t-shirt-while-wearing-it/48573?autoplay=true)
+* [Only Die-Hard Disney Fans Will Get 15/15 On This Quiz](https://www.buzzfeed.com/alivelez/how-well-do-you-know-your-disney-history?utm_term=.ld9qx0Xgq#.gcB8xPBJ8)
+* [Can You Ace This Animal "True Or False" Quiz](https://www.buzzfeed.com/kodos/can-you-ace-this-animal-true-or-false-quiz-25cao?utm_term=.cm9bJYnKb#.nlyl4Kgwl)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

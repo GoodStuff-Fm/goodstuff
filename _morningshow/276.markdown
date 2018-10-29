@@ -1,0 +1,52 @@
+---
+title: Chest Arm
+date: 2016-02-24 11:36:00 -06:00
+tags:
+- Facebook
+- chips
+- robots
+- Who Said It?
+position: 45
+episode: '276'
+description: There are more ways to annoy people on Facebook now, VW is a better sausage-seller
+  than car-seller, Let your phone record your most intimate teeth moments, Robots
+  can't get knocked down ever again, Who Said It?, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/11186856.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [The Truth About That 'Classified Alien Music' Everybody's Freaking Out About](http://gizmodo.com/this-classified-alien-music-the-internet-is-freaking-ou-1760628645)
+* [Report: Whole Foods To Ink Delivery Deal With Instacart - Fast Company - Business + Innovation](http://www.fastcompany.com/3057078/most-innovative-companies/report-whole-foods-to-ink-delivery-deal-with-instacart?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29)
+* [Uber Launches A Motorbike Taxi On-Demand Service, Initially In Thailand - TechCrunch](http://techcrunch.com/2016/02/23/uber-launches-a-motorbike-taxi-on-demand-service-initially-in-thailand/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [MLB.TV subscribers: Disable auto-renew to get lower single-team prices](http://www.techhive.com/article/3036145/streaming-services/mlbtv-subscribers-disable-auto-renew-to-get-lower-single-team-prices.html#tk.rss_all)
+* [Todoist Updates iPhone, Mac, Safari And Apple Watch Apps - TechCrunch](http://techcrunch.com/2016/02/24/todoist-updates-iphone-mac-safari-and-apple-watch-apps/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Facebook “Birthday Cam” Encourages Videos, Not Robotic Wall Posts - TechCrunch](http://techcrunch.com/2016/02/22/insert-generic-birthday-message/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Facebook rolls out expanded Like button reactions around the world - The Verge](http://www.theverge.com/2016/2/24/11094374/facebook-reactions-like-button)
+* [Nothing To Do With Arbroath: Volkswagen sold more sausages than cars in 2015](http://arbroath.blogspot.com/2016/02/volkswagen-sold-more-sausages-than-cars.html)
+* [Brushing your teeth has never been this complicated - The Verge](http://www.theverge.com/2016/2/22/11095502/oral-b-genius-toothbrush-smartphone-app-mirror-mount)
+* [Rob Scallon Plays a Fully Functional One-Stringed Guitar Created From a Shovel](http://laughingsquid.com/rob-scallon-plays-a-fully-functional-one-stringed-guitar-created-from-a-shovel/)
+* [Georgia Tech Developed a Robotic Limb That Provides Drummers a Third Arm to Play With](http://laughingsquid.com/georgia-tech-developed-a-robotic-limb-that-provides-drummers-a-third-arm-to-play-with/)
+* [Boston Dynamics' latest robot is here to make humanity irrelevant - The Verge](http://www.theverge.com/2016/2/23/11103684/boston-dynamics-atlas-video-kicking)
+* [Screaming frog video can be used to play the Imperial March - The Verge](http://www.theverge.com/2016/2/23/11101828/frog-youtube-imperial-march)
+* [Who Said It: Shia LaBeouf Or Kanye West](http://www.buzzfeed.com/vikky/who-said-it-shia-labeouf-or-kanye-west-y65c#.xsqGNR9q8Y)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

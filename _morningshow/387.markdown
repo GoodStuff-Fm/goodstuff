@@ -1,0 +1,24 @@
+---
+title: Best of Morning Show Vol. 1
+date: 2018-03-27 08:00:00 -06:00
+show: morningshow
+mp3: https://media.transistor.fm/f83991c5.mp3
+description: It's like Kenny forgot to tell Kyle until after the show last time that
+  he wouldn't be able to record our next episode live, so Kyle made a collection of
+  dumb segments from other episodes.
+episode: 387
+layout: episode
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    {% include head.html %}
+
+</head>
+
+<body>
+    {% include nav.html %}
+    <div class="container">
+
+        {% assign show = site.data.shows[page.show] %}
+
+        <!-- Show Information -->
+        <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
+        <ul class="episode__show__info">
+            <li class="episode__show__artwork">
+                <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50" /></a>
+            </li>
+            <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
+            <li class="episode__show__description">{{ show.description | truncate: 256 | markdownify }}</li>
+            <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
+            <li class="episode__show__link">
+                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
+            </li>
+        </ul>
+
+        <!-- Next and Previous Episodes Link -->
+        <div class="episode__navigation">
+
+            {% if page.next.url and page.previous.url and page.next.title != 'Feed' %}
+            <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a>
+            <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a> {% elsif page.previous.url %}
+            <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a> {% elsif page.next.url and page.next.title != 'Feed' %}
+            <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a> {% endif %}
+
+        </div>
+
+        <hr class="page__rule" />
+
+        <!-- Episode Information -->
+        <div class="episode__title">
+            {{ page.title }}
+        </div>
+
+        <div class="episode__date">
+            Episode {{ page.episode }} • Published {{ page.date | date: "%b %d, %Y" }}
+        </div>
+
+        <div class="episode__description">
+            {{ page.description | markdownify }}
+        </div>
+
+        {% if page.sponsor %}
+        <div class="episode__sponsor">
+            <div class="episode__sponsor__header">
+                This episode of <a href="/{{ show.collection }}">{{ show.name }}</a> is sponsored by:
+            </div>
+            <div class="episode__sponsor__copy">
+                {{ page.sponsor | markdownify }}
+            </div>
+        </div>
+        {% endif %}
+
+<!-- If no audio file
+        <div class="episode__transistor">
+          Feed and MP3 files are proudly hosted by <a href="https://transistor.fm/?via=chris">Transistor.fm</a>
+        </div>
+-->
+
+        {% if page.mp3 %}
+        <div class="episode__player__mp3">
+            <audio style="width: 100%;" controls="" preload="none">
+            <source src="{{ page.mp3 }}" type="audio/mp3">
+          </audio>
+        </div>
+
+        <ul class="episode__player__links">
+            <li><a href="{{ page.mp3 }}"><i class="fa fa-download fa-1x" aria-hidden="true"></i>Download MP3</a></li>
+            <li><a href="http://twitter.com/intent/tweet?text={{ show.name }} {{ page.episode }}: {{ page.title }} on @GoodstuffFM - goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-twitter fa-1x"></i>Share on Twitter</a></li>
+            <li><a href="http://www.facebook.com/sharer/sharer.php?u=http://goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-facebook fa-1x"></i>Share on Facebook</a></li>
+        </ul>
+
+        <hr class="page__rule" /> {% endif %}
+
+        <!-- Page Content -->
+
+        {% if page.video %}
+
+        <div class="episode__header">
+          Video
+        </div>
+
+        <div class="episode__video">
+          <div class="videoWrapper">
+            <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+
+        {% endif %}
+
+        <div class="episode__header">
+            Links and Show Notes
+        </div>
+
+        <div class="episode__content">
+
+          {{ page.content }}
+
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    {{ page.footer_scripts }}
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

@@ -1,0 +1,36 @@
+---
+title: Chocolate Newton
+date: 2017-06-23 11:35:00 -06:00
+position: 16
+show: morningshow
+episode: 353
+mp3: https://media.transistor.fm/6ee34dbd.mp3
+image: "/uploads/morningshow-353.png"
+description: It's like telling your stomachist that you've eaten fig newtons, cashews
+  with glass, and 50,000 lbs of Charlie the Chicken while sailing on the Hydrogen
+  Iodide seas.
+layout: episode
+---
+
+* [McDonald's has made this secret burger hack an official menu item](http://mashable.com/2017/05/30/mcdonalds-chicken-big-mac/?utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&utm_source=feedburner&utm_medium=feed#7PCWR6mwPOqD)
+* [Tuna recalled due to hepatitis A contamination - CNN.com](http://www.cnn.com/2017/06/05/health/tuna-recall-hepatitis-a/index.html)
+* [Beef recalled after E. coli found in plant - CNN.com](http://www.cnn.com/2017/06/06/health/beef-recall-e-coli/index.html)
+* [Cashews recalled after glass found in canisters - CNN.com](http://www.cnn.com/2017/06/07/health/cashew-recall-glass-found/index.html?sr=twCNN060817ca)
+* [More than 50,000 pounds of chicken recalled, USDA calls situation high-risk - WKBW.com Buffalo, NY](http://www.wkbw.com/news/national/high-risk-recall-on-54699-pounds-of-chicken)
+* [Minnesota State Fair reveals 31 new foods including pizza burritos, cookie dough - StarTribune.com](http://www.startribune.com/minnesota-state-fair-reveals-31-new-foods-including-pizza-burritos-cookie-dough/429649373/#1)
+* [Periodic Table Battleship, A Scientific Twist on the Classic Game to Teach Kids About the Elements](https://laughingsquid.com/periodic-table-battleship/)
+* [Periodic Table Print](http://science.widener.edu/~svanbram/ptable_6.pdf)
+* [8 HOURS of the Relaxing Sounds of Waves - Ocean Sounds with Seagulls - Sleep, Meditation, Yoga vs. Pirates of the Caribbean: Full 2006 Attraction Mix (Disneyland) by VJ aphrocarlin](http://youtubedoubler.com/?video1=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwGKIjh9skYw&start1=0&video2=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLJFPPoGTPGI&start2=&authorName=aphrocarlin)
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/kennyaroderick)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

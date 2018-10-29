@@ -1,0 +1,36 @@
+---
+title: 'Morning Show Mini: That''s it? That''s it. That''s it!'
+date: 2017-10-23 10:00:00 -06:00
+position: 2
+show: morningshow
+episode: 367
+image: "/uploads/morningshow-367.png"
+description: It's like accidentally ordering a Grand Slam while waiting in line at
+  Nationals Ballpark and then just receiving a hot dog. Like, just a hot dog with
+  nothing on it.
+mp3: https://media.transistor.fm/de3b9fdf.mp3
+layout: episode
+---
+
+* [Is there a single food that you can survive on forever? - Popular Science](https://www.popsci.com/nutrition-single-food-survival)
+
+* [Final Fantasy IX Is Out Now For PlayStation 4](https://kotaku.com/final-fantasy-ix-is-headed-to-playstation-4-1818535442)
+
+* [Georgia city will rename itself Amazon if it wins the new headquarters - The Verge](https://www.theverge.com/2017/10/3/16413866/new-amazon-headquarters-stonecrest-georgia-bid)
+
+* [Ballpark Food or Not?](https://photos.app.goo.gl/VzDwIkgoomxqRW2A3)
+
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

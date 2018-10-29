@@ -1,0 +1,54 @@
+---
+title: STEVE!
+date: 2018-03-20 10:25:00 -06:00
+show: morningshow
+episode: 386
+description: It's like you're visiting your sky-friend, Steve, who only eats nacho
+  flavored jelly beans, but you still love him.
+image: "/uploads/morningshow-386.png"
+mp3: https://media.transistor.fm/fc1d1ab2.mp3
+layout: episode
+---
+
+* [Apple removed the calendar app that mined cryptocurrency for not being power efficient - The Verge](https://www.theverge.com/2018/3/14/17119474/apple-mac-calendar-app-cryptocurrency-mining)
+
+* [Citizen Scientists Discover New Feature of the Aurora Borealis](https://gizmodo.com/citizen-scientists-discover-new-feature-of-the-aurora-b-1823771694)
+
+* [Taco Bell's Nacho Fries are the most successful launch in the chain's history](https://www.cnbc.com/2018/03/13/taco-bells-nacho-fries-are-the-most-successful-launch-in-the-chains-history.html)
+
+* [Jelly Bean Flavors Ranked by State [interactive map] - CandyStore.com](https://www.candystore.com/blog/facts-trivia/jelly-beans-flavor-rankings/)
+
+* [Using drones to gather whale snot — for science – VICE News](https://news.vice.com/en_us/article/43bgvp/using-drones-to-gather-whale-snot-for-science?utm_source=vicenewstwitter)
+
+* [GM will build its production autonomous Cruise cars at Michigan assembly plant - TechCrunch](https://techcrunch.com/2018/03/15/gm-will-build-its-production-autonomous-cruise-cars-at-michigan-assembly-plant/)
+
+* [Watch a sparkly basketball robot built by Toyota engineers sink flawless free throws - The Verge](https://www.theverge.com/tldr/2018/3/15/17123812/basketball-robot-toyota-sparkly-arvalq-tokyo)
+
+* [[Update: APK Download and blog post] The Android Wear rebrand to 'Wear OS' is now official](https://www.androidpolice.com/2018/03/15/android-wear-rebrand-wear-os-now-official/)
+
+* [Nest launches $39 temperature sensor and is now shipping video doorbell and smart lock - The Verge](https://www.theverge.com/circuitbreaker/2018/3/15/17123822/nest-temperature-sensor-video-doorbell-smart-lock-price-features)
+
+* [Duolingo can now teach you how to speak Klingon - The Verge](https://www.theverge.com/2018/3/15/17123836/duolingo-klingon-star-trek-learning-course-app-website-qapla)
+
+* [IBM unveils 'world's smallest computer' with blockchain at Think 2018](https://mashable.com/2018/03/19/ibm-worlds-smallest-computer/#gd9bGgvZqgqK)
+
+* [Skyline makes its chili even less photogenic for St. Patrick's Day](https://thetakeout.com/skyline-makes-its-chili-even-less-photogenic-for-st-pa-1823807757)
+
+* [Apple Files Patent for Crumb-Proof Keyboards - Extra Crispy](http://www.myrecipes.com/extracrispy/apple-files-patent-for-curmb-proof-keyboards?xid=extracrispy_newsletter)
+
+* [Sonic Pickle Slushes Are Coming To A Drive-In Near You](https://uproxx.com/life/sonic-pickle-slushes/)
+
+***
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

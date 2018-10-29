@@ -1,0 +1,49 @@
+---
+title: Eiffel 6500
+date: 2016-09-12 21:46:00 -06:00
+tags:
+- Uber
+- blue jeans
+- dinosaur
+- Food Friday
+position: 89
+episode: '320'
+description: Do you like longer tweets?, Everybody self-drive tonight, The oldest
+  blue jeans are the best blue jeans, Random music is rad, Dinosaur with guts, Food
+  Friday, and more!
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/7fbf91e9.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Twitter's new, longer tweets are coming September 19th - The Verge](http://www.theverge.com/2016/9/12/12891562/twitter-tweets-140-characters-expand-photos)
+* [Uber launches historic self-driving fleet in Pittsburgh - PennLive.com](http://www.pennlive.com/life/2016/09/uber_self-driving_cars_trial.html)
+* [Ford to Sell Driverless Cars to Public by 2025, CEO Says - Bloomberg](http://www.bloomberg.com/news/articles/2016-09-12/ford-to-sell-driverless-cars-to-consumers-around-2025-ceo-says)
+* [Amazon's cheaper Echo Dot improves voice recognition, available in black and white - The Verge](http://www.theverge.com/2016/9/14/12912666/amazon-echo-dot-pricing-features)
+* [The Super-Ancient Origins of Your Blue Jeans](http://news.nationalgeographic.com/2016/09/peru-indigo-cotton-discovery-textiles-archaeology-jeans-huaca/)
+* [Ikea prices its umbrellas depending on if it is raining or not - Imgur](http://imgur.com/9sqnXhU)
+* [Calendar at a Glance - National Day Calendar](http://www.nationaldaycalendar.com/calendar-at-a-glance/)
+* [Mubert. World's first online music producer](http://mubert.com/en/)
+* [Mubert. World's first online composer of electronic music](http://play.mubert.com/en/)
+* [Drone Racing League, ESPN announce broadcasting agreement](http://www.espn.com/moresports/story/_/id/17544727/drone-racing-league-espn-announce-broadcasting-agreement)
+* [None of your pixelated or blurred information will stay safe on the internet — Quartz](http://qz.com/779625/none-of-your-pixelated-or-blurred-information-will-stay-safe-on-the-internet/)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,0 +1,67 @@
+---
+title: Try Uni No Wait Don’t Try Uni
+date: 2014-10-03 01:58:00 -06:00
+episode: 4
+mp3: https://media.transistor.fm/b5e2e7e7.mp3
+description: 'Kari and her guest Garth Braithwaite talk all things food and being
+  a grown-up: managing hangry-ness, marrying into food traditions, living with diabetes,
+  LDS food guidelines, what we eat after our kids are in bed, and how to find a sushi
+  mentor. Garth digs how Kari says “avocado.”'
+show: grownups
+layout: episode
+---
+
+* [America's Test Kitchen - Recipes That Work, TV Show Episodes, Kitchen Equipment Reviews, Taste Tests, How to Cook and Cooking Videos][1]
+
+* [Perfect Chocolate Chip Cookies Recipe - Food.com][2]
+
+* [ଅନିଲ on Twitter: "I feel fortunate living in the window after automated agriculture made meat affordable but before its impact is 100% ethically inexcusable."][3]
+
+* [Food, Inc. (2008) - IMDb][4]
+
+* [Happy Feet (2006) - IMDb][5]
+
+The bait and switch of children's movies.
+
+* [The InkTober Initiative - Mr Jake Parker][6]
+
+* [Collaborative Design in the Open][7]
+
+Garth's talk at Adobe Max
+
+* [ConvergeRVA - October 10th 2014 - Richmond Virginia][8]
+
+Garth's talk at Converge, "Designers Can Open Source"
+
+* [All Things Open | Garth Braithwaite][9]
+
+Garth is also talking at All Things Open
+
+* [Design Open | Home][10]
+
+Garth's project about designing in open source projects.
+
+#####  [Open Source Design Is Now Design Open — Medium][11]
+
+* [The Nightscout Project | We Are Not Waiting][12]
+
+An amazing volunteer-driven open source project for accessing data from blood sugar monitors.
+
+* [nightscout on GitHub][13]
+
+[1]: http://www.americastestkitchen.com/
+[2]: http://www.food.com/recipe/perfect-chocolate-chip-cookies-americas-test-kitchen-387119
+[3]: https://twitter.com/anildash/status/489118151112921089
+[4]: http://www.imdb.com/title/tt1286537/
+[5]: http://www.imdb.com/title/tt0366548/
+[6]: http://mrjakeparker.com/inktober
+[7]: https://www.adobe-max.com/connect/sessionDetail.ww?SESSION_ID=2708
+[8]: http://convergerva.com/speakers.php#garth-braithwaite
+[9]: http://allthingsopen.org/speakers/garth-braithwaite/
+[10]: http://designopen.org/
+[11]: https://medium.com/@garthdb/open-source-design-is-now-design-open-e7005d577f6b
+[12]: http://www.nightscout.info/
+[13]: https://github.com/nightscout
+
+
+>>>>>>> parent of ddae6ac... Running markdown linter

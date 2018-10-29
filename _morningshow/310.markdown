@@ -1,0 +1,106 @@
+---
+title: Potoooooooo
+date: 2016-07-11 07:07:00 -06:00
+tags:
+- 2 Stupid Games
+- pizza
+- butter
+- pickles
+position: 79
+episode: '310'
+description: It's 2 weeks later and a lot has happened, Pokemon Go has taken over
+  the world, 1969 codes for getting to the Moon, Pot8os is real?, Butter is better,
+  Pizza Robotics is an actual thing now, 2 Stupid Games, and much more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/4ab89360.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Pokémon Go international rollout paused - Business Insider][7]
+
+* [Teen Playing Pokémon Go Finds Dead Body Instead: Report][8]
+
+* [The code that took America to the moon was just published to GitHub, and it's like a 1960s time capsule — Quartz][9]
+
+* [SnappyTV - Fast easy video editing, real-time sharing to Twitter and Facebook, in the cloud][10]
+
+* [There's a Secret Message Written Into the Sands of Mars][11]
+
+* [Most Times Saying "21" While Riding A Bicycle - World Record - Isaiah][12]
+
+* [Most Soda Cans Opened In One Minute - World Record - Mark Evans][13]
+
+* [Most DVD Cases Stacked In One Hand - World Record - Mikewags07][14]
+
+* [Real Human Slingshot (Not The Amusement Park Ride) Launches People 300-Feet - Geekologie][15]
+
+* [Ridiculous Contraption Takes All the Learning Out of Learning the Guitar][16]
+
+* [Zume Pizza, A Startup Involving Pizza-Making Robots, Launches In Mountain View: SFist][17]
+
+* [Robotic Pizza Delivery Service to Debut in London][18]
+
+* [CodePen - Musical Chord Progression Arpeggiator][19]
+
+* [Clever Cutter, A Combination Knife/Cutting Board Used Like A Pair Of Scissors - Geekologie][20]
+
+* [Purple Ketchup][21]
+
+* [All Three Colors][22]
+
+![Ketchups][22]
+
+* [OC Fair Corndog Pickle][23]
+
+* [Sliced Hotdogs with Pickles][24]
+
+* [Pickle Bun][25]
+
+![Tiglon][26]
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!
+
+[1]: https://workflowy.com/invite/20cd98ad.lnx
+[2]: http://twitter.com/morningshowam
+[3]: http://facebook.com/morningshowam
+[4]: http://goodstuff.fm/shows
+[5]: http://twitter.com/pizzarobotics
+[6]: http://twitter.com/kyleroderick
+[7]: http://www.businessinsider.com/pokemon-go-international-rollout-paused-2016-7?op=1
+[8]: http://gizmodo.com/teen-playing-pokemon-go-finds-dead-body-instead-report-1783368575
+[9]: http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/
+[10]: http://www.snappytv.com/corp/
+[11]: http://gizmodo.com/theres-a-secret-message-written-into-the-sands-of-mars-1783330309
+[12]: https://recordsetter.com/world-record/say-21-while-riding-bicycle/48010?autoplay=false
+[13]: https://recordsetter.com/world-record/soda-cans-opened-minute/47980?autoplay=false
+[14]: https://recordsetter.com/world-record/dvd-cases-stacked-hand/47696?autoplay=false
+[15]: http://geekologie.com/2016/07/real-human-slingshot-not-the-amusement-p.php
+[16]: http://sploid.gizmodo.com/ridiculous-contraption-takes-all-the-learning-out-of-le-1783392817
+[17]: http://sfist.com/2016/06/24/zume_pizza_a_startup_involving_pizz.php
+[18]: http://futurism.com/robotic-pizza-delivery-service-to-debut-in-london/
+[19]: http://codepen.io/jakealbaugh/full/qNrZyw
+[20]: http://geekologie.com/2016/07/clever-cutter-a-combination-knifecutting.php
+[21]: http://i2.wp.com/www.retroist.com/wp-content/uploads/2013/08/purple-ketchup.jpg?resize=459%2C700
+[22]: https://heinzcoloredketchup.files.wordpress.com/2012/11/ngbbs4b2afdcd71cb52.jpg
+[23]: http://cdn.foodbeast.com/content/uploads/2014/07/OC-Fair-Corndog-Pickle.jpg
+[24]: https://scootrah.files.wordpress.com/2014/09/img_7496.jpg
+[25]: https://mlblogsbensbiz.files.wordpress.com/2010/03/pickle-thumb-450x337-18634613.jpg
+[26]: http://images.digopaul.com/wp-content/uploads/related_images/2015/09/09/tiglon_2.jpg

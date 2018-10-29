@@ -1,0 +1,51 @@
+---
+title: Jen Simmons
+date: 2014-02-06 12:11:00 -06:00
+position: 44
+description: Our guest for this episode is Jen Simmons and your hosts Christopher
+  Schmitt and Sam Kap talk with her about where we&rsquo;ve come from and where we&rsquo;re
+  going with the web. It&rsquo;s changed a lot and it continues to change.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 46
+show: nbsp
+mp3: https://media.transistor.fm/279623ad.mp3
+layout: episode
+---
+
+-  [@jensimmons](https://twitter.com/jensimmons)
+
+-  [Artifact Conference](http://artifactconf.com)
+
+-  [In Control Conference](http://2014.incontrolconference.com)
+
+-  [An Event Apart](http://aneventapart.com)
+
+-  [Rosco Fog](http://www.rosco.com/fog/)
+
+-  [Codepen](http://codepen.io)
+
+-  [The Web Ahead](http://5by5.tv/webahead)
+
+-  [Shawn O’Keefe on NBSPTV](http://nonbreakingspace.tv/shawn-okeefe/)
+
+-  [Indie Web Camp](http://indiewebcamp.com)
+
+-  [Jeremy Keith on The Non-Breaking Space Show](http://nonbreakingspace.tv/jeremy-keith/)
+
+-  [Jeffery Zeldman](http://www.zeldman.com)
+
+-  [Gowalla](http://en.wikipedia.org/wiki/Gowalla)
+
+-  [Tantek Çelik](http://tantek.com)
+
+-  [Jason Santa Maria](http://jasonsantamaria.com)
+
+-  [Dropbox](http://db.tt/czHe7sK)
+
+-  [Arq](http://www.haystacksoftware.com/arq/index.php)
+
+-  [Organizing with Evernote](http://www.nytimes.com/2013/12/12/technology/personaltech/getting-organized-with-evernote.html?smid=tw-share&_r=1&)
+
+-  [Louis CK](https://buy.louisck.net)

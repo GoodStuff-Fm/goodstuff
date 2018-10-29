@@ -1,0 +1,17 @@
+---
+title: Ben Brown — Bots and Slack
+date: 2015-11-12 12:11:00 -06:00
+description: Ben Brown from Austin, Texas joins us to talk about Howdy - a bot he’s
+  building for the popular Slack communications tool.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 56
+show: nbsp
+mp3: https://media.transistor.fm/5feaf1c2.mp3
+video: https://www.youtube.com/embed/GkdUR_Na3JA
+layout: episode
+---
+

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+    {% include nav.html %}
+    <div class="container">
+
+        {% assign show = site.data.shows[page.show] %}
+
+        <h1 class="page__header">{{ show.name }}</h1>
+
+        <ul class="shows__list">
+            <li class="shows__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
+            </li>
+            <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+            <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
+            <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
+            <li class="shows__list__link">
+              {% if show.itunes %}
+                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
+              {% endif %}
+              {% if show.pocketcasts %}
+                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
+              {% endif %}
+              {% if show.overcast %}
+                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
+              {% endif %}
+              {% if show.youtube %}
+                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
+              {% endif %}
+              {% if show.anchor %}
+                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor"></a>
+              {% endif %}
+            </li>
+        </ul>
+
+        <hr class="page__rule">
+
+
+        <!-- If a show records live
+      <div class="page__description">
+        This show shows live. Check the <a href="/schedule">schedule</a>.
+      </div> -->
+
+        <!-- Latest Episodes -->
+
+        {% unless show.retired %}
+          <h1 class="page__header">Listen to the latest episode of {{ show.name }}</h1>
+          <iframe src='{{ show.latest }}' width='100%' height='180' padding-botton='1em' frameborder='0' scrolling='no' seamless='true'></iframe>
+        {% endunless %}
+
+        <h1 class="page__header">All Episodes</h1>
+
+        {% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
+
+        <div class="show__episode__title">
+            <a href="{{ doc.episode }}">{{ doc.title }}</a>
+        </div>
+
+        <div class="show__episode__date">
+            Episode {{ doc.episode }} • Published {{ doc.date | date: "%b %d, %Y" }}
+        </div>
+
+        <div class="show__episode__description">
+            {{ doc.description | markdownify | truncate: 1024 }}
+        </div>
+
+        <hr class="page__rule"> {% endunless %} {% endif %} {% endfor %} {{ page.footer_scripts }}
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

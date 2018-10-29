@@ -1,0 +1,64 @@
+---
+title: Sarah Drasner — The Guide to Designing SVG Animations
+date: 2017-05-16 10:00:00 -06:00
+position: 1
+show: nbsp
+episode: 119
+mp3: https://media.transistor.fm/ae6167a8.mp3
+description: Sarah Drasner is an award-winning speaker, consultant, and staff writer
+  at CSS-Tricks. Sarah is also the co-founder of Web Animation Workshops, with Val
+  Head. She’s given a Frontend Masters Workshop on Advanced SVG Animations and is
+  the author of SVG Animations. She’s formerly Manager of UX Design & Engineering
+  at Trulia (Zillow). Last year Sarah won CSS Dev Conf’s “Best of Best of Award” as
+  well as “Best Code Wrangler” from CSS Design Awards.
+sponsor: |-
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, npm, and more. A limited supply of Early Bird Tickets now on sale. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about front-end design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv119&utm_medium=podcast&utm_campaign=uxdesignnewsletter)
+video: https://www.youtube.com/embed/QNfKyEsfeAU
+image: "/uploads/nbsptv-sarah-drasner-119.jpg"
+layout: episode
+---
+
+### Jump to a conversation on...
+
+* **[2:50](#t=2:50)** Talking goats. Animating goats.
+* **[5:40](#t=5:40)** Explaining viewbox over Twitter
+* **[9:00](#t=9:00)** Learning what's going on under the hood so you can troubleshoot it.
+* **[10:40](#t=10:40)** As long as people have maintenance as their core idea.
+* **[13:20](#t=13:20)** Both sides seems to think the other side is a junior developer.
+* **[15:40](#t=15:40)** One size fits all doesn't work on the web very well.
+* **[18:30](#t=18:30)** Generalists to specialists to micro-specialists.
+* **[20:01](#t=20:01)** When I was starting you couldn't just be the designer.
+* **[26:05](#t=26:05)** I remember a time when browsers could fit on a floppy disk.
+* **[27:49](#t=27:49)** Performance is what gets me so excited about SVG.
+* **[32:00](#t=32:00)** The importance of SVG and how it helps solve our problems.
+* **[34:50](#t=34:50)** You redid your site while you had the flu?
+* **[38:20](#t=38:20)** Are we allowed to talk about above the fold?
+* **[40:00](#t=40:00)** Why a performance budget of under 2s?
+* **[44:01](#t=44:01)** Chances are what you see someone put out isn't their first attempt.
+* **[45:20](#t=45:20)** Sarah does not poop things from her brain.
+* **[46:01](#t=46:01)** How do you keep up with things that change on the web so quickly?
+* **[51:30](#t=51:30)** I was striving to make sure you have a few options when animating SVG.
+* **[55:00](#t=55:00)** How can people find Sarah Drasner on the internet?
+
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [📺 Sarah Drasner — The Guide to Designing SVG Animations](https://www.youtube.com/watch?v=QNfKyEsfeAU)
+* [Sarah Drasner](https://sarahdrasnerdesign.com)
+* [Sarah Drasner on Twitter](https://twitter.com/sarah_edo)
+* [Sarah on Github](https://github.com/sdras)
+* [Sarah on CodePen](http://codepen.io/sdras/)
+* [Web Animation Workshops](https://webanimationworkshops.com)
+* [Goat Simulator](http://www.goat-simulator.com)
+* [SVG Animations - From Common UX Implementations to Complex Responsive Animation](http://shop.oreilly.com/product/0636920045335.do)
+* [Kai’s Power Tools](https://en.wikipedia.org/wiki/Kai%27s_Power_Tools)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

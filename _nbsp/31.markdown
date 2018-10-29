@@ -1,0 +1,46 @@
+---
+title: Dan Mall
+date: 2013-04-02 12:11:00 -06:00
+position: 30
+description: Dan is an award-winning designer from Philadelphia, an enthralled husband
+  and dad. He’s the founder & Design Director at SuperFriendly, co-founder of Typedia,
+  and co-host of The Businessology Show – a podcast about the business of design and
+  the design of business. Dan was formerly the Design Director at Big Spaceship, Interactive
+  Director at Happy Cog, and a technical editor for A List Apart. He writes about
+  design and other issues on Twitter and danielmall.com.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 31
+show: nbsp
+mp3: https://media.transistor.fm/b6c67df6.mp3
+layout: episode
+---
+
+-  [Modern.ie](http://www.modern.ie)
+
+-  [Dan on Dribbble](http://dribbble.com/danielmall)
+
+-  [The Businessology Show](http://businessologyshow.biz/wordpress/) - a podcast by Dan and  [Jason Blumer](https://twitter.com/JasonMBlumer)
+
+-  [Brad Frost The Post-PSD Era](http://bradfrostweb.com/blog/post/the-post-psd-era/)
+
+-  [Daniel Mall - The Post-PSD Era](http://danielmall.com/articles/the-post-psd-era/)
+
+-  [Samantha Warren’s Style Tiles](http://styletil.es)
+
+-  [Reading is Fundamental Design](http://rif.superfriend.ly)
+
+-  [Superfriend.ly Annual Report](http://danielmall.com/articles/superfriendly-annual-report-2012/)
+
+-  [Harvest](http://www.getharvest.com)
+
+-  [Xero](http://www.xero.com)
+
+-  [Shoeboxed](https://www.shoeboxed.com)
+
+-  [Highrise](http://highrisehq.com)
+
+-  [@danielmall](http://www.twitter.com/)
+
+-  [DanielMall.com](http://danielmall.com)

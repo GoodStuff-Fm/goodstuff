@@ -1,0 +1,8 @@
+---
+title: Feed
+position: 0
+show: atu2
+layout: 
+---
+
+{% include feed.html %}

@@ -1,0 +1,46 @@
+---
+title: The House the Cars the Dog the Cat
+date: 2014-12-08 02:08:00 -06:00
+episode: 10
+mp3: https://media.transistor.fm/4c3330af.mp3
+description: Part two of the conversation with Adam Clark. Should we even bother looking
+  for meaning in our job? Searching for that feeling of Home. Regret. How does a person
+  end up in a corporate job, and is that different from selling out?
+layout: episode
+show: grownups
+---
+
+* [I Guess We're Grown-Ups Now #9: You've Just Got to Stop Thinking - Goodstuff FM][1]
+
+* [DNTO with Sook-Yin Lee | CBC Radio][2]
+
+This episode's acknowledgement to someone who inspires me is Sook Yin Lee and her fantastic radio show, Definitely Not The Opera.
+
+* [Adam Clark][3]
+
+Adam's website, where you can subscribe to the reboot of his podcast The Gently Mad.
+
+* [Adam Clark (@avclark) | Twitter][4]
+
+* [The Year of Living Biblically - Goodreads][5]
+
+* [Garden State (2004) - IMDb][6]
+
+* [I Guess We're Grown-Ups Now #1: Scotch and poprocks][7]
+
+* [The Death of Adulthood in American Culture - NYTimes.com][8]
+
+* [tl;dr version of this episode, by Kramer and Jerry][9]
+
+* [The Paradox of Choice - Wikipedia, the free encyclopedia][10]
+
+[1]: http://goodstuff.fm/grownups/9
+[2]: http://www.cbc.ca/dnto/
+[3]: http://avclark.com/
+[4]: https://twitter.com/avclark
+[5]: http://www.goodreads.com/book/show/495395.The_Year_of_Living_Biblically
+[6]: http://www.imdb.com/title/tt0333766/
+[7]: http://goodstuff.fm/grownups/1
+[8]: http://mobile.nytimes.com/2014/09/14/magazine/the-death-of-adulthood-in-american-culture.html?_r=0
+[9]: http://avclark.com/its-a-sad-state-of-affairs-jerry/
+[10]: http://en.wikipedia.org/wiki/The_Paradox_of_Choice

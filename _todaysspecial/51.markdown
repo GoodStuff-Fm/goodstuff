@@ -1,0 +1,13 @@
+---
+title: Lemon Meringue Pie
+date: 2018-08-15 04:00:00 -06:00
+description: "*ring* *ring* *ring* Hello?"
+episode: 51
+show: todaysspecial
+mp3: https://media.transistor.fm/9e971019.mp3
+layout: episode
+---
+
+Got feedback? [Email us!](mailto:kyle@goodstuff.fm)
+
+Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

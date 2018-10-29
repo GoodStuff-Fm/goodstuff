@@ -1,0 +1,18 @@
+---
+title: Arianne Stiles — Submitting Talks to Conferences
+date: 2016-03-29 12:11:00 -06:00
+description: From Austin, Texas, we talk with Arianne Stiles, ½ of Environments for
+  Humans. Environments for Humans produces over a dozen of virtual front-end and UX
+  design conferences every year as well as the first web builder conference for CSS,
+  CSS Dev Conf, which is coming up this October in San Antonio, Texas.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 72
+show: nbsp
+mp3: https://media.transistor.fm/69b7db52.mp3
+layout: episode
+---
+

@@ -1,0 +1,19 @@
+---
+title: B-Side Discussing Adam's Joshua Tree Setlist
+date: 2017-02-20 10:22:00 -06:00
+episode: 52
+show: atu2
+description: 10 minutes on Adam Clayton's picture with a blurry setlist that we Bunderdict
+  Cumbertooth our way through.
+mp3: https://media.transistor.fm/5b237d4c.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/atu2
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code * atu2*
+  during checkout to get 10% off your first year.
+layout: episode
+---
+
+* [Our guess on Adam’s setlist](https://twitter.com/atu2/status/831567167543865344)
+* [Adam’s post on U2’s Instagram](https://www.instagram.com/p/BQgEB6WFM3P/)
+* [Thanks to Simon Peyda for our intro music](https://simonpeyda.wordpress.com/2016/04/06/how-to-dismantle-a-sirens-song-the-making-of-a-podcast-theme/)

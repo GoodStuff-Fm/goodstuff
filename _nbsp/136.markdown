@@ -1,0 +1,132 @@
+---
+title: Aral Balkan — Certain Unalienable Cyborg Rights
+date: 2017-10-31 09:00:00 -06:00
+position: 1
+show: nbsp
+episode: 136
+mp3: https://media.transistor.fm/040a5bae.mp3
+description: Joined with Simon St. Laurent in talking with Aral Balkan. Aral is a
+  cyborg rights activist and one-third of Ind.ie, a small non-profit organization
+  working for social justice in the digital age. At Ind.ie, he works on Better, a
+  privacy tool that stops trackers while you are surfing the web on Safari browser
+  on the iPhone, iPad, and Mac.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv136&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv136&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
+video: https://www.youtube.com/embed/heNnYPz1m_k
+image: "/uploads/nbsptv-aral-balkan.jpg"
+layout: episode
+---
+
+### Time Jumps
+
+* **[2:34](https://goodstuff.fm/nbsp/#t=2:34)** What is a cyborg rights activist?
+* **[12:55](https://goodstuff.fm/nbsp/#t=12:55)** General Data Protection Regulation discussion.
+* **[17:30](https://goodstuff.fm/nbsp/#t=17:30)** A lot of us were lied to when we started out.
+* **[24:25](https://goodstuff.fm/nbsp/#t=24:25)** We've replaced the publishing industry with the behavioral advertising industry.
+* **[26:10](https://goodstuff.fm/nbsp/#t=26:10)** China has embraced capitalism as well.
+* **[35:50](https://goodstuff.fm/nbsp/#t=35:50)** How do we inform people about data security?
+* **[41:50](https://goodstuff.fm/nbsp/#t=41:50)** The revolving door, multistakeholderism, co-regulation, and a conversation with Eric Schmidt.
+* **[1:00:00](https://goodstuff.fm/nbsp/#t=1:00:00)** Mastadon and decentralized networking and the city of Ghent.
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Aral Balkan](https://ar.al)
+* [Better.fyi](https://better.fyi)
+* [Aral on Mastadon](https://mastodon.ar.al/@aral)
+* [Cyborg Rights Activism](http://www.cyborgfoundation.com/)
+* [Human Rights Law](http://www.un.org/en/sections/universal-declaration/foundation-international-human-rights-law/index.html)
+* [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+* [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](http://www.shoshanazuboff.com/new/recent-publications-and-interviews/big-other-surveillance-capitalism-and-the-prospects-of-an-information-civilization/)
+* [Without API Management, the Internet of Things is Just a Big Thing](https://www.wired.com/insights/2013/07/without-api-management-the-internet-of-things-is-just-a-big-thing/)
+* [Why Exposed API Keys and Sensitive Data are Growing Cause for Concern](https://www.programmableweb.com/news/why-exposed-api-keys-and-sensitive-data-are-growing-cause-concern/analysis/2015/01/05)
+* [Data Farming and Open Science](https://peerj.com/blog/post/115284879825/idea-farming-for-open-science/)
+* [People Farming (Data)](http://www.datafarming.org/Data_Farming/Welcome.html)
+* [Techno Economical Social System](https://link.springer.com/article/10.1140/epjst/e2011-01410-7)
+* [Thomas J Watson Sr, Father of IBM](http://www.i-programmer.info/history/people/506-thomas-j-watson-sernior.html)
+* [Peer-to-Peer (P2P)](https://cacm.acm.org/magazines/2010/10/99498-peer-to-peer-systems/fulltext)
+* [A Survey of Peer-to-Peer Network Security Issues](http://www.cse.wustl.edu/~jain/cse571-07/ftp/p2p/)
+* [Decentralized Web Summit](https://decentralizedweb.net/)
+* [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
+* [Vinton G. Cerf at Google](https://research.google.com/pubs/author32412.html)
+* [Vinton G. Cerf on Twitter](https://twitter.com/vgcerf)
+* [Google's Vint Cerf warns of 'digital Dark Age'](http://www.bbc.co.uk/news/science-environment-31450389)
+* [Vint Cerf: We Knew What We Were Unleashing On The World](https://www.wired.com/2012/04/epicenter-isoc-famers-qa-cerf/)
+* [Ethereum](https://ethereum.org/)
+* [How Serious Are Tech Giants About Blockchains? Ethereum Cofounder Grades Apple, Amazon, Google](http://fortune.com/2017/10/30/google-amazon-apple-ethereum-blockchain/)
+* [Springer](http://www.springer.com/us/)
+* [SpringerOpen](https://www.springeropen.com/)
+* [China’s Tencent is quietly testing a “social credit score” based on people’s online behavior](https://qz.com/1049669/chinas-tencent-hkg-0700-is-quietly-testing-a-social-credit-score-based-on-peoples-online-behavior/)
+* [Big Brother, Meet Citizen Score: China to Cull Online Data to Create Individual Rating System](https://nonprofitquarterly.org/2017/10/30/big-brother-meet-citizen-score-china-cull-online-data-create-individual-rating-system/)
+* [Big data meets Big Brother as China moves to rate its citizens](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
+* [Opera browser sold to a Chinese consortium](https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/)
+* [Opera CEO: Sale To Chinese Consortium Wasn’t Our Decision](https://techcrunch.com/2016/02/25/opera-ceo-sale-to-chinese-consortium-wasnt-our-decision/)
+* [Chilling Effect Law and Legal Definition](https://definitions.uslegal.com/c/chilling-effect/)
+* [Columbia Law Review: The Chilling Effect in Constitutional Law](https://www.jstor.org/stable/1121147?seq=1#page_scan_tab_contents)
+* [The ‘Chilling Effect’ of China’s New Cybersecurity Regime](http://foreignpolicy.com/2015/07/10/china-new-cybersecurity-law-internet-security/)
+* [Lumen, research project studying cease and desist letters concerning online content](https://lumendatabase.org/)
+* [Online behavioral advertising (OBA)](https://www.trustarc.com/consumer-privacy/about-oba/)
+* [Online Behavioral Advertising Compliance](https://thedma.org/resources/compliance-resources/online-behavioral-advertising-compliance/)
+* [World Health Organization: eHealth](http://www.who.int/ehealth/en/)
+* [E-Health, Privacy, and Security Law, Third Edition, with 2017 Supplement](https://www.bna.com/ehealth-privacy-security-p17179895708/)
+* [Managing the Privacy and Security of eHealth Data](http://ieeexplore.ieee.org/document/7168466/)
+* [You could be sent to the back of the queue for NHS surgery if you smoke or are 'obese'](http://www.examiner.co.uk/news/you-could-sent-back-queue-13248417)
+* [Sending fat smokers to the back of the queue is a betrayal of NHS values](https://www.theguardian.com/commentisfree/2016/dec/01/fat-smokers-queue-nhs-health-drinkers)
+* [When It Comes To Security, We're Back To Feudalism](https://www.wired.com/2012/11/feudal-security/)
+* [Harvard Business Review: You Have No Control Over Security on the Feudal Internet](https://hbr.org/2013/06/you-have-no-control-over-s)
+* [Facebook, Google: Welcome to the new Feudalism](http://www.zdnet.com/article/facebook-google-welcome-to-the-new-feudalism/)
+* [Just 8 men own same wealth as half the world](https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/just-8-men-own-same-wealth-half-world)
+* [Ethical Design Manifesto](https://ind.ie/ethical-design/)
+* [Blog: The Ethical Design Manifesto](https://www.thersa.org/discover/publications-and-articles/rsa-blogs/2015/11/the-ethical-design-manifesto)
+* [A Public Space](https://apublicspace.org/)
+* [Project for Public Spaces (PPS)](https://www.pps.org/)
+* [The Occupy Movement and the New Public Space](https://www.citylab.com/equity/2011/11/occupy-and-new-public-space/554/)
+* [In defense of public space: Why planners should protect the right to occupy public space during the Trump Administration](http://www.thewagnerreview.org/2017/03/in-defense-of-public-space-why-planners-should-protect-the-right-to-occupy-public-space-during-the-trump-administration/)
+* [The Internet as Public Space: Concepts, Issues, and Implications in Public Policy](https://sites.hks.harvard.edu/m-rcbg/research/j.camp_acm.computer_internet.as.public.space.pdf)
+* [Internet as a Commons: Public Space in the Digital Age](https://www.democraticmedia.org/content/internet-commons-public-space-digital-age)
+* [Platform Cooperativism](https://platform.coop/)
+* [What is Platform Cooperativism and Why is It Important](https://civic.mit.edu/blog/natematias/what-is-platform-cooperativism-and-why-is-it-important)
+* [Google spent millions on lobbying](https://www.thetimes.co.uk/article/google-spent-millions-on-lobbying-xncn8lssl)
+* [The Über-Lobbyists: How Silicon Valley is changing Brussels lobbying](https://transparency.eu/uber-lobbyists/)
+* [European Publishers Play Lobbying Role Against Google](https://www.nytimes.com/2015/08/29/technology/european-publishers-play-lobbying-role-against-google.html)
+* [Google is spending millions more to lobby Europe](http://money.cnn.com/2015/09/29/technology/google-europe-lobbying/index.html)
+* [Jared Cohen at Council on Foreign Relations](https://www.cfr.org/experts/jared-cohen)
+* [Jared Cohen on Twitter](https://twitter.com/JaredCohen)
+* [The New Digital Age](http://www.newdigitalage.com/)
+* [Big Data and the Future of Privacy](https://epic.org/privacy/big-data/)
+* [Big data privacy is a bigger issue than you think](https://www.techrepublic.com/article/big-data-privacy-is-a-bigger-issue-than-you-think/)
+* [There’s No Good Decision in the Next Big Data Privacy Case](https://www.nytimes.com/2017/10/18/opinion/data-abroad-privacy-court.html)
+* [Can Big Tobacco Really Quit Cigarettes?](https://www.bloomberg.com/news/articles/2017-07-28/thanks-for-not-smoking-can-big-tobacco-really-quit-cigarettes)
+* [Seeking Redemption, Big Tobacco Says New Products Eliminate 90 Percent Of Smoking Toxins](http://thefederalist.com/2017/07/11/seeking-redemption-big-tobacco-says-new-products-eliminate-90-percent-smoking-harms/)
+* [Neoliberal institutionalism](https://mediawiki.middlebury.edu/wiki/IPE/Neoliberal_institutionalism)
+* [Neoliberal Institutionalism by Arthur A. Stein](http://www.grandstrategy.net/Articles-pdf/11-Smit-Snidal-c11.pdf)
+* [The False Promise of International Instituions](http://mearsheimer.uchicago.edu/pdfs/A0021.pdf)
+* [UN calls for global economic makeover to replace neoliberalism](http://www.euractiv.com/section/development-policy/news/un-calls-for-global-economic-makeover-to-replace-neo-liberalism/)
+* [Internet Governance: Why the Multistakeholder Approach Works](https://www.internetsociety.org/resources/doc/2016/internet-governance-why-the-multistakeholder-approach-works/)
+* [Multistakeholderism in Internet Governance Forum (IGF) Language](https://www.diplomacy.edu/IGFLanguage/multistakeholderism)
+* [The transformative effects of multistakeholderism in Internet governance: A case study of the East Africa Internet Governance Forum](http://www.sciencedirect.com/science/article/pii/S0308596115002049)
+* [Self-regulation, Co-regulation, State Regulation](http://www.osce.org/fom/13844?download=true)
+* [Internet co-regulation: A view from the UK](https://telsoc.org/tja/2013-02-v63-n1/a399)
+* [Internet Co-Regulation and Constitutionalism: Towards a More Nuanced View](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1973328&rec=1&srcabs=1995059&alg=1&pos=5)
+* [Mozilla: Three tips for phone privacy](https://blog.mozilla.org/internetcitizen/2017/06/26/irl-episode-1-privacy/)
+* [Tristan Nitot talks about Clouds and the future of privacy](https://nextcloud.com/blog/tristan-nitot-cloud-future-privacy/)
+* [We didn’t lose control of the Web – it was stolen](https://news.ycombinator.com/item?id=13854367)
+* [diaspora](https://diasporafoundation.org/)
+* [JoinDiaspora](https://www.joindiaspora.com/)
+* [.gent](https://icannwiki.org/.gent)
+* [Mastadon](https://joinmastodon.org)
+* [Puri.sm Laptops](https://puri.sm)
+* [Tim O'Reilly](http://www.oreilly.com/tim/bio.html)
+* [Steve Krug on Non Breaking Space Episode 108](https://goodstuff.fm/nbsp/108)
+* [Scott McCloud on Non Breaking Space Episode 84](https://goodstuff.fm/nbsp/84)
+* [Laura Kalbag on Non Breaking Space Episode 129](https://goodstuff.fm/nbsp/129)
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

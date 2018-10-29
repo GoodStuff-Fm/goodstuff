@@ -1,0 +1,11 @@
+---
+title: Don't Ghost Your Parents
+date: 2017-05-29 10:29:00 -06:00
+episode: 34
+show: grownups
+description: Brook and Kari discuss chosen families, constructing family units, friends
+  that stick, healthy boundaries for adults, rules for showing up for your friends.
+mp3: https://media.transistor.fm/6d8cb4e1.mp3
+layout: episode
+---
+

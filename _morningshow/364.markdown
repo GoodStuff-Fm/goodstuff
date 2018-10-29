@@ -1,0 +1,39 @@
+---
+title: Warm Coke Experience
+date: 2017-10-03 10:28:00 -06:00
+position: 15
+episode: 364
+show: morningshow
+description: It's like watching just Will Smith movies with a warm soda and pumpkin
+  spiced popcorn with a beagle on your lap for the next two months.
+mp3: https://media.transistor.fm/035982ed.mp3
+image: "/uploads/morningshow-364.png"
+layout: episode
+---
+
+* [Coffee Coca-Cola Is Here](http://www.extracrispy.com/drinks/3967/coffee-coca-cola?xid=extracrispy_newsletter&utm_source=extracrispy.com&utm_medium=email&utm_campaign=freshsqueezed&utm_content=20170915)
+
+* [Disneyland Is Now Serving Nachos With Corn Dogs Instead of Chips - Eater](https://www.eater.com/2017/9/15/16313786/disneyland-corn-dog-nachos-prince-george-lentils)
+
+* [Nerf guns can lead to serious eye injuries, doctors warn - BBC News](http://www.bbc.com/news/health-41307816)
+
+* [Levi’s Commuter Trucker smart jacket goes on sale September 27](http://androidandme.com/2017/09/news/levis-commuter-trucker-smart-jacket-goes-on-sale-september-27/)
+
+* [There's Pumpkin Spice Pizza Now, Of Course](http://www.extracrispy.com/food/4010/pumpkin-spice-pizza?xid=extracrispy_newsletter&utm_source=extracrispy.com&utm_medium=email&utm_campaign=freshsqueezed&utm_content=20170922)
+
+* [Pumpkin Spice or Not?](https://docs.google.com/forms/d/e/1FAIpQLSefHArwI7ABKro1CMmsQtFFXg5-m-sV-0pRJEGUMBu7SWmqCQ/viewform)
+
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

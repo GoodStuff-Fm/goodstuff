@@ -1,0 +1,44 @@
+---
+title: Barbara Rigby
+date: 2016-05-16 08:11:00 -06:00
+tags:
+- tacos
+- ribs
+- stomach
+- Reeses
+position: 76
+episode: '307'
+description: Texas has a lot going on today, KILL FLASH, Kyle and Kenny learn why
+  their stomachs hate them, Yo I heard you like Reese's, The Grilled Cheese Taco!,
+  and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/e262eb2e.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Walmart's Mobile Wallet 'Walmart Pay' Rolls out to Nearly 600 Stores in Texas and Arkansas - Mac Rumors](http://www.macrumors.com/2016/05/16/walmart-pay-rolls-out-texas-arkansas/)
+* [Google plans to start blocking Flash in Chrome this year - The Verge](http://www.theverge.com/2016/5/15/11679394/chrome-to-block-flash-later-2016)
+* [The BBC is reportedly planning a 'Britflix' competitor to Netflix - The Verge](http://www.theverge.com/2016/5/16/11682418/bbc-britflix-streaming-service-netflix-amazon-competitor)
+* [What Makes Your Stomach Growl? - Wonderopolis](http://wonderopolis.org/wonder/what-makes-your-stomach-growl/)
+* [Reese’s Might Be Making A Peanut Butter Cup With Reese’s Pieces](http://uproxx.com/life/reeses-cups-pieces-combined/2/)
+* [Grilled Cheese Taco - The Food in My Beard](http://www.thefoodinmybeard.com/recipe/grilled-cheese-taco/)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,0 +1,20 @@
+---
+title: Mat Marquis — JavaScript for Web Designers
+date: 2016-11-22 12:11:00 -06:00
+description: Mat Marquis is Chair of the Responsive Issues Community Group, technical
+  editor at A List Apart, a former member of the jQuery Mobile team, and editor of
+  the W3C HTML5 specification. His book, JavaScript for Web Designers, was recently
+  published by A Book Apart.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 99
+show: nbsp
+mp3: https://media.transistor.fm/4b4fcd7a.mp3
+video: https://www.youtube.com/embed/eSXvrc0Wa8Q
+image: "/uploads/nbsptv-mat-marquis.jpg"
+layout: episode
+---
+

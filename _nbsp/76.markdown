@@ -1,0 +1,22 @@
+---
+title: Sean Vanaman — Making of Firewatch
+date: 2016-05-03 12:11:00 -06:00
+description: Sean Vanaman is a video game designer, writer, and podcast host. He was
+  the co-project leader and lead writer of The Walking Dead, and Puzzle Agent 2. Sean
+  co-founded the new video game company, Campos Santo, and their first game, Firewatch,
+  is a first person adventure that centers around the character, Henry, a man whose
+  love life is in free fall, takes a job as a fire lookout in the Shoshone National
+  Forest.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 76
+show: nbsp
+mp3: https://media.transistor.fm/95cdd159.mp3
+video: https://www.youtube.com/embed/2jPS8_euZ_g
+image: "/uploads/nbsptv-sean-vanaman.jpg"
+layout: episode
+---
+

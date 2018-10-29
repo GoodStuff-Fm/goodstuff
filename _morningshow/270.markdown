@@ -1,0 +1,37 @@
+---
+title: DARPAganda
+date: 2016-02-10 12:00:00 -06:00
+tags:
+- Name That Sound
+- space
+- toilet
+- robots
+position: 39
+episode: '270'
+description: Amazon is already prepared for a zombie outbreak, We are using our sinks
+  for the wrong reason, How long is the longest selfie stick?, Robot golfer is better
+  than Human golfer, Hidden galaxies in our own backyard, Name That Sound, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/77544475.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

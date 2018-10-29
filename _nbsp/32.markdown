@@ -1,0 +1,37 @@
+---
+title: Glenda Sims
+date: 2013-04-30 12:11:00 -06:00
+position: 31
+description: Glenda Sims is an accessibility consultant, speaker, author and trainer
+  for Knowbility, a non-profit whose mission is &ldquo;barrier free IT&rdquo;. She
+  works at Deque where she is a Senior Accessibility Consultant. There she shares
+  her expertise and passion for the open web with government, educational institutions,
+  small businesses and Fortune 500 companies. She performs hands on web accessibility
+  assessments, develops accessibility roadmaps and strategies, and consults with developers
+  and designers.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 32
+show: nbsp
+mp3: https://media.transistor.fm/ec2227e4.mp3
+layout: episode
+---
+
+-  [@goodwitch](https://twitter.com/goodwitch) on Twitter
+
+-  [Glendathegood.com](http://glendathegood.com)
+
+-  [Deque.com](http://deque.com)
+
+-  [Glenda on LinkedIn](http://www.linkedin.com/in/goodwitch)
+
+-  [Glenda Watson Hyatt](http://www.doitmyselfblog.com)
+
+-  [Penn State Accessibility](http://accessibility.psu.edu)
+
+-  [Lainey Feingold](http://lflegal.com) Disability Rights Legal Advocacy
+
+-  [Federal Judge Rules that ADA Covers Web-only Businesses like Netflix](http://lflegal.com/2012/06/netflix/)
+
+-  [#a11y search on Twitter](https://twitter.com/search?q=a11y&src=typd)

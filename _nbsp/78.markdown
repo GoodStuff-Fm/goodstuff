@@ -1,0 +1,19 @@
+---
+title: Bright Umbrella — Thriving a Business
+date: 2016-05-17 12:11:00 -06:00
+description: The co-founders of Bright Umbrella, a web design and development agency,
+  are Emily Lewis and Lea Alcantara. We talk about THRIVING a business—going BEYOND
+  superficial marketing and sales language to talk about what worked and what did
+  not as they grew profitable and happier.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 78
+show: nbsp
+mp3: https://media.transistor.fm/5fc0f20d.mp3
+video: https://www.youtube.com/embed/odgtaU_a8Zg
+layout: episode
+---
+

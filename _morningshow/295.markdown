@@ -1,0 +1,50 @@
+---
+title: Icelandic Phone Book
+date: 2016-04-13 09:10:00 -06:00
+tags:
+- Kindle
+- Scrabble
+- space
+- 2 Stupid Games
+position: 64
+episode: '295'
+description: Amazon really wants us to read, Facebook is trying to revive chatbots,
+  Spell some weird words for points today, Two stupid dogs inside a car can work a
+  car horn, 2 Stupid Games, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/e8bcd8b1.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [There will be a bot for everything - The Verge](http://www.theverge.com/2016/4/12/11416122/there-will-be-a-bot-for-everything)
+* [Tesla Model X Recall - News, Details - Digital Trends](http://www.digitaltrends.com/cars/tesla-model-x-recall-news-details/)
+* [Third-Party Reddit Apps Being Pulled from Apple App Store - Digital Trends](http://www.digitaltrends.com/mobile/third-party-reddit-apps-pulled-from-apple-app-store/)
+* [Facebook launches Messenger platform with chatbots - TechCrunch](http://techcrunch.com/2016/04/12/agents-on-messenger/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [New ‘Starshot’ Mission Aims to Send Tiny Spaceships to the Nearest Star System - Motherboard](http://motherboard.vice.com/read/starshot-alpha-centuri-stephen-hawking-yuri-milner)
+* [Amazon's $289 crazy thin Kindle Oasis has a battery cover that adds months of charge](http://thenextweb.com/gadgets/2016/04/13/amazons-289-kindle-oasis-crazy-thin-comes-battery-cover-add-months/)
+* [Introducing Kindle Oasis - Amazon Official Site - E-reader](http://www.amazon.com/dp/B00REQKWGA?ref=deveng_soc)
+* [Song Wig, A Unique Hairpiece With Earbud Strands That Allow the Wearer to Share Their Music](http://laughingsquid.com/song-wig-a-unique-hairpiece-with-earbud-strands-that-allow-the-wearer-to-share-their-music/)
+* [If you send a grimace emoji on an iPhone, it'll look like a smile on an Android - Upvote](http://upvote.morningshow.am/if-you-send-a-grimace-emoji-on-an-iphone-itll-look-like-a-smile-on-an-android/2016-04-11)
+* [Sprimo takes a personal approach to purifying your air - TechCrunch](http://techcrunch.com/2016/04/12/sprimo/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+(TechCrunch))
+* [An Airedale Terrier Left Alone in a Car Impatiently Lays on the Horn to Alert Their Driver - Upvote](http://upvote.morningshow.am/an-airedale-terrier-left-alone-in-a-car-impatiently-lays-on-the-horn-to-alert-their-driver/2016-04-11)
+* [World’s Longest Snake Captured, Promptly Dies - Upvote](http://upvote.morningshow.am/worlds-longest-snake-captured-promptly-dies/2016-04-11)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

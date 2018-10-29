@@ -1,0 +1,43 @@
+---
+title: Scholastic Snack Stick Stock
+date: 2016-09-23 11:51:00 -06:00
+tags:
+- Apple
+- Google
+- hotdogs
+- hamburgers
+position: 91
+episode: '322'
+description: Check out our new Hamdog Franchise, rub some Allo on that sick burn,
+  scary road rage stories with grandpa Kyle, and more!
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/63d87de1.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Allo: Google again moves deck chairs on its sinking Titanic in the messaging wars](http://marketingland.com/allo-google-titanic-messaging-192477)
+* [Apple Releases First iOS 10.1 Beta to Public Beta Testers With Portrait Mode for iPhone 7 Plus - Mac Rumors](http://www.macrumors.com/2016/09/22/apple-releases-ios-10-1-public-beta/)
+* [Techmeme: Comcast CEO says the company plans to debut a wireless service by mid-2017, using leased Verizon airwaves and Comcast's 15M Wi-Fi hot spots (Shalini Ramachandran/Wall Street Journal)](http://www.techmeme.com/160920/p10#a160920p10)
+* [Techmeme: Pokémon Go loses top grossing iPhone app spot in US to Clash Royale, ending a 74 day streak, which is the third-longest streak ever (Sensor Tower App Marketing Blog)](http://www.techmeme.com/160920/p20#a160920p20)
+* [Nike Reveals Auto-Lacing Shoes You'll Actually Be Able to Buy - IGN News - YouTube](https://www.youtube.com/watch?v=tCllnkLFmjU)
+* [Someone patented this hotdog-hamburger hybrid, and I’d like to shake his hand - The Verge](http://www.theverge.com/tldr/2016/9/20/12987278/hamdog-hamburger-hot-dog-hybrid)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

@@ -1,0 +1,48 @@
+---
+title: Tastes like Caca!
+date: 2016-02-19 11:24:00 -06:00
+tags:
+- ice cream
+- Food Friday
+- Nerf
+- McDonalds
+position: 43
+episode: '274'
+description: Drive around in your very own NERF car, How much does it cost to make
+  Shredded Wheat?, Knock Knock jokes can save a cat's life, Scary teddy bears are
+  just nightmare fuel, Sit and stand at the same time, Food Friday, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/e0c35d29.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Virgin Galactic will unveil its new spaceplane tomorrow - The Verge](http://www.theverge.com/2016/2/18/11045184/virgin-galactic-spaceshiptwo-reusable-spaceplane-unveiling)
+* [Spotify throws in a free Chromecast with three months of Premium](http://www.techhive.com/article/3034299/streaming-services/spotify-deal-throws-in-a-free-chromecast-with-three-months-of-premium.html#tk.rss_all)
+* [The NERF Battle Racer by Hauck Toys is a Pedal-Powered Go-Kart That Stores NERF Weaponry](http://laughingsquid.com/the-nerf-battle-racer-by-hauck-toys-is-a-pedal-powered-go-kart-that-stores-nerf-weaponry/)
+* [Amazon.com: Buying Choices: Hauck Nerf Battle Racer Ride On](http://www.amazon.com/gp/offer-listing/B01BH92AG4/ref=dp_olp_0?ie=UTF8&condition=all)
+* [Nothing To Do With Arbroath: Wedding guests playing bagpipes and wearing full Highland dress sparked brawl in McDonalds](http://arbroath.blogspot.com/2016/02/wedding-guests-playing-bagpipes-and.html)
+* [This Bracelet Claims It Will Be Able to Turn Your Arm Into a Touchscreen](http://futurism.com/videos/meet-bracelet-turns-arm-touchscreen/)
+* [Meet The 13-Year-Old Who's Adding Sounds To Your Emoji - Co.Design - business + design](http://www.fastcodesign.com/3056690/meet-the-13-year-old-whos-adding-sounds-to-your-emoji?partner=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcodesign%2Ffeed+%28Co.Design%29)
+* [New app turns smartphones into worldwide seismic network - EurekAlert! Science News](http://www.eurekalert.org/pub_releases/2016-02/uoc--nat020316.php)
+* [Achilles: Meet the Wearable Chair](http://futurism.com/videos/achilles-meet-chair-can-wear/)
+* [Vox Investigates Whether Astronaut Ice Cream Ever Really Flew in Space](http://laughingsquid.com/vox-investigates-whether-astronaut-ice-cream-ever-really-flew-in-space/)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

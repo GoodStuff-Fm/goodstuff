@@ -1,0 +1,21 @@
+---
+title: Coffee Milkshake
+date: 2018-07-26 04:00:00 -06:00
+show: todaysspecial
+episode: 37
+mp3: https://media.transistor.fm/8b5cd89a.mp3
+description: Not that Vienna Blend!
+layout: episode
+---
+
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+- [Kyle on Twitter](http://twitter.com/dogburps)
+- [Kenny on Twitter](http://twitter.com/kennyroderick_)
+- [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+## About
+
+Today's Special is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

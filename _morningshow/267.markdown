@@ -1,0 +1,38 @@
+---
+title: Fact Sandwich
+date: 2016-02-03 12:00:00 -06:00
+tags:
+- Uber
+- Who Said It?
+- football
+- Morning Show
+position: 36
+episode: 267
+description: Thanks for letting us know about the logo change Uber!, Watch out for
+  those teddy bears stealing identities, Find out the threshold for broken eardrums
+  from Google, If you're a morning person then so is your whole family, Key & Peele
+  are your new favorite commentators, Who Said It?, and more.
+show: morningshow
+mp3: https://media.transistor.fm/8d0bbdea.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+layout: episode
+---
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

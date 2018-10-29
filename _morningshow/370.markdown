@@ -1,0 +1,44 @@
+---
+title: Model 3 Frozen Burrito
+date: 2017-11-21 17:48:00 -06:00
+show: morningshow
+mp3: https://media.transistor.fm/69a50018.mp3
+description: It's like a eating full meal of Pringles, grilled cheese, Tesla burritos,
+  and fake fast food secret menu items in a theater.
+episode: 370
+image: "/uploads/morningshow-370.png"
+layout: episode
+---
+
+* [Apple pushes HomePod release to early 2018 - TechCrunch](https://techcrunch.com/2017/11/17/apple-pushes-homepod-release-to-early-2018/)
+
+* [Thanksgiving Dinner-Flavored Pringles Are Shockingly Accurate - Extra Crispy](http://www.extracrispy.com/food/4432/pringles-thanksgiving-chips-feast?xid=extracrispy_newsletter&utm_source=extracrispy.com&utm_medium=email&utm_campaign=freshsqueezed&utm_content=20171117)
+
+* [Google continues Allo marketing with swag and grilled cheese food truck - 9to5Google](https://9to5google.com/2017/11/20/google-allo-food-truck-swag/)
+
+* [Paramount Pictures Launching First-Ever Virtual Reality Movie Theater - Deadline](http://deadline.com/2017/11/paramount-pictures-first-ever-virtual-reality-movie-theater-with-top-gun-3d-1202209276/)
+
+* [Everything You Need to Know About Tesla's New Electric Semi Truck](https://gizmodo.com/everything-you-need-to-know-about-teslas-new-electric-s-1820526008)
+
+* [Elon Musk Just Unveiled the Brand New, 250 MPH Tesla Roadster](https://futurism.com/elon-musk-just-unveiled-teslas-brand-new-roadster/)
+
+* [Boston Dynamics’ ATLAS Robot Is Now a Backflipping Cyborg Supersoldier](https://gizmodo.com/watch-boston-dynamics-atlas-jump-and-do-backflips-like-1820521370)
+
+* [A disappointing debut for Google’s Pixel Buds - TechCrunch](https://techcrunch.com/2017/11/15/a-disappointing-debut-for-googles-pixel-buds/)
+
+* [Star Wars Battlefront 2 ditches real-money currency hours before launch - Polygon](https://www.polygon.com/2017/11/16/16668218/star-wars-battlefront-2-microtransactions-removed)
+
+---
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+The Goodstuff Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

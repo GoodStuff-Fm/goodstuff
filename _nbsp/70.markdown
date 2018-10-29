@@ -1,0 +1,19 @@
+---
+title: Zell Liew — Responsive Typography
+date: 2016-03-08 12:11:00 -06:00
+description: Zell Liew is a writer, freelance web designer & developer based in Singapore.
+  His down-to-earth articles — especially those recently published on the topic of
+  responsive typography — make it easier to understand for both designers and developers.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 70
+show: nbsp
+mp3: https://media.transistor.fm/f723780a.mp3
+video: https://www.youtube.com/embed/1wpVke08fL8
+image: "/uploads/nbsptv-zell-liew.jpg"
+layout: episode
+---
+

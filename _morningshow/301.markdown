@@ -1,0 +1,47 @@
+---
+title: Captain Au Jus Picard
+date: 2016-04-26 20:45:00 -06:00
+tags:
+- Kickstarter
+- Spotify
+- snake
+- 2 Stupid Games
+position: 70
+episode: '301'
+description: "'Get ready to learn what a femtobarn is, Start smelling with your mouth,
+  It's the Eye of the Rib Roast, Robosnake just became a nightmarish reality, Control
+  your mirrorless vehicle with your voice, 2 Stupid Games, and more.'"
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/77daceed.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Olympic torch fires up own Twitter account - Digital Trends](http://www.digitaltrends.com/social-media/olympic-flame-twitter/)
+* [Hundreds of Spotify credentials appear online – users report accounts hacked, emails changed - TechCrunch](http://techcrunch.com/2016/04/25/hundreds-of-spotify-credentials-appear-online-users-report-accounts-hacked-emails-changed/)
+* [You can now download 300TB of data from the Large Hadron Collider - The Verge](http://www.theverge.com/2016/4/25/11501078/cern-300-tb-lhc-data-open-access)
+* [Nokia to buy French health gadget maker Withings for $191 million - Ars Technica](http://arstechnica.com/business/2016/04/nokia-to-buy-withings-health-gadget-maker-2/)
+* [The Largest Snake In The World Has Been Reincarnated As A Functioning Robot](http://futurism.com/videos/largest-snake-world-reincarnated-functioning-robot/)
+* [China Reveals Autonomous, All-Electric, Voice Controlled Car](http://futurism.com/tesla-facing-stiff-competition-from-homegrown-chinese-company/)
+* [My Bedroom Demands Them: Dinosaur Shaped Lamps - Geekologie](http://geekologie.com/2016/04/my-bedroom-demands-them-dinosaur-shaped.php)
+* [This Audi has a beautiful electric longboard hidden in its bumper - The Verge](http://www.theverge.com/2016/4/25/11503794/audi-electric-autonomous-longboard-hidden-bumper)
+* [Ecto Cooler, That Neon Green Ambrosia of the Gods, Is Officially Coming Back](http://io9.gizmodo.com/ecto-cooler-that-neon-green-ambrosia-of-the-gods-is-o-1772867097)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

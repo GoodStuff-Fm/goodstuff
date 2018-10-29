@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+    {% include nav.html %}
+    <div class="container">
+        <h1 class="page__header">{{ page.title }}</h1>
+        <div class="page__description">
+            {{ content | markdownify }}
+        </div>
+        {{ page.footer_scripts }}
+    </div>
+
+    {% include footer.html %}
+</body>
+
+</html>

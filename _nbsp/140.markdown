@@ -1,0 +1,57 @@
+---
+title: Simon St. Laurent — The Last Infinity Jedi Avengers (Deleted Scenes)
+date: 2018-05-07 09:00:00 -06:00
+position: 1
+show: nbsp
+episode: 140
+mp3: https://media.transistor.fm/5b3a5ff6.mp3
+description: Christopher Schmitt and Simon St. Laurent talk about your cousin's DNA
+  and the legal system, Apple getting out of routers, Avengers Infinity War, getting
+  off Google Analytics and Facebook, and Flickr getting bought by Smugmug.
+sponsor: "* **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv140&utm_medium=podcast&utm_campaign=uxdesignnewsletter)**
+  — A weekly free newsletter containing a collection of tutorials, articles, and videos
+  about front-end design and development, plus tips on how to bring better engagement
+  to the multi-device world curated by Christopher Schmitt. [Sign up now!](http://uxdesignnewsletter.com/?utm_source=nbsptv140&utm_medium=podcast&utm_campaign=uxdesignnewsletter)"
+video: https://www.youtube.com/embed/0bfsaIN6_fw
+image: "/uploads/nbsptv-simonstl-140.jpg"
+layout: episode
+---
+
+### Time Jumps
+
+* **[1:50](https://goodstuff.fm/nbsp/140#t=1:50)** Introductions
+* **[6:30](https://goodstuff.fm/nbsp/140#t=6:30)** Story #1 — Relative's DNA from genealogy websites cracked East Area Rapist case, DA's office says
+* **[13:40](https://goodstuff.fm/nbsp/140#t=13:40)** Story #2 — Apple's Done Making Routers
+* **[25:30](https://goodstuff.fm/nbsp/140#t=25:30)** Story #3 — _Avengers: Infinity War_ smashing box office records
+* **[46:50](https://goodstuff.fm/nbsp/140#t=46:50)** Story #4 — Turning Off Google Analytics
+* **[1:02:02](https://goodstuff.fm/nbsp/140#t=1:02:02)** Story #5 — Zuckerberg's comments in front of Congress
+* **[1:09:15](https://goodstuff.fm/nbsp/140#t=1:09:15)** Story #6 — Flickr gets bought by Smugmug
+
+### Links:
+
+* [Christopher Schmitt](http://Christopher.org)
+* [Christopher Schmitt on Twitter](https://twitter.com/teleject)
+* [Simon St. Laurent](http://simonstl.com)
+* [Relative's DNA from genealogy websites cracked East Area Rapist case, DA's office says](http://www.sacbee.com/latest-news/article209913514.html)
+* [How a Genealogy Website Led to the Alleged Golden State Killer](https://thebestsites.com/website/literary-cultural-commentary-magazine-atlantic/)
+* [The Daily Friday May 4th on Golden State Killer DNA Story](https://pca.st/8f3L)
+* [The Last Jedi Ending Fixed](https://www.youtube.com/watch?v=srJqEM7PryE)
+* [Avengers: Infinity War Box Office Numbers](http://www.boxofficemojo.com/movies/?id=marvel0518.htm)
+* [Apple's Done Making Routers](https://thenextweb.com/apple/2018/04/27/apple-is-done-making-airport-routers/)
+* [Turning Off Google Analytics](https://www.linkedin.com/pulse/leaving-google-analytics-simon-st-laurent/)
+* [Print Stylesheets in 2018](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
+* [Mastadon](https://mastodon.social)
+* [Jeremy Keith](https://adactio.com)
+* [Facebook f8 Developer Conference](https://www.f8.com/)
+* [Facebook Dating Looks a Whole Lot Like Hinge](https://www.wired.com/story/facebook-dating-hinge-app/)
+* [flickr agrees to be acquired by SmugMug](https://www.smugmug.com/together/)
+
+### Follow The Non Breaking Space Show
+
+* [Non Breaking Space Show on TuneIn](http://tunein.com/radio/Non-Breaking-Space-Show-p885155/)
+* [Non Breaking Space Show for Android](http://subscribeonandroid.com/feeds.goodstuff.fm/nbsp)
+* [Non Breaking Space Show on Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Iw5ik6iwalo5vmda5rqyrotdney?t%3DNon_Breaking_Space_Show%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [Non Breaking Space Show on iTunes](https://itunes.apple.com/ca/podcast/non-breaking-space-show/id507162981?mt=2&ign-mpt=uo%3D4)
+* [Non Breaking Space Show on Facebook](https://www.facebook.com/nbsptv)
+* [📺 Non Breaking Space Show on YouTube](https://www.youtube.com/channel/UC--mqA75V3CM8hxId0l7e_g?sub_confirmation=1)
+* [Non Breaking Space Show Newsletter](http://newsletter.nonbreakingspace.tv/)

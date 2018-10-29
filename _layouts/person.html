@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Page Information -->
+{% include head.html %}
+
+<body>
+
+    <!-- Navigation Bar -->
+    {% include nav.html %}
+
+    <div class="container">
+
+        <div class="person">
+            <div class="person__avatar">
+                <img src="{{ page.image }}" alt="Photo of {{ page.title }}" height="100" width="100" />
+            </div>
+            <div class="person__header">{{ page.title }}</div>
+            <div class="person__subheader">
+                {% if page.website %}
+                <a href="{{ page.website }}">{{ page.website }}</a> • {% endif %}
+                <a href="http://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter fa-1x"></i> {{ page.twitter }}</a>
+            </div>
+            <div class="person__tagline">{{ page.tagline }}</div>
+            <div class="person__description">{{ page.content }}</div>
+        </div>
+
+
+        <hr class="page__rule">
+
+        <!-- shows -->
+        <div class="person__shows">Shows</div>
+
+        {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.hidden == true %} {% assign show = site.data.shows[collection.label] %} {% if show.hosts contains page.name %}
+        <!-- Needs to contain, not equal -->
+
+        <div class="person__show">
+            <ul>
+                <li class="person__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></li>
+                <li class="person__show__description">{{ show.description }}</li>
+            </ul>
+        </div>
+{% endif %} {% endunless %} {% endfor %}
+
+
+    </div>
+
+    <!-- Footer -->
+    {% include footer.html %}
+
+
+</body>
+
+</html>

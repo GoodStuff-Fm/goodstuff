@@ -1,0 +1,18 @@
+---
+title: Dr. Christine Corbett — Astrophysics in Antartica
+date: 2016-07-26 12:11:00 -06:00
+description: In this episode, Christopher Schmitt talks with Dr. Christine Corbett.
+  Dr. Corbett works on the South Pole Telescope on-site at the South Pole in Antarctica
+  for January-November 2016 with the University of Chicago.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 87
+show: nbsp
+mp3: https://media.transistor.fm/781531b4.mp3
+video: https://www.youtube.com/embed/yufPiQ-MlsU
+layout: episode
+---
+

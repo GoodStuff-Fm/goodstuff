@@ -1,0 +1,46 @@
+---
+title: Chicken Drippings
+date: 2016-05-18 07:59:00 -06:00
+tags:
+- 2 Stupid Games
+- Google
+- submarine
+- KFC
+position: 77
+episode: '308'
+description: THIS IS IT (for a while), Google has some things in the works, We all
+  live in a yellow pencil, Babies are not mouth-breathers, Turn your house into a
+  smart drum set, KFC opens location with AI employees, 2 Stupid Games, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/b714c698.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Get ready for Android N, VR and more at Google I/O 2016](http://www.engadget.com/2016/05/17/what-to-expect-from-google-i-o-2016/)
+* [New report points to Google's Echo clone being called 'Google Home'](http://www.techhive.com/article/3071702/connected-home/new-report-points-to-googles-echo-clone-being-called-the-google-home.html#tk.rss_all)
+* [Nokia announces return to mobile phones and tablets, as Microsoft sells feature-phone unit for $350M - VentureBeat - Mobile - by Paul Sawers](http://venturebeat.com/2016/05/18/microsoft-offloads-feature-phone-business-to-foxconn-subsidiary-for-350-million/)
+* [Google (GOOG) is launching a ridesharing service to compete with Uber, Lyft, and Via — Quartz](http://qz.com/686281/google-is-launching-its-own-ridesharing-service-uber-lyft-and-everyone-else-should-be-worried/)
+* [Tesla rolls out update to make it harder to crash a self-parking car - The Verge](http://www.theverge.com/2016/5/17/11691708/tesla-model-s-update-self-parking-car-crash-summon-mode)
+* [Knocki turns any surface into a remote - The Verge](http://www.theverge.com/circuitbreaker/2016/5/18/11682632/knocki-kickstarter-launch-internet-of-things-clapper)
+* [Scientists Strip Color Away From Wood, Leave It Clear - Digital Trends](http://www.digitaltrends.com/cool-tech/transparent-wood/)
+* [Get familiar with the “Oreo Overload” bagel - Sneakhype](http://sneakhype.com/food-and-drink/2016/05/get-familiar-with-the-oreo-overload-bagel.html)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

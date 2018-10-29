@@ -1,0 +1,668 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+body {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 415px) {
+
+  .container {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+  }
+
+  .container__footer {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+  }
+
+  .page__header {
+    padding-top: 24pt !important;
+    padding-bottom: 4pt !important;
+  }
+
+  .latest-episode {
+    margin-top: 16pt;
+    margin-bottom: 16pt;
+
+    &__header {
+      width: 100%;
+      padding-top: 16pt;
+      padding-bottom: 12pt;
+    }
+
+    &__artwork {
+      width: 100% !important;
+      float: none;
+    }
+
+    &__details {
+      width: 100% !important;
+      float: none;
+
+      &__show {
+        padding-top: 20pt;
+        padding-bottom: 12pt;
+      }
+
+      &__title {
+        padding-bottom: 10pt;
+      }
+
+      &__date {
+        padding-bottom: 12pt;
+      }
+
+      &__hosts {
+        padding-bottom: 18pt;
+      }
+
+      &__description {
+        padding-bottom: 12pt;
+        line-height: 1.7rem;
+      }
+    }
+  }
+
+
+  .episode__show__artwork, .episode__show__hosts, .episode__show__description {
+    display: none;
+  }
+
+  .episode__show__name {
+    padding-top: 24pt !important;
+    padding-bottom: 16pt;
+  }
+
+  .episode__show__link img {
+    padding-bottom: 8pt;
+  }
+
+  .episode__show__info {
+    min-height: 0 !important;
+  }
+
+  .episode__player__links {
+    display: none;
+  }
+
+  .episode__content img {
+    width: 100%;
+  }
+
+  .episode__navigation {
+    padding-top: 12pt;
+  }
+
+  .header__list__link {
+    display: none;
+  }
+
+  .header__list__logo {
+    padding-left: 4pt;
+  }
+
+  .footer {
+    height: auto;
+  }
+
+  .footer__left, .footer__right {
+    width: 100% !important;
+    padding-bottom: 24pt !important;
+  }
+
+
+
+}
+
+.container {
+  max-width: 700pt;
+  background: none;
+  min-height: 100%;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 250pt;
+
+  &__wide {
+    &__red {
+      background: white;
+      width: 100%;
+    }
+    &__dark {
+      background: #292D36;
+      width: 100%;
+    }
+  }
+
+  &__banner {
+    color: $dark-blue;
+    width: 700pt;
+    height: 280pt;
+    padding-bottom: 30pt;
+    margin-left:  auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  &__nav {
+    width: 700pt;
+    margin-left:  auto;
+    margin-right: auto;
+
+  }
+
+  &__recent-episodes {
+    width: 100%;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+  &__our-shows {
+    width: 100%;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+  &__people {
+    max-width: 700pt;
+    background: none;
+    min-height: 500pt;
+    margin: 0 auto;
+    padding-bottom: 300pt;
+  }
+
+  &__footer {
+    background: #F9FAFC;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+
+
+}
+
+.header {
+  height: 70pt;
+  vertical-align: middle;
+  line-height: 70pt;
+  max-width: 700pt;
+  margin-left:  auto;
+  margin-right: auto;
+  padding: 0 1rem 0 1rem;
+
+  &__list {
+
+    &__item {
+      padding: 0 10pt;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    &__live {
+      display: inline-block;
+      vertical-align: middle;
+      float: right;
+    }
+
+    &__notlive {
+      display: inline-block;
+      vertical-align: middle;
+      float: right;
+    }
+
+    &__logo {
+      display: inline-block;
+      background-color: none;
+      vertical-align: middle;
+      height: 40pt;
+      padding: 0 12pt 0 0;
+
+      img {
+        width: 40pt;
+        height: 40pt;
+      }
+
+    }
+
+    &__link {
+      color: #969DAF;
+      text-decoration: none;
+    }
+
+  }
+
+}
+
+.latest-episode {
+  margin-top: 24pt;
+  margin-bottom: 24pt;
+  width: 100%;
+  overflow: hidden;
+
+  &__header {
+    width: 100%;
+    padding-top: 30pt;
+    padding-bottom: 20pt;
+  }
+
+  &__artwork {
+    width: 28%;
+    float: left;
+
+    img {
+      width: 100%;
+      border-radius: 4pt;
+    }
+  }
+
+  &__details {
+    width: 69%;
+    float: right;
+
+    &__show {
+      padding-bottom: 14pt;
+    }
+
+    &__title {
+      padding-bottom: 10pt;
+    }
+
+    &__date {
+      padding-bottom: 12pt;
+    }
+
+    &__hosts {
+      padding-bottom: 18pt;
+    }
+
+
+    &__description {
+      padding-bottom: 12pt;
+      line-height: 1.7rem;
+    }
+  }
+}
+
+.recent-episodes {
+  display: table;
+  table-layout: fixed;
+
+  &__list {
+    padding-top: 20pt;
+    vertical-align: top;
+    width: 20%;
+    padding-right: 10pt;
+    display: table-cell;
+  }
+
+  &__artwork img {
+    width: 100%;
+    border-radius: 2pt;
+  }
+
+  &__title {
+    padding-top: 10pt;
+  }
+
+  &__date {
+    padding-top: 8pt;
+  }
+
+}
+
+.our-shows {
+  padding-bottom: 80pt;
+  display: table;
+  table-layout: fixed;
+
+  &__header {
+    padding-top: 64pt;
+  }
+
+  &__list {
+    padding-top: 20pt;
+    vertical-align: top;
+    width: 14.9%;
+    padding-right: 12pt;
+    display: inline-block;
+  }
+
+  &__artwork img {
+      width: 100%;
+      height: auto;
+      padding-bottom: 10pt;
+      border-radius: 2pt;
+  }
+
+}
+
+.page {
+
+  &__header {
+    padding-top: 48pt;
+    padding-bottom: 16pt;
+  }
+
+  &__subheader {
+    padding-top: 24pt;
+    padding-bottom: 12pt;
+  }
+
+  &__rule {
+  }
+
+  &__twitch {
+    padding: 16pt 0 16pt 0;
+  }
+
+  &__description {
+    padding-top: 12pt;
+    padding-bottom: 12pt;
+
+  }
+}
+
+.shows {
+
+  &__list {
+    min-height: 180pt;
+    padding: 0 0 12pt 0;
+
+    &__artwork {
+      height: 160pt;
+      float: left;
+      padding-top: 10pt;
+      padding-bottom: 10pt;
+      padding-right: 30pt;
+      img {
+        height: 160pt;
+        width: 160pt;
+        border-radius: 3pt;
+      }
+    }
+
+    &__name {
+      padding-top: 15pt;
+    }
+
+    &__hosts {
+      padding-top: 10pt;
+    }
+
+    &__description {
+      padding-top: 10pt;
+    }
+
+    &__link {
+      padding-top: 15pt;
+
+      img {
+        height: 34pt;
+        padding-right: 6pt;
+      }
+    }
+
+  }
+}
+
+.hosts {
+
+  &__list {
+    margin: 10pt;
+    float: left;
+    width: 17%;
+    text-align: center;
+
+    &__image img {
+      border-radius: 50%;
+      width: 100%;
+      height: auto;
+    }
+
+    &__name {
+      width: 100%;
+      padding-top: 5pt;
+      float: left;
+
+    }
+
+  }
+
+}
+
+.show {
+
+  &__description {
+    padding-bottom: 15pt;
+  }
+
+  &__episode {
+
+    &__title {
+      padding-top: 15pt;
+    }
+
+    &__date {
+      padding-top: 8pt;
+      padding-bottom: 12pt;
+    }
+
+    &__description {
+      padding-bottom: 16pt;
+    }
+
+    &__link {
+      img {
+        height: 38pt;
+        padding-right: 6pt;
+      }
+    }
+  }
+}
+
+.episode {
+
+  &__show {
+
+    &__info {
+      min-height: 170pt;
+    }
+
+    &__artwork {
+      height: 124pt;
+      float: left;
+      padding-top: 20pt;
+      padding-bottom: 10pt;
+      padding-right: 20pt;
+      img {
+        height: 124pt;
+        width: 124pt;
+        border-radius: 2pt;
+      }
+    }
+
+    &__name {
+      padding-top: 50pt;
+    }
+
+    &__hosts {
+      padding-top: 20pt;
+    }
+
+    &__description {
+      padding-top: 10pt;
+    }
+
+    &__link {
+      padding-top: 10pt;
+
+      img {
+        height: 38pt;
+        padding-right: 6pt;
+      }
+
+    }
+  }
+
+  &__navigation {
+    overflow: auto;
+    padding: 12pt 0 12pt 0;
+
+    &__previous {
+    }
+
+    &__next {
+      float: right;
+    }
+
+  }
+
+  &__content {
+
+    img {
+      max-width: 100%;
+    }
+
+  }
+
+  &__video {
+    padding-bottom: 20pt;
+
+    .videoWrapper {
+    	position: relative;
+    	padding-bottom: 56.25%; /* 16:9 */
+    	padding-top: 25px;
+    	height: 0;
+    }
+
+    .videoWrapper iframe {
+    	position: absolute;
+    	top: 0;
+    	left: 0;
+    	width: 100%;
+    	height: 100%;
+    }
+  }
+}
+
+.person {
+  min-height: 150pt;
+  padding-bottom: 12pt;
+  padding-top: 50pt;
+
+  &__avatar {
+    float: left;
+    padding-right: 24pt;
+    padding-bottom: 12pt;
+    img {
+      width: 150pt;
+      height: auto;
+      border-radius: 50%;
+    }
+  }
+
+  &__header {
+    padding-bottom: 12pt;
+  }
+
+  &__subheader {
+    padding-bottom: 16pt;
+  }
+
+  &__tagline {
+    line-height: 1.8rem;
+  }
+
+  &__description {
+    line-height: 1.8rem;
+    padding-bottom: 12pt;
+  }
+
+  &__shows {
+    padding-top: 24pt;
+    padding-bottom: 16pt;
+  }
+
+
+  &__show {
+    &__name {
+      padding: 16pt 0 8pt 0;
+      a {
+        color: $bright-red;
+        text-decoration: none;
+      }
+    }
+    &__description {
+      line-height: 1.7rem;
+      padding-bottom: 16pt;
+    }
+  }
+
+
+}
+
+.footer {
+  clear: both;
+  bottom: 0;
+  height: 140pt;
+  vertical-align: middle;
+  max-width: 700pt;
+  margin-left:  auto;
+  margin-right: auto;
+  margin-top: 40pt;
+
+
+  &__left {
+    width: 64%;
+    float: left;
+
+    &__description {
+      padding-top: 5pt;
+    }
+
+    &__copyright {
+      padding-top: 10pt;
+    }
+
+    &__transistor {
+      padding-top: 16pt;
+    }
+
+    &__logo img {
+      height: auto;
+      width: 180pt;
+      padding: 0 0 12pt 0;
+    }
+
+    &__link {
+    }
+
+  }
+
+  &__right {
+    width: 30%;
+    float: right;
+
+    &__header {
+      padding-bottom: 10pt;
+    }
+
+    &__page {
+      padding-top: 8pt;
+    }
+
+  }
+
+
+}

@@ -1,0 +1,34 @@
+---
+title: Burg Watching
+date: 2017-01-17 15:37:00 -06:00
+position: 34
+description: Red Robin Gourmet Burgers and Brews, or simply Red Robin, is an American
+  chain of casual dining restaurants founded in September 1969 in Seattle, Washington.
+  In 1979, the first franchised Red Robin restaurant was opened in Yakima, Washington.
+  Red Robin is now headquartered in Greenwood Village, Colorado, and, as of 2015,
+  has 538 locations, including 499 that are company-owned and 99 that are franchised.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+episode: 335
+show: morningshow
+mp3: https://media.transistor.fm/1f6e0865.mp3
+layout: episode
+---
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

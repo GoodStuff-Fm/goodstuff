@@ -1,0 +1,18 @@
+---
+title: ATX Web Series Film Q&A — Bridging the Gender Gap
+date: 2016-10-12 12:11:00 -06:00
+description: 'A special Non Breaking Space episode: Live Q&A session from the first
+  ever ATX Web Film Series presentation. ATX Web Film Series aims to provide thought-
+  and discussion-provoking films about the Web, Design, and Technology.'
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 97
+show: nbsp
+mp3: https://media.transistor.fm/dc6b2372.mp3
+video: https://www.youtube.com/embed/Ut_JjZ78xZI
+layout: episode
+---
+

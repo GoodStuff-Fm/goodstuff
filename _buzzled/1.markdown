@@ -1,0 +1,13 @@
+---
+title: The Lost Mind of Dr. Brain (Part 1)
+date: 2017-07-31 12:11:00 -06:00
+episode: 1
+video: https://www.youtube.com/embed/l8XhfaPTVbs
+description: Kyle and Kenny Roderick play Sierra's The Lost Mind of Dr. Brain, a educational
+  puzzle game made in 1994 while drinking a beer and attempting to solve puzzles.
+show: buzzled
+image: "/uploads/buzzled-1.png"
+layout: video
+---
+
+Play along at [Classic Reload](https://classicreload.com/the-lost-mind-of-dr-brain.html)

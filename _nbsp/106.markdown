@@ -1,0 +1,76 @@
+---
+title: Dudley Storey — Using SVG
+date: 2017-02-13 12:11:00 -06:00
+position: 1
+description: Dudley Storey is a Smashing Magazine contributing editor, teacher and
+  speaker, his new book  _Using SVG with CSS3 and HTML5_ is scheduled to be released
+  later this Spring.
+sponsor: |-
+  * **[SVG Summit](http://SVGsummit.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=svgsummit2017)** — A full-day, virtual UX design conference on SVG that you can attend online on February 15th. Free recordings with registration at [SVG Summit](http://svgsummit.com/?utm_source=nbsptv107&utm_medium=podcast&utm_campaign=svgsummit2017). Use discount code `NONBREAKINGSPACESHOW` for 20% off.
+  *  **[CSS Dev Conf](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)** — Conference dedicated to CSS and its super friend technologies like JavaScript, Sass, NPM, and more. A limited supply of Early Bird Tickets go on sale soon. [Register now!](http://CSSDevConf.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=cssdevconf2017)
+  * **[UX Design Newsletter](http://uxdesignnewsletter.com/?utm_source=nbsptv108&utm_medium=podcast&utm_campaign=uxdesignnewsletter)** — A weekly free newsletter containing a collection of tutorials, articles, and videos about frontend design and development, plus tips on how to bring better engagement to the multi-device world curated by Christopher Schmitt.
+  * **[Feed.Press](http://feed.press/nbsp)** — Hosting and feed support provided by Feed.Press. [Sign-up today](http://feed.press/nbsp) and try FeedPress on a 14-day trial (no contracts or commitments). Use promo code `NBSP` during checkout to get 10% off your first year.
+episode: 106
+show: nbsp
+mp3: https://media.transistor.fm/9d897e7d.mp3
+video: https://www.youtube.com/embed/ich3uW6u3FI
+image: "/uploads/nbsptv-dudley-storey.jpg"
+layout: episode
+---
+
+* [Dudley’s Blog](http://thenewcode.com)
+* [@DudleyStorey on Twitter](https://twitter.com/dudleystorey)
+* [Using SVG with CSS3 and HTML5](http://shop.oreilly.com/product/0636920037972.do)
+* [Amelia](https://twitter.com/AmeliasBrain)
+* [Dudley’s New Media Production and Design Course](http://www.sait.ca/programs-and-courses/full-time-studies/diplomas/new-media-production-and-design)
+* [Books written by Christopher Schmitt](https://www.amazon.com/Christopher-Schmitt/e/B001ITRNMU)
+* [The SVG Summit](http://www.thesvgsummit.com/)
+* [What is SVG 2?](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_2_support_in_Mozilla)
+* [SVG Support in WordPress](https://wordpress.org/plugins/svg-support/)
+* [Sarah Drasner SVG Animations](http://sarahdrasnerdesign.com)
+* [Rachel Andrew CSS Grid](https://rachelandrew.co.uk/presentations/css-grid)
+* [Perch CMS](https://grabaperch.com)
+* [Jeremy Keith](https://adactio.com)
+* [Tantek](http://tantek.com)
+* [Flickr](https://www.flickr.com)
+* [Adobe Illustrator](http://www.adobe.com/ca/products/illustrator.html)
+* [SVG O](https://github.com/svg/svgo)
+* [GreenSock](https://greensock.com)
+
+
+### Jump to a conversation on...
+
+* **[3:05](#t=3:05)** The program that Dudley currently teaches about media
+* **[5:15](#t=5:15)** Learning about CD-ROMs in college.
+* **[6:35](#t=6:35)** HTML tables vs CSS layout in the old days
+* **[7:15](#t=7:15)** Dudley's beef with hacker schools or code schools
+* **[9:05](#t=9:05)** It's like you're looking through the wrong end of the telescope
+* **[10:15](#t=10:15)** The host would like to see a certification course of semantic HTML and why
+* **[12:03](#t=12:03)** Dudley is still working for Smashing Magazine and is now also a technical editor.
+* **[13:55](#t=13:55)** What's it like to be an editor for Smashing magazine?
+* **[15:10](#t=15:10)** You can put whatever you want on your blog.
+* **[16:03](#t=16:03)** Blogging versus magazine submission versus tweeting; when to use each
+* **[18:55](#t=18:55)** All of Christopher's photos are on Flicker, but Flicker is becoming outdated. What to do next with the content.
+* **[20:01](#t=20:01)** Dudley built thenewcode.com as an accurate, consistent database on CSS Scripts and functions that is not out there yet.
+* **[21:50](#t=21:50)** Eventually Facebook will go away. People will lose a big portion of their lives when it goes away
+* **[24:30](#t=24:30)** When content is no longer accurate, Dudley goes back his website to update the data and an example of it
+* **[25:42](#t=25:42)** Technology going through growing pains.
+* **[27:50](#t=27:50)** Twitter for example has a lot of big community problems because sites simply want a lot of users then react to the problems after
+* **[29:59](#t=29:59)** Twitter has a social engineering problem.
+* **[31:02](#t=31:02)** A little bit about the book "Using SVG with CSS3 and HTML5"
+* **[32:50](#t=32:50)** Description of SVG2 and how it relates to SVG
+* **[33:30](#t=33:30)** Strokes in SVG and SVG2
+* **[34:30](#t=34:30)** SVG is not an image format but is a document format
+* **[35:55](#t=35:55)** Plugins for everything.
+* **[36:45](#t=36:45)** How is book writing for the web and what is the process of it
+* **[39:10](#t=39:10)** The lightbulb moment when someone gets it.
+* **[40:01](#t=40:01)** The joys of helping people who understand things because of your book or teaching
+* **[41:21](#t=41:2)** Which portions Dudley is writing in the book, including SVG tools, CSS and SVG properties, SVG and interactive activities
+* **[42:40](#t=42:40)** SVG Export issues and challenges.
+* **[46:00](#t=46:00)** Discussion on the IE issue with width and height
+* **[47:00](#t=47:00)** A lot of the SVG presentation attributes are moved to CSS properties
+* **[49:11](#t=49:11)** Are standards current in modern browsers?
+* **[50:09](#t=50:09)** SVG animations and Green Sock animation library as well as native animation
+* **[51:20](#t=51:20)** What type of simple CSS animations could you do before you grab Green Sock?
+* **[52:30](#t=52:30)** SVG and data visualization
+* **[54:40](#t=54:40)** Preview of the book available right now

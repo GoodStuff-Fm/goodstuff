@@ -1,0 +1,32 @@
+---
+title: Jason Grigsby
+date: 2012-08-24 12:11:00 -06:00
+position: 16
+description: Jason is a Mobile Web Strategist. He’s the co-Founder of CloudFour where
+  they live, breathe, and dream the mobile web and Mobile Portland, a non-profit organization
+  dedicated to educating, promoting and supporting the mobile technology community.
+  Jason is also the Co-Author of *Head First Mobile Web*.
+sponsor: 
+sponsor-link: 
+sponsor-copy: ''
+episode: 16
+show: nbsp
+mp3: https://media.transistor.fm/4cc62174.mp3
+layout: episode
+---
+
+* [Jason Grigsby on Twitter](https://twitter.com/grigs/)
+* [Andy Baio](http://waxy.org/)
+* [Cloud Four](http://cloudfour.com/)
+* [Macworld 2007- Steve Jobs introduces iPhone - Part 1 - YouTube](http://www.youtube.com/watch?v=Svo45oepsI0)
+* [A Comprehensive Guide to Mobile Statistics Cloud Four Blog](http://blog.cloudfour.com/a-comprehensive-guide-to-mobile-statistics/)
+* [Scott Jehl](http://scottjehl.com/)
+* [CSS Media Query for Mobile is Fool’s Gold Cloud Four Blog](http://blog.cloudfour.com/css-media-query-for-mobile-is-fools-gold/)
+* [scottjehl/picturefill](https://github.com/scottjehl/picturefill/)
+* [The Need for a Responsive Web Image Format](http://christopherschmitt.com/2012/04/04/the-need-for-a-responsive-web-image-format/)
+* [Secure enterprise mobility made simple](http://www.sencha.com/products/space/)
+* [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
+* [Adaptive Images in HTML](http://adaptive-images.com/)
+* [filamentgroup/Southstreet](https://github.com/filamentgroup/southstreet)
+* [Beyond the Desktop Conference](http://bdconf.com/)
+* [User First Web](http://userfirstweb.com/)

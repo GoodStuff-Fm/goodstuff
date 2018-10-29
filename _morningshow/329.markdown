@@ -1,0 +1,44 @@
+---
+title: Garbage Wallbanger
+date: 2016-11-08 22:06:00 -06:00
+position: 98
+description: In 2001, a Dachshund named Saucisse was a mayoral candidate. He won 4%
+  of votes. Eight years later, in 2009, he participated the third season of Secret
+  Story, the French version of Big Brother. He entered the house on Day 36. His secret
+  is that he was a candidate at the election of Marseille Mayor. To protect his secret,
+  he entered the house with the nickname “Secret”.
+mp3: https://media.transistor.fm/da2a5ac5.mp3
+episode: 329
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+show: morningshow
+layout: episode
+---
+
+* [Kenny on Periscope: "Google Home unboxing."](https://www.periscope.tv/pizzarobotics/1BdxYdgYXoAJX?t=3)
+* ![Sticker](https://cl.ly/3H322G0l0r3X/Screen%20Recording%202016-11-04%20at%2011.18%20AM.gif)
+* [KUDOS® Product Locator](http://storefinder.mmmars.com/kudos/kudos.htm)
+* [Gmail’s iOS app gets a familiar new look, improved search and undo send - TechCrunch](https://techcrunch.com/2016/11/07/gmail-ios/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Tesla will stop offering unlimited free Supercharging for new cars ordered after January 1, 2017 - VentureBeat - Business - by Harrison Weber](http://venturebeat.com/2016/11/07/tesla-will-stop-offering-free-supercharging-for-new-cars-ordered-after-january-1-2017/)
+* [Google brings Android Auto to the phone - TechCrunch](https://techcrunch.com/2016/11/07/google-brings-android-auto-to-the-phone/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Techmeme: Sources: Twitter is currently vetting multiple term sheets from firms offering to buy Vine; one source says some offers are lower than $10M (Josh Constine/TechCrunch)](http://www.techmeme.com/161107/p15#a161107p15)
+* [Soylent blames algal flour for consumer complaints - The Verge](http://www.theverge.com/2016/11/7/13551080/soylent-algal-flour-meal-replacement-powder-bar-recall)
+* [The voice of AOL’s iconic ‘you’ve got mail’ has a side gig driving Ubers - The Verge](http://www.theverge.com/2016/11/7/13552622/youve-got-mail-uber-elwood-edwards)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

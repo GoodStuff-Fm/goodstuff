@@ -1,0 +1,51 @@
+---
+title: Super Twin Otter
+date: 2016-03-07 08:26:00 -06:00
+tags:
+- cereal
+- jumprope
+- lottery
+- space
+position: 50
+episode: '281'
+description: Brothers win weird lottery amount, There's no crying in space, I'll take
+  some cereal with ice cubes please, Secret cheese and how it got there, A jump rope
+  that counts for you, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/d72b2370.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [First known Mac ransomware reaches the wild](http://www.engadget.com/2016/03/06/first-known-mac-ransomware/)
+* [Ray Tomlinson, the man who put the @ in email, passes away aged 74 - TechCrunch](http://techcrunch.com/2016/03/06/rip-ray-tomlinson/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+* [Man Wins $291 Million in Florida Lottery; Brother Wins $7 - KTLA](http://ktla.com/2016/03/05/florida-lottery-brothers-291-million-7/)
+* [National Cereal Day - March 7, 2016 - Home](http://www.nationalcerealday.com/)
+* [Nothing To Do With Arbroath: Tonnes of cheese dumped by side of road were probably put there to fatten up wild pigs](http://arbroath.blogspot.com/2016/03/tonnes-of-cheese-dumped-by-side-of-road.html)
+* [Musician Performs an Incredible Solo on a Bass Guitar Without Any Strings](http://laughingsquid.com/musician-performs-an-incredible-solo-on-a-bass-guitar-without-any-strings/)
+* [0 STRINGS BASS SOLO - YouTube](https://www.youtube.com/watch?v=ulxoIly3jt4)
+* [Juice Bruce, A Good Looking Wooden Citrus Juicer](http://laughingsquid.com/juice-bruce-a-good-looking-wooden-citrus-juicer/)
+* [A Smart Jump Rope That Displays a Jump Count in Mid-Air Using LEDs on the Swinging Rope](http://laughingsquid.com/a-smart-jump-rope-that-displays-a-jump-count-in-mid-air-using-leds-on-the-swinging-rope/)
+* [This 520 Million-Year-Old Fossil Is So Intricate You Can See Individual Nerves](http://gizmodo.com/this-520-million-year-old-fossil-is-so-intricate-you-ca-1762035793)
+* [WhatsApp to end support for BlackBerry, Nokia Symbian, and Windows Phone 7.1 - Android Community](http://androidcommunity.com/whatsapp-to-end-support-for-blackberry-nokia-symbian-and-windows-phone-7-1-20160228/)
+* [Why Microsoft is asking people to make 3D scans of their faces in Seattle this weekend - GeekWire](http://www.geekwire.com/2016/why-microsoft-is-scanning-faces-in-seattle-this-weekend/)
+* [Nissan pulls the Leaf's phone app after security vulnerabilities come to light - The Verge](http://www.theverge.com/2016/2/25/11116724/nissan-nissanconnect-app-hack-offline)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

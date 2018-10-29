@@ -1,0 +1,25 @@
+---
+title: Chips and Dip
+date: 2018-03-23 08:00:00 -06:00
+position: 7
+show: todaysspecial
+description: What's that perfect chip to dip ratio? What even is a dip? Is chowder
+  a dip? We answer the HARD questions.
+episode: 13
+anchor: https://anchor.fm/todaysspecial/embed/episodes/Chips-and-Dip-e17g88/a-a2pkim
+layout: episode
+---
+
+
+
+## Support Us
+*Want to support the show?* Visit our [Support page](https://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+## About
+Today's Special is produced by Kenny and Kyle Roderick. Listen to other great shows on [Goodstuff.FM](http://goodstuff.fm/shows)!

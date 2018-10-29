@@ -1,0 +1,46 @@
+---
+title: Small Talk with Kenny
+date: 2016-08-15 22:58:00 -06:00
+tags:
+- Google
+- Olympics
+- 2 Stupid Games
+- rollercoaster
+position: 81
+episode: '312'
+description: Kyle and Kenny try a knock knock joke, How fat are babies really?, We
+  run as fast as Usain Bolt, Whip it! Whip it LONG, Roller Coasters on VR try to kill
+  us, Disney wants your shoes, 2 Stupid Games, and more.
+show: morningshow
+layout: episode
+mp3: https://media.transistor.fm/b7523a50.mp3
+sponsor: Feed.Press
+sponsor-link: http://feed.press/morningshow
+sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and try
+  FeedPress on a 14 day trial (no contracts or commitments). Use promo code `morningshow`
+  during checkout to get 10% off your first year
+---
+
+* [Google is discontinuing Google+ Hangouts On Air on September 12, pushes users to YouTube Live - VentureBeat - Media - by Emil Protalinski](http://venturebeat.com/2016/08/15/google-is-discontinuing-google-hangouts-on-air-on-september-12-pushes-users-to-youtube-live/)
+* [Google launches video calling app Duo for Android and iOS - VentureBeat - Mobile - by Emil Protalinski](http://venturebeat.com/2016/08/15/google-launches-video-calling-app-duo-for-android-and-ios/)
+* [Rollercoaster Dreams Announced For PlayStation VR - Digital Trends](http://www.digitaltrends.com/gaming/rollercoaster-dreams-playstation-vr/)
+* [Disney patent wants to stealthily track park visitors by their shoes](http://thenextweb.com/insider/2016/07/29/foot-fetish/)
+* [August First Smart Lock Supporting Amazon Alexa - August](http://august.com/2016/07/28/alexa/)
+* [Watch This Eerie Japanese Robot Breathe Just Like a Human](https://www.entrepreneur.com/article/280250)
+* [Can You Guess The Olympic Sport From A Really Bad Nickname](https://www.buzzfeed.com/savannahmicaela/can-you-identify-the-olympic-sport-by-its-really-b-1z4r6?utm_term=.ygJW0LVvW#.drwpqnJ3p)
+* [Can You Guess Which Of These Actors' Movies Have The Highest Rating](https://www.buzzfeed.com/sagehaley/do-you-know-which-of-these-actors-movies-have-the-1upre?utm_term=.os36eBMY6#.knynQDAYn)
+
+## Support Us
+*Want to support the show?* Visit [Patreon](http://patreon.com/morningshow) or our [Support page](http://goodstuff.fm/support) to help make this show possible!
+
+## Get in Touch
+* [Email](mailto:kyle@goodstuff.fm)
+* [Kyle on Twitter](http://twitter.com/dogburps)
+* [Kenny on Twitter](http://twitter.com/pizzarobotics)
+* [Morning Show on Twitter](http://twitter.com/morningshowam)
+* [Goodstuff.FM on Twitter](http://twitter.com/goodstufffm)
+
+Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/shows)!
+
+### About Morning Show
+Morning Show is produced by Kenny and Kyle Roderick. Listen to other great shows on the [Goodstuff Broadcasting Network](http://goodstuff.fm/)!

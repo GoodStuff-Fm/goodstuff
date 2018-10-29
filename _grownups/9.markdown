@@ -1,0 +1,22 @@
+---
+title: You’ve Just Got to Stop Thinking
+date: 2014-12-01 02:07:00 -06:00
+episode: 9
+mp3: https://media.transistor.fm/aca8db52.mp3
+description: Kari talks with Adam Clark about the trouble with answering the question
+  “What do you do?” and tying your identity to your work; worrying about not having
+  value to add to the world; not having all the answers; fear of looking like a fool;
+  and the importance of just showing up.
+layout: episode
+show: grownups
+---
+
+* [Adam: What Does It Mean To Do Meaningful Work?][1]
+
+* [The Matrix (1999) - IMDb][2]
+
+* [Adam Clark][3]
+
+[1]: http://avclark.com/what-does-it-mean-to-do-meaningful-work/
+[2]: http://www.imdb.com/title/tt0133093/
+[3]: http://avclark.com/dont-be-the-guy-in-the-pool-with-a-shirt-on/

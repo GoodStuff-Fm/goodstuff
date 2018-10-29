@@ -1,0 +1,19 @@
+---
+title: Rachel Ober — Crafting Valuable Conferences
+date: 2015-12-07 12:11:00 -06:00
+description: Rachel Ober is a developer who specializes in Front End and Ruby on Rails.
+  She’s also the co-founder of Write/Speak/Code, whose mission is to empower women
+  software developers to become thought leaders, conference speakers, and open source
+  contributors.
+sponsor: Feed.Press
+sponsor-link: http://feed.press/nbsp
+sponsor-copy: Hosting and feed support provided by Feed.Press.  Sign-up today and
+  try FeedPress on a 14 day trial (no contracts or commitments). Use promo code *nbsp*
+  during checkout to get 10% off your first year.
+episode: 59
+show: nbsp
+mp3: https://media.transistor.fm/2dcaaeda.mp3
+video: https://www.youtube.com/embed/ziCOfcHur10
+layout: episode
+---
+

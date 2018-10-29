@@ -1,0 +1,8 @@
+---
+title: Feed
+position: 0
+show: todaysspecial
+layout: 
+---
+
+{% include feed.html %}
