@@ -26,3 +26,5 @@ fields:
   template: sponsor
   label: Sponsor
   name: sponsor
+pages:
+- _smym/118-tbd.md
