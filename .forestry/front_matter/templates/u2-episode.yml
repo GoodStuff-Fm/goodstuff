@@ -27,4 +27,5 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _atu2/the-sorry-not-sorry-tour.md
 - _atu2/episode-88.md
