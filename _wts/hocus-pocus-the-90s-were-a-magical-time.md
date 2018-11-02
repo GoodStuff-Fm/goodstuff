@@ -19,4 +19,4 @@ If you like us or if you want more, please [support us on Patreon](https://www.
 
 Want to tell us your thoughts about Hocus Pocus? Or about any of the movies we’ve talked about on WTS? We’d love to hear from you! You can send us a message [over Twitter](http://www.twitter.com/wtscast), or by email at waytooseriouslycast at gmail.com, or [in our subreddit](https://www.reddit.com/r/Goodstuff_fm/)or [on Facebook](http://www.facebook.com/wtscast), or [on instagram](https://www.instagram.com/waytooseriously/).
 
-Want to know what’s coming up at WTS? We’ve got [a schedule](https://docs.google.com/document/d/1f6fvTgbzQOCUD_potL6mWClmSC3D2cOBgKz36OwSC68)planned for the next few episodes so you can always be prepared! 
+Want to know what’s coming up at WTS? We’ve got [a schedule](https://docs.google.com/document/d/1f6fvTgbzQOCUD_potL6mWClmSC3D2cOBgKz36OwSC68) planned for the next few episodes so you can always be prepared! 
