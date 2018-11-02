@@ -12,8 +12,7 @@ description: In this episode of WTS, we're talking about Halloween favourite Hoc
   Pocus! That's right, it's a Halloween episode only a few days late! We talk about
   virginity, witches and virgin witches.
 mp3: https://media.transistor.fm/c954dd56.mp3
-image: ''
-published: false
+image: "/uploads/wts-72.jpg"
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a weekly extra WTS episode about a kid's book!
