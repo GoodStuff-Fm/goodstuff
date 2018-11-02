@@ -12,7 +12,6 @@ description: Jill, Matt, and Chris talk about U2's changes to their E+I setlist 
   Europe.
 mp3: https://media.transistor.fm/8b04eb46.mp3
 image: "/uploads/atu2-89.jpg"
-published: false
 
 ---
 ### Want to Watch the Live Show?
