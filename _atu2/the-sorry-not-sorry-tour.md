@@ -11,7 +11,7 @@ episode: 89
 description: Jill, Matt, and Chris talk about U2's changes to their E+I setlist for
   Europe.
 mp3: https://media.transistor.fm/8b04eb46.mp3
-image: ''
+image: "/uploads/atu2-89.jpg"
 published: false
 
 ---
@@ -21,7 +21,7 @@ published: false
 
 ### Show Notes
 
-* Watch a video version of this episode
+* [Watch a video version of this episode](https://www.youtube.com/watch?v=yvTRUFWLDBw)
 * [@iChris](https://twitter.com/ichris)
 * [@MattMcgee](https://twitter.com/mattmcgee)
 * [@BeautifulDay36](https://twitter.com/beautifulday36)
