@@ -10,7 +10,7 @@ date: 2018-11-02 07:30:28 -0700
 episode: 89
 description: Jill, Matt, and Chris talk about U2's changes to their E+I setlist for
   Europe.
-mp3: ''
+mp3: https://media.transistor.fm/8b04eb46.mp3
 image: ''
 published: false
 
