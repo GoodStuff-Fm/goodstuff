@@ -25,3 +25,5 @@ fields:
   template: sponsor
   label: Sponsor
   name: sponsor
+pages:
+- _clockworks/bonus-episode-deadpool-2.md
