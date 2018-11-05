@@ -21,6 +21,7 @@ image: "/uploads/atu2-89.jpg"
 ### Show Notes
 
 * [Watch a video version of this episode](https://www.youtube.com/watch?v=yvTRUFWLDBw)
+* [Dirty Day rehearsal recording](https://soundcloud.com/jahorro/dirty-day-belfast-2-soundcheck/s-kEwpo)
 * [@iChris](https://twitter.com/ichris)
 * [@MattMcgee](https://twitter.com/mattmcgee)
 * [@BeautifulDay36](https://twitter.com/beautifulday36)
