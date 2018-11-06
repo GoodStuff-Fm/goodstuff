@@ -16,3 +16,12 @@ image: ''
 published: false
 
 ---
+📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=uNQRaYmzvj4)
+
+* 
+* [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
+* If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
+
+Need podcast advice, editing, or consulting? Chris can help! [lemonproductions.ca/hire](https://lemonproductions.ca/hire)
+
+Kyle's got a show all about beer you should check out... [http://podcast.untappd.com](http://podcast.untappd.com "http://podcast.untappd.com")
