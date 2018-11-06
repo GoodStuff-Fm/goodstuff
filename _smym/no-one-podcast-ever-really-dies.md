@@ -16,9 +16,22 @@ image: ''
 published: false
 
 ---
-📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=uNQRaYmzvj4)
+📺 Watch a video version of this episode on our YouTube channel
 
-* 
+* [Dissect Podcast](https://dissectpodcast.com)
+* [Jason Snell at sixcolors](https://sixcolors.com)
+* [Upgrade](https://www.relay.fm/upgrade) on [Relay.fm](http://relay.fm/)
+* [Wooshka](https://www.whooshkaa.com) podcast hosting
+* [Blue Yeti + pop filter](https://www.bhphotovideo.com/c/product/1103930-REG/blue_836213002070_yeti_usb_microphone_black.html/BI/19457/KBID/11631/kw/BLPQ3CUSBMC/DFF/d10-v2-t1-xBLPQ3CUSBMC)
+* [https://www.instagram.com/steverpenny/](https://www.instagram.com/steverpenny/ "https://www.instagram.com/steverpenny/")
+* [https://twitter.com/otherzpodcast](https://twitter.com/otherzpodcast "https://twitter.com/otherzpodcast")
+* [https://www.instagram.com/otherzpodcast/](https://www.instagram.com/otherzpodcast/ "https://www.instagram.com/otherzpodcast/")
+* [Audio Hijack](https://rogueamoeba.com/audiohijack/)
+* [https://www.instagram.com/kingofcreamz/](https://www.instagram.com/kingofcreamz/ "https://www.instagram.com/kingofcreamz/")
+* [Episode #14 of The Otherz Podcast](http://theotherz.net/otherz-podcast/2018/7/9/interview-with-shae-haley-ruisrock-turku-finland)
+* [http://superhelsinki.com](http://superhelsinki.com "http://superhelsinki.com")
+* [http://theotherz.net](http://theotherz.net "http://theotherz.net")
+
 * [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
 * If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
 
