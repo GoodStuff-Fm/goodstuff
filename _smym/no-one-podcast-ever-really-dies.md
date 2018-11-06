@@ -11,8 +11,8 @@ episode: 120
 description: We've got a conversation with Stephen Penny, host of The Otherz podcast.
   We talk about music/fan podcasts and the opportunities they present, using advertising
   to promote your show, and of course the gear and software Stephen uses to record.
-mp3: ''
-image: ''
+mp3: https://media.transistor.fm/2938a030.mp3
+image: "/uploads/smym-120.jpg"
 published: false
 
 ---
