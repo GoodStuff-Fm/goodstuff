@@ -16,7 +16,7 @@ image: "/uploads/smym-120.jpg"
 published: false
 
 ---
-📺 Watch a video version of this episode on our YouTube channel
+📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/channel/UCJKnVjGmtx3J6cV3UVt3TcQ)
 
 * [Dissect Podcast](https://dissectpodcast.com)
 * [Jason Snell at sixcolors](https://sixcolors.com)
@@ -31,7 +31,6 @@ published: false
 * [Episode #14 of The Otherz Podcast](http://theotherz.net/otherz-podcast/2018/7/9/interview-with-shae-haley-ruisrock-turku-finland)
 * [http://superhelsinki.com](http://superhelsinki.com "http://superhelsinki.com")
 * [http://theotherz.net](http://theotherz.net "http://theotherz.net")
-
 * [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
 * If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
 
