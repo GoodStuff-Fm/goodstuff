@@ -13,7 +13,6 @@ description: We've got a conversation with Stephen Penny, host of The Otherz pod
   to promote your show, and of course the gear and software Stephen uses to record.
 mp3: https://media.transistor.fm/2938a030.mp3
 image: "/uploads/smym-120.jpg"
-published: false
 
 ---
 📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/channel/UCJKnVjGmtx3J6cV3UVt3TcQ)
