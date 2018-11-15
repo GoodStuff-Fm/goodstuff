@@ -8,7 +8,8 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   to get exclusive unedited episodes and more.
 date: 2018-11-15 13:40:56 -0800
 episode: 90
-description: ''
+description: Sherry, Chris, and Caroline are on the show to talk U2's tour stops in
+  Dublin as well as the final Experience + Innocence show in Berlin.
 mp3: ''
 image: ''
 published: false
