@@ -12,7 +12,6 @@ description: Sherry, Chris, and Caroline are on the show to talk U2's tour stops
   Dublin as well as the final Experience + Innocence show in Berlin.
 mp3: https://media.transistor.fm/2db644d0.mp3
 image: "/uploads/atu2-90.jpg"
-published: false
 
 ---
 ### Want to Watch the Live Show?
