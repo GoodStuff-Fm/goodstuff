@@ -23,6 +23,8 @@ published: false
 ### Show Notes
 
 * Watch a video version of this episode (Sorry. Video didn't make it this time.)
+* [The Berlin performance of 13](https://www.youtube.com/watch?v=gZFwvpBX9yE)
+* [Angela's tweets on Dublin video](https://twitter.com/apancella/status/1062546788513693696)
 * [@iChris](https://twitter.com/ichris)
 * [BigWave on Twitter](https://twitter.com/_Bigwave_)
 * [Sherry on Twitter](https://twitter.com/atu2comsherry)
