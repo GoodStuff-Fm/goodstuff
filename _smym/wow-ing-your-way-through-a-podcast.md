@@ -16,7 +16,22 @@ image: ''
 published: false
 
 ---
-📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/channel/UCJKnVjGmtx3J6cV3UVt3TcQ)
+📺 [Watch a video version of this episode on our YouTube channel](#)
+
+* [Frazlcast.com](http://frazlcast.com)
+* [@frazlcast](https://twitter.com/frazlcast)
+* [MyPodcastreviews](https://mypodcastreviews.com)
+* [Podcharts](https://podcharts.co)
+* [Chartable](https://chartable.com)
+* [The Screen Savers](https://en.wikipedia.org/wiki/The_Screen_Savers)
+* [Weekly Awesome](https://weeklyawesome.com)
+* [Convert To Raid](https://www.converttoraid.com)
+* [Squadcast](https://squadcast.fm)
+* [School of Podcasting](http://schoolofpodcasting.com)
+* [Unstructured](https://unstructured.podbean.com)
+* [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly)
+
+
 
 * [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
 * If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
