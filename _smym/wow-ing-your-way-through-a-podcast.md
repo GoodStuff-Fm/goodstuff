@@ -12,7 +12,7 @@ description: Jonathan Bloom is on the show to talk about his World of Warcraft p
   Frazlcast. We talk about why he started a WoW podcast, the gear he's using, and
   he also patiently explains WoW to Chris.
 mp3: https://media.transistor.fm/3646e0c2.mp3
-image: ''
+image: "/uploads/smym-121.jpg"
 published: false
 
 ---
