@@ -27,5 +27,6 @@ fields:
   label: Sponsor
   name: sponsor
 pages:
+- _smym/wow-ing-your-way-through-a-podcast.md
 - _smym/no-one-podcast-ever-really-dies.md
 - _smym/118-tbd.md
