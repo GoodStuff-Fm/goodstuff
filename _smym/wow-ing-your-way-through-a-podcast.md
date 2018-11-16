@@ -30,6 +30,19 @@ published: false
 * [School of Podcasting](http://schoolofpodcasting.com)
 * [Unstructured](https://unstructured.podbean.com)
 * [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly)
+* [Helicon Gaming](https://www.helicongaming.com)
+* [Voicemeeter](https://www.vb-audio.com/Voicemeeter/index.htm)
+* [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
+* [Logic Pro](https://www.apple.com/ca/logic-pro/)
+* [Adobe Audition](https://www.adobe.com/products/audition.html)
+* [Izotope](https://www.izotope.com)
+* [Auphonic](https://auphonic.com)
+* [Forecast by Marco Arment](https://overcast.fm/forecast)
+* [Chapters for macOS](https://chaptersapp.com)
+* [Relay That](https://relaythat.com/)
+* [Libsyn](https://www.libsyn.com)
+
+### Join a Podcasting Community
 
 * [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
 * If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
