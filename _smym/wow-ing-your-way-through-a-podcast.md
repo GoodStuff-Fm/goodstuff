@@ -31,8 +31,6 @@ published: false
 * [Unstructured](https://unstructured.podbean.com)
 * [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly)
 
-
-
 * [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
 * If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
 
