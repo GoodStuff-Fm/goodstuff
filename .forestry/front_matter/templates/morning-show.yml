@@ -27,4 +27,5 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _morningshow/402.md
 - _morningshow/401.md
