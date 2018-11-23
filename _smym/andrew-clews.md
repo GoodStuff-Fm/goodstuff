@@ -16,7 +16,7 @@ image: "/uploads/smym-122-1.jpg"
 published: false
 
 ---
-📺 [Watch a video version of this episode on our YouTube channel](#)
+📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=PH-Tq-vBJfA)
 
 * [The Motoring Podcast](https://www.motoringpodcast.com/)
 * [@Clew_less](https://twitter.com/Clew_less)
