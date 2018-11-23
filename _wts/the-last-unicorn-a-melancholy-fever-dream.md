@@ -12,7 +12,7 @@ description: On this episode of WTS we're talking about The Last Unicorn. We tal
   about emotional depth in art for children, stories with a conscience, and whether
   women's eyes are for seeing or for being seen in.
 mp3: ''
-image: ''
+image: "/uploads/wts-75.jpg"
 published: false
 
 ---
