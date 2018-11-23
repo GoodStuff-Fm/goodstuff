@@ -8,7 +8,9 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   to get exclusive unedited episodes and more.
 date: 2018-11-23 12:01:42 -0800
 episode: 122
-description: ''
+description: Andrew Clews hosts The Motoring Podcast and Rear View, podcasts all about
+  the motoring industry. We chat about the gear he uses to record, how he edits, publishes,
+  and markets his podcast, Patreon, and building a community for podcasters.
 mp3: ''
 image: ''
 published: false
