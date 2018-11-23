@@ -12,7 +12,7 @@ description: Andrew Clews hosts The Motoring Podcast and Rear View, podcasts all
   the motoring industry. We chat about the gear he uses to record, how he edits, publishes,
   and markets his podcast, Patreon, and building a community for podcasters.
 mp3: ''
-image: ''
+image: "/uploads/smym-122-1.jpg"
 published: false
 
 ---
