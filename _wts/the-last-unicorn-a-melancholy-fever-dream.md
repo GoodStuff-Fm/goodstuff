@@ -13,7 +13,6 @@ description: On this episode of WTS we're talking about The Last Unicorn. We tal
   women's eyes are for seeing or for being seen in.
 mp3: https://media.transistor.fm/e1cec613.mp3
 image: "/uploads/wts-75.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a weekly extra WTS episode about a kid's book!
