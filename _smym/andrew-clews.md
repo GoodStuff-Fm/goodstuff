@@ -11,9 +11,8 @@ episode: 122
 description: Andrew Clews hosts The Motoring Podcast and Rear View, podcasts all about
   the motoring industry. We chat about the gear he uses to record, how he edits, publishes,
   and markets his podcast, Patreon, and building a community for podcasters.
-mp3: ''
+mp3: https://media.transistor.fm/de69ee0f.mp3
 image: "/uploads/smym-122-1.jpg"
-published: false
 
 ---
 📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=PH-Tq-vBJfA)
@@ -22,14 +21,21 @@ published: false
 * [@Clew_less](https://twitter.com/Clew_less)
 * [@CrackedW_Screen](https://twitter.com/CrackedW_Screen)
 * [Support The Motoring Podcast on Patreon](https://www.patreon.com/bePatron?u=91306)
+* [Support Goodstuff on Patreon](https://www.patreon.com/goodstuff)
 * [Squarespace](https://www.squarespace.com/)
 * [Ray Ortega on Twitter](https://twitter.com/podcasthelper)
 * [Daniel J Lewis on Twitter](https://twitter.com/theDanielJLewis)
 * [@PodcastingDeals](https://twitter.com/PodcastingDeals)
-* [Izotope](https://www.izotope.com)
 * [PodTrac](https://www.podtrac.com/)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
+### Gear List
+
+* Blue Yeti [Amazon.ca](https://amzn.to/2TC1cdQ) / [Amazon.com](https://amzn.to/2qZpIIU)
+* Logitech C920 Webcam [Amazon.ca](https://amzn.to/2Qew9Go) / [Amazon.com](https://amzn.to/2TF2kO0)
+* [Hindenburg Journalist](https://hindenburg.com/products/hindenburg-journalist)
+* [Ecamm Call Recorder](https://www.ecamm.com/mac/callrecorder/)
+* [Izotope RX Series](https://www.izotope.com/en/products/repair-and-edit/rx.html)
 
 ### Join a Podcasting Community
 
