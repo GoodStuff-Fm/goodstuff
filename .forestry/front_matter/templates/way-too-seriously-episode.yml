@@ -27,10 +27,10 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
-- _wts/ralph-breaks-the-internet-this-time-it-s-personal-growth.md
-- _wts/the-last-unicorn-a-melancholy-fever-dream.md
 - _wts/tangled-for-when-you-re-not-as-mean-and-vicious-as-you-seem.md
 - _wts/73.md
 - _wts/hocus-pocus-the-90s-were-a-magical-time.md
-- _wts/spider-man-homecoming-the-washington-monument-is-not-a-metaphor.md
 - _wts/wreck-it-ralph-the-medal-was-not-a-metaphor.md
+- _wts/spider-man-homecoming-the-washington-monument-is-not-a-metaphor.md
+- _wts/ralph-breaks-the-internet-this-time-it-s-personal-growth.md
+- _wts/the-last-unicorn-a-melancholy-fever-dream.md
