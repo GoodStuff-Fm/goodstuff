@@ -18,6 +18,7 @@ published: false
 
 ---
 📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=D6hwqOfZ-k0)
+* [Listen to the aftershow on the Goodstuff Patreon](https://www.patreon.com/posts/smym-123-extra-23193444)
 
 * [Daverupert.com](https://daverupert.com/)
 * [Davatron5000 on Twitch](https://www.twitch.tv/davatron5000)
