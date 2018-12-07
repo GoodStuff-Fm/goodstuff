@@ -2,7 +2,7 @@
 show: ''
 layout: ''
 permalink: 123
-title: Dave Rupert Can Podcasting Go Windows?
+title: Dave Rupert - Can Podcasting Go Windows?
 date: 2018-12-06 22:00:00 -0800
 episode: 123
 description: ''
