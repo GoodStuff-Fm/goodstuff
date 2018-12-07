@@ -17,7 +17,7 @@ sponsor: Gumroad helps people do more of what they love. It's super simple e-com
 published: false
 
 ---
-📺 [Watch a video version of this episode on our YouTube channel](#)
+📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=D6hwqOfZ-k0)
 
 * [Daverupert.com](https://daverupert.com/)
 * [Davatron5000 on Twitch](https://www.twitch.tv/davatron5000)
