@@ -26,10 +26,10 @@ sponsor: Gumroad helps people do more of what they love. It's super simple e-com
 * [OBS](https://obsproject.com/)
 * [SLOBS](https://streamlabs.com/)
 * [ShoTalk Show Guest Notes](https://shoptalkshow.com/guest-notes/)
-* [https://asidequest.simplecast.fm](https://asidequest.simplecast.fm/)
-* [https://www.twitch.tv/noopkat](https://www.twitch.tv/noopkat)
-* [https://www.tiktok.com](https://www.tiktok.com/)
-* [http://vm.tiktok.com/J57aaL/](http://vm.tiktok.com/J57aaL/)
+* [Aside Quest](https://asidequest.simplecast.fm/)
+* [Noopkat](https://www.twitch.tv/noopkat)
+* [TikTok](https://www.tiktok.com/)
+* [Follow Chris on TikTok](http://vm.tiktok.com/J57aaL/)
 * [Windows Voice Recorders](https://www.microsoft.com/en-ca/p/windows-voice-recorder/9wzdncrfhwkn?activetab=pivot:overviewtab)
 * [Adobe Audition](https://www.adobe.com/products/audition.html)
 * [Audacity](https://www.audacityteam.org/)
@@ -45,9 +45,9 @@ sponsor: Gumroad helps people do more of what they love. It's super simple e-com
 ### Join a Podcasting Community
 
 * [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
-* If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
+* If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/)
 * [Support Goodstuff on Patreon with a dollar or two a month](https://www.patreon.com/goodstuff).
 
 Need podcast advice, editing, or consulting? Chris can help! [lemonproductions.ca/hire](https://lemonproductions.ca/hire)
 
-Kyle's got a show all about beer you should check out... [http://podcast.untappd.com](http://podcast.untappd.com "http://podcast.untappd.com")
+Kyle's got a show all about beer you should check out... [http://podcast.untappd.com](http://podcast.untappd.com)
