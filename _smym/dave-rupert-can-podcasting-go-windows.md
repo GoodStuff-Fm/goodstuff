@@ -7,7 +7,7 @@ date: 2018-12-06 22:00:00 -0800
 episode: 123
 description: Dave Rupert stop by the show to talk about ShopTalk Show, Aside Quest,
   and figuring out the format for your podcast and sticking to it.
-mp3: ''
+mp3: https://media.transistor.fm/3254cda8.mp3
 image: "/uploads/smym-123.jpg"
 sponsor: Gumroad helps people do more of what they love. It's super simple e-commerce
   for all types of digital content creators, including podcasters, musicians, writers,
