@@ -5,7 +5,8 @@ permalink: "/smym/123"
 title: Can Podcasting Go Windows? - Dave Rupert
 date: 2018-12-06 22:00:00 -0800
 episode: 123
-description: ''
+description: Dave Rupert stop by the show to talk about ShopTalk Show, Aside Quest,
+  and figuring out the format for your podcast and sticking to it.
 mp3: ''
 image: ''
 sponsor: Gumroad helps people do more of what they love. It's super simple e-commerce
@@ -17,8 +18,6 @@ published: false
 
 ---
 📺 [Watch a video version of this episode on our YouTube channel](#)
-
-
 
 * [Daverupert.com](https://daverupert.com/)
 * [Davatron5000 on Twitch](https://www.twitch.tv/davatron5000)
