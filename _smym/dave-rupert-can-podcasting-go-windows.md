@@ -1,8 +1,8 @@
 ---
 show: ''
 layout: ''
-permalink: 123
-title: Dave Rupert - Can Podcasting Go Windows?
+permalink: "/smym/123"
+title: Can Podcasting Go Windows? - Dave Rupert
 date: 2018-12-06 22:00:00 -0800
 episode: 123
 description: ''
