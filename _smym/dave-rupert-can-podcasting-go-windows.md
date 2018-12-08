@@ -1,6 +1,6 @@
 ---
-show: ''
-layout: ''
+show: smym
+layout: episode
 permalink: "/smym/123"
 title: Can Podcasting Go Windows? - Dave Rupert
 date: 2018-12-07 12:00:00 -0800
