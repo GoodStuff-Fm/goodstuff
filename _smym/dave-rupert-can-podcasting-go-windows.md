@@ -1,6 +1,6 @@
 ---
-show: ''
-layout: ''
+show: 'smym'
+layout: 'episode'
 permalink: "/smym/123"
 title: Can Podcasting Go Windows? - Dave Rupert
 date: 2018-12-07 12:00:00 -0800
@@ -9,7 +9,7 @@ description: Dave Rupert stop by the show to talk about ShopTalk Show, Aside Que
   and figuring out the format for your podcast and sticking to it.
 mp3: https://media.transistor.fm/3254cda8.mp3
 image: "/uploads/smym-123.jpg"
-sponsor: ">     Gumroad helps people do more of what they love. It's super simple
+sponsor: "Gumroad helps people do more of what they love. It's super simple
   e-commerce for all types of digital content creators, including podcasters, musicians,
   writers, teachers, and more! Over $168,000,000 has been earned by creators using
   the platform, used to pay for everything from coffee to a kid's college fund. Visit
