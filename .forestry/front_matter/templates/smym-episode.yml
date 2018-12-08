@@ -6,13 +6,17 @@ fields:
 - type: text
   name: show
   label: Show
-  hidden: true
+  hidden: false
   default: smym
+  config:
+    required: true
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
   default: episode
+  config:
+    required: true
 - type: text
   name: permalink
   label: Path
