@@ -11,7 +11,7 @@ mp3: https://media.transistor.fm/820c31b8.mp3
 image: ''
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
-  to get exclusive unedited episodes and more.
+  to get exclusive unedited episodes, after the show recordings, and more.
 published: false
 
 ---
