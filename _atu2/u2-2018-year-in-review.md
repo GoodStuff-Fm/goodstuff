@@ -18,6 +18,7 @@ published: false
 ### Want to Watch the Live Show?
 
 * 💙 [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
+* Want the extra bits after the show is done? [Join us on our Patreon campaign](https://www.patreon.com/posts/23319065)!
 
 ### Show Notes
 
