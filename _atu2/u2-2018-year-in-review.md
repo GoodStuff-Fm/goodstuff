@@ -5,7 +5,8 @@ permalink: "/atu2/91"
 title: U2 2018 Year in Review
 date: 2018-12-12 22:00:00 -0800
 episode: 91
-description: ''
+description: 'Matt and Chris run down the top events from 2018 as far as U2 is concerned:
+  from Tulsa to Berlin and (almost) everything in between.'
 mp3: ''
 image: ''
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
@@ -21,12 +22,10 @@ published: false
 
 ### Show Notes
 
-* Watch a video version of this episode (Sorry. Video didn't make it this time.)
-* [The Berlin performance of 13](https://www.youtube.com/watch?v=gZFwvpBX9yE)
-* [Angela's tweets on Dublin video](https://twitter.com/apancella/status/1062546788513693696)
+* Watch a video version of this episode.
+
 * [@iChris](https://twitter.com/ichris)
-* [BigWave on Twitter](https://twitter.com/_Bigwave_)
-* [Sherry on Twitter](https://twitter.com/atu2comsherry)
+* [@MattMcGee](https://twitter.com/mattmcgee)
 * [Twitter atU2](https://twitter.com/atu2)
 * [Facebook atU2com](https://www.facebook.com/atu2com)
 * [Instagram atU2com](https://www.instagram.com/atu2com/)
