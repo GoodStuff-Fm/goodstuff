@@ -7,7 +7,7 @@ date: 2018-12-12 22:00:00 -0800
 episode: 91
 description: 'Matt and Chris run down the top events from 2018 as far as U2 is concerned:
   from Tulsa to Berlin and (almost) everything in between.'
-mp3: ''
+mp3: https://media.transistor.fm/820c31b8.mp3
 image: ''
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
