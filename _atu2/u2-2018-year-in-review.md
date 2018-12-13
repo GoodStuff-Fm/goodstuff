@@ -22,7 +22,7 @@ published: false
 
 ### Show Notes
 
-* Watch a video version of this episode.
+* [Watch a video version of this episode](https://www.youtube.com/watch?v=Yi08eUUp4mY).
 * [U2 announces EU tour dates](https://www.atu2.com/news/u2-announces-european-experience--innocence-tour-dates.html)
 * [New video for GOOYOW](https://www.atu2.com/news/u2-release-new-video-for-get-out-of-your-own-way.html)
 * [U2 appears/performs during GRAMMYS](https://www.atu2.com/news/u2-at-the-grammys-re-cap.html)
