@@ -1,6 +1,6 @@
 ---
-show: ''
-layout: ''
+show: atu2
+layout: episode
 permalink: "/atu2/91"
 title: U2 2018 Year in Review
 date: 2018-12-12 22:00:00 -0800
