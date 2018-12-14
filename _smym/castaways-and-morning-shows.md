@@ -10,16 +10,24 @@ date: 2018-12-14 13:12:30 -0800
 episode: 124
 description: Kyle and Chris talk about when and why to stop a podcast, ignoring the
   advice of internet weirdos, and creating a podcast community for everyone else.
-mp3: ''
+mp3: https://media.transistor.fm/4aeaae98.mp3
 image: ''
 published: false
 
 ---
 📺 [Watch a video version of this episode on our YouTube channel](#)
-* [Listen to the aftershow on the Goodstuff Patreon](#)
 
-
-* [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
+- [Untappd Podcast](https://podcast.untappd.com)
+- [Morning Show podcast]([https://goodstuff.fm/morningshow/](https://goodstuff.fm/morningshow/))
+- [Frogpants Morning Stream]([https://www.frogpants.com/tms](https://www.frogpants.com/tms))
+- [The Frequency 5by5]([http://5by5.tv/frequency](http://5by5.tv/frequency))
+- [Symbolicons]([https://symbolicons.com](https://symbolicons.com/))
+- [Patreon]([https://www.patreon.com/goodstuff](https://www.patreon.com/goodstuff))
+- [Memberful]([https://memberful.com](https://memberful.com/))
+- [3D for Designers]([https://www.3dfordesigners.com](https://www.3dfordesigners.com/))
+- [Dribbble]([https://dribbble.com](https://dribbble.com/))
+- [Listen to the aftershow on the Goodstuff Patreon](#)
+- [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
 ### Join a Podcasting Community
 
