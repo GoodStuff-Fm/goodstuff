@@ -12,7 +12,6 @@ description: Kyle and Chris talk about when and why to stop a podcast, ignoring 
   advice of internet weirdos, and creating a podcast community for everyone else.
 mp3: https://media.transistor.fm/4aeaae98.mp3
 image: "/uploads/smym-124.jpg"
-published: false
 
 ---
 📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=eRkOiiIlSyA)
