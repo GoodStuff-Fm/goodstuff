@@ -15,7 +15,7 @@ image: "/uploads/smym-124.jpg"
 published: false
 
 ---
-📺 [Watch a video version of this episode on our YouTube channel](#)
+📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=eRkOiiIlSyA)
 
 * [Untappd Podcast](https://podcast.untappd.com)
 * [Morning Show podcast](\[https://goodstuff.fm/morningshow/\](https://goodstuff.fm/morningshow/))
