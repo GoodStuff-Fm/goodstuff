@@ -18,7 +18,7 @@ sponsor: Gumroad helps people do more of what they love. It's super simple e-com
 published: false
 
 ---
-![](/uploads/smym-125.jpg)📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=wGHl9xYA51Q)
+📺 [Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=wGHl9xYA51Q)
 
 * [Unboxing and review video of Elgato's Green Screen](https://www.youtube.com/watch?v=zIcYjAbU90s)
 * [Blog post on Elgato Video review](https://www.lemonproductions.ca/unboxing-setting-up-reviewing-elgatos-green-screen/)
