@@ -33,7 +33,7 @@ published: false
 * [Grumpy Old Geeks](http://grumpyoldgeeks.com)
 * [Chompers on Gimlet Media](https://www.gimletmedia.com/chompers)
 
-* [Listen to the aftershow on the Goodstuff Patreon](#)
+* [Listen to the aftershow on the Goodstuff Patreon](https://www.patreon.com/goodstuff)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
 ### Join a Podcasting Community
