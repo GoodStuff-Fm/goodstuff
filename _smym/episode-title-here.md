@@ -32,7 +32,6 @@ published: false
 * [13 Predictions for Podcasting in 2019](https://blog.pacific-content.com/13-predictions-for-podcasting-in-2019-d52e7ed536ed)
 * [Grumpy Old Geeks](http://grumpyoldgeeks.com)
 * [Chompers on Gimlet Media](https://www.gimletmedia.com/chompers)
-
 * [Listen to the aftershow on the Goodstuff Patreon](https://www.patreon.com/goodstuff)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
