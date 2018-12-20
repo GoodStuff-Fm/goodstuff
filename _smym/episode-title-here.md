@@ -23,6 +23,7 @@ published: false
 * [Anchor’s Sponsorship Platform](https://medium.com/anchor/introducing-anchor-sponsorships-the-podcast-advertising-platform-for-everyone-512870baa32b)
 * [NPR: Remote Audio Data Is Here](https://www.npr.org/sections/npr-extra/2018/12/11/675250553/remote-audio-data-is-here)
 * [Accidental Tech Podcast #305](http://atp.fm/episodes/305)
+* [Check out Chris’ brother-in-law’s store on Gumroad](https://gumroad.com/lostwaxoz)
 * [Learn about worms on Gumroad](https://gumroad.com/discover?query=can of worms)
 * [13 Predictions for Podcasting in 2019](https://blog.pacific-content.com/13-predictions-for-podcasting-in-2019-d52e7ed536ed)
 * [Grumpy Old Geeks](http://grumpyoldgeeks.com)
