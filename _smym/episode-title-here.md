@@ -17,8 +17,16 @@ published: false
 📺 [Watch a video version of this episode on our YouTube channel](#)
 
 * [Unboxing and review video of Elgato's Green Screen](https://www.youtube.com/watch?v=zIcYjAbU90s)
-* 
-
+* [Blog post on Elgato Video review](https://www.lemonproductions.ca/unboxing-setting-up-reviewing-elgatos-green-screen/)
+* [Remove BG](https://www.remove.bg "Remove BG")
+* [Today’s Special on Goodstuff](https://goodstuff.fm/todaysspecial/)
+* [Anchor’s Sponsorship Platform](https://medium.com/anchor/introducing-anchor-sponsorships-the-podcast-advertising-platform-for-everyone-512870baa32b)
+* [NPR: Remote Audio Data Is Here](https://www.npr.org/sections/npr-extra/2018/12/11/675250553/remote-audio-data-is-here)
+* [Accidental Tech Podcast #305](http://atp.fm/episodes/305)
+* [Learn about worms on Gumroad](https://gumroad.com/discover?query=can of worms)
+* [13 Predictions for Podcasting in 2019](https://blog.pacific-content.com/13-predictions-for-podcasting-in-2019-d52e7ed536ed)
+* [Grumpy Old Geeks](http://grumpyoldgeeks.com)
+* [Chompers on Gimlet Media](https://www.gimletmedia.com/chompers)
 
 * [Listen to the aftershow on the Goodstuff Patreon](#)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
