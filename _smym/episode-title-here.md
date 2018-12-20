@@ -8,9 +8,11 @@ episode: 125
 description: ''
 mp3: ''
 image: ''
-sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
-  on Patreon") and listeners just like you! Support your favorite podcasts directly
-  to get exclusive unedited episodes and more.
+sponsor: Gumroad helps people do more of what they love. It's super simple e-commerce
+  for all types of digital content creators, including podcasters, musicians, writers,
+  teachers, and more! Over $168,000,000 has been earned by creators using the platform,
+  used to pay for everything from coffee to a kid's college fund. [Visit Gumroad today
+  to check out how easy it is to get started](https://gumroad.com/invite/showmeyourmic).
 published: false
 
 ---
