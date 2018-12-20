@@ -16,6 +16,8 @@ published: false
 ---
 📺 [Watch a video version of this episode on our YouTube channel](#)
 
+* [Unboxing and review video of Elgato's Green Screen](https://www.youtube.com/watch?v=zIcYjAbU90s)
+* 
 
 
 * [Listen to the aftershow on the Goodstuff Patreon](#)
