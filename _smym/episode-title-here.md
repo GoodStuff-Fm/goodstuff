@@ -8,7 +8,7 @@ episode: 125
 description: We're chatting Chris' new Green Screen, Kyle's debate between starting
   a new podcast or reviving an old one, and talking through Pacific Content's predictions
   for podcast in 2019.
-mp3: ''
+mp3: https://media.transistor.fm/1de8d451.mp3
 image: "/uploads/smym-125.jpg"
 sponsor: Gumroad helps people do more of what they love. It's super simple e-commerce
   for all types of digital content creators, including podcasters, musicians, writers,
