@@ -2,10 +2,12 @@
 show: smym
 layout: episode
 permalink: "/smym/125"
-title: Episode Title Here
+title: Green Screens, Anchor, and Podcasting Predictions for 2019
 date: 2018-12-20 22:00:00 -0800
 episode: 125
-description: ''
+description: We're chatting Chris' new Green Screen, Kyle's debate between starting
+  a new podcast or reviving an old one, and talking through Pacific Content's predictions
+  for podcast in 2019.
 mp3: ''
 image: ''
 sponsor: Gumroad helps people do more of what they love. It's super simple e-commerce
