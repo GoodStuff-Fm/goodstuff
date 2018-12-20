@@ -9,7 +9,7 @@ description: We're chatting Chris' new Green Screen, Kyle's debate between start
   a new podcast or reviving an old one, and talking through Pacific Content's predictions
   for podcast in 2019.
 mp3: ''
-image: ''
+image: "/uploads/smym-125.jpg"
 sponsor: Gumroad helps people do more of what they love. It's super simple e-commerce
   for all types of digital content creators, including podcasters, musicians, writers,
   teachers, and more! Over $168,000,000 has been earned by creators using the platform,
@@ -18,7 +18,7 @@ sponsor: Gumroad helps people do more of what they love. It's super simple e-com
 published: false
 
 ---
-📺 [Watch a video version of this episode on our YouTube channel](#)
+![](/uploads/smym-125.jpg)📺 [Watch a video version of this episode on our YouTube channel](#)
 
 * [Unboxing and review video of Elgato's Green Screen](https://www.youtube.com/watch?v=zIcYjAbU90s)
 * [Blog post on Elgato Video review](https://www.lemonproductions.ca/unboxing-setting-up-reviewing-elgatos-green-screen/)
