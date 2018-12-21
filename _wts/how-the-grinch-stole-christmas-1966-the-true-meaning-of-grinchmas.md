@@ -1,6 +1,6 @@
 ---
-show: ''
-layout: ''
+show: wts
+layout: episode
 permalink: "/wts/79"
 title: 'How The Grinch Stole Christmas (1966): The True Meaning of Grinchmas'
 date: 2018-12-20 22:00:00 -0800
