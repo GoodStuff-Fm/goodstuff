@@ -11,8 +11,7 @@ episode: 80
 description: In this episode we talk about mediocre parenting, emotion and reason,
   and retroactively sanitizing the past.
 mp3: https://media.transistor.fm/a93dbf19.mp3
-image: ''
-published: false
+image: "/uploads/wts-80.jpg"
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a weekly extra WTS episode about a kid's book!
