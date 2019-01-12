@@ -13,7 +13,7 @@ episode: 126
 description: Chris marvels at improved stream quality, Kyle updates us on Today's
   Special, and we talk about reading wikipedia articles as episodes, the state of
   Goodstuff shows in 2019, and an update on Castaways Club.
-mp3: ''
+mp3: https://media.transistor.fm/fbaede6b.mp3
 image: ''
 published: false
 
