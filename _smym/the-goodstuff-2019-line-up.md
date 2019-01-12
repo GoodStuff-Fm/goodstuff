@@ -15,7 +15,6 @@ description: Chris marvels at improved stream quality, Kyle updates us on Today'
   Goodstuff shows in 2019, and an update on Castaways Club.
 mp3: https://media.transistor.fm/fbaede6b.mp3
 image: ''
-published: false
 
 ---
 [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=zIUZkMciImc)
