@@ -322,7 +322,6 @@ body {
 }
 
 .our-shows {
-  padding-bottom: 80pt;
   display: table;
   table-layout: fixed;
 
@@ -332,18 +331,25 @@ body {
 
   &__list {
     padding-top: 20pt;
+    width: auto;
+    columns: 4 150px;
+    break-inside: avoid;
+    text-align: center;
     vertical-align: top;
-    width: 14.9%;
-    padding-right: 12pt;
-    display: inline-block;
   }
 
-  &__artwork img {
-      width: 100%;
-      height: auto;
+  &__artwork {
+    padding-bottom: 40pt;
+
+    img {
       padding-bottom: 10pt;
-      border-radius: 2pt;
+        width: 100%;
+        height: auto;
+    }
+
   }
+
+
 
 }
 

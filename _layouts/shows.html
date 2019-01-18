@@ -36,7 +36,7 @@
                 </li>
             </ul>
 
-            <hr class="page__rule"> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true or collection.output == false or collection.hidden == true %} {% assign show = site.data.shows[collection.label]
+            <hr class="page__rule"> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.retired == true or collection.output == false or collection.hidden == true or collection.inactive == true %} {% assign show = site.data.shows[collection.label]
             %}
 
             <ul class="shows__list">
@@ -71,6 +71,31 @@
             <hr class="page__rule"> {% endunless %} {% endfor %}
 
         </div>
+
+        <!-- List of Inactive Shows -->
+        <div class="shows">
+
+            <h2 class="page__subheader">Inactive shows</h2> {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false %} {% assign show = site.data.shows[collection.label] %} {% if collection.inactive
+            == true %}
+
+            <ul class="shows__list">
+                <li class="shows__list__artwork">
+                    <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
+                </li>
+                <li class="shows__list__name">
+                    <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
+                <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+                <li class="shows__list__description">{{ show.description }}</li>
+                <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
+                <li class="shows__list__link">
+                    <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
+                    <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
+                    <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
+                </li>
+                </li>
+            </ul>
+
+            <hr class="page__rule"> {% endif %} {% endunless %} {% endfor %}
 
         <!-- List of Retired Shows -->
         <div class="shows">
