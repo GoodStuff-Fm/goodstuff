@@ -12,7 +12,6 @@ description: On this episode of WTS we're talking about Christopher Robin. We ta
   about people of colour in the past, childhood, and difficult choices.
 mp3: https://media.transistor.fm/320a0d44.mp3
 image: ''
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a weekly extra WTS episode about a kid's book! We're only fifteen dollars away!
