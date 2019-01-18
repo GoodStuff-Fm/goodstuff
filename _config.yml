@@ -8,6 +8,7 @@ collections:
     permalink: "/3g3q/:path"
     slug: 3g3q
     retired: false
+    inactive: true
     live: false
   buzzled:
     title: Buzzled
@@ -17,7 +18,7 @@ collections:
     retired: true
     live: false
   clockworks:
-    title: Clockworks - A Legion Podcast
+    title: Clockworks
     output: true
     permalink: "/clockworks/:path"
     retired: false
@@ -29,6 +30,7 @@ collections:
     description: Just as it says on the tin this is a daily(ish) podcast from Chris
       Enns.
     retired: false
+    inactive: true
     live: false
   specials:
     title: Goodstuff Specials
@@ -51,13 +53,14 @@ collections:
     output: true
     permalink: "/grownups/:path"
     retired: false
+    inactive: true
     live: false
   icebreaker:
     title: Icebreaker
     output: true
     permalink: "/icebreaker/:path"
     slug: icebreaker
-    retired: false
+    retired: true
     live: false
   ll:
     title: Lost & Lemon
@@ -69,7 +72,7 @@ collections:
     title: Morning Show
     output: true
     permalink: "/morningshow/:path"
-    retired: false
+    retired: true
     live: false
   neverdigdown:
     title: Never Dig Down
@@ -83,6 +86,7 @@ collections:
     permalink: "/nbsp/:path"
     live: false
     retired: false
+    inactive: true
   people:
     title: People
     output: true
@@ -107,6 +111,7 @@ collections:
     output: true
     permalink: "/todaysspecial/:path"
     retired: false
+    inactive: true
     live: false
   uploads:
     title: Uploads
