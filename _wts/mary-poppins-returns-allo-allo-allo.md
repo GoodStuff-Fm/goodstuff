@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: 'Mary Poppins Returns: ''Allo ''Allo ''Allo!'
-date: 2019-01-24 22:00:00 -0800
+date: 2019-01-25 10:00:00 -0800
 episode: 83
 description: On this episode of WTS we're talking about Mary Poppins Returns. We touch
   on racist stereotypes, economic irresponsibility, and whether Mary Poppins is actually
