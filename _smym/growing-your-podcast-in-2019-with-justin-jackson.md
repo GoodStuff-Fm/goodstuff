@@ -13,8 +13,8 @@ episode: 127
 description: Justin Jackson stops by to talk about Chris' new podcasters community,
   Castaways.Club, as well as the outlook for podcasting in 2019 from a marketing and
   product owner's standpoint.
-mp3: ''
-image: ''
+mp3: https://media.transistor.fm/3387daad.mp3
+image: "/uploads/smym-127.jpg"
 published: false
 
 ---
