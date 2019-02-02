@@ -15,7 +15,6 @@ description: Justin Jackson stops by to talk about Chris' new podcasters communi
   product owner's standpoint.
 mp3: https://media.transistor.fm/3387daad.mp3
 image: "/uploads/smym-127.jpg"
-published: false
 
 ---
 * [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=DeoyVwPHpkI)
