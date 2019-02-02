@@ -38,6 +38,23 @@ published: false
 
 ### Timejumps
 
+* **[01:46](#t=01:46)** Is it a cold or are you stoned?
+* **[02:35](#t=02:35)** Which streaming service to use?
+* **[05:40](#t=05:40)** A tipping point for success and community
+* **[12:12](#t=12:12)** Being in the right place, ready to level up
+* **[17:49](#t=17:49)** Free podcast idea for U2 fans
+* **[21:01](#t=21:01)** Justin's coffee shop test
+* **[25:59](#t=25:59)** Sponsor: Gumroad
+* **[27:53](#t=27:53)** How do you get more listeners?
+* **[34:14](#t=34:14)** Do we all just like the same shows?
+* **[38:41](#t=38:41)** Are podcasts still new or have we entered the next generation?
+* **[40:54](#t=40:54)** Is there tons of opportunity in podcasting?
+* **[44:12](#t=44:12)** Do kids dream of podcasting for a living?
+* **[46:22](#t=46:22)** Tweet at me @iChris if you're listening and check chapter markers!
+* **[49:23](#t=49:23)** Even Oliva Colman worries about her next gig
+* **[55:06](#t=55:06)** Does content matter or personality matter more?
+* **[57:16](#t=57:16)** Getting a badge for publishing your 100th episode
+* **[02:27](#t=02:27)** Why Castaways.Club is important
 
 ### Join a Podcasting Community
 
