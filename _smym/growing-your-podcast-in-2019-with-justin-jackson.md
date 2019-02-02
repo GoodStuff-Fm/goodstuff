@@ -18,7 +18,8 @@ image: ''
 published: false
 
 ---
-[📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=zIUZkMciImc)
+* [📺 Watch a video version of this episode on our YouTube channel](#)
+* [Watch us record the show live on Twitch](https://www.twitch.tv/goodstuff_fm)
 
 * [Sleep With Me](https://www.sleepwithmepodcast.com)
 * [Peter McKinnon Youtube](https://www.youtube.com/user/petermckinnon24)
@@ -40,7 +41,7 @@ published: false
 
 ### Join a Podcasting Community
 
-* [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
+* Interested in Joining a Community of Podcasters - [Sign up for the mailing list](https://mailchi.mp/ad73a5bdfab5/podcasting) or [join the community on Patreon](https://www.patreon.com/castawaysclub)
 * If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
 * [Support Goodstuff on Patreon with a dollar or two a month](https://www.patreon.com/goodstuff).
 
