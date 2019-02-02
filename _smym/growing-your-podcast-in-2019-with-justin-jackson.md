@@ -18,3 +18,26 @@ image: ''
 published: false
 
 ---
+[📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=zIUZkMciImc)
+
+* [@ClubCastaways](https://twitter.com/clubcastaways)
+* [Castaways.Club](https://castaways.club)
+* [Today’s Special script screenshot](https://d.pr/i/beixeC)
+* [Amazon Turk](https://www.mturk.com)
+* [Waypoint Vice Podcast](https://waypoint.vice.com/en_us/topic/podcasts)
+* [The Short Game podcast](https://www.theshortgame.net)
+* [Bug The Shortgame folks on Twitter](https://twitter.com/_shortgame)
+* [Listen to the aftershow on the Goodstuff Patreon](https://www.patreon.com/goodstuff)
+* [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
+
+### Timejumps
+
+### Join a Podcasting Community
+
+* [Interested in Joining a Community of Podcasters?](https://mailchi.mp/ad73a5bdfab5/podcasting)
+* If you'd like to be interviewed on the show, [https://goodstuff.fm/smym/ask/](https://goodstuff.fm/smym/ask/ "https://goodstuff.fm/smym/ask/")
+* [Support Goodstuff on Patreon with a dollar or two a month](https://www.patreon.com/goodstuff).
+
+Need podcast advice, editing, or consulting? Chris can help! [lemonproductions.ca/hire](https://lemonproductions.ca/hire)
+
+Kyle's got a show all about beer you should check out... [http://podcast.untappd.com](http://podcast.untappd.com "http://podcast.untappd.com")
