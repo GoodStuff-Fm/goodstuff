@@ -20,17 +20,23 @@ published: false
 ---
 [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=zIUZkMciImc)
 
-* [@ClubCastaways](https://twitter.com/clubcastaways)
-* [Castaways.Club](https://castaways.club)
-* [Today’s Special script screenshot](https://d.pr/i/beixeC)
-* [Amazon Turk](https://www.mturk.com)
-* [Waypoint Vice Podcast](https://waypoint.vice.com/en_us/topic/podcasts)
-* [The Short Game podcast](https://www.theshortgame.net)
-* [Bug The Shortgame folks on Twitter](https://twitter.com/_shortgame)
-* [Listen to the aftershow on the Goodstuff Patreon](https://www.patreon.com/goodstuff)
+* [Sleep With Me](https://www.sleepwithmepodcast.com)
+* [Peter McKinnon Youtube](https://www.youtube.com/user/petermckinnon24)
+* [Public Podcast Stats](https://transistor.fm/public-podcast-stats/)
+* [Relay.fm](https://www.relay.fm)
+* [SuperComputer.fm](http://supercomputer.fm)
+* [The Accidental Tech Podcast](http://atp.fm)
+* [DoByFriday.com](http://dobyfriday.com)
+* [EarWolf](http://www.earwolf.com)
+* [Heavyweight](https://www.gimletmedia.com/heavyweight/)
+* [Beyond the Game Nintendo podcast](https://beyondthemetagame.transistor.fm)
+* [David Tennant Does a Podcast With...](https://play.acast.com/s/davidtennant)
+* [Build Your SaaS podcast](https://saas.transistor.fm)
+* [MegaMaker](https://megamaker.co)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
 ### Timejumps
+
 
 ### Join a Podcasting Community
 
