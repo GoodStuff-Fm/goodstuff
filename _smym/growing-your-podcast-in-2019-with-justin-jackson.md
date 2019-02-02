@@ -18,7 +18,7 @@ image: "/uploads/smym-127.jpg"
 published: false
 
 ---
-* [📺 Watch a video version of this episode on our YouTube channel](#)
+* [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=DeoyVwPHpkI)
 * [👾 Watch us record the show live on Twitch](https://www.twitch.tv/goodstuff_fm)
 
 * [Sleep With Me](https://www.sleepwithmepodcast.com)
