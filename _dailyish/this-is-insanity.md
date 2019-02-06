@@ -11,7 +11,6 @@ episode: 259
 description: Important update today.
 mp3: https://media.transistor.fm/2331e78a.mp3
 image: "/uploads/Screen Shot on 2019-02-06 at 09-35-09.png"
-published: false
 
 ---
 [Relevant to today's update](https://d.pr/i/MTIu7Q).
