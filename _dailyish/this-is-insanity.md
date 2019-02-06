@@ -14,4 +14,4 @@ image: "/uploads/Screen Shot on 2019-02-06 at 09-35-09.png"
 published: false
 
 ---
-\[Relevant to today's update\](https://d.pr/i/MTIu7Q)
+[Relevant to today's update](https://d.pr/i/MTIu7Q).
