@@ -10,7 +10,7 @@ date: 2019-02-07 22:00:00 -0800
 episode: 128
 description: We're talking Spotify of course, along with Gimlet and Anchor. Kyle and
   Chris have their lukewarm takes along with other Thursday thoughts on podcasting.
-mp3: ''
+mp3: https://media.transistor.fm/f709da4d.mp3
 image: ''
 published: false
 
@@ -18,7 +18,12 @@ published: false
 * [📺 Watch a video version of this episode on our YouTube channel](#)
 * [👾 Watch us record the show live on Twitch](https://www.twitch.tv/goodstuff_fm)
 
-
+* [Follow Kyle on Instagram](https://www.instagram.com/kyleroderick/)
+* [Angel List thoughts on Spotify purchase](https://sg-mktg.com/MTU0OTU2NTk5MXxYbENBNmFuWHNRNWtHaUQ3cEc1clpzaTBVdkNRSXg0WWlXWmJDNDR4Rnp1dGJPTG4ybmphemZOVWs5dlhiUTlkQ0laQ24yNFg5Rlo3b1VXU2FDd3NuSno5VnJRcUtESG56dFpIblBuN21lWXlmMF9kMGhYRkUxYk5aaTM5VFhQSWlibndPYkJxWERFdkxLMnpHMmpzSXNlQnhIRlJlNnVEb0tobjE4aDBpbjgzM0pENldXcTF4SmpNX2tCNVJQaEpGMTZVaUhxMGNCVTc5cGJNSFNjOEZMTUNhNjhHaFktdjQwVkw5OW5wUzA5bEZ2NGt5TGtRSmozOFQ1Yjl1WHFpS09vU3zPFa83E-VJi75WWVOwxvSTC1V68301IIPjfK-73ud73Q==)
+* [3 Lessons for Podcasters from Someone Who Lived Through YouTube Buyout](https://medium.com/@shessomickey/3-lessons-for-podcasters-from-someone-who-lived-through-youtubes-buyout-1beacbcfbcb)
+* [Himalaya Raises 100 Million](https://ca.news.yahoo.com/podcast-platform-himalaya-raises-100-173314180.html)
+* [Himalaya](https://www.himalaya.com)
+* [Breaker’s Upstream platform](https://www.breaker.audio/i/upstream)
 
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
