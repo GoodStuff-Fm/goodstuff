@@ -11,11 +11,11 @@ episode: 128
 description: We're talking Spotify of course, along with Gimlet and Anchor. Kyle and
   Chris have their lukewarm takes along with other Thursday thoughts on podcasting.
 mp3: https://media.transistor.fm/f709da4d.mp3
-image: ''
+image: "/uploads/smym-128.jpg"
 published: false
 
 ---
-* [📺 Watch a video version of this episode on our YouTube channel](#)
+* [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=380EPnxMVKU)
 * [👾 Watch us record the show live on Twitch](https://www.twitch.tv/goodstuff_fm)
 
 * [Follow Kyle on Instagram](https://www.instagram.com/kyleroderick/)
