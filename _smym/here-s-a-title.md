@@ -12,7 +12,6 @@ description: We're talking Spotify of course, along with Gimlet and Anchor. Kyle
   Chris have their lukewarm takes along with other Thursday thoughts on podcasting.
 mp3: https://media.transistor.fm/f709da4d.mp3
 image: "/uploads/smym-128.jpg"
-published: false
 
 ---
 * [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=380EPnxMVKU)
