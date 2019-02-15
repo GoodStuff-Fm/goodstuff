@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: Hockey Isn't a Movie. Is it?
-date: 2019-02-15 00:00:00 -0800
+date: 2019-02-22 00:00:00 -0800
 episode: 87
 description: On this WTS we are stepping away from our bread and butter and talking
   about a hockey game instead of a movie. We cover toxic masculinity, ritualized aggression,
