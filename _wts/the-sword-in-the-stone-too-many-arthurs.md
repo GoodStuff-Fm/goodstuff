@@ -13,7 +13,6 @@ description: We're talking about The Sword in the Stone on this episode of WTS. 
   on behalf of the wolves.
 mp3: https://media.transistor.fm/956ecc05.mp3
 image: ''
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a WTS episodes about children's books! We're only fifteen dollars away!
