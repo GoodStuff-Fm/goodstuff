@@ -1,13 +1,13 @@
 ---
 show: clockworks
 layout: episode
-permalink: "/clockworks/18"
+permalink: "/clockworks/48"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: Legion News
 date: 2019-02-18 02:00:00 -0800
-episode: 18
+episode: 48
 description: On this brief Clockworks episode we check in with some news about season
   three of Legion.
 mp3: https://media.transistor.fm/202b3715.mp3
