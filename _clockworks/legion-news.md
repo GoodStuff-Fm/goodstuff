@@ -11,7 +11,7 @@ episode: 18
 description: On this brief Clockworks episode we check in with some news about season
   three of Legion.
 mp3: https://media.transistor.fm/202b3715.mp3
-image: ''
+image: "/uploads/artwork-clockworks.jpg"
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!  
