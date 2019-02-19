@@ -13,12 +13,11 @@ description: A quick episode in your ear and out your brain with 3 things I want
   you can join me on a journey to try something new.
 mp3: https://media.transistor.fm/7db0664f.mp3
 image: "/uploads/smym-129-1.jpg"
-published: false
 
 ---
 📺 No video this time!
 
-* [@ShowMeYourMic on Twitter](https://twitter.com/showmeyourmic)![](/uploads/smym-129.jpg)
+* [@ShowMeYourMic on Twitter](https://twitter.com/showmeyourmic)
 * [Follow our Twitch channel](https://www.twitch.tv/gsfm)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
