@@ -10,6 +10,14 @@ collections:
     retired: false
     inactive: true
     live: false
+  baseline:
+    title: baseline
+    output: true
+    permalink: "/baseline/:path"
+    slug: baseline
+    retired: false
+    inactive: false
+    live: false
   buzzled:
     title: Buzzled
     output: true
