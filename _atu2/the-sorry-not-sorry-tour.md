@@ -16,7 +16,7 @@ image: "/uploads/atu2-89.jpg"
 ---
 ### Want to Watch the Live Show?
 
-* 💙 [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
+* 💙 [Follow us on our Twitch channel](https://www.twitch.tv/gsfm)
 
 ### Show Notes
 

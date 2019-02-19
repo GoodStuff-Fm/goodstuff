@@ -18,7 +18,7 @@ image: "/uploads/smym-127.jpg"
 
 ---
 * [📺 Watch a video version of this episode on our YouTube channel](https://www.youtube.com/watch?v=DeoyVwPHpkI)
-* [👾 Watch us record the show live on Twitch](https://www.twitch.tv/goodstuff_fm)
+* [👾 Watch us record the show live on Twitch](https://www.twitch.tv/gsfm)
 
 * [Sleep With Me](https://www.sleepwithmepodcast.com)
 * [Peter McKinnon Youtube](https://www.youtube.com/user/petermckinnon24)
