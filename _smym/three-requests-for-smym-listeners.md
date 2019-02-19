@@ -19,6 +19,9 @@ image: "/uploads/smym-129-1.jpg"
 
 * [@ShowMeYourMic on Twitter](https://twitter.com/showmeyourmic)
 * [Follow our Twitch channel](https://www.twitch.tv/gsfm)
+
+For Castaways.Club subscribers, [follow the discussion in the forum here](https://forum.castaways.club/t/show-me-your-mic-129-three-requests-for-smym-listeners/).
+
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
 ### Timejumps
