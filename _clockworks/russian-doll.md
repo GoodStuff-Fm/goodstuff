@@ -13,12 +13,11 @@ description: On this episode of Clockworks we're talking about the first season 
   as we did, and if you haven't than we highly recommend it.
 mp3: https://media.transistor.fm/3826f764.mp3
 image: ''
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!  
   
-[**Here **](https://www.heyalma.com/netflixs-russian-doll-is-surprisingly-deeply-jewish/)is the article Paul mentions at one point about the Jewishness of Russian Doll.  
+**[Here](https://www.heyalma.com/netflixs-russian-doll-is-surprisingly-deeply-jewish/)** is the article Paul mentions at one point about the Jewishness of Russian Doll.  
   
 And [here](https://clockworksacademy.com/) is the website of Clockworks Academy, Paul's online school teaching courses about Frankenstein and Dracula on other classic monster texts.
 
