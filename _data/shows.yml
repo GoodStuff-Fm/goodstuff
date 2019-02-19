@@ -1,3 +1,25 @@
+baseline:
+  name: Baseline
+  lang: EN
+  explicit: no
+  collection: baseline
+  hosts: Andrew Huster and Kyle Roderick
+  description: A podcast about baseball by people who know nothing about baseball.
+  artwork: "/uploads/artwork-baseline.jpg"
+  show-twitter: baseline
+  hosts-twitter:
+  email:
+  keywords:
+  category1: "Sports & Recreation"
+  category2: "Comedy"
+  category3:
+  category4:
+  category5:
+  rss: https://goodstuff.fm/baseline/feed.xml
+  itunes:
+  pocketcasts:
+  overcast:
+  latest: https://share.transistor.fm/e/baseline/latest
 icebreaker:
   name: Icebreaker
   lang: EN
