@@ -12,6 +12,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _baseline
+  label: Baseline
+  create: documents
+  match: "**/*"
+- type: directory
   path: _clockworks
   label: Clockworks
   create: documents
@@ -31,36 +36,12 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _icebreaker
-  label: Icebreaker
-  create: documents
-  match: "**/*"
-  templates:
-  - icebreaker
-- type: directory
-  path: _morningshow
-  label: Morning Show
-  create: documents
-  match: "**/*"
-  templates:
-  - morning-show
-- type: directory
-  path: _nbsp
-  label: Non-Breaking Space
-  create: all
-  match: "**/*"
-- type: directory
   path: _smym
   label: Show Me Your Mic
   create: documents
   match: "**/*"
   templates:
   - smym-episode
-- type: directory
-  path: _todaysspecial
-  label: Today's Special
-  create: all
-  match: "**/*"
 - type: directory
   path: _wts
   label: Way Too Seriously
