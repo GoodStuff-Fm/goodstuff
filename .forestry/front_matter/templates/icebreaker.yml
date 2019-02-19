@@ -22,5 +22,3 @@ fields:
   template: morning-show-episode
 - type: include
   template: sponsor
-pages:
-- _icebreaker/14.md
