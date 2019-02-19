@@ -1,8 +1,8 @@
 ---
 title: Feed
 position: 0
-show: clockworks
-layout: 
+show: baseline
+layout:
 ---
 
 {% include feed.html %}
