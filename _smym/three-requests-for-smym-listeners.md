@@ -19,6 +19,7 @@ image: "/uploads/smym-129-1.jpg"
 
 * [@ShowMeYourMic on Twitter](https://twitter.com/showmeyourmic)
 * [Follow our Twitch channel](https://www.twitch.tv/gsfm)
+* Music from [MusicForMakers.com](https://musicformakers.com)
 
 For Castaways.Club subscribers, [follow the discussion in the forum here](https://forum.castaways.club/t/show-me-your-mic-129-three-requests-for-smym-listeners/).
 
@@ -26,11 +27,11 @@ For Castaways.Club subscribers, [follow the discussion in the forum here](https:
 
 ### Timejumps
 
-* **[00:51](#t=00:51)** First request: What's your podcast?
-* **[01:39](#t=01:39)** Interlude music by MusicForMakers.com
-* **[02:05](#t=02:05)** Second request: What's your podcasting question or struggle?
-* **[03:47](#t=03:47)** Third request: hold me accountable for a weekly live stream
-* **[07:34](#t=07:34)** Follow along!
+* [**00:51**](#t=00:51) First request: What's your podcast?
+* [**01:39**](#t=01:39) Interlude music by MusicForMakers.com
+* [**02:05**](#t=02:05) Second request: What's your podcasting question or struggle?
+* [**03:47**](#t=03:47) Third request: hold me accountable for a weekly live stream
+* [**07:34**](#t=07:34) Follow along!
 
 ### Join a Podcasting Community
 
