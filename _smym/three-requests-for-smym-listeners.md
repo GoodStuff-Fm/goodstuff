@@ -18,6 +18,7 @@ published: false
 ---
 📺 No video this time!
 
+* [@ShowMeYourMic on Twitter](https://twitter.com/showmeyourmic)
 * [Follow our Twitch channel](https://www.twitch.tv/gsfm)
 * [Check out Transistor for podcast hosting](https://transistor.fm/?via=chris)
 
