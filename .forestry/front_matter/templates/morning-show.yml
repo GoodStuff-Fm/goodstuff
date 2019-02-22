@@ -1,18 +1,18 @@
 ---
-label: Morning Show Episode
-hide_body: false
+label: Baseline Episode
+hide_body: true
 is_partial: false
 fields:
 - type: text
   label: Path
   name: permalink
   description: Permalink for the episode starting with https://goodstuff.fm
-  default: "/morningshow/"
+  default: "/baseline/"
 - type: text
   name: show
   label: show
   hidden: true
-  default: morningshow
+  default: baseline
 - type: text
   name: layout
   label: layout
