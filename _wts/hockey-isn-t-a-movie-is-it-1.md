@@ -13,7 +13,6 @@ description: On this WTS we are stepping away from our bread and butter and talk
   and overpaid coaches.
 mp3: https://media.transistor.fm/741b1acc.mp3
 image: ''
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)! When we meet our next Patreon goal we'll start releasing a WTS episodes about children's books! We're only fifteen dollars away!
