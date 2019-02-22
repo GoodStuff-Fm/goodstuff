@@ -4,8 +4,8 @@ date: 2019-02-21 00:00:00 -0800
 episode: 1
 description: This is the trailer for Baseline, a podcast about baseball by people
   who know nothing about baseball!
-show: morningshow
-image: 
+show: baseline
+image: ''
 layout: episode
 mp3: https://media.transistor.fm/66db44fa.mp3
 permalink: "/baseline/1"
