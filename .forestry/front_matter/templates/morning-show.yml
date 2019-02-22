@@ -26,3 +26,5 @@ fields:
   name: sponsor
   label: Sponsor
   template: sponsor
+pages:
+- _baseline/choosing-a-team.md
