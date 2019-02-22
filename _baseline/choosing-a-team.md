@@ -11,6 +11,5 @@ episode: 3
 description: ''
 mp3: ''
 image: ''
-published: false
 
 ---

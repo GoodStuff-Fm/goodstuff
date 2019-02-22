@@ -3,10 +3,14 @@ title: Our Baseball History
 date: 2019-02-21 00:00:00 -0800
 episode: 2
 description: 
-show: baseline
+show: morningshow
 image: 
 layout: episode
 mp3: https://media.transistor.fm/8823f2cf.mp3
+permalink: "/baseline/2"
+sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
+  on Patreon") and listeners just like you! Support your favorite podcasts directly
+  to get exclusive unedited episodes and more.
 
 ---
 **Welcome to the first episode of Baseline!**
@@ -98,4 +102,3 @@ Future topics will not just be about games and players, but about the culture ar
 Again: you can reach us at topics@baseline.show. Also, check out the other shows at [Goodstuff.fm](https://goodstuff.fm/).
 
 Thank you for listening!
-
