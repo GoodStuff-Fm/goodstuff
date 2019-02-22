@@ -6,7 +6,7 @@ description:
 show: baseline
 image: 
 layout: episode
-mp3: https://media.transistor.fm/3ecf265f.mp3
+mp3: https://media.transistor.fm/66db44fa.mp3
 
 ---
 This is the trailer for Baseline, a podcast about baseball by people who know nothing about baseball!
