@@ -5,7 +5,7 @@ episode: 2
 description: Andrew and Kyle dive deep into their personal histories with baseball,
   baseball video games, baseball movies, and baseball on TV and radio.
 show: baseline
-image: ''
+image: "/uploads/baseline-2.jpg"
 layout: episode
 mp3: https://media.transistor.fm/8823f2cf.mp3
 permalink: "/baseline/2"
