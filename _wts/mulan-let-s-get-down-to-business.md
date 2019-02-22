@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: 'Mulan: Let''s Get Down to Business'
-date: 2019-02-22 00:00:00 -0800
+date: 2019-03-01 00:00:00 -0800
 episode: 88
 description: On this episode we talk about representing systemic misogyny, yellow-eyed
   villains, and liking what you see in the mirror.
