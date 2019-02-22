@@ -8,7 +8,9 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: Choosing a Team
 date: 2019-02-21 00:00:00 -0800
 episode: 3
-description: ''
+description: Andrew and Kyle reveal the MLB teams they will be following during the
+  2019 season and Andrew explains how he made the decision to become a fan of the
+  team.
 mp3: ''
 image: ''
 
