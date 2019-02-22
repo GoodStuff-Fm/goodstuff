@@ -1,6 +1,6 @@
 ---
 permalink: "/baseline/3"
-show: morningshow
+show: baseline
 layout: episode
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
