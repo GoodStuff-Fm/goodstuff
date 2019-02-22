@@ -6,7 +6,7 @@ description:
 show: baseline
 image: 
 layout: episode
-mp3: https://media.transistor.fm/013c0a20.mp3
+mp3: https://media.transistor.fm/8823f2cf.mp3
 
 ---
 **Welcome to the first episode of Baseline!**
