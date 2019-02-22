@@ -12,6 +12,6 @@ description: Andrew and Kyle reveal the MLB teams they will be following during 
   2019 season and Andrew explains how he made the decision to become a fan of the
   team.
 mp3: ''
-image: ''
+image: "/uploads/baseline-3.jpg"
 
 ---
