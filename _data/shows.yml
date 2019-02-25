@@ -16,9 +16,9 @@ baseline:
   category4:
   category5:
   rss: https://goodstuff.fm/baseline/feed.xml
-  itunes:
-  pocketcasts:
-  overcast:
+  itunes: https://itunes.apple.com/us/podcast/baseline/id1453462340?mt=2
+  pocketcasts: https://pca.st/1Z7y
+  overcast: https://overcast.fm/p1098099-NhOe0S
   latest: https://share.transistor.fm/e/baseline/latest
 icebreaker:
   name: Icebreaker
