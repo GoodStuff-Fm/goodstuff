@@ -11,7 +11,7 @@ episode: 92
 description: Aaron, Becky, Christopher, and Chris got on their boots to talk about
   U2's 2009 album No Line on the Horizon. How does it hold up? What about the 360
   tour? Are we still going crazy if we don't go crazy tonight? Listen and find out!
-mp3: ''
+mp3: https://media.transistor.fm/33e84951.mp3
 image: "/uploads/atu2-92.jpg"
 published: false
 
