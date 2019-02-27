@@ -24,14 +24,15 @@ published: false
 ### Show Notes
 
 * [Watch a video version of this episode](#).
+* [atU2 Podcast Episode 49](https://goodstuff.fm/atu2/49)
 * [It Might Get Loud](https://en.wikipedia.org/wiki/It_Might_Get_Loud)
 * [List of Highest Grossing Concert Tours](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
 * [No Line on the Horizon](https://www.u2.com/music/Albums/4083/No+Line+On+The+Horizon)
 * [Christopher’s No Line on the Horizon Reordered on Apple Music](https://itunes.apple.com/us/playlist/u2-no-line-on-the-horizon-reordered/pl.u-llzeCLo67y)
-
-
-
-* [@iChris](https://twitter.com/ichris)
+* [Chris Enns](https://twitter.com/ichris)
+* [Christopher Endrinal on Twitter](https://twitter.com/cjsendrinal)
+* [Becky Myers on Twitter](https://twitter.com/bmyers)
+* [Aaron Govern on Twitter](https://twitter.com/ivanobe)
 
 ### Find @U2 Online
 
