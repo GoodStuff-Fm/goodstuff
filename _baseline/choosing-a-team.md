@@ -11,7 +11,7 @@ episode: 3
 description: Andrew and Kyle reveal the MLB teams they will be following during the
   2019 season and Andrew explains how he made the decision to become a fan of the
   team.
-mp3: ''
+mp3: https://media.transistor.fm/7c664a48.mp3
 image: "/uploads/baseline-3.jpg"
 
 ---
