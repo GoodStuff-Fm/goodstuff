@@ -13,7 +13,6 @@ description: Aaron, Becky, Christopher, and Chris got on their boots to talk abo
   tour? Are we still going crazy if we don't go crazy tonight? Listen and find out!
 mp3: https://media.transistor.fm/33e84951.mp3
 image: "/uploads/atu2-92.jpg"
-published: false
 
 ---
 ### Want to Watch the Live Show?
