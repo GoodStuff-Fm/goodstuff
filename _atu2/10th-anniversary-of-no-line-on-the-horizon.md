@@ -28,6 +28,7 @@ published: false
 * [It Might Get Loud](https://en.wikipedia.org/wiki/It_Might_Get_Loud)
 * [List of Highest Grossing Concert Tours](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
 * [No Line on the Horizon](https://www.u2.com/music/Albums/4083/No+Line+On+The+Horizon)
+* [@U2 Staff Reflections: 10 Years on the Horizon](https://www.atu2.com/news/u2-staff-reflections-10-years-on-the-horizon.html)
 * [Christopher’s No Line on the Horizon Reordered on Apple Music](https://itunes.apple.com/us/playlist/u2-no-line-on-the-horizon-reordered/pl.u-llzeCLo67y)
 * [Chris Enns](https://twitter.com/ichris)
 * [Christopher Endrinal on Twitter](https://twitter.com/cjsendrinal)
