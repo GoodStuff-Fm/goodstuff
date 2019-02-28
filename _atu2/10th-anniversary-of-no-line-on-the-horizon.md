@@ -28,7 +28,7 @@ image: "/uploads/atu2-92.jpg"
 * [List of Highest Grossing Concert Tours](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
 * [No Line on the Horizon](https://www.u2.com/music/Albums/4083/No+Line+On+The+Horizon)
 * [@U2 Staff Reflections: 10 Years on the Horizon](https://www.atu2.com/news/u2-staff-reflections-10-years-on-the-horizon.html)
-* [Christopher’s No Line on the Horizon Reordered on Apple Music](https://itunes.apple.com/us/playlist/u2-no-line-on-the-horizon-reordered/pl.u-llzeCLo67y)
+* Christopher’s No Line on the Horizon Reordered on [Apple Music](https://itunes.apple.com/us/playlist/u2-no-line-on-the-horizon-reordered/pl.u-llzeCLo67y) and [Apple Spotify](https://open.spotify.com/user/cjsendrinal/playlist/7ExvfNDrPUdBB7UPkzgt7V?si=mtpmQmmQQ9G4yHZAW7b0Qg)
 * [Chris Enns](https://twitter.com/ichris)
 * [Christopher Endrinal on Twitter](https://twitter.com/cjsendrinal)
 * [Becky Myers on Twitter](https://twitter.com/bmyers)
