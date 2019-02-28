@@ -23,7 +23,7 @@ published: false
 
 ### Show Notes
 
-* [Watch a video version of this episode](#).
+* [Watch a video version of this episode](https://www.youtube.com/watch?v=sZFy0OB7mCE).
 * [atU2 Podcast Episode 49](https://goodstuff.fm/atu2/49)
 * [It Might Get Loud](https://en.wikipedia.org/wiki/It_Might_Get_Loud)
 * [List of Highest Grossing Concert Tours](https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours)
