@@ -1,9 +1,17 @@
 ---
 permalink: https://goodstuff.fm/baseline/4
 title: Spring Training
-date: 2019-03-06 21:00:00 -0800
+date: 2019-03-06 22:00:00 -0800
 episode: 4
-description: In this episode, Kyle and Andrew discuss Spring Training.
+description: In this episode, Kyle and Andrew discuss Spring Training, as well as
+  some updates to the movie list, and debut the new Team of the Week segment.
+show: ''
+layout: ''
+mp3: ''
+image: ''
+sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
+  on Patreon") and listeners just like you! Support your favorite podcasts directly
+  to get exclusive unedited episodes and more.
 published: false
 
 ---
