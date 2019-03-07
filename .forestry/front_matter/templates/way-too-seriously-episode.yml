@@ -1,7 +1,6 @@
 ---
 label: Way Too Seriously Episode
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: show

@@ -1,7 +1,6 @@
 ---
 label: Baseline Episode
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: Path
@@ -27,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _baseline/spring-training.md
 - _baseline/choosing-a-team.md
 - _baseline/1.markdown
 - _baseline/2.markdown
