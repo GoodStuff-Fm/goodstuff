@@ -1,5 +1,5 @@
 ---
-permalink: https://goodstuff.fm/baseline/4
+permalink: "/baseline/4"
 title: Spring Training
 date: 2019-03-07 06:00:00 -0800
 episode: 4
