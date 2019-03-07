@@ -7,8 +7,8 @@ description: In this episode, Kyle and Andrew discuss Spring Training, as well a
   some updates to the movie list, and debut the new Team of the Week segment.
 show: ''
 layout: ''
-mp3: ''
-image: ''
+mp3: https://media.transistor.fm/64613368.mp3
+image: "/uploads/baseline-4.jpg"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
