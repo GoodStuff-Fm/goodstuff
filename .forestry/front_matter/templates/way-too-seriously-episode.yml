@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _wts/jumanji-welcome-to-the-jungle-where-flirting-is-mandatory.md
 - _wts/mulan-let-s-get-down-to-business-1.md
 - _wts/hockey-isn-t-a-movie-is-it-1.md
 - _wts/mulan-let-s-get-down-to-business.md
