@@ -1,4 +1,6 @@
 ---
+show: wts
+layout: episode
 permalink: "/wts/89"
 mp3: https://media.transistor.fm/4f85f975.mp3
 episode: 89
@@ -6,13 +8,11 @@ date: 2019-03-08 00:00:00 -0800
 title: 'Jumanji Welcome to the Jungle: Where Flirting is Mandatory'
 description: On this episode of WTS we're talking about archetypes of teen girls,
   the jungle as a site of colonialist imagination, and respect for endangered animals.
-show: ''
-layout: ''
 image: "/uploads/wts-89.jpg"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-published: false
+published: true
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!
