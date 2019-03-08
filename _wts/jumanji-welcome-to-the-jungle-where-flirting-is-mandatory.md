@@ -8,7 +8,7 @@ description: On this episode of WTS we're talking about archetypes of teen girls
   the jungle as a site of colonialist imagination, and respect for endangered animals.
 show: ''
 layout: ''
-image: ''
+image: "/uploads/wts-89.jpg"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
