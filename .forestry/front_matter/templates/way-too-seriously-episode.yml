@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _wts/christopher-robin-the-house-on-boo-corner.md
 - _wts/jumanji-welcome-to-the-jungle-where-flirting-is-mandatory.md
 - _wts/mulan-let-s-get-down-to-business-1.md
 - _wts/hockey-isn-t-a-movie-is-it-1.md
@@ -41,7 +42,6 @@ pages:
 - _wts/the-princess-diaries-abolish-the-monarchy.md
 - _wts/the-last-unicorn-a-melancholy-fever-dream.md
 - _wts/smallfoot-common-is-stonekeeper.md
-- _wts/christopher-robin-the-house-on-boo-corner.md
 - _wts/tangled-for-when-you-re-not-as-mean-and-vicious-as-you-seem.md
 - _wts/e-t-never-work-with-children-or-aliens.md
 - _wts/the-sword-in-the-stone-too-many-arthurs.md
