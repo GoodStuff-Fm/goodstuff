@@ -10,9 +10,8 @@ date: 2019-03-14 06:00:00 -0700
 episode: 5
 description: In this episode of Baseline, Kyle and Andrew discuss the spring training
   games they watched. And also hats.
-mp3: ''
-image: ''
-published: false
+mp3: https://media.transistor.fm/3cff3f23.mp3
+image: "/uploads/baseline-5.jpg"
 
 ---
 Welcome back to Baseline! We watched some Spring Training games!
