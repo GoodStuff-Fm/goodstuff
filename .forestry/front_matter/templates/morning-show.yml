@@ -26,8 +26,8 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
-- _baseline/watching-in-person.md
 - _baseline/watching-a-game.md
+- _baseline/watching-in-person.md
 - _baseline/spring-training.md
 - _baseline/choosing-a-team.md
 - _baseline/1.markdown

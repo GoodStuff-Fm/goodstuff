@@ -9,7 +9,7 @@ title: Watching a Game
 date: 2019-03-14 06:00:00 -0700
 episode: 5
 description: In this episode of Baseline, Kyle and Andrew discuss the spring training
-  games they watched.
+  games they watched. And also hats.
 mp3: ''
 image: ''
 published: false
@@ -38,15 +38,33 @@ Also discussed: how broadcasters put baseball graphics and info on screen, versu
 
 We discuss Bryce Harper and free agency in general.
 
+## [Opening Day](https://en.wikipedia.org/wiki/Opening_Day)
+
+We discuss opening day and how it has been CRUELLY ROBBED from the Reds.
+
+## Andrew Looks For Hats
+
+Andrew has decided to get a hat. We shop for one.
+
+This episode is _not_ sponsored by Lids. For all your dad hat needs.
+
+## Kyle's Spring Training Plans
+
+Kyle's going to an in-person spring training game.
+
 ## Team of the Week
 
-This week's Team of the Week is the 
+This week's Team of the Week is the [New Orleans Baby Cakes](https://en.wikipedia.org/wiki/New_Orleans_Baby_Cakes).
 
 Send TOTW suggestions to [teamoftheweek@baseline.show](mailto:teamoftheweek@baseline.show).
 
 ## Closer
 
+Here's our [Twitter](https://twitter.com/baseline_show).
+
 As always, send topics and feedback to [topics@baseline.show](mailto:topics@baseline.show).
+
+You can join the Discord by pledging on the [Goodstuff Patreon](https://www.patreon.com/goodstuff).
 
 And don’t forget to check out all the great shows at [Goodstuff.fm](http://goodstuff.fm/).
 
