@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: Watching a Game
-date: 2019-03-14 06:00:00 -0700
+date: 2019-03-14 07:00:00 -0700
 episode: 5
 description: In this episode of Baseline, Kyle and Andrew discuss the spring training
   games they watched. And also hats.
