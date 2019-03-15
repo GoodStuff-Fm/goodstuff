@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _wts/fern-gully-are-there-australians-in-australia.md
 - _wts/jumanji-welcome-to-the-jungle-where-flirting-is-mandatory.md
 - _wts/christopher-robin-the-house-on-boo-corner.md
 - _wts/mulan-let-s-get-down-to-business-1.md
