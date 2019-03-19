@@ -58,6 +58,7 @@ You can send us suggestions on Twitter or at [teams@baseline.show](mailto:teams@
 ## The Closer
 
 * [Goodstuff on Twitch](https://twitch.tv/gstv)
+  * Something big is coming soon. Stay tuned. Keep it here. Don't touch that dial.
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
 
 ### **Where to Reach Us**
