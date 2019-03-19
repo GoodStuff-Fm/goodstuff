@@ -44,6 +44,7 @@ Observations include:
 * Rain delays and pouring rain
   * Mar 12 game was cut short at 4.5 innings
   * Game ended at 4-2 Giants
+* [Official game](https://en.wikipedia.org/wiki/Official_game)
 
 ## Team of the Week
 
