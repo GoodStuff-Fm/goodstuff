@@ -45,6 +45,7 @@ Observations include:
   * Mar 12 game was cut short at 4.5 innings
   * Game ended at 4-2 Giants
 * [Official game](https://en.wikipedia.org/wiki/Official_game)
+* Also, there's good breweries out there.
 
 ## Team of the Week
 
@@ -52,7 +53,7 @@ Observations include:
 
 Thanks to @tygerMatt for sending this in.
 
-You can send us suggestions on Twitter or at teams@baseline.show.
+You can send us suggestions on Twitter or at [teams@baseline.show](mailto:teams@baseline.show).
 
 ## The Closer
 
@@ -64,6 +65,6 @@ You can send us suggestions on Twitter or at teams@baseline.show.
 * [topics@baseline.show](mailto:topics@baseline.show)
 * [@baseline_show](https://twitter.com/baseline_show)
 * We'd love to hear your topic suggestions and any other feedback you have about the show.
-* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/)**and check out some of the other great shows**
+* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
 
 _Thanks for listening!_
