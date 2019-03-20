@@ -6,11 +6,11 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: Watching a Spring Training Game in Arizona
-date: 2019-03-21 06:00:00 -0700
+date: 2019-03-21 03:00:00 -0700
 episode: 6
 description: Kyle recaps his experience watching spring training games in Arizona.
   Andrew gets his hat.
-mp3: ''
+mp3: https://media.transistor.fm/f011997a.mp3
 image: ''
 published: false
 
