@@ -11,7 +11,7 @@ episode: 6
 description: Kyle recaps his experience watching spring training games in Arizona.
   Andrew gets his hat.
 mp3: https://media.transistor.fm/f011997a.mp3
-image: ''
+image: "/uploads/baseline-6.jpg"
 
 ---
 ## Follow Up
