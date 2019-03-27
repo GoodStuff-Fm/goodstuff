@@ -8,13 +8,21 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: Big Ball Chunky Time
 date: 2019-03-28 06:00:00 -0700
 episode: 7
-description: Folks... you've been waiting. It's finally here. It's Big Ball Chunky
-  Time.
+description: |-
+  Folks... you've been waiting. It's finally here. It's Big Ball Chunky Time.
+
+  Also, we're streaming MLB The Show 19 on March 28th at 7:05 PM EDT for Opening Day! Please tune in. [Here's the info.](https://www.twitch.tv/events/rW0wJH8gTi-piqvxB6Q1cw)
 mp3: ''
 image: ''
 published: false
 
 ---
+### IMPORTANT ANNOUNCEMENT:
+
+We're streaming MLB The Show 19 on March 28th at 7:05 PM EDT for Opening Day! Please tune in. [Here's the info.](https://www.twitch.tv/events/rW0wJH8gTi-piqvxB6Q1cw)
+
+_Back to the shownotes..._
+
 Andrew did an exercise. He's sore. We discuss. And try to tie it to baseball. It kind of works.
 
 The flip-flop Kyle mentions is from... [this](https://twitter.com/missionsmilb/status/1107782483213312001). Uh, yeah.
@@ -33,6 +41,8 @@ Then Kyle watched a game on St. Patrick's Day. MLB goes _all out_ for St. Patty'
 
 [Jeff Samardzija says MLB should eliminate extra innings, implement ties](https://sports.yahoo.com/giants-pitcher-jeff-samardzija-thinks-mlb-games-should-end-in-a-tie-025555421.html)
 
+We go through all the upcoming rule changes. Kyle asks Andrew to rule on them.
+
 # Minor League Team of the Week
 
 This week's team of the week is the [Norfolk Tides](https://en.wikipedia.org/wiki/Norfolk_Tides).
@@ -43,11 +53,14 @@ Behold "Rip Tide", the mascot:
 
 # The Closer
 
-* [twitch.tv/gstv](http://twitch.tv/gstv)
-* @baseline_show
-* patreon
-* **Where to reach us**
-* topics@baseline.show
-* We'd love to hear your topic suggestions and any other feedback you have about the show
-* **head over to** [**Goodstuff.fm__](http://goodstuff.fm/) and check out some of the other great shows**
-* This has been Baseline, and that's the ballgame.
+* [Goodstuff on Twitch](https://twitch.tv/gstv)
+* [Goodstuff Patreon](https://patreon.com/goodstuff)
+
+### **Where to Reach Us**
+
+* [topics@baseline.show](mailto:topics@baseline.show)
+* [@baseline_show](https://twitter.com/baseline_show)
+* We'd love to hear your topic suggestions and any other feedback you have about the show.
+* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
+
+_Thanks for listening!_
