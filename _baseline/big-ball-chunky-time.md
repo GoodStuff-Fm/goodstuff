@@ -51,6 +51,8 @@ Behold "Rip Tide", the mascot:
 
 ![Rip Tide](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rip_Tide_standing.jpg/218px-Rip_Tide_standing.jpg)
 
+There are some missed co-branding opportunities here.
+
 # The Closer
 
 * [Goodstuff on Twitch](https://twitch.tv/gstv)
