@@ -15,27 +15,33 @@ image: ''
 published: false
 
 ---
-[https://twitter.com/jason_koebler/status/1107241569864683522?s=12](https://twitter.com/jason_koebler/status/1107241569864683522?s=12 "https://twitter.com/jason_koebler/status/1107241569864683522?s=12")
+Andrew did an exercise. He's sore. We discuss. And try to tie it to baseball. It kind of works.
 
-BIG BALL CHUNKY TIME
+The flip-flop Kyle mentions is from... [this](https://twitter.com/missionsmilb/status/1107782483213312001). Uh, yeah.
 
-# Followup
+Then, finally, we get to [**_BIG BALL CHUNKY TIME!_**](https://twitter.com/jason_koebler/status/1107241569864683522?s=12 "https://twitter.com/jason_koebler/status/1107241569864683522?s=12") Maybe sure you celebrate in the traditional way.
 
-Reds @ Dodgers game on Pi Day
+# Follow Up
 
-St. Patrick's Day game
+Kyle watched the Reds @ Dodgers game on Pi Day. There was only one audio stream. It was just crowd noise. Kind of wild. Kyle [recorded some of it.](https://www.dropbox.com/s/zlh440e5u2u19z2/Reds%20at%20Dodgers%20Crowd%20Noise%202019-03-14.mp3?dl=0)
 
-[https://www.usatoday.com/story/sports/mlb/2019/03/14/mlb-new-rule-changes-roster-3-batter-minimum/3157226002/](https://www.usatoday.com/story/sports/mlb/2019/03/14/mlb-new-rule-changes-roster-3-batter-minimum/3157226002/ "https://www.usatoday.com/story/sports/mlb/2019/03/14/mlb-new-rule-changes-roster-3-batter-minimum/3157226002/")
+Then Kyle watched a game on St. Patrick's Day. MLB goes _all out_ for St. Patty's. Lots of green. It was... confusing. Then, we discuss Guinness.
 
-[https://sports.yahoo.com/giants-pitcher-jeff-samardzija-thinks-mlb-games-should-end-in-a-tie-025555421.html](https://sports.yahoo.com/giants-pitcher-jeff-samardzija-thinks-mlb-games-should-end-in-a-tie-025555421.html "https://sports.yahoo.com/giants-pitcher-jeff-samardzija-thinks-mlb-games-should-end-in-a-tie-025555421.html")
+# MLB Rule Changes
+
+[MLB to implement new rule changes that will shake up look of sport](https://www.usatoday.com/story/sports/mlb/2019/03/14/mlb-new-rule-changes-roster-3-batter-minimum/3157226002/)
+
+[Jeff Samardzija says MLB should eliminate extra innings, implement ties](https://sports.yahoo.com/giants-pitcher-jeff-samardzija-thinks-mlb-games-should-end-in-a-tie-025555421.html)
 
 # Minor League Team of the Week
 
-[https://en.wikipedia.org/wiki/Norfolk_Tides](https://en.wikipedia.org/wiki/Norfolk_Tides "https://en.wikipedia.org/wiki/Norfolk_Tides")
+This week's team of the week is the [Norfolk Tides](https://en.wikipedia.org/wiki/Norfolk_Tides).
 
 Behold "Rip Tide", the mascot:
 
-# Closer (HA!)
+![Rip Tide](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rip_Tide_standing.jpg/218px-Rip_Tide_standing.jpg)
+
+# The Closer
 
 * [twitch.tv/gstv](http://twitch.tv/gstv)
 * @baseline_show
@@ -43,5 +49,5 @@ Behold "Rip Tide", the mascot:
 * **Where to reach us**
 * topics@baseline.show
 * We'd love to hear your topic suggestions and any other feedback you have about the show
-* **head over to** [**Goodstuff.fm**](http://goodstuff.fm/)**and check out some of the other great shows**
+* **head over to** [**Goodstuff.fm__](http://goodstuff.fm/) and check out some of the other great shows**
 * This has been Baseline, and that's the ballgame.
