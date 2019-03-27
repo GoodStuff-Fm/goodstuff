@@ -56,12 +56,13 @@ There are some missed co-branding opportunities here.
 # The Closer
 
 * [Goodstuff on Twitch](https://twitch.tv/gstv)
+  * We're streaming MLB The Show 19 on March 28th at 7:05 PM EDT for Opening Day! Please tune in. [Here's the info.](https://www.twitch.tv/events/rW0wJH8gTi-piqvxB6Q1cw)
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
 
 ### **Where to Reach Us**
 
-* [topics@baseline.show](mailto:topics@baseline.show)
-* [@baseline_show](https://twitter.com/baseline_show)
+* Email us at [topics@baseline.show](mailto:topics@baseline.show)
+* [@baseline_show](https://twitter.com/baseline_show) on Twitter
 * We'd love to hear your topic suggestions and any other feedback you have about the show.
 * **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
 
