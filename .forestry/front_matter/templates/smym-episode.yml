@@ -30,6 +30,7 @@ fields:
   label: Sponsor
   name: sponsor
 pages:
+- _smym/codepen-radio-and-podcasting.md
 - _smym/three-requests-for-smym-listeners.md
 - _wts/how-the-grinch-stole-christmas-1966-the-true-meaning-of-grinchmas.md
 - _atu2/u2-2018-year-in-review.md
