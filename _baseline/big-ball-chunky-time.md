@@ -12,9 +12,8 @@ description: |-
   Folks... you've been waiting. It's finally here. It's Big Ball Chunky Time.
 
   Also, we're streaming MLB The Show 19 on March 28th at 7:05 PM EDT for Opening Day! Please tune in. [Here's the info.](https://www.twitch.tv/events/rW0wJH8gTi-piqvxB6Q1cw)
-mp3: ''
-image: ''
-published: false
+mp3: https://media.transistor.fm/cc90fb27.mp3
+image: "/uploads/baseline-7.jpg"
 
 ---
 ### IMPORTANT ANNOUNCEMENT:
