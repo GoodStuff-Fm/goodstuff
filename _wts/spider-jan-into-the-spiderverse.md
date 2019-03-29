@@ -12,7 +12,7 @@ description: On this episode we talk about racial stereotypes, and Aunt May and 
   Ock's romantic history, and what it means to adapt to fit the world. I hope this
   is the universe where you enjoy it!
 mp3: https://media.transistor.fm/ba4a98d9.mp3
-image: ''
+image: "/uploads/wts-91.jpg"
 published: false
 
 ---
