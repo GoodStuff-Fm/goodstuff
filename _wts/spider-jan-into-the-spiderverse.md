@@ -13,7 +13,6 @@ description: On this episode we talk about racial stereotypes, and Aunt May and 
   is the universe where you enjoy it!
 mp3: https://media.transistor.fm/00966999.mp3
 image: "/uploads/wts-91.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support Way Too Seriously on Patreon](https://www.patreon.com/clockworkscast)!
