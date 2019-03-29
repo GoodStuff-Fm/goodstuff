@@ -11,7 +11,7 @@ episode: 91
 description: On this episode we talk about racial stereotypes, and Aunt May and Doc
   Ock's romantic history, and what it means to adapt to fit the world. I hope this
   is the universe where you enjoy it!
-mp3: ''
+mp3: https://media.transistor.fm/00966999.mp3
 image: "/uploads/wts-91.jpg"
 published: false
 
