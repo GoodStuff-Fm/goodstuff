@@ -36,6 +36,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _noidea
+  label: No Idea
+  create: all
+  match: "**/*"
+- type: directory
   path: _smym
   label: Show Me Your Mic
   create: documents
