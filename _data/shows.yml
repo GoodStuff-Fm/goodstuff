@@ -1,8 +1,30 @@
+noidea:
+  name: I Have No Idea What I'm Doing
+  lang: EN
+  explicit: no
+  collection: noidea
+  hosts: Andrew Huster and Aaron LM Goodwin
+  description: TBD
+  artwork: "/uploads/artwork-baseline.jpg"
+  show-twitter:
+  hosts-twitter:
+  email:
+  keywords:
+  category1: "News&Politics"
+  category2: "Comedy"
+  category3:
+  category4:
+  category5:
+  rss: https://goodstuff.fm/noidea/feed.xml
+  itunes:
+  pocketcasts:
+  overcast:
+  latest: https://share.transistor.fm/e/noidea/latest
 baseline:
   name: Baseline
   lang: EN
   explicit: no
-  collection: baseline
+  collection: baseline_show
   hosts: Andrew Huster and Kyle Roderick
   description: A podcast about baseball by people who know nothing about baseball.
   artwork: "/uploads/artwork-baseline.jpg"
