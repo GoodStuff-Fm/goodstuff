@@ -1,7 +1,7 @@
 ---
 title: Andrew Huster
 date: 2019-04-02 19:37:15 -0500
-position: 3
+position: 10
 name: Andrew Huster
 twitter: ahuster
 website: https://magitronix.com
