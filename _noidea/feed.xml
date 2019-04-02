@@ -1,0 +1,8 @@
+---
+title: Feed
+position: 0
+show: noidea
+layout:
+---
+
+{% include feed.html %}

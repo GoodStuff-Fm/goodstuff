@@ -18,6 +18,14 @@ collections:
     retired: false
     inactive: false
     live: false
+  noidea:
+    title: I Have No Idea What I'm Doing
+    output: true
+    permalink: "/noidea/:path"
+    slug: noidea
+    retired: false
+    inactive: false
+    live: false
   buzzled:
     title: Buzzled
     output: true
@@ -118,7 +126,7 @@ collections:
     title: Today's Special
     output: true
     permalink: "/todaysspecial/:path"
-    retired: false
+    retired: true
     inactive: true
     live: false
   uploads:
