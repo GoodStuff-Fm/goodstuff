@@ -6,7 +6,7 @@ description: Look for episodes of this show soon!
 show: noidea
 image:
 layout: episode
-mp3:
+mp3: https://media.transistor.fm/66db44fa.mp3
 permalink: "/noidea/1"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
