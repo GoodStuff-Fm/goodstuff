@@ -1,11 +1,11 @@
 ---
-label: Icebreaker Episode
+label: No Idea Episode 2
 hide_body: false
 fields:
 - type: text
   name: show
   label: show
-  default: icebreaker
+  default: noidea
   hidden: true
 - type: text
   name: layout
@@ -16,7 +16,7 @@ fields:
   label: Path
   name: permalink
   description: Permalink for the episode starting with https://goodstuff.fm
-  default: "/icebreaker/"
+  default: "/noidea/"
 - type: include
   template: morning-show-episode
 - type: include
