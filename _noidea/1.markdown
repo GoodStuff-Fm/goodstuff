@@ -1,8 +1,8 @@
 ---
-title: Introduction
-date: 2019-04-01 00:00:00 -0800
+title: Coming Soon!
+date: 2019-04-02 00:00:00 -0800
 episode: 1
-description: TBD
+description: Look for episodes of this show soon!
 show: noidea
 image:
 layout: episode
@@ -13,5 +13,3 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   to get exclusive unedited episodes and more.
 
 ---
-
-TBD
