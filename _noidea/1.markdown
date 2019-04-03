@@ -1,15 +1,44 @@
 ---
-title: Coming Soon!
-date: 2019-04-02 00:00:00 -0800
+title: S01:E01 "Jackbooted Tots"
+date: 2019-04-02 01:00:00 -0700
 episode: 1
-description: Look for episodes of this show soon!
+description: We really explore the space— shop for sofas and learn about kitchen gadgets,
+  then discuss how the finance world and hegemonic leaders are gonna' get away with
+  letting the earth burn because, "woah, turns out the unedited version of this video
+  changes everything!"
 show: noidea
-image:
+image: "/uploads/IHNIWID Episode Art.jpg"
 layout: episode
-mp3: https://media.transistor.fm/66db44fa.mp3
+mp3: https://media.transistor.fm/e5ea29b8.mp3
 permalink: "/noidea/1"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 
 ---
+### Andrew is Sofa King
+
+* Sofa dongles
+* Andrew’s future wife: Jan
+* [Carly Rae Jepsen has an album coming out and somehow this is relevant to furniture](https://youtu.be/xP4v3PYDa2A)
+
+### Cooking Gadget Talk
+
+* Second Saturday Sleep explained
+* Sit or stand/Peel or no peel
+* [Innovations in garlic gadgets](https://www.epicurious.com/expert-advice/leave-the-peel-on-when-you-use-a-garlic-press-article/amp)
+* [4 Year Old Mic’d up at Hockey](https://youtu.be/A3-L3YwU-iQ)
+* [How to Sharpen Global Knives with Mino Tsuchida](https://www.youtube.com/watch?v=te1KIpGyz-4)
+
+### The Stock Market versus Everyone Else
+
+* [The race for shareholder profits has left workers in the dust, according to new research](https://www.washingtonpost.com/us-policy/2019/02/25/race-shareholder-profits-has-left-workers-dust-according-new-research/)
+* Aaron learns the word “concomitant”
+* Please think of the shareholders
+
+### The Take, The Countertake, and the Take on the Countertake
+
+* [The Sunrise Movement is not a cult of sun worshiping neopagans, even though that name kind of sounds like that, tbh](https://www.sunrisemovement.org/)
+* [The Dianne Feinstein Defenders Have Logged All the Way On](https://splinternews.com/the-dianne-feinstein-defenders-have-logged-all-the-way-1832876271)
+* LOL, stupid children, how dare you try and have opinions about your impending heat death
+* TIL what a Jackboot is
