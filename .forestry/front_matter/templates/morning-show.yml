@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _baseline/a-very-muscular-horse.md
 - _baseline/watching-a-game.md
 - _baseline/spring-training.md
 - _baseline/big-ball-chunky-time.md
