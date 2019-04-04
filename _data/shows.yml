@@ -24,11 +24,11 @@ baseline:
   name: Baseline
   lang: EN
   explicit: no
-  collection: baseline_show
+  collection: baseline
   hosts: Andrew Huster and Kyle Roderick
   description: A podcast about baseball by people who know nothing about baseball.
   artwork: "/uploads/artwork-baseline.jpg"
-  show-twitter: baseline
+  show-twitter: baseline_show
   hosts-twitter:
   email:
   keywords:
