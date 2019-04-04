@@ -8,7 +8,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: A Very Muscular Horse
 date: 2019-04-04 06:00:00 -0700
 episode: 8
-description: ''
+description: This one's a grab bag, folks.
 mp3: ''
 image: ''
 published: false
