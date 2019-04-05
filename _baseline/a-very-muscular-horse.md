@@ -12,7 +12,7 @@ description: |-
   Or, A Very Muscular Horse.
 
   We wrap up spring training and look forward to Opening Day. We also listen to a game and talk through it. #WholeSquadReady
-mp3: https://media.transistor.fm/fe14e36b.mp3
+mp3: https://media.transistor.fm/720bfef2.mp3
 image: "/uploads/baseline-8.jpg"
 published: false
 
