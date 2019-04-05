@@ -12,7 +12,7 @@ description: |-
   Or, A Very Muscular Horse.
 
   We wrap up spring training and look forward to Opening Day. We also listen to a game and talk through it. #WholeSquadReady
-mp3: ''
+mp3: https://media.transistor.fm/fe14e36b.mp3
 image: "/uploads/baseline-8.jpg"
 published: false
 
@@ -54,7 +54,7 @@ Then we have an idea for a video game where you play as a mascot. Mascot Simulat
 [A Very Muscular Horse](https://mlblogsbensbiz.files.wordpress.com/2014/04/ace.jpg?w=395&h=830)
 
 # The Closer
-![](/uploads/baseline-8.jpg)
+
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
 
 ### **Where to Reach Us**
