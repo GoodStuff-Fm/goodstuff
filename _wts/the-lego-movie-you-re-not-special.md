@@ -11,7 +11,7 @@ episode: 92
 description: On this episode we talk about Strong Female Characters, what the generic
   person looks like, and mainstream consumerism. I hope you like it!
 mp3: https://media.transistor.fm/64aaa999.mp3
-image: ''
+image: "/uploads/wts 92.jpg"
 published: false
 
 ---
