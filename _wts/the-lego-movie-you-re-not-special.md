@@ -12,7 +12,6 @@ description: On this episode we talk about Strong Female Characters, what the ge
   person looks like, and mainstream consumerism. I hope you like it!
 mp3: https://media.transistor.fm/64aaa999.mp3
 image: "/uploads/wts 92.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support Way Too Seriously on Patreon](https://www.patreon.com/clockworkscast)!
