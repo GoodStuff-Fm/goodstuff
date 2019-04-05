@@ -5,11 +5,13 @@ layout: episode
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: A Very Muscular Horse
+title: Mascot Simulator 2019
 date: 2019-04-04 06:00:00 -0700
 episode: 8
-description: 'We wrap up spring training and look forward to Opening Day. We also
-  listen to a game and talk through it. #WholeSquadReady'
+description: |-
+  Or, A Very Muscular Horse.
+
+  We wrap up spring training and look forward to Opening Day. We also listen to a game and talk through it. #WholeSquadReady
 mp3: ''
 image: "/uploads/baseline-8.jpg"
 published: false
@@ -56,6 +58,8 @@ Then we have an idea for a video game where you play as a mascot. Mascot Simulat
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
 
 ### **Where to Reach Us**
+
+Send us your horse.
 
 * Email us at [topics@baseline.show](mailto:topics@baseline.show)
 * [@baseline_show](https://twitter.com/baseline_show) on Twitter
