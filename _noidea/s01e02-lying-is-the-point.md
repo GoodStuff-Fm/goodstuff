@@ -25,7 +25,7 @@ published: false
 
 ### How Was Your CPAC?
 
-* This conference has everything: vampires, big macs, religious pillow celebs.
+* This conference has everything: vampires, Big Macs, religious pillow celebs.
 * Stop saying "Attorneys General"
 * [No, YOU'RE racist, YOU ARE](https://splinternews.com/laura-ingrahams-brilliant-response-to-being-called-raci-1832966369)
 * Lying Is The POINT
