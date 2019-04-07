@@ -16,24 +16,28 @@ image: "/uploads/0002 - S01E02 Episode Art.jpg"
 published: false
 
 ---
-### Tissane Talk
-- [The TRY Channel](https://www.youtube.com/channel/UCabq3No3wXbs6Ut-Pux6SzA)
-- [Jamaicans And Trinidadians Swap Snacks](https://youtu.be/vRDc-iMLMwk)
-- [Sorrel Disambiguation](http://bit.ly/2JyeoQ2)
-- [Hibiscus drink diaspora](https://www.chowhound.com/post/jamaican-sorrel-hibiscus-300476)
+### Tisane Talk
+
+* [The TRY Channel](https://www.youtube.com/channel/UCabq3No3wXbs6Ut-Pux6SzA)
+* [Jamaicans And Trinidadians Swap Snacks](https://youtu.be/vRDc-iMLMwk)
+* [Sorrel Disambiguation](http://bit.ly/2JyeoQ2)
+* [Hibiscus drink diaspora](https://www.chowhound.com/post/jamaican-sorrel-hibiscus-300476)
 
 ### How Was Your CPAC?
-- This conference has everything: vampires, big macs, religious pillow celebs.
-- Stop saying "Attorneys General"
-- [No, YOU'RE racist, YOU ARE](https://splinternews.com/laura-ingrahams-brilliant-response-to-being-called-raci-1832966369)
-- Lying Is The POINT
-- [Philosophy Tube on how propaganda is a recruiting tool and not actually concerned with persuasion in the way we generally think of it](https://youtu.be/bgwS_FMZ3nQ?t=2632)
+
+* This conference has everything: vampires, big macs, religious pillow celebs.
+* Stop saying "Attorneys General"
+* [No, YOU'RE racist, YOU ARE](https://splinternews.com/laura-ingrahams-brilliant-response-to-being-called-raci-1832966369)
+* Lying Is The POINT
+* [Philosophy Tube on how propaganda is a recruiting tool and not actually concerned with persuasion in the way we generally think of it](https://youtu.be/bgwS_FMZ3nQ?t=2632)
 
 ### How Dare You Disparage My Large Adult Russia
-- What do the leftist skeptics of Trump-Russia have to gain from doubting that it happened?
-- [Watergate Gate](https://youtu.be/vB9JgxhXW5w)
-- A third idiocy
+
+* What do the leftist skeptics of Trump-Russia have to gain from doubting that it happened?
+* [Watergate Gate](https://youtu.be/vB9JgxhXW5w)
+* A third idiocy
 
 ### Workism
-- [Workism is America’s new religion?](https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/)
-- [The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)
+
+* [Workism is America’s new religion?](https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/)
+* [The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)
