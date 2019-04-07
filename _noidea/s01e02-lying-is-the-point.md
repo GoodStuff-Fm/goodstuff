@@ -33,7 +33,7 @@ published: false
 
 ### How Dare You Disparage My Large Adult Russia
 
-* What do the leftist skeptics of Trump-Russia have to gain from doubting that it happened?
+* _Question:_ What do the leftist skeptics of Trump-Russia have to gain from doubting that it happened?
 * [Watergate Gate](https://youtu.be/vB9JgxhXW5w)
 * A third idiocy
 
