@@ -9,7 +9,7 @@ title: S01:E03 - "The Sweat Pledge"
 date: 2019-04-15 01:00:00 -0700
 episode: 3
 description: ''
-mp3: ''
+mp3: https://media.transistor.fm/938ba9f5.mp3
 image: ''
 published: false
 
