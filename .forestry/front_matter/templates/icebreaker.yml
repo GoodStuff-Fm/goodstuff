@@ -22,4 +22,5 @@ fields:
 - type: include
   template: sponsor
 pages:
+- _noidea/s01-e03-the-sweat-pledge.md
 - _noidea/s01e02-lying-is-the-point.md
