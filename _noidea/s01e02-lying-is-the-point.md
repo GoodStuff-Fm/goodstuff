@@ -15,6 +15,8 @@ mp3: https://media.transistor.fm/3cda2c67.mp3
 image: "/uploads/0002 - S01E02 Episode Art.jpg"
 
 ---
+![](/uploads/0002 - S01E02 Episode Art-1.jpg)
+
 ### Tisane Talk
 
 * [The TRY Channel](https://www.youtube.com/channel/UCabq3No3wXbs6Ut-Pux6SzA)
