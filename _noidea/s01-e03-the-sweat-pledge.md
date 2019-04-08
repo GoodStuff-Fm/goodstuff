@@ -18,10 +18,8 @@ published: false
 - Andrew is Aaron's anthony Bourdain, but for furniture stores
 
 ### The Salad Days
-- [Arugula is great](http://on.theatln.tc/B5541fR](http://on.theatln.tc/B5541fR)
-- [The New Rules of Salad](https://apple.news/AgKM6Ih4sS4-SR0NLjZvgYA)(https://apple.news/AgKM6Ih4sS4-SR0NLjZvgYA)
+- [Arugula is great](http://on.theatln.tc/B5541fR)
+- [The New Rules of Salad on Apple News plus for pay pigs, sorry](https://apple.news/AgKM6Ih4sS4-SR0NLjZvgYA)
 
-## Main topic
-
-- All About Pete **(THE PETE THING)**
-    - [https://www.currentaffairs.org/2019/03/all-about-pete](https://www.currentaffairs.org/2019/03/all-about-pete)
+### THE PETE THING
+- [All About Pete - Current Affairs](https://www.currentaffairs.org/2019/03/all-about-pete)
