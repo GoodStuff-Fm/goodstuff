@@ -5,7 +5,7 @@ permalink: "/noidea/2"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: S01E02 - "Lying Is The Point"
+title: S01:E02 - "Lying Is The Point"
 date: 2019-04-01 01:00:00 -0700
 episode: 2
 description: You're not crazy— the world is truly "having a moment". In this episode
