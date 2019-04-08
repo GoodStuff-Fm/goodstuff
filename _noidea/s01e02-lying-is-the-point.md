@@ -11,7 +11,7 @@ episode: 2
 description: You're not crazy— the world is truly "having a moment". In this episode
   we suss out how to avoid the pitfalls of workism,  Russia delirium (three kinds),
   & conferences of conservative political action varietals.
-mp3: ''
+mp3: https://media.transistor.fm/3cda2c67.mp3?download=true
 image: "/uploads/0002 - S01E02 Episode Art.jpg"
 published: false
 
