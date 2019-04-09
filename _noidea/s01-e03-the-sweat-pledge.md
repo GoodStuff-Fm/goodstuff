@@ -15,11 +15,16 @@ published: false
 
 ---
 ### IKEA is a very stressful place
-- Andrew is Aaron's anthony Bourdain, but for furniture stores
+
+* Andrew is Aaron's anthony Bourdain, but for furniture stores
 
 ### The Salad Days
-- [Arugula is great](http://on.theatln.tc/B5541fR)
-- [The New Rules of Salad on Apple News plus for pay pigs, sorry](https://apple.news/AgKM6Ih4sS4-SR0NLjZvgYA)
+
+* [Arugula is great](http://on.theatln.tc/B5541fR)
+* Adventures of the Little Koala [https://www.imdb.com/title/tt0202181/](https://www.imdb.com/title/tt0202181/ "Adventures of the Little Koala")
+* Giant Wooden Bowl of Leaves 
+* [The New Rules of Salad on Apple News plus for pay pigs, sorry](https://apple.news/AgKM6Ih4sS4-SR0NLjZvgYA)
 
 ### THE PETE THING
-- [All About Pete - Current Affairs](https://www.currentaffairs.org/2019/03/all-about-pete)
+
+* [All About Pete - Current Affairs](https://www.currentaffairs.org/2019/03/all-about-pete)
