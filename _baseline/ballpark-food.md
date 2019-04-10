@@ -47,9 +47,13 @@ Twitter has determined that we will be watching [_The Sandlot (1993)_](https://l
 
 [How Much Longer Will Baseball Stadiums Be For Baseball Fans?](https://deadspin.com/how-much-longer-will-baseball-stadiums-be-for-baseball-1833463105)
 
+[Good Beer Hunting podcast episode](https://www.goodbeerhunting.com/gbh-podcast/2019/1/28/ep-205-brian-carriveau-of-bon-apptit-management-company)
+
 # Minor League Team of the Week
 
-[https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles](https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles "https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles")
+The team of the week this week is the [https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles](https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles).
+
+[Amarillo, Texas](https://en.wikipedia.org/wiki/Amarillo,_Texas)
 
 # The Closer
 
