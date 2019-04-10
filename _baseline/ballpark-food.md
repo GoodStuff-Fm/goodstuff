@@ -11,7 +11,7 @@ episode: 9
 description: We talk about Opening Day, the results of our Twitter poll for the first
   film for _Letterboxd Score_, and ballpark food. Mostly ballpark food, to be honest.
 mp3: https://media.transistor.fm/27d184e4.mp3
-image: ''
+image: "/uploads/baseline-9.jpg"
 
 ---
 We talk about Opening Day, the results of our Twitter poll for the first film for Letterboxd Score, and ballpark food. Mostly ballpark food, to be honest.
