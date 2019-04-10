@@ -14,6 +14,7 @@ image: ''
 published: false
 
 ---
+We talk about ballpark food.
 
 # Followup
 
@@ -41,15 +42,17 @@ Girl Scout Cookies RANKED
 
 [https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles](https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles "https://en.wikipedia.org/wiki/Amarillo_Sod_Poodles")
 
-# Closer (HA!)
+# The Closer
 
-* [twitch.tv/gsfm](http://twitch.tv/gsfm)
-* @baseline_show
-* [patreon.com/goodstuff](http://patreon.com/goodstuff)
+* [Goodstuff Patreon](https://patreon.com/goodstuff)
 
-### **Where to reach us**
+### **Where to Reach Us**
 
-* topics@baseline.show
-* We'd love to hear your topic suggestions and any other feedback you have about the show
-* **head over to** [**Goodstuff.fm**](http://goodstuff.fm) **and check out some of the other great shows**
-* This has been Baseline, and that's the ballgame.
+Send us your horse.
+
+* Email us at [topics@baseline.show](mailto:topics@baseline.show)
+* [@baseline_show](https://twitter.com/baseline_show) on Twitter
+* We'd love to hear your topic suggestions and any other feedback you have about the show.
+* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
+
+_Thanks for listening!_
