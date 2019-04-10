@@ -8,13 +8,14 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: Ballpark Food
 date: 2019-04-11 06:00:00 -0700
 episode: 9
-description: ''
+description: We talk about Opening Day, the results of our Letterboxd score, and ballpark
+  food.
 mp3: ''
 image: ''
 published: false
 
 ---
-We talk about ballpark food.
+We talk about Opening Day, the results of our Letterboxd score, and ballpark food.
 
 # Followup
 
