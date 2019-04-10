@@ -5,19 +5,21 @@ layout: episode
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: Ballpark Food
+title: Kyle Expects Nachos
 date: 2019-04-11 06:00:00 -0700
 episode: 9
-description: We talk about Opening Day, the results of our Letterboxd score, and ballpark
-  food.
+description: We talk about Opening Day, the results of our Twitter poll for the first
+  film for _Letterboxd Score_, and ballpark food. Mostly ballpark food, to be honest.
 mp3: ''
 image: ''
 published: false
 
 ---
-We talk about Opening Day, the results of our Letterboxd score, and ballpark food.
+We talk about Opening Day, the results of our Twitter poll for the first film for Letterboxd Score, and ballpark food. Mostly ballpark food, to be honest.
 
 # Followup
+
+Opening Day happened, and baseball that counts feels _way_ different from Spring Training. Revenues are up! Lots of inside baseball talk.
 
 ### Opening Day Twitch
 
@@ -25,19 +27,25 @@ We talk about Opening Day, the results of our Letterboxd score, and ballpark foo
 
 ### Letterboxd Score
 
-Twitter poll results
+Twitter has determined that we will be watching [_The Sandlot (1993)_](https://letterboxd.com/film/the-sandlot/) as the first movie. We'll be watching it... sometime. Also, James Earl Jones was in [_Click_](https://en.wikipedia.org/wiki/Click_(2006_film)). Also, there were three Sandlot films. We're definitely only gonna watch the first one. You're welcome for that knowledge.
 
-[The Sandlot (1993)](https://letterboxd.com/film/the-sandlot/)
+# Ballpark Food and Baseball Snacks
 
-### Baseball Snacks
+[Trader Joe's White Cheddar Corn Puffs](https://www.amazon.com/Trader-Worlds-Puffiest-White-Cheddar/dp/B077527KDP)
 
-[https://detroit.eater.com/2018/3/28/17169804/where-to-eat-comerica-park-detroit-tigers-best-food-stadium](https://detroit.eater.com/2018/3/28/17169804/where-to-eat-comerica-park-detroit-tigers-best-food-stadium "https://detroit.eater.com/2018/3/28/17169804/where-to-eat-comerica-park-detroit-tigers-best-food-stadium")
+[Where to Eat at Comerica Park, Home of the Detroit Tigers](https://detroit.eater.com/2018/3/28/17169804/where-to-eat-comerica-park-detroit-tigers-best-food-stadium)
 
-[https://deadspin.com/how-much-longer-will-baseball-stadiums-be-for-baseball-1833463105](https://deadspin.com/how-much-longer-will-baseball-stadiums-be-for-baseball-1833463105 "https://deadspin.com/how-much-longer-will-baseball-stadiums-be-for-baseball-1833463105")
+[Beyond Burger](https://www.beyondmeat.com/products/the-beyond-burger/)
 
-Stunt Foods
+[Behold the Beefless ‘Impossible Whopper’](https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html)
 
-Girl Scout Cookies RANKED
+#BunsShouldBeUtensils
+
+*Please do not unnecessarily combine foods.*
+
+[Morning Show on Goodstuff.fm](https://goodstuff.fm/morningshow/)
+
+[How Much Longer Will Baseball Stadiums Be For Baseball Fans?](https://deadspin.com/how-much-longer-will-baseball-stadiums-be-for-baseball-1833463105)
 
 # Minor League Team of the Week
 
