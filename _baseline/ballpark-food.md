@@ -38,9 +38,9 @@ Twitter has determined that we will be watching [_The Sandlot (1993)_](https://l
 
 [Behold the Beefless ‘Impossible Whopper’](https://www.nytimes.com/2019/04/01/technology/burger-king-impossible-whopper.html)
 
-#BunsShouldBeUtensils
+\#BunsShouldBeUtensils
 
-*Please do not unnecessarily combine foods.*
+_Please do not unnecessarily combine foods._
 
 [Morning Show on Goodstuff.fm](https://goodstuff.fm/morningshow/)
 
