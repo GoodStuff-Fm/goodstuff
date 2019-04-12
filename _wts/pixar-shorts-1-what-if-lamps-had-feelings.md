@@ -13,7 +13,6 @@ description: On this episode we are talking about The Adventures of André & Wal
   can make good art, whether women are objects, and why humans are so creepy.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/8cd1d608.mp3
 image: "/uploads/wts-93.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support Way Too Seriously on Patreon](https://www.patreon.com/clockworkscast)!
