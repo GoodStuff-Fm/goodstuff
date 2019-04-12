@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _wts/pixar-shorts-1-what-if-lamps-had-feelings.md
 - _wts/the-lego-movie-you-re-not-special.md
 - _wts/hockey-isn-t-a-movie-is-it-1.md
 - _wts/spider-jan-into-the-spiderverse.md
