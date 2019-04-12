@@ -1,7 +1,7 @@
 ---
 show: wts
 layout: episode
-permalink: "/wts/"
+permalink: "/wts/93"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
