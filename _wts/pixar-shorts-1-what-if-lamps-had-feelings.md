@@ -12,7 +12,7 @@ description: On this episode we are talking about The Adventures of André & Wal
   B, Luxo Jr., Red's Dream, Tin Toy, and Knick-Knack. We talk about whether bad people
   can make good art, whether women are objects, and why humans are so creepy.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/8cd1d608.mp3
-image: ''
+image: "/uploads/wts-93.jpg"
 published: false
 
 ---
