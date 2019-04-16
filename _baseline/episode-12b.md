@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: The Futility Mark
-date: ''
+date: 2019-04-18 06:00:00 -0700
 episode: 10
 description: This one's a short one, because we respect your time, dear listener.
 mp3: ''
