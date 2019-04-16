@@ -8,13 +8,18 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: The Futility Mark
 date: 2019-04-18 06:00:00 -0700
 episode: 10
-description: This one's a short one, because we respect your time, dear listener.
+description: |-
+  This one's a short one, because we respect your time, dear listener.
+
+  Discussed: the futility mark and baseball fights.
 mp3: ''
 image: ''
 published: false
 
 ---
 This one's a short one, because we respect your time, dear listener.
+
+Discussed: the futility mark and baseball fights.
 
 [I Have No Idea What I'm Doing](https://goodstuff.fm/noidea/) - Andrew's other, more controversial podcast.
 
@@ -36,6 +41,7 @@ Check it out:
 # The Closer
 
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
+* For more goofs, or soundboard clips, listen to [I Have No Idea What I'm Doing](https://goodstuff.fm/noidea/)
 
 ### **Where to Reach Us**
 
