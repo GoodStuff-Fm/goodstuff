@@ -14,7 +14,6 @@ description: |-
   Discussed: the futility mark and baseball fights.
 mp3: https://media.transistor.fm/3397f038.mp3
 image: ''
-published: false
 
 ---
 This one's a short one, because we respect your time, dear listener.
