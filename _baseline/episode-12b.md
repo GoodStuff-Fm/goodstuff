@@ -2,16 +2,14 @@
 permalink: "/baseline/10"
 show: baseline
 layout: episode
-sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
+sponsor: 'Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
-  to get exclusive unedited episodes and more.
+  to get exclusive unedited episodes and more. '
 title: The Futility Mark
-date: 2019-04-18 06:00:00 -0700
+date: 2019-04-18 08:00:00 -0700
 episode: 10
-description: |-
-  This one's a short one, because we respect your time, dear listener.
-
-  Discussed: the futility mark and baseball fights.
+description: "This one's a short one, because we respect your time, dear listener.\n\nDiscussed:
+  the futility mark and baseball fights. "
 mp3: https://media.transistor.fm/26634662.mp3
 image: ''
 
