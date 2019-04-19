@@ -199,10 +199,10 @@ morningshow:
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
-  hosts-twitter: "@dogburps and @kennyroderick_"
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
+  hosts-twitter: "@hopburps and @kennydailycast"
+  category1: "Comedy"
+  category2: "Technology"
+  category3: "Technology News"
   email: kyle@goodstuff.fm
   support:
   rss: https://goodstuff.fm/morningshow/feed.xml
