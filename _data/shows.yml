@@ -69,7 +69,7 @@ icebreaker:
 buzzled:
   name: Buzzled
   lang: EN
-  explicit: true
+  explicit: yes
   collection: buzzled
   hosts: Kyle Roderick and Kenny Roderick
   description: A new series from Kyle and Kenny where they play puzzle games and drink a beer to potentially disastrous results.
