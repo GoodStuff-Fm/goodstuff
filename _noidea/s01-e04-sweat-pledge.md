@@ -10,9 +10,8 @@ date: 2019-04-22 01:00:00 -0700
 episode: 4
 description: Look—just because we drink fizzy water doesn't mean our work isn't valuable
   and shouldn't provide a decent living.
-mp3: ''
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/7a62bdc7.mp3
 image: "/uploads/S01E04 Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/S01E04 Episode Art.jpg)
