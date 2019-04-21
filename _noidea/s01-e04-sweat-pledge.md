@@ -8,7 +8,8 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: S01:E04 "SWEAT Pledge"
 date: 2019-04-22 01:00:00 -0700
 episode: 4
-description: Look—just because we drink fizzy water doesn't mean our work isn't valuable.
+description: Look—just because we drink fizzy water doesn't mean our work isn't valuable
+  and shouldn't provide a decent living.
 mp3: ''
 image: "/uploads/S01E04 Episode Art.jpg"
 published: false
