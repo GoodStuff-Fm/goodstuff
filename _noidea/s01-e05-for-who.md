@@ -11,10 +11,12 @@ episode: 5
 description: Tactical framing is making us stupider, even if some of us are Masters
   of Science.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/67530cec.mp3
-image: ''
+image: "/uploads/IHNIWID - S01E05 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S01E05 - Episode Art.jpg)
+
 ### Science Master v. Science Bachelor
 
 * Do you display your degree?
@@ -36,5 +38,5 @@ published: false
 * "Just let the bomb explode, it's too difficult to diffuse" is a helluva position to be considered moderate.
 * A thought technology to avoid the trap of tactical framing: append any assertions that are made like, “this will be too drastic”, or “this is too expensive”with the question: “for who?” Or, “to who?”
 * [Alexandria Ocasio-Cortez | SXSW 2019 - YouTube](https://youtu.be/JU-SE5eNt04)
-*  “The idea that political will is our greatest obstacle should be the most embarrassing thing to us.”
+* “The idea that political will is our greatest obstacle should be the most embarrassing thing to us.”
 * "I think one of the keys to dismantling fear is dismantling a zero-sum mentality...What does that mean? It means the rejection outright of the logic that says that someone else's gain necessitates my loss—and that my gain must necessitate someone else's loss."
