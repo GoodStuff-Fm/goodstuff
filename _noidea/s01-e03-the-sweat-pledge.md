@@ -5,7 +5,7 @@ permalink: "/noidea/3"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: S01:E03 - "Tech Bro President"
+title: S01:E03 "Tech Bro President"
 date: 2019-04-15 01:00:00 -0700
 episode: 3
 description: I mean, we talk about salad and IKEA— but mostly this is about Mayor
