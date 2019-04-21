@@ -12,7 +12,6 @@ description: Tactical framing is making us stupider, even if some of us are Mast
   of Science.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/67530cec.mp3
 image: "/uploads/IHNIWID - S01E05 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S01E05 - Episode Art.jpg)
