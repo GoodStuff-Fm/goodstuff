@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S01:E04 "SWEAT Pledge"
-date: 2019-04-22 03:00:00 -0700
+date: 2019-04-22 01:00:00 -0700
 episode: 4
 description: Look—just because we drink fizzy water doesn't mean our work isn't valuable.
 mp3: ''
