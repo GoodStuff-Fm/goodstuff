@@ -36,6 +36,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _morningshow
+  label: Morning Show
+  create: all
+  match: "**/*"
+- type: directory
   path: _noidea
   label: No Idea
   create: all
