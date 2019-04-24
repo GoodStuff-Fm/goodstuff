@@ -5,16 +5,17 @@ layout: episode
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: Don't "Dude Perfect My MLB
+title: Don't "Dude Perfect" My MLB
 date: 2019-04-25 06:00:00 -0700
 episode: 11
-description: ''
+description: Kyle went to a minor league game. Also, we discuss Weird Baseball Things
+  that have happened lately.
 mp3: ''
 image: ''
 published: false
 
 ---
-Kyle went to a minor league game.
+Kyle went to a minor league game. Also, we discuss Weird Baseball Things that have happened lately.
 
 # Follow Up
 
@@ -48,9 +49,9 @@ Kyle went to a minor league game.
 
 # Minor League Team of the Week
 
-This week's team is the [Las Vegas Aviators](https://en.wikipedia.org/wiki/Las_Vegas_Aviators). Kyle went and watched one of their games in their brand new stadium!
+This week's team is the [Las Vegas Aviators](https://en.wikipedia.org/wiki/Las_Vegas_Aviators). Kyle went and watched one of their games in their brand new stadium! Jackie Robinson Day! Free parking!
 
-# ![The entrance to Las Vegas Ballpark.](/uploads/166E91A2-48E1-4979-9DA8-280411BD31BC.jpeg)
+![The entrance to Las Vegas Ballpark.](/uploads/166E91A2-48E1-4979-9DA8-280411BD31BC.jpeg)
 
 ![The fully-mesh seats of the Las Vegas Ballpark](/uploads/52A0223E-5CF8-4423-93C0-148001A6ED5C.jpeg)
 
@@ -65,6 +66,8 @@ This week's team is the [Las Vegas Aviators](https://en.wikipedia.org/wiki/Las_V
 [Finn, the Las Vegas Aviators' bat dog, was trying to do his job but the home-plate umpire had other plans](https://www.mlb.com/cut4/ump-steals-show-from-milb-bat-dog)
 
 [Finn the Bat Dog | Twitter](https://twitter.com/finnthebatdog)
+
+Follow Finn the Bat Dog.
 
 # The Closer
 
