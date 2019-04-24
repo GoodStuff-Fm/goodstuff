@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _baseline/episode 11.md
 - _baseline/a-very-muscular-horse.md
 - _baseline/episode-12b.md
 - _baseline/ballpark-food.md
