@@ -10,7 +10,7 @@ date: 2019-04-25 06:00:00 -0700
 episode: 11
 description: Kyle went to a minor league game. Also, we discuss Weird Baseball Things
   that have happened lately.
-mp3: ''
+mp3: https://media.transistor.fm/caf21a22.mp3
 image: ''
 published: false
 
