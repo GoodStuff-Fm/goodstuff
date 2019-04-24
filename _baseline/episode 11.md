@@ -72,7 +72,6 @@ Follow Finn the Bat Dog.
 # The Closer
 
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
-* For more goofs, or soundboard clips, listen to [I Have No Idea What I'm Doing](https://goodstuff.fm/noidea/)
 
 ### **Where to Reach Us**
 
