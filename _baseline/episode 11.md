@@ -12,7 +12,6 @@ description: Kyle went to a minor league game. Also, we discuss Weird Baseball T
   that have happened lately.
 mp3: https://media.transistor.fm/caf21a22.mp3
 image: ''
-published: false
 
 ---
 Kyle went to a minor league game. Also, we discuss Weird Baseball Things that have happened lately.
