@@ -10,7 +10,7 @@ date: '2019-05-02 06:00:00 -0700'
 episode: 12
 description: 'This week, more weird baseball things, stealing bases: how does it work?,
   and Mr. Shucks.'
-mp3: ''
+mp3: https://media.transistor.fm/b2e14f03.mp3
 image: ''
 published: false
 
