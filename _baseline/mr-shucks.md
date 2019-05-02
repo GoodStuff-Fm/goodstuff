@@ -12,7 +12,6 @@ description: 'This week, more weird baseball things, stealing bases: how does it
   and Mr. Shucks.'
 mp3: https://media.transistor.fm/b2e14f03.mp3
 image: ''
-published: false
 
 ---
 # Follow Up
