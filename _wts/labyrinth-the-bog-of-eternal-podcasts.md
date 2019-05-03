@@ -13,7 +13,6 @@ description: We're back from our break, and this week we're talking about Labyri
   rock stars. I hope you like it!
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/0a107d4c.mp3
 image: "/uploads/wts-94.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support Way Too Seriously on Patreon](https://www.patreon.com/clockworkscast)!
