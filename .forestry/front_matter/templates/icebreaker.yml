@@ -22,6 +22,7 @@ fields:
 - type: include
   template: sponsor
 pages:
+- _noidea/s01-e06-this-book-is-good.md
 - _noidea/s01-e05-for-who.md
 - _noidea/s01e02-lying-is-the-point.md
 - _noidea/s01-e04-sweat-pledge.md
