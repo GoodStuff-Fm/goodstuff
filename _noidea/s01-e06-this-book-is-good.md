@@ -6,13 +6,12 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S01:E06 "This Book is Good"
-date: 2019-05-06 17:00:00 -0700
+date: 2019-05-06 13:00:00 -0700
 episode: 6
 description: Pals, we talk about an essential tool for interpreting the world, and
   also wonder how much groveling is the right amount of groveling.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7d1e5c0.mp3
 image: "/uploads/IHNIWID - S01E06 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S01E06 - Episode Art.jpg)
