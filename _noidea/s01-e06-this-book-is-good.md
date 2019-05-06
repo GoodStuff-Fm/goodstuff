@@ -11,13 +11,19 @@ episode: 6
 description: Pals, we talk about an essential tool for interpreting the world, and
   also wonder how much groveling is the right amount of groveling.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7d1e5c0.mp3
-image: ''
+image: "/uploads/IHNIWID - S01E06 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S01E06 - Episode Art.jpg)
+
 ### Worst Distracted Driving Ever
 
 * Aaron's not an ableist, but
+
+### Defray our Costs
+
+* [Patronize us here](https://www.patreon.com/goodstuff)
 
 ### I Hereby Pledge Fealty to You, Potential Employer
 
