@@ -17,15 +17,15 @@
         {% if collection.live == true %}
 
         <ul class="shows__list">
-          <li class="shows__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100"/></a></li>
+          <li class="shows__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a></li>
           <li class="shows__list__name"><h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
           <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
           <li class="shows__list__description">{{ show.description | truncate: 256 }}</li>
           <li class="shows__list__link">
-            <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
-            <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
-            <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-            <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed"></a>
+            <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes" loading="lazy"></a>
+            <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts" loading="lazy"></a>
+            <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast" loading="lazy"></a>
+            <a href="{{ show.rss }}" title="Subscribe via RSS"><img src="/assets/subscribe-rss@2x.png" alt="Subscribe to RSS Feed" loading="lazy"></a>
           </li>
         </ul>
 

@@ -24,9 +24,9 @@
                 <li class="hosts__list__image">
                     <a href="{{ doc.url }}">
                       {% if doc.image %}
-                      <img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100"/>
+                      <img src="{{ doc.image }}" alt="Photo of {{ doc.title }}" height="100" width="100" loading="lazy"/>
                       {% else %}
-                      <img src="/assets/host-general.png" alt="Photo of {{ doc.title }}" height="100" width="100"/>
+                      <img src="/assets/host-general.png" alt="Photo of {{ doc.title }}" height="100" width="100" loading="lazy"/>
                       {% endif %}
                     </a>
                 </li>

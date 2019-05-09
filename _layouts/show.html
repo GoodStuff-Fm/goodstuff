@@ -12,26 +12,26 @@
         <h1 class="page__header">{{ show.name }}</h1>
 
         <ul class="shows__list">
-            <li class="shows__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" /></a>
+            <li class="shows__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
             </li>
             <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
             <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
             <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
             <li class="shows__list__link">
               {% if show.itunes %}
-                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
+                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes" loading="lazy"></a>
               {% endif %}
               {% if show.pocketcasts %}
-                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
+                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts" loading="lazy"></a>
               {% endif %}
               {% if show.overcast %}
-                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
+                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast" loading="lazy"></a>
               {% endif %}
               {% if show.youtube %}
-                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
+                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube" loading="lazy"></a>
               {% endif %}
               {% if show.anchor %}
-                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor"></a>
+                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor" loading="lazy"></a>
               {% endif %}
             </li>
         </ul>
