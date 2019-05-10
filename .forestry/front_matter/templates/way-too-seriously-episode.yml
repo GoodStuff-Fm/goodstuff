@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _wts/pixar-shorts-2-what-if-old-people-had-feelings.md
 - _wts/labyrinth-the-bog-of-eternal-podcasts.md
 - _wts/mulan-let-s-get-down-to-business-1.md
 - _wts/wreck-it-ralph-the-medal-was-not-a-metaphor.md
