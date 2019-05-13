@@ -39,7 +39,7 @@ image: "/uploads/IHNIWID - S01E07 - Episode Art.jpg"
 
 ***
 
-* [Does Your Car Have Wiring That Rodents Think Is Tasty? | News | Car and Driver](https://www.caranddriver.com/news/a21933466/does-your-car-have-wiring-that-rodents-think-is-tasty/)
+* [Does Your Car Have Wiring That Rodents Think Is Tasty?](https://www.caranddriver.com/news/a21933466/does-your-car-have-wiring-that-rodents-think-is-tasty/)
 * Spicy Wires
 
 ***
