@@ -6,12 +6,11 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S01:E07 "Sci-Fi Fraternity"
-date: 2019-05-13 08:25:00 -0700
+date: 2019-05-13 08:30:00 -0700
 episode: 7
 description: 'Before leaving social media for real, please #GiveAaronTheVaderMask'
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/51a8ad2d.mp3
 image: "/uploads/IHNIWID - S01E07 - Episode Art.jpg"
-published: false
 
 ---
 * [Ginuwine's Pony on YouTube](https://youtu.be/lbnoG2dsUk0)
