@@ -1,29 +1,31 @@
 ---
-title: Night Pepsi
-permalink: "/morningshow/405"
+title: "406"
+permalink: "/morningshow/406"
 show: morningshow
 layout: episode
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-date: 2019-04-30 15:00:00 -0700
+date: 2019-05-14 12:00:00 -0700
 episode: "405"
-description: It's like drinking the soda in the sky with 33 different baseball delicacies.
+description: 'It''s like '
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/a786e950.mp3
 image: ''
 published: false
 
 ---
-['Avengers: Endgame' Decimates Record Books with $1.2 Billion Global Debut - Box Office Mojo](https://www.boxofficemojo.com/news/?id=4507&p=.htm)
+[Google Pixel 3A name: what does the A stand for? - The Verge](https://www.theverge.com/circuitbreaker/2019/5/8/18537322/google-pixel-3a-a-meaning-guesses-io-2019)
 
-[KFC Hong Kong Is Making Popcorn-Breaded Chicken](https://www.delish.com/food-news/a27228039/kfc-popcorn-crusted-chicken/)
+[Bird has a new electric scooter: it’s durable, comes in three different colors, and you can buy it - The Verge](https://www.theverge.com/2019/5/8/18535698/bird-one-electric-scooter-ride-share-own-price)
 
-[Companies want to plaster the night sky with ads on satellites.](https://slate.com/technology/2019/04/satellites-ads-space-startrocket-sky-canvas-ale-elysium.html)
+[Nest devices will lose IFTTT support this August](https://www.androidpolice.com/2019/05/08/nest-devices-will-lose-ifttt-support-this-august/)
 
-[Pepsi Announces Berry, Lime and Mango Flavors Made with Fruit Juice - PEOPLE.com](https://people.com/food/pepsi-lime-berry-mango-new-soda-flavors-taste-test/)
+[Apple Employees Starting to Receive Apple Cards (Photos) - MacRumors](https://www.macrumors.com/2019/05/12/apple-card-photos/)
 
-[Dr Pepper Releases New Dark Berry Flavor for a Limited Time Only - Thrillist](https://www.thrillist.com/news/nation/dr-pepper-dark-berry-new-flavor)
+[Nickelodeon slime now available in ice-cream form](https://thetakeout.com/nickelodeon-slime-now-available-in-ice-cream-form-1834385975)
 
-[Coca-Cola coffee drink gets wide rollout by end of 2019 - Fox Business](https://www.foxbusiness.com/markets/coca-cola-coffee-drink-gets-global-rollout-by-end-of-2019)
+[Oreo Confirms Five Flavors for the Summer - Food & Wine](https://www.foodandwine.com/news/oreo-new-flavors-summer-2019)
 
-[Kit Kat Announces New Flavor](https://comicbook.com/2019/04/27/kit-kat-announces-new-flavor/)
+[Finally, Chinese hot-pot toothpaste](https://thetakeout.com/finally-chinese-hot-pot-toothpaste-1834645463)
+
+[Keep Aerosols Away From the Stove](https://skillet.lifehacker.com/throw-out-old-canisters-of-pam-immediately-1834614281)
