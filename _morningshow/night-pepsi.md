@@ -8,7 +8,8 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   to get exclusive unedited episodes and more.
 date: 2019-05-14 12:00:00 -0700
 episode: "406"
-description: 'It''s like '
+description: It's like you bought a Pixel 3A and the "A" stands for Apple because
+  Kenny just can't stay away.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/a3244b8f.mp3
 image: ''
 published: false
