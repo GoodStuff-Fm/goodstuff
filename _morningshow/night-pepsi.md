@@ -1,5 +1,5 @@
 ---
-title: "406"
+title: Wasabi Toothpaste
 permalink: "/morningshow/406"
 show: morningshow
 layout: episode
@@ -7,9 +7,9 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 date: 2019-05-14 12:00:00 -0700
-episode: "405"
+episode: "406"
 description: 'It''s like '
-mp3: https://chtbl.com/track/9E18G/media.transistor.fm/a786e950.mp3
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/a3244b8f.mp3
 image: ''
 published: false
 
