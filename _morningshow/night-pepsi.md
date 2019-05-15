@@ -6,13 +6,12 @@ layout: episode
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-date: 2019-05-14 12:00:00 -0700
+date: 2019-05-15 10:00:00 -0700
 episode: "406"
 description: It's like you bought a Pixel 3A and the "A" stands for Apple because
   Kenny just can't stay away.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/a3244b8f.mp3
 image: ''
-published: false
 
 ---
 [Google Pixel 3A name: what does the A stand for? - The Verge](https://www.theverge.com/circuitbreaker/2019/5/8/18537322/google-pixel-3a-a-meaning-guesses-io-2019)
