@@ -10,8 +10,8 @@ date: 2019-05-16 11:00:00 -0700
 episode: 14
 description: 'This week: Giants News, Bingo-related Follow Up, more Weird Baseball
   Things, and the Minor League Team of the Week.'
-mp3: ''
-image: ''
+mp3: https://media.transistor.fm/fef538cc.mp3
+image: "/uploads/baseline-14.jpg"
 published: false
 
 ---
