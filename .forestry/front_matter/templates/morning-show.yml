@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _baseline/johann-sebastian-balk.md
 - _baseline/13.md
 - _baseline/a-very-muscular-horse.md
 - _baseline/big-ball-chunky-time.md
