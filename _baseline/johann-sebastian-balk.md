@@ -12,7 +12,6 @@ description: 'This week: Giants News, Bingo-related Follow Up, more Weird Baseba
   Things, and the Minor League Team of the Week.'
 mp3: https://media.transistor.fm/fef538cc.mp3
 image: "/uploads/baseline-14.jpg"
-published: false
 
 ---
 # Giants News
