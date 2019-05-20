@@ -22,8 +22,8 @@ fields:
 - type: include
   template: sponsor
 pages:
-- _noidea/s01-e07-sci-fi-fraternity.md
 - _noidea/s01-e08-butt-stevens.md
+- _noidea/s01-e07-sci-fi-fraternity.md
 - _noidea/s01-e03-the-sweat-pledge.md
 - _noidea/s01-e06-this-book-is-good.md
 - _noidea/s01e02-lying-is-the-point.md

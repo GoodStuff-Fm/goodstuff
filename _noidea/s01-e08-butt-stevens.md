@@ -27,7 +27,7 @@ image: "/uploads/S01E08 - Episode Art.jpg"
 
 ***
 
-* [Grumpy Cat’s death marks the end of the joyful Internet | Ars Technica](https://arstechnica.com/gaming/2019/05/grumpy-cats-death-marks-the-end-of-the-joyful-internet/)
+* [Grumpy Cat’s death marks the end of the joyful Internet Ars Technica](https://arstechnica.com/gaming/2019/05/grumpy-cats-death-marks-the-end-of-the-joyful-internet/)
 * Sad Cat
 
 ***
@@ -39,7 +39,7 @@ image: "/uploads/S01E08 - Episode Art.jpg"
 
 ***
 
-* [Opinion | Dear Millennials: The Feeling Is Mutual - The New York Times](https://www.nytimes.com/2019/05/17/opinion/biden-2020-millennials.html?action=click&module=Opinion&pgtype=Homepage)
+* [Opinion Dear Millennials: The Feeling Is Mutual - The New York Times](https://www.nytimes.com/2019/05/17/opinion/biden-2020-millennials.html?action=click&module=Opinion&pgtype=Homepage)
   * Sret Bevens
   * Butt Stevens
   * Pet Peetums
@@ -47,5 +47,5 @@ image: "/uploads/S01E08 - Episode Art.jpg"
 
 ***
 
-* [Don’t Let People Enjoy Things | Kate Wagner](https://thebaffler.com/kate-takes/dont-let-people-enjoy-things-wagner)
+* [Don’t Let People Enjoy Things Kate Wagner](https://thebaffler.com/kate-takes/dont-let-people-enjoy-things-wagner)
 * [New Carly Rae Jepsen](https://youtu.be/hwS64wL8cUQ)
