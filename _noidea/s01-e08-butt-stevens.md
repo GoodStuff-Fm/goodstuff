@@ -6,12 +6,11 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S01:E08 "Butt Stevens"
-date: 2019-05-20 11:00:00 -0700
+date: 2019-05-20 09:35:00 -0700
 episode: 8
 description: Boy, Chet Beefums sure has lots of opinions about Kids These Days.
-mp3: ''
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/e4ab9b78.mp3
 image: "/uploads/S01E08 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/S01E08 - Episode Art.jpg)
