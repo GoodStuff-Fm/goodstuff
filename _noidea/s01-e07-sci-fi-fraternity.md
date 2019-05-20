@@ -13,6 +13,8 @@ mp3: https://chtbl.com/track/9E18G/media.transistor.fm/51a8ad2d.mp3
 image: "/uploads/IHNIWID - S01E07 - Episode Art.jpg"
 
 ---
+![](/uploads/IHNIWID - S01E07 - Episode Art.jpg)
+
 * [Ginuwine's Pony on YouTube](https://youtu.be/lbnoG2dsUk0)
 * [Jock Jams](https://en.wikipedia.org/wiki/Jock_series)
 * [Now That's What I Call Music 69](http://bit.ly/30esAlA)
@@ -61,6 +63,6 @@ image: "/uploads/IHNIWID - S01E07 - Episode Art.jpg"
 * Social media as uncompensated labor
 * 
 
-  > Free speech is often likened to a marketplace of ideas. ... This “marketplace” metaphor was popularized in the United States in the early twentieth century by the Supreme Court justice Oliver Wendell Holmes, who argued that truth could best be promoted by a “free trade in ideas.” ... In fact, the “marketplace” metaphor perfectly describes the power dynamics of free speech in a capitalist society, though not in the way that its proponents intended. Multinational corporations aspiring toward monopolistic control of capital and information establish the general confines in which the vast majority of humanity sell their labor and articulate their speech. The market of commodities is inseparable from the market of ideas, since ideas are commodified along with everything else in capitalist society. All non-incarcerated citizens may have an equal right to literally speak, but the ability to make that speech heard and make it matter is highly stratified. Support for campaign finance reform and opposition to the Citizens United ruling by the Supreme Court show how many American liberals agree about the conflicts between free speech and big money.
-  >
-  > (from "Antifa: The Antifascist Handbook" by Mark Bray)
+> Free speech is often likened to a marketplace of ideas. ... This “marketplace” metaphor was popularized in the United States in the early twentieth century by the Supreme Court justice Oliver Wendell Holmes, who argued that truth could best be promoted by a “free trade in ideas.” ... In fact, the “marketplace” metaphor perfectly describes the power dynamics of free speech in a capitalist society, though not in the way that its proponents intended. Multinational corporations aspiring toward monopolistic control of capital and information establish the general confines in which the vast majority of humanity sell their labor and articulate their speech. The market of commodities is inseparable from the market of ideas, since ideas are commodified along with everything else in capitalist society. All non-incarcerated citizens may have an equal right to literally speak, but the ability to make that speech heard and make it matter is highly stratified. Support for campaign finance reform and opposition to the Citizens United ruling by the Supreme Court show how many American liberals agree about the conflicts between free speech and big money.
+>
+> (from "Antifa: The Antifascist Handbook" by Mark Bray)
