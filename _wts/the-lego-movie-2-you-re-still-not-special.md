@@ -12,7 +12,6 @@ description: On this episode we talk about The Lego Movie 2, adolescence, good p
   and whether people can change. I hope you like it!
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/2c247b25.mp3
 image: "/uploads/wts-97.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support Way Too Seriously on Patreon](https://www.patreon.com/clockworkscast)!
