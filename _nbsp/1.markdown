@@ -12,7 +12,7 @@ sponsor-link:
 sponsor-copy: ''
 episode: 1
 show: nbsp
-mp3: http://podcasts-1.feedpress.co/10609/nbsp-1.mp3
+mp3: https://podcasts-1.feedpress.co/10609/nbsp-1.mp3
 layout: episode
 ---
 
