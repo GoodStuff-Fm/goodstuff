@@ -10,7 +10,7 @@ sponsor-copy:
 episode: 1
 show: atu2
 layout: episode
-mp3: http://podcasts-1.feedpress.co/12572/atu2-1.mp3
+mp3: https://podcasts-1.feedpress.co/12572/atu2-1.mp3
 ---
 
 * [Discuss this episode](https://www.reddit.com/r/Goodstuff_fm/comments/3dad4n/the_atu2_podcast1_were_a_podcast_from_the/)

@@ -10,7 +10,7 @@ sponsor-copy:
 season: 4
 episode: 52
 show: 3g3q
-mp3: http://podcasts-1.feedpress.co/13789/13231.mp3
+mp3: https://podcasts-1.feedpress.co/13789/13231.mp3
 layout: episode
 ---
 

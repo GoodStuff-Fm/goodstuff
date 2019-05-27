@@ -9,7 +9,7 @@ sponsor-copy:
 season: 3
 episode: 29
 show: 3g3q
-mp3: http://podcasts-1.feedpress.co/13789/7259.mp3
+mp3: https://podcasts-1.feedpress.co/13789/7259.mp3
 layout: episode
 ---
 
