@@ -43,6 +43,8 @@ image: "/uploads/IHNIWID - S01E09.jpg"
 
 ***
 
+![](/uploads/la-1559058411-yms6a2zpv3-snap-image.jpeg)
+
 * Mountaineering Discussion
 
   [https://twitter.com/ThatAdamKid/status/1131924521315983360](https://twitter.com/ThatAdamKid/status/1131924521315983360)
