@@ -12,7 +12,6 @@ We'd love to hear from you. We'll do our best to respond as soon as possible.
 
 * [General Feedback][1]
 * [Contact Chris Enns][2]
-* [Contact Kyle Roderick][3]
 
 #### Advertising
 
@@ -20,5 +19,4 @@ Consult the [Advertise page][4] for more information.
 
 [1]: mailto:contact@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20General%20Feedback
 [2]: mailto:chris@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
-[3]: mailto:kyle@goodstuff.fm?subject=%5BGoodstuff%20FM%5D%20Contact
 [4]: /advertise
