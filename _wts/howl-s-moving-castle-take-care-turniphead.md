@@ -1,0 +1,23 @@
+---
+show: wts
+layout: episode
+permalink: "/wts/98"
+sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
+  on Patreon") and listeners just like you! Support your favorite podcasts directly
+  to get exclusive unedited episodes and more.
+title: 'Howl''s Moving Castle: Take Care, Turniphead!'
+date: 2019-06-07 02:00:00 -0700
+episode: 98
+description: |-
+  On this episode of WTS we talk about Hayao Miyazaki's Howl's Moving Castle. We cover old age, pacifism, and storytelling conventions.
+
+  This is our 98th episode. That means that in just two episodes we'll be at 100! We'd love to read and respond to feedback on that 100th episode. If you have questions or anything you'd like us to talk about be sure to let us know soon! Enjoy!
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/0d115ff1.mp3
+image: "/uploads/wts-98.jpg"
+published: false
+
+---
+If you like us or if you want more, please [support Way Too Seriously on Patreon](https://www.patreon.com/clockworkscast)!
+
+  
+We’d love to hear from you! Tell us what you think about this podcast, or this movie, or the book it was based on! And don't forget to send us questions, comments, or suggestions for our 100th episode, coming soon! You can send us a message [over Twitter](http://www.twitter.com/wtscast), or by email at waytooseriouslycast at gmail.com, or [in our subreddit](https://www.reddit.com/r/Goodstuff_fm/) or [on Facebook](http://www.facebook.com/wtscast), or [on instagram](https://www.instagram.com/waytooseriously/).
