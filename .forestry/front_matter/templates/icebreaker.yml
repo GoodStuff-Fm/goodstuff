@@ -22,6 +22,7 @@ fields:
 - type: include
   template: sponsor
 pages:
+- _noidea/s01-e10.md
 - _noidea/s01-e09-big-dog-and-the-strivers.md
 - _noidea/s01-e08-butt-stevens.md
 - _noidea/s01-e07-sci-fi-fraternity.md
