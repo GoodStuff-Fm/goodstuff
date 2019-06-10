@@ -17,8 +17,8 @@ noidea:
   category5:
   rss: https://goodstuff.fm/noidea/feed.xml
   itunes: https://itunes.apple.com/us/podcast/i-have-no-idea-what-im-doing/id1458827678?mt=2
-  pocketcasts:
-  overcast:
+  pocketcasts: https://pca.st/oXY1
+  overcast: https://overcast.fm/p1142139-aSDL52
   latest: https://share.transistor.fm/e/i-have-no-idea-what-im-doing/latest
 baseline:
   name: Baseline
