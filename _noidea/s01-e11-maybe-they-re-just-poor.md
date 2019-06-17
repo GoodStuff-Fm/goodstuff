@@ -11,10 +11,12 @@ episode: 11
 description: 'Behold: the great squaring is upon us! Repent and cease your worship
   of The Consumerist Mindset and learn to live, laugh, and love.'
 mp3: ''
-image: ''
+image: "/uploads/S10E11 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/S10E11 - Episode Art.jpg)
+
 ### Aaron’s Great Squaring
 
 * Circular stuff: get out of my fridge and cupboards
@@ -111,7 +113,7 @@ published: false
 
   > It is obvious that poverty limits access to mental healthcare, but what is overlooked is that all too often poverty creates the need for that care in the first place. Mental illness, like many health problems, typically strikes when biological vulnerability is coupled with exposure to a stressor. Poverty, simply defined, is when a household has insufficient resources to reliably meet its basic needs. This constant threat to one’s very survival most certainly qualifies. Poverty in and of itself is traumatic, especially during periods of brain and identity development. It also creates vulnerability to additional traumas – both inside and outside of the home. For example, families with limited resources can get stuck in neighborhoods with high rates of community violence and disproportionate contact with the criminal justice and foster care systems. Additionally, financially dependent poor women and their children are especially vulnerable to perpetrators of domestic violence and child abuse. Staying means ongoing abuse. Leaving means risk of hunger and/or homelessness.
   >
-  > **  
+  > \**  
   > When poverty creates the need for mental health care and then limits access to it, untreated mental illness shapes lives.** ... Poverty threatens mental well-being and as such, black people are exceptionally threatened. Per the U.S. Census Bureau, in 2016 22 percent of black people and 30 percent of black children lived below the poverty line.
 * [Why Is It Still OK To 'Trash' Poor White People? - NPR](https://www.npr.org/sections/codeswitch/2018/08/01/605084163/why-its-still-ok-to-trash-poor-white-people)
 
