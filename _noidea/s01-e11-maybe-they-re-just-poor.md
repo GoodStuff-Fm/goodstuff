@@ -8,8 +8,8 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: S01:E11 "Maybe They're Just Poor"
 date: 2019-06-17 00:00:00 -0700
 episode: 11
-description: 'Behold: the great squaring is upon us! Repent and cease your worship
-  of The Consumerist Mindset and learn to live, laugh, and love.'
+description: Behold! The great squaring is upon us! Repent and cease your worship
+  of The Consumerist Mindset and learn to live, laugh, and love.
 mp3: https://media.transistor.fm/495b434a.mp3
 image: "/uploads/S10E11 - Episode Art.jpg"
 
