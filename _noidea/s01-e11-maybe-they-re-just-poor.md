@@ -10,9 +10,8 @@ date: 2019-06-17 00:00:00 -0700
 episode: 11
 description: 'Behold: the great squaring is upon us! Repent and cease your worship
   of The Consumerist Mindset and learn to live, laugh, and love.'
-mp3: ''
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/4ddbd076.mp3
 image: "/uploads/S10E11 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/S10E11 - Episode Art.jpg)
