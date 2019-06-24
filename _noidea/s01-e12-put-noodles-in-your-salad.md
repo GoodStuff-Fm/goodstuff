@@ -9,9 +9,8 @@ title: S01:E12 "Put Noodles In Your Salad"
 date: 2019-06-24 00:00:00 -0700
 episode: 12
 description: "As of publishing this we are not at war with Iran, but who knows \U0001F937‍♂️"
-mp3: ''
+mp3: https://media.transistor.fm/461aaff4.mp3
 image: "/uploads/IHNIWID - S10E12 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S10E12 - Episode Art.jpg)
