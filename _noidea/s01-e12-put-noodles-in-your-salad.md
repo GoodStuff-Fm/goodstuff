@@ -10,10 +10,12 @@ date: 2019-06-24 00:00:00 -0700
 episode: 12
 description: "As of publishing this we are not at war with Iran, but who knows \U0001F937‍♂️"
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S10E12 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S10E12 - Episode Art.jpg)
+
 ### Crisis Averted?
 
 * WAR WITH IRAN, BABY!
@@ -62,13 +64,15 @@ published: false
 ***
 
 ### Influencers
+
 * [Marissa Fuchs's Proposal Was Pitched to Brands - The Atlantic](https://www.theatlantic.com/technology/archive/2019/06/was-viral-proposal-staged/592141/)
-    * Branded Proposal
+  * Branded Proposal
 * [A German Influencer Couple Said His Mom Pays For Their Travel And Are Getting Dragged For It](https://www.buzzfeednews.com/article/laurenstrapagiel/influencer-couple-cat-eli-beautiful-day-africa-trip)
 
 ***
 
 ### The C-Word
+
 * Concentration Camps
   * Republicans are trying to weaponize political correctness against a correct and entirely accurate description of immigration practices.
   * Mostly it's to distract us from actually putting a stop to it. Instead we just talk about what the right term is.
@@ -83,13 +87,15 @@ published: false
     [https://twitter.com/AaronLMGoodwin/status/1141329441844367360](https://twitter.com/AaronLMGoodwin/status/1141329441844367360 "https://twitter.com/AaronLMGoodwin/status/1141329441844367360")
 
 ***
+
 ### File Under: Things You Don't Understand Aren't Necessarily Bad
 
-  [https://twitter.com/toomuchnick/status/1142060540824629248](https://twitter.com/toomuchnick/status/1142060540824629248 "https://twitter.com/toomuchnick/status/1142060540824629248")
+[https://twitter.com/toomuchnick/status/1142060540824629248](https://twitter.com/toomuchnick/status/1142060540824629248 "https://twitter.com/toomuchnick/status/1142060540824629248")
 
 ***
 
 ### So Much for 'Hope And Change'
+
 * [Biden Tells Elite Donors He Doesn't Want to ‘Demonize’ the Rich](https://www.bloomberg.com/news/articles/2019-06-19/biden-tells-elite-donors-he-doesn-t-want-to-demonize-the-rich)
 
   > “Truth of the matter is, you all know, you all know in your gut what has to be done,” Biden said. “We can disagree in the margins. But the truth of the matter is, it’s all within our wheelhouse and nobody has to be punished. No one’s standard of living would change. **Nothing would fundamentally change**,” he said.
@@ -98,6 +104,7 @@ published: false
 ***
 
 ### Cryptocurrency Announcement
+
 * WoolooCoin has been acquired by Facebook
   * It will be sunset effective immediately
   * All WoolooCoins are now worthless
@@ -110,10 +117,11 @@ published: false
 ***
 
 ### Wife Guys
-  * [The Age of the Internet ‘Wife Guy’ - The New York Times](https://www.nytimes.com/2019/06/05/arts/internet-wife-guy-robbie-tripp.html)
-  * [The ‘Wife Guys’ of the 2020 presidential race - The Washington Post](https://www.washingtonpost.com/lifestyle/style/the-wife-guys-of-the-2020-presidential-race/2019/06/20/ecec43ec-92b9-11e9-aadb-74e6b2b46f6a_story.html?utm_term=.92019e2fb23d)
 
-    [https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc](https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc "https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc")[^tfw|twcamp^tweetembed|twterm^1141355651924406272&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Fstyle%2Fthe-wife-guys-of-the-2020-presidential-race%2F2019%2F06%2F20%2Fecec43ec-92b9-11e9-aadb-74e6b2b46f6a_story.html](https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1141355651924406272&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Fstyle%2Fthe-wife-guys-of-the-2020-presidential-race%2F2019%2F06%2F20%2Fecec43ec-92b9-11e9-aadb-74e6b2b46f6a_story.html)
+* [The Age of the Internet ‘Wife Guy’ - The New York Times](https://www.nytimes.com/2019/06/05/arts/internet-wife-guy-robbie-tripp.html)
+* [The ‘Wife Guys’ of the 2020 presidential race - The Washington Post](https://www.washingtonpost.com/lifestyle/style/the-wife-guys-of-the-2020-presidential-race/2019/06/20/ecec43ec-92b9-11e9-aadb-74e6b2b46f6a_story.html?utm_term=.92019e2fb23d)
+
+  [https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc](https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc "https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc")[^tfw|twcamp^tweetembed|twterm^1141355651924406272&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Fstyle%2Fthe-wife-guys-of-the-2020-presidential-race%2F2019%2F06%2F20%2Fecec43ec-92b9-11e9-aadb-74e6b2b46f6a_story.html](https://twitter.com/KELLYWEILL/status/1141355651924406272?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1141355651924406272&ref_url=https%3A%2F%2Fwww.washingtonpost.com%2Flifestyle%2Fstyle%2Fthe-wife-guys-of-the-2020-presidential-race%2F2019%2F06%2F20%2Fecec43ec-92b9-11e9-aadb-74e6b2b46f6a_story.html)
 
 ***
 
