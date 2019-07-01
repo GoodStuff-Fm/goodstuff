@@ -9,11 +9,12 @@ title: S01:E13 "Young Grandpa"
 date: 2019-07-01 00:00:00 -0700
 episode: 13
 description: Okay, fine, we'll talk about the debates.
-mp3: ''
-image: ''
-published: false
+mp3: https://media.transistor.fm/65947667.mp3
+image: "/uploads/IHNIWID - S01E13 - Episode Art.jpg"
 
 ---
+![](/uploads/IHNIWID - S01E13 - Episode Art.jpg)
+
 ### A very important announcement
 
 * THIS IS THE PENULTIMATE EPISODE OF SEASON ONE
