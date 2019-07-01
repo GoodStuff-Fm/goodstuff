@@ -63,7 +63,7 @@ image: "/uploads/IHNIWID - S01E13 - Episode Art.jpg"
 ### Please, won't somebody think of the conservative, white, upper-class men?!
 
 * Right wingers who have Thoughts about what the Left should be doing
-  * [Opinion | Dems, Please Don’t Drive Me Away - The New York Times](https://www.nytimes.com/2019/06/27/opinion/democratic-debate-2020.html)
+  * [Opinion - Dems, Please Don’t Drive Me Away - The New York Times](https://www.nytimes.com/2019/06/27/opinion/democratic-debate-2020.html)
     * Bavid Drooks
 
   [https://twitter.com/lubchansky/status/1144680859397738496](https://twitter.com/lubchansky/status/1144680859397738496 "https://twitter.com/lubchansky/status/1144680859397738496")
