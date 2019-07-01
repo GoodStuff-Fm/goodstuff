@@ -30,7 +30,7 @@ image: "/uploads/IHNIWID - S01E13 - Episode Art.jpg"
 ***
 
 ### The "Debates"
-
+ 
 * Quick takes on each candidate
   * Night 1
     * Bill de Blastio
