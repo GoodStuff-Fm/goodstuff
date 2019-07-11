@@ -13,7 +13,6 @@ description: It's here at last! This is our episode about the premiere of season
   away.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/1a73908a.mp3
 image: "/uploads/clockworks-50.jpg"
-published: false
 
 ---
 This episode is coming out a little later than we had hoped because we were both sick, one after the other, and then Paul had to be out of town for a week. Sorry about that, but we're here now, and we're eager to talk about this show! We're hoping to catch up to the show's broadcast schedule if we can, so hopefully you will see another episode of Clockworks coming out sooner than a week from now!  
