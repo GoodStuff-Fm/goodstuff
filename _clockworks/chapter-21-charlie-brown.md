@@ -12,7 +12,6 @@ description: Here's our episode about the Legion Chapter 21! In this episode of 
   Syd and David talk about the past, and David and Switch make plans to change it.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/7962fbf6.mp3
 image: "/uploads/Clockworks-51.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!  
