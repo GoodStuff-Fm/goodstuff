@@ -4,7 +4,7 @@ date: 2019-07-16 08:00:00 -06:00
 episode: 93
 show: atu2
 description: A conversation with Aaron Govern about Finding a Rare Dandelion in the market.
-mp3: 
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b853f762.mp3
 image: "/uploads/atu2-93.jpg"
 video: 
 sponsor: Want to help Chris make the show? [Support him on his Patreon](https://www.patreon.com/ichris)
