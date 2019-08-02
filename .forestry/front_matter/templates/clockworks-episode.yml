@@ -25,8 +25,8 @@ fields:
   label: Sponsor
   name: sponsor
 pages:
-- _clockworks/chapter-22-she-comes-in-colours-again.md
 - _clockworks/chapter-21-charlie-brown.md
+- _clockworks/chapter-22-she-comes-in-colours-again.md
 - _clockworks/chapter-20-2000-light-years-from-home.md
 - _clockworks/russian-doll.md
 - _clockworks/bonus-episode-deadpool-2.md
