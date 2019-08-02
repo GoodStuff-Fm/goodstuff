@@ -14,3 +14,6 @@ mp3: https://chtbl.com/track/9E18G/media.transistor.fm/7a03efb1.mp3
 image: ''
 
 ---
+[‎Yesterday (2019) directed by Danny Boyle • Reviews, film + cast • Letterboxd](https://letterboxd.com/film/yesterday-2019/)  
+[Apple preps iPad Apple Card app for August launch, ends Barclays rewards | VentureBeat](https://venturebeat.com/2019/08/02/apple-preps-ipad-apple-card-app-for-august-launch-ends-barclays-rewards/)  
+[The Best New Ballpark Food To Try At Your Next Baseball Game in 2019](https://www.ballparksavvy.com/ballpark-food/)
