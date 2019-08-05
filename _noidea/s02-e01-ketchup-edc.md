@@ -11,7 +11,7 @@ episode: 15
 description: Starting to think "disruption" is an excuse for not treating people great,
   tbqh
 mp3: ''
-image: "/uploads/IHNIWID - S1E14 - Episode Art.jpg"
+image: "/uploads/IHNIWID - S02E01 - Episode Art.jpg"
 published: false
 
 ---
