@@ -19,8 +19,12 @@ fields:
   default: "/noidea/"
 - type: include
   template: morning-show-episode
+  name: episode_detail
+  label: Episode Detail
 - type: include
   template: sponsor
+  name: sponsor
+  label: Sponsor
 pages:
 - _noidea/s02-e01-ketchup-edc.md
 - _noidea/s01-e08-butt-stevens.md
