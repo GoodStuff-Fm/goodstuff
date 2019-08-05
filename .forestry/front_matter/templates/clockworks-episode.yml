@@ -18,8 +18,9 @@ fields:
   description: Permalink for the episode starting with https://goodstuff.fm
   default: "/clockworks/"
 - type: include
-  label: Episode Details
+  label: Episode Detail
   template: morning-show-episode
+  name: episode_detail
 - type: include
   template: sponsor
   label: Sponsor
