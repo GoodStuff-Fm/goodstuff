@@ -22,6 +22,7 @@ fields:
 - type: include
   template: sponsor
 pages:
+- _noidea/s02-e01-ketchup-edc.md
 - _noidea/s01-e08-butt-stevens.md
 - _noidea/s01-e07-sci-fi-fraternity.md
 - _noidea/s01-e05-for-who.md
