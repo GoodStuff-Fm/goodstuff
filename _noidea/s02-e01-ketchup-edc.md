@@ -10,7 +10,7 @@ date: 2019-08-05 00:00:00 -0700
 episode: 15
 description: Starting to think "disruption" is an excuse for not treating people great,
   tbqh
-mp3: ''
+mp3: https://media.transistor.fm/6270a312.mp3
 image: "/uploads/IHNIWID - S02E01 - Episode Art.jpg"
 published: false
 
