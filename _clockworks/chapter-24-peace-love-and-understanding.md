@@ -13,7 +13,6 @@ description: On this episode of Legion David goes to war. We talk about Farouk's
   hope you like it!
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/c46c417f.mp3
 image: "/uploads/clockworks-54.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!  
