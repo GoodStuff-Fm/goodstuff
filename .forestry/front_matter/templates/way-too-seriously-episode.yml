@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _wts/wts-100.md
 - _wts/howl-s-moving-castle-take-care-turniphead.md
 - _wts/fern-gully-are-there-australians-in-australia.md
 - _wts/mulan-let-s-get-down-to-business-1.md
