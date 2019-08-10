@@ -9,7 +9,7 @@ episode: "408"
 description: It's like the show is probably only about food now and we want to know
   if we've made a terrible missed steak.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7b8b6df.mp3
-image: ''
+image: "/uploads/morningshow-408.png"
 
 ---
 [Disney announces $12.99 bundle for Disney+, Hulu, and ESPN+](https://www.theverge.com/2019/8/6/20757626/disney-plus-espn-hulu-bundle-price-date-streaming-service)
