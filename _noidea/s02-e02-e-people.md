@@ -9,9 +9,8 @@ title: S02:E02 - "E-People"
 date: 2019-08-12 00:00:00 -0700
 episode: 16
 description: Turns out the "E" stands for electronics, not efficiency.
-mp3: ''
+mp3: https://media.transistor.fm/c3c7d24d.mp3
 image: "/uploads/IHNIWID - S02E02 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E02 - Episode Art.jpg)
