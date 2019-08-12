@@ -10,10 +10,12 @@ date: 2019-08-12 00:00:00 -0700
 episode: 16
 description: Turns out the "E" stands for electronics, not efficiency.
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E02 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E02 - Episode Art.jpg)
+
 **Effry Jepstein**
 
 * RIP
@@ -37,8 +39,8 @@ published: false
 
 [Ask Polly: My In-Laws Are Careless About My Food Allergy!](https://www.thecut.com/2019/08/ask-polly-my-in-laws-are-careless-about-my-food-allergy.html)
 
-> I have a very severe allergy to mushrooms. I carry an EpiPen, and I have been hospitalized multiple times because of exposure to this food. One time, I began convulsing in the ambulance on the way to the hospital. My husband politely explained this to his parents when we started dating, and I was invited to family meals.   
->   
+> I have a very severe allergy to mushrooms. I carry an EpiPen, and I have been hospitalized multiple times because of exposure to this food. One time, I began convulsing in the ambulance on the way to the hospital. My husband politely explained this to his parents when we started dating, and I was invited to family meals.
+>
 > Since then, most meals we have shared at my in-laws’ house have had very limited options for me. Somehow, they manage to find a way to add mushrooms to almost everything. One time, they made a point to make a special plate of mushrooms and pass it around. My mother-in-law said, very rudely, “I would’ve liked to add mushrooms directly to the salad, but SOMEBODY has problems with it!” They even added mushroom powder to the mashed potatoes at one holiday dinner. My mother-in-law claimed it was a new recipe she’d found.
 
 **Coffee Shaming**
