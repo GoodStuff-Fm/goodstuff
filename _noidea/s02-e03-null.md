@@ -10,10 +10,11 @@ date: 2019-08-19 00:00:00 -0700
 episode: 18
 description: ''
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E03 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E03 - Episode Art.jpg)
 
 **Taco Talk (or, Let's Taco Bout Tacos)**
 
@@ -64,7 +65,7 @@ Clearly this is the only bad thing he's done, though. Everything else is _fine._
 
 **Space Watch**
 
-* Aaron is pregaming Picard 
+* Aaron is pregaming Picard
 
 **Amazon's Fulfillment Center Ambassadors Are Basically The Borg**
 
