@@ -8,8 +8,9 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: S02:E03 - "NULL"
 date: 2019-08-19 00:00:00 -0700
 episode: 18
-description: ''
-mp3: ''
+description: Realizing it's our fault for the problems we are dealing with, and not
+  Amazon's
+mp3: https://media.transistor.fm/a1c52bdf.mp3
 image: "/uploads/IHNIWID - S02E03 - Episode Art.jpg"
 published: false
 
