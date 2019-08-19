@@ -12,7 +12,6 @@ description: Realizing it's our fault for the problems we are dealing with, and 
   Amazon's
 mp3: https://media.transistor.fm/a1c52bdf.mp3
 image: "/uploads/IHNIWID - S02E03 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E03 - Episode Art.jpg)
