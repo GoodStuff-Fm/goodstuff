@@ -8,7 +8,7 @@ collections:
     permalink: "/3g3q/:path"
     slug: 3g3q
     retired: false
-    inactive: true
+    inactive: false
     live: false
   baseline:
     title: baseline
@@ -16,7 +16,7 @@ collections:
     permalink: "/baseline/:path"
     slug: baseline
     retired: false
-    inactive: false
+    inactive: true
     live: false
   noidea:
     title: I Have No Idea What I'm Doing
@@ -116,6 +116,7 @@ collections:
     permalink: "/smym/:path"
     retired: false
     live: false
+    inactive: true
   atu2:
     title: The @U2 Podcast
     output: true
