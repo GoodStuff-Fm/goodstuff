@@ -2,7 +2,7 @@
 title: S10:E10 - "Know The Protocol"
 date: 2018-08-15T08:00:00.000+00:00
 show: 3g3q
-mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b216a4ac.mp3
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/1f3b5670.mp3
 description: Condiment bandoleer, socialist rants, & pickup problems
 episode: "149"
 Image: "/uploads/3G3Q%20-%20S10E10%20-%20Episode%20Art%20-%20S.jpg"
