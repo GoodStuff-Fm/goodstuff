@@ -5,30 +5,46 @@ fields:
 - type: text
   name: show
   label: show
+  default: 3g3q
+  hidden: true
 - type: text
   name: layout
   label: layout
-- type: text
-  name: permalink
-  label: permalink
-- type: textarea
-  name: sponsor
-  label: sponsor
+  default: episode
+  hidden: true
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
+  config:
+    required: true
 - type: text
   name: episode
   label: episode
+  description: Episode Number
+- type: datetime
+  name: date
+  label: date
+  default: now
+  config:
+    required: true
+  description: Publish Date (Set in future to schedule)
+- type: text
+  name: permalink
+  label: permalink
+  default: "/3g3q/"
+  description: Using format /3g3q/999
 - type: text
   name: description
   label: description
 - type: text
   name: mp3
   label: mp3
+- type: textarea
+  name: sponsor
+  label: sponsor
+  default: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
+    on Patreon") and listeners just like you! Support your favorite podcasts directly
+    to get exclusive unedited episodes and more.
 - type: file
   name: image
   label: image
