@@ -16,7 +16,7 @@ fields:
   name: title
   label: title
   config:
-    required: true
+    required: false
 - type: text
   name: episode
   label: episode
