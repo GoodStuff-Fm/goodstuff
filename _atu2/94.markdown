@@ -1,0 +1,50 @@
+---
+title: Drunk Guardian Angel
+date: 2019-08-21 08:00:00 -06:00
+episode: 94
+show: atu2
+description: A conversation with Jill Marino about trying to get home from a U2 concert.
+mp3: "https://chtbl.com/track/9E18G/media.transistor.fm/b55f0e27.mp3"
+image: "/uploads/atu2-94.jpg"
+video: 
+sponsor: Want to help Chris make the show? [Support him on his Patreon](https://www.patreon.com/ichris)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+
+### Timejumps
+
+* **[01:25](#t=01:25)** U2 News
+* **[05:13](#t=05:13)** Listener stories
+* **[09:51](#t=09:51)** Jill's U2 concert story
+* **[49:46](#t=49:46)** Where to find us
+
+### Show Notes
+
+* [atU2’s Guide to Dublin](https://www.atu2.com/band/dublin.html)
+* [@Corianderstem](https://twitter.com/corianderstem/status/1163926309484937216)
+* [@WildChordypie](https://twitter.com/wildchordypie/status/1164054705418330114)
+* [@Zoeica](https://twitter.com/zoeica/status/1164186143455404045)
+* [@Poethlyn8](https://twitter.com/poethlyn8/status/1164205508204683264)
+* [@Alberecht_Bob](https://twitter.com/albrecht_bob/status/1164194131033370624)
+* [@Deidre223](https://twitter.com/Deirdre223/status/1164228659865116672)
+* [@Aussiegirl360](https://twitter.com/Aussiegirl360/status/1164273744476553221)
+* [@not_wide](https://twitter.com/not_wide/status/1164217218147786752?s=20)
+* [@Skhentigan](https://twitter.com/skhentigan/status/1164296472252289025?s=20)
+* [@Upperclass_twit](https://twitter.com/upperclass_twit/status/1164297756803911680?s=20)
+* [@U2Baja](https://twitter.com/U2Baja/status/1164319362582482945)
+* [@No_End_2_Love](https://twitter.com/no_end_2_love/status/1164322583887695872?s=20)
+
+Many more stories came in after we recorded so be sure to [read this Twitter thread for more!](https://twitter.com/iChris/status/1164580116334358528?s=20).
+
+* [Chris Enns on Twitter](https://twitter.com/ichris)
+* [Jill Marino on Twitter](https://twitter.com/beautifulday36)
+
+* [Twitter atU2](https://twitter.com/atu2)
+* [Facebook atU2com](https://www.facebook.com/atu2com)
+* [Instagram atU2com](https://www.instagram.com/atu2com/)
+* [Flickr atu2](https://www.flickr.com/photos/atu2com/)
+* [Theme song by Simon Peyda](https://simonpeyda.wordpress.com/2016/04/06/how-to-dismantle-a-sirens-song-the-making-of-a-podcast-theme/)
