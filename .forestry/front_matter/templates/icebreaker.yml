@@ -26,6 +26,7 @@ fields:
   name: sponsor
   label: Sponsor
 pages:
+- _noidea/s02-e04-that-s-a-big-bowl-of-pasta.md
 - _noidea/s02-e03-null.md
 - _noidea/s02-e02-e-people.md
 - _noidea/s02-e01-ketchup-edc.md
