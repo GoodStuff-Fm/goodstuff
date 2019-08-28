@@ -9,11 +9,13 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: S11:E02 - "Leghorn and Angel at Law"
 episode: "153"
 description: This episode is all about magic
-mp3: ''
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/f9c0f194.mp3
 image: "/uploads/3G3Q - S11E02 - Episode Art - S.jpg"
 published: false
 
 ---
+![](/uploads/3G3Q - S11E02 - Episode Art - S.jpg)
+
 This week we are sponsored by: Magic Mike
 
 # Questions:
