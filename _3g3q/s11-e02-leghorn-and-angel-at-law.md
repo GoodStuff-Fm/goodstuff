@@ -1,7 +1,7 @@
 ---
 show: 3g3q
 layout: episode
-date: 2019-08-28 07:32:53 -0700
+date: 2019-08-28 01:32:53 -0700
 permalink: "/3g3q/153"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
@@ -11,7 +11,6 @@ episode: "153"
 description: This episode is all about magic
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/f9c0f194.mp3
 image: "/uploads/3G3Q - S11E02 - Episode Art - S.jpg"
-published: false
 
 ---
 ![](/uploads/3G3Q - S11E02 - Episode Art - S.jpg)
