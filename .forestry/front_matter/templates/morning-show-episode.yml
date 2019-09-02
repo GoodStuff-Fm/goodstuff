@@ -1,31 +1,41 @@
 ---
-label: Episode Details
-hide_body: true
+label: Morning Show Episode
+hide_body: false
 fields:
 - type: text
   name: title
-  label: Episode Title
-  description: ''
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: show
+  label: show
+- type: text
+  name: layout
+  label: layout
+- type: textarea
+  name: sponsor
+  label: sponsor
 - type: datetime
   name: date
-  label: Publish Date
-- type: number
+  label: date
+- type: text
   name: episode
-  label: Episode Number
-  config:
-    min: '1'
-    step: '1'
-- type: textarea
+  label: episode
+- type: text
   name: description
-  label: Episode Summary
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
+  label: description
 - type: text
   name: mp3
-  label: MP3 URL
-- type: file
-  name: image
+  label: mp3
+- name: image
+  type: file
+  config:
+    maxSize: 250
   label: Social Image
   description: 'Recommended size: 1012w by 506h'
+pages:
+- _morningshow/compechicken.md
+- _morningshow/omakase-chipotle-experience.md
+- _morningshow/flesh-bread.md
