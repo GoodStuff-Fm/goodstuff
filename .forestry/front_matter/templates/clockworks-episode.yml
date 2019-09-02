@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   name: sponsor
 pages:
+- _clockworks/chapter-25-cinnamon-girl.md
 - _clockworks/chapter-24-peace-love-and-understanding.md
 - _clockworks/chapter-21-charlie-brown.md
 - _clockworks/chapter-22-she-comes-in-colours-again.md
