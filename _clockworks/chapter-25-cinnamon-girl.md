@@ -14,8 +14,7 @@ description: Hi everyone! Life forced an unexpected and unwelcome hiatus on us, 
   of Legion Oliver and Melanie find baby Syd in the astral plane and raise her, teaching
   her what she needs to know to save the world.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/9f31bb34.mp3
-image: ''
-published: false
+image: "/uploads/clockworks-55.jpg"
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!  
