@@ -9,9 +9,8 @@ title: S02:E05 - "#RebrandMen"
 date: 2019-09-03 00:00:00 -0700
 episode: '18'
 description: 'The #99rules for #NewMans'
-mp3: ''
+mp3: https://media.transistor.fm/5aee3a8f.mp3
 image: "/uploads/IHNIWID - S02E05 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E05 - Episode Art.jpg)
