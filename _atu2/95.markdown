@@ -1,5 +1,5 @@
 ---
-title: "In The Groove: U2 Vinyl"
+title: "In The Groove of U2 Vinyl"
 date: 2019-09-04 08:00:00 -06:00
 episode: 95
 show: atu2
