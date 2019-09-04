@@ -1,0 +1,44 @@
+---
+title: "In The Groove of U2 Vinyl"
+date: 2019-09-04 08:00:00 -06:00
+episode: 95
+show: atu2
+description: Join Aaron Govern, Brian Betteridge, and Eric Gifford as they chat about U2 vinyl. In this episode, they'll discuss equipment, rare releases, the new colored vinyl editions, and take questions from fans on social media.
+mp3: "https://chtbl.com/track/9E18G/media.transistor.fm/a33abffa.mp3"
+image: "/uploads/atu2-95.jpg"
+video: 
+sponsor: Want to help Chris make the show? [Support him on his Patreon](https://www.patreon.com/ichris)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+
+### Timejumps
+
+* **[02:36](#t=02:36)** How did you get started in vinyl?
+* **[27:03](#t=27:03)** Audio equipment
+* **[39:04](#t=39:04)** Any tips for avoiding being ripped off?
+* **[45:39](#t=45:39)** Is it true that colored releases are of inferior quality?
+* **[48:45](#t=48:45)** What's a fair price for early U2 records?
+* **[52:59](#t=52:59)** What are the rarest U2 releases worth paying more for?
+* **[58:39](#t=58:39)** Favorite U2 purchases?
+
+### Show Notes
+
+* [LP Gear](https://www.lpgear.com)
+* [Rega turntables](http://www.rega.co.uk/turntables.html)
+* [Audio Technica turntables](https://www.audio-technica.com/cgi-bin/product_search/turntables/turntables.pl?lang=eng)
+* [Discogs](https://www.discogs.com)
+* [Record Collector Magazine](https://recordcollectormag.com)
+* [Chris Enns on Twitter](https://twitter.com/ichris)
+* [Aaron Govern on Twitter](https://twitter.com/ivanobe)
+* [Eric Gifford on Twitter](https://twitter.com/ericbobg)
+* [Brian Betteridge on Twitter](https://twitter.com/BrianovichIV)
+
+* [Twitter atU2](https://twitter.com/atu2)
+* [Facebook atU2com](https://www.facebook.com/atu2com)
+* [Instagram atU2com](https://www.instagram.com/atu2com/)
+* [Flickr atu2](https://www.flickr.com/photos/atu2com/)
+* [Theme song by Simon Peyda](https://simonpeyda.wordpress.com/2016/04/06/how-to-dismantle-a-sirens-song-the-making-of-a-podcast-theme/)
