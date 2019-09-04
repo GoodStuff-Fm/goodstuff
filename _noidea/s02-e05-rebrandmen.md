@@ -26,7 +26,7 @@ That is all.
 **Bedbug Stephens Was On One This Week**
 
 * [David Karpf Officially Throws Bret Stephens In the Trash](https://splinternews.com/gw-professor-officially-throws-bret-stephens-in-the-tra-1837640830)
-* [Opinion | World War II and the Ingredients of Slaughter - The New York Times](https://www.nytimes.com/2019/08/30/opinion/world-war-ii-anniversary.html)
+* [Opinion - World War II and the Ingredients of Slaughter - The New York Times](https://www.nytimes.com/2019/08/30/opinion/world-war-ii-anniversary.html)
 * [southpaw on Twitter: "I just followed Bret’s own link. What are we doing here? https://t.co/vUoxKZFYDI https://t.co/iyd2UvNcqp" / Twitter](https://twitter.com/nycsouthpaw/status/1167586059120758784)
 
 **Innovation in Censorship**
