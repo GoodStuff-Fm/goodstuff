@@ -165,8 +165,6 @@ exclude:
 - README.markdown
 - Gemfile.lock
 - Gemfile
-sass:
-  sass_dir: "./styles"
 include:
 - _twitter
 - _redirects

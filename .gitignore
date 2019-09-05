@@ -15,3 +15,6 @@ _site/contact/index.html
 _site/about/index.html
 
 .jekyll-metadata
+
+# Local Netlify folder
+.netlify
