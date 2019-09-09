@@ -1,7 +1,7 @@
 ---
 show: clockworks
 layout: episode
-permalink: "/clockworks/"
+permalink: "/clockworks/56"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
@@ -13,7 +13,6 @@ description: We're talking about the penultimate episode of Legion! Season 3 epi
   Syd uses her new upbringing to advise Gabrielle.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/f46d43a5.mp3
 image: "/uploads/clockworks-56.jpg"
-published: false
 
 ---
 If you like us or if you want more, please [support us on Patreon](https://www.patreon.com/clockworkscast)!  
