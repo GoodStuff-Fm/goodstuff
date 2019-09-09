@@ -1,22 +1,20 @@
-<div class="container__wide__dark">
-    <nav role="navigation" class="header">
-        <ul class="header__list">
-            <li class="header__list__logo">
-                <a href="/"><img src="{{ site.logo-small }}" alt="{{ site.title }}" /></a>
-            </li>
+<div class="container mx-auto">
+    <nav role="navigation">
+                <a href="/"><img src="{{ site.logo-small }}" alt="{{ site.title }}" class="float-left/></a>
+        <ul class="">
             {% for item in site.data.navigation.header %}
-            <li class="header__list__item">
+            <li class="">
                 <a href="{{ item.url }}" class="header__list__link">{{ item.title }}</a>
             </li>
             {% endfor %}
             {% for collection in site.collections limit: 1 %}
             {% if collection.live == true %}
-            <li class="header__list__live">
-                <a href="/live" class="header__list__link">Live</a>
+            <li>
+                <a href="/live" class="">Live</a>
             </li>
             {% elsif collection.live != true %}
-            <li class="header__list__notlive">
-                <a href="/live" class="header__list__link">Live</a>
+            <li class="">
+                <a href="/live" class="">Live</a>
             </li>
             {% endif %}
             {% endfor %}
