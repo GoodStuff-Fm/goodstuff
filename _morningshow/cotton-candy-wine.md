@@ -11,7 +11,7 @@ episode: '410'
 description: It's like we have a million dollars and we'd buy you a house and buy
   you furniture for your house.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/2f5aab9f.mp3
-image: ''
+image: "/uploads/morningshow-410.jpg"
 
 ---
 [https://en.wikipedia.org/wiki/If_I_Had_](https://en.wikipedia.org/wiki/If_I_Had_ "https://en.wikipedia.org/wiki/If_I_Had_")[$1000000](https://en.wikipedia.org/wiki/If_I_Had_$1000000)
