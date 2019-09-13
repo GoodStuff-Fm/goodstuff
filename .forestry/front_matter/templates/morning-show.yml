@@ -10,7 +10,7 @@ fields:
 - type: text
   name: show
   label: show
-  hidden: true
+  hidden: false
   default: baseline
 - type: text
   name: layout
