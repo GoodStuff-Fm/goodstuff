@@ -26,6 +26,7 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _morningshow/cotton-candy-wine.md
 - _baseline/13.md
 - _baseline/mr-shucks.md
 - _baseline/episode 11.md
