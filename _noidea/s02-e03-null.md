@@ -1,13 +1,13 @@
 ---
 show: noidea
 layout: episode
-permalink: "/noidea/18"
+permalink: "/noidea/17"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S02:E03 - "NULL"
 date: 2019-08-19 00:00:00 -0700
-episode: 18
+episode: '17'
 description: Realizing it's our fault for the problems we are dealing with, and not
   Amazon's
 mp3: https://media.transistor.fm/a1c52bdf.mp3

@@ -1,13 +1,13 @@
 ---
 show: noidea
 layout: episode
-permalink: "/noidea/19"
+permalink: "/noidea/18"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S02:E04 - "That's A Big Bowl of Pasta"
 date: 2019-08-26 00:00:00 -0700
-episode: 19
+episode: '18'
 description: It's The Official Podcast Day because Conan hath declared it
 mp3: https://media.transistor.fm/0aaeb3fc.mp3
 image: "/uploads/IHNIWID - S02E04 - Episode Art.jpg"
