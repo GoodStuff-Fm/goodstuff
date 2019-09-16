@@ -5,7 +5,7 @@ permalink: "/clockworks/57"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: 'Chapter 26: You''ll Always Be a Baby To Me'
+title: 'Chapter 27: You''ll Always Be a Baby To Me'
 date: 2019-09-16 04:00:00 -0700
 episode: '57'
 description: |-
