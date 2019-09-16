@@ -10,10 +10,11 @@ date: 2019-09-16 16:00:00 -0700
 episode: '20'
 description: As hard workers, we
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E06 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E06 - Episode Art.jpg)
 
 **CICPS Followup**
 
@@ -46,9 +47,9 @@ published: false
 
 > At Ms. Warren’s campaign stops, her speech to the crowd is only the first half of a two-act production. What comes next, and can last just as long, is the Warren selfie line, a campaign-trail innovation for the age of Instagram.
 >
-> Ms. Warren’s campaign estimates that she has spent about 107 hours taking pictures in selfie lines since entering the race — the equivalent of working 9-to-5 for 13 days. At one event in Iowa, she continued posing for pictures in the midst of a tornado warning.   
->   
->  [How to Get a Selfie With Elizabeth Warren in 8 Steps - NY Times](https://www.nytimes.com/interactive/2019/07/22/us/politics/elizabeth-warren-selfies.html)
+> Ms. Warren’s campaign estimates that she has spent about 107 hours taking pictures in selfie lines since entering the race — the equivalent of working 9-to-5 for 13 days. At one event in Iowa, she continued posing for pictures in the midst of a tornado warning.
+>
+> [How to Get a Selfie With Elizabeth Warren in 8 Steps - NY Times](https://www.nytimes.com/interactive/2019/07/22/us/politics/elizabeth-warren-selfies.html)
 
 **DEBATE RECAP**
 
@@ -81,4 +82,4 @@ published: false
 
 **Hard Work: What Even Is It?**
 
-[I Have No Idea What “Hard Work” Means - Current Affairs](https://www.currentaffairs.org/2019/09/i-have-no-idea-what-hard-work-means) 
+[I Have No Idea What “Hard Work” Means - Current Affairs](https://www.currentaffairs.org/2019/09/i-have-no-idea-what-hard-work-means)
