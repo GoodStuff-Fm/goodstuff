@@ -1,13 +1,13 @@
 ---
 show: noidea
 layout: episode
-permalink: "/noidea/18"
+permalink: "/noidea/19"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S02:E05 - "#RebrandMen"
 date: 2019-09-03 00:00:00 -0700
-episode: '18'
+episode: '19'
 description: 'The #99rules for #NewMans'
 mp3: https://media.transistor.fm/5aee3a8f.mp3
 image: "/uploads/IHNIWID - S02E05 - Episode Art.jpg"
