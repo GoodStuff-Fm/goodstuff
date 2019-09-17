@@ -10,10 +10,12 @@ title: S11:E04 - "Gangs Everywhere"
 episode: "155"
 description: This episode is all about gangs
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/f9de5d29.mp3
-image: ''
+image: "/uploads/3G3Q - S11E04 - Episode Art - S.jpg"
 published: false
 
 ---
+![](/uploads/3G3Q - S11E04 - Episode Art - S.jpg)
+
 This week we are sponsored by: Barry
 
 # Questions:
