@@ -9,9 +9,8 @@ title: S02:E06 - "Hard Workers"
 date: 2019-09-16 16:00:00 -0700
 episode: '20'
 description: As hard workers, we...
-mp3: ''
+mp3: https://media.transistor.fm/956da2ed.mp3
 image: "/uploads/IHNIWID - S02E06 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E06 - Episode Art.jpg)
