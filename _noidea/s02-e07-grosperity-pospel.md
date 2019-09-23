@@ -14,6 +14,8 @@ image: "/uploads/IHNIWID - S02E07 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E07 - Episode Art.jpg)
+
 **Shrimp-tastrophy**
 
 > Starting in the early 1960s, California and Nevada’s departments of Fish and Game (now the California Department of Fish and Wildlife and the Nevada Department of Wildlife) released mysis shrimp into Lake Tahoe in hopes that they would be a new and abundant food source for the lake’s fish.
