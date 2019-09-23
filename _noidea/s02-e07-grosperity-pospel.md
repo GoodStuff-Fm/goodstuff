@@ -9,9 +9,8 @@ title: S02:E07 - "Grosperity Pospel"
 date: 2019-09-23 00:00:00 -0700
 episode: '21'
 description: We need private jets,,,for our work!
-mp3: ''
+mp3: https://media.transistor.fm/4b1e3d92.mp3
 image: "/uploads/IHNIWID - S02E07 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E07 - Episode Art.jpg)
