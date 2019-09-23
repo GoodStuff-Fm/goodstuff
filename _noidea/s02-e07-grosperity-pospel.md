@@ -49,7 +49,7 @@ image: "/uploads/IHNIWID - S02E07 - Episode Art.jpg"
 
 **Spice Rankings**
 
-[Ranking Spices by How Healthy They Are | MEL Magazine](https://melmagazine.com/en-us/story/ranking-spices-by-how-healthy-they-are)
+[Ranking Spices by How Healthy They Are - MEL Magazine](https://melmagazine.com/en-us/story/ranking-spices-by-how-healthy-they-are)
 
 ***
 
