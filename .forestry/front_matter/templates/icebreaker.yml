@@ -26,6 +26,7 @@ fields:
   name: sponsor
   label: Sponsor
 pages:
+- _noidea/s02-e07-grosperity-pospel.md
 - _noidea/s02-e06-hard-workers.md
 - _noidea/s02-e03-null.md
 - _noidea/s02-e04-that-s-a-big-bowl-of-pasta.md
