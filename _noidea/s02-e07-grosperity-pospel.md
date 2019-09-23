@@ -93,8 +93,8 @@ image: "/uploads/IHNIWID - S02E07 - Episode Art.jpg"
 >
 > ([A Grift from God - Jacobin](https://www.jacobinmag.com/2019/08/megachurches-prosperity-gospel-capitalism-gene-lingerfelt-donald-trump))
 
-> Trump IS a prosperity gospel preacher:
->
+Trump IS a prosperity gospel preacher:
+
 > Trump’s spiritual adviser is a prosperity minister. Her name is Paula White. In April of this year, she promised believers that if they sent her money they would receive one of several blessings: God would bring harm to their enemies, assign them a special angel, enhance their prosperity, or increase their inheritance. ...
 >
 > In the relationship between Paula White and Donald Trump, the nature of the prosperity gospel is laid bare. White got famous telling working-class people that their economic insecurity was a personal failing, and in a way, so did Trump. The Apprentice is a show about people dreaming of riches, desperate to prove themselves worthy of success. Most are not, and are punished for their weakness with unemployment. What’s obscured in both instances is that people are poor because people like White and Trump are rich — that they are each beneficiaries of a system that takes from the needy and gives to themselves.  
