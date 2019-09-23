@@ -10,7 +10,7 @@ date: 2019-09-23 00:00:00 -0700
 episode: '21'
 description: We need private jets,,,for our work!
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E07 - Episode Art.jpg"
 published: false
 
 ---
@@ -32,10 +32,10 @@ published: false
 >
 > After the shrimp migrate each night, they’re starving from the long journey. Because of this, they’ve managed to decimate their main food source in Lake Tahoe: native zooplankton.
 >
-> These zooplankton were an important food source for the kokanee, and the size of those fish in Lake Tahoe has dropped dramatically since the shrimp were introduced. But these tiny creatures that the shrimp were devouring, called Daphnia, were also keeping the lake clean, researchers found out.   
->   
->  “As far as zooplankton in Lake Tahoe go, Daphnia is responsible for removing about 85% of the particles and algae from the water column,” said Katie Senft, one of the researchers on Allen’s team.  
->   
+> These zooplankton were an important food source for the kokanee, and the size of those fish in Lake Tahoe has dropped dramatically since the shrimp were introduced. But these tiny creatures that the shrimp were devouring, called Daphnia, were also keeping the lake clean, researchers found out.
+>
+> “As far as zooplankton in Lake Tahoe go, Daphnia is responsible for removing about 85% of the particles and algae from the water column,” said Katie Senft, one of the researchers on Allen’s team.
+>
 > [TahoeLand: Trillions Of Tiny Invasive Shrimp Are Degrading Lake Tahoe’s Clarity. Now Researchers Are Trying To Stop Them. - Capital Public Radio](https://projects.capradio.org/tahoeland-shrimp/)
 
 **The YOUTHS are tracking each other?**
@@ -66,8 +66,8 @@ published: false
 >
 > But Brinton may soon get some relief from his commuting nightmare. On Monday, the San Mateo City Council unanimously approved a plan to convert a portion of an old fire station into a sleeping barracks for far-flung officers who can’t afford the average $1.4 million Peninsula home.
 >
-> The $520,000 project will provide bunks and showers for up to 12 officers at a time at Fire Station 26 at 1812 S. Norfolk St. In addition to the barracks, the building will be a police substation and vehicle storage site.   
->   
+> The $520,000 project will provide bunks and showers for up to 12 officers at a time at Fire Station 26 at 1812 S. Norfolk St. In addition to the barracks, the building will be a police substation and vehicle storage site.
+>
 > While Brinton’s commute may be particularly egregious, it’s not that unusual. Of San Mateo’s 125 officers, 68% live outside of San Mateo County, many as far as Tracy or Mountain House in San Joaquin County or Gilroy in south Santa Clara County.
 >
 > [The cops who sleep in their cars — and what San Mateo is doing about it - SFChronicle.com](https://www.sfchronicle.com/bayarea/article/San-Mateo-s-housing-crisis-response-Barracks-14364939.php?psid=ig6v&utm_source=Essential+California&utm_campaign=363b022259-EMAIL_CAMPAIGN_2016_12_12_COPY_01&utm_medium=email&utm_term=0_6e35f7f85b-363b022259-82666953)
@@ -88,14 +88,14 @@ published: false
 
 > Like payday lenders, prosperity gospel ministers see the broke and struggling as a consumer market. Their target demographic is those who suffer from lack, and their product is the promise of abundance, or at least relief. Financially, the prosperity gospel is nothing but a swindle, prying money from people who by definition have very little and desperately wish they had more.
 >
-> Ideologically, the prosperity gospel dovetails perfectly with right-wing ideology, which views poverty as a consequence of individual failure rather than rigged economic and political structures. ... When times are hard, it’s because you didn’t think positively enough, pray hard enough, or tithe enough. It’s a spiritual spin on meritocracy, the ideological handmaiden to neoliberal capitalism. The prosperity gospel is one of America’s greatest grifts.   
->   
+> Ideologically, the prosperity gospel dovetails perfectly with right-wing ideology, which views poverty as a consequence of individual failure rather than rigged economic and political structures. ... When times are hard, it’s because you didn’t think positively enough, pray hard enough, or tithe enough. It’s a spiritual spin on meritocracy, the ideological handmaiden to neoliberal capitalism. The prosperity gospel is one of America’s greatest grifts.
+>
 > ([A Grift from God - Jacobin](https://www.jacobinmag.com/2019/08/megachurches-prosperity-gospel-capitalism-gene-lingerfelt-donald-trump))
 
 > Trump IS a prosperity gospel preacher:
 >
-> Trump’s spiritual adviser is a prosperity minister. Her name is Paula White. In April of this year, she promised believers that if they sent her money they would receive one of several blessings: God would bring harm to their enemies, assign them a special angel, enhance their prosperity, or increase their inheritance. ...   
->   
+> Trump’s spiritual adviser is a prosperity minister. Her name is Paula White. In April of this year, she promised believers that if they sent her money they would receive one of several blessings: God would bring harm to their enemies, assign them a special angel, enhance their prosperity, or increase their inheritance. ...
+>
 > In the relationship between Paula White and Donald Trump, the nature of the prosperity gospel is laid bare. White got famous telling working-class people that their economic insecurity was a personal failing, and in a way, so did Trump. The Apprentice is a show about people dreaming of riches, desperate to prove themselves worthy of success. Most are not, and are punished for their weakness with unemployment. What’s obscured in both instances is that people are poor because people like White and Trump are rich — that they are each beneficiaries of a system that takes from the needy and gives to themselves.  
 > (A Grift from God - Jacobin)
 
