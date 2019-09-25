@@ -3,7 +3,7 @@ title: 'The End is Near A Discussion of The Little Things That Give You Away'
 date: 2019-09-23 08:00:00 -06:00
 episode: 96
 show: atu2
-description: "Colin, Chris, and Ian discuss the little things they enjoy and appreciate about U2's The Little Things that Give You Away."
+description: "Collin, Chris Endrinal, and Ian discuss the little things they enjoy and appreciate about U2's The Little Things that Give You Away."
 mp3: "https://chtbl.com/track/9E18G/media.transistor.fm/7f70e12a.mp3"
 image: "/uploads/atu2-96.jpg"
 video:
