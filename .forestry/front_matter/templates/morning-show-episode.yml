@@ -35,7 +35,3 @@ fields:
     maxSize: 250
   label: Social Image
   description: 'Recommended size: 1012w by 506h'
-pages:
-- _morningshow/compechicken.md
-- _morningshow/omakase-chipotle-experience.md
-- _morningshow/flesh-bread.md

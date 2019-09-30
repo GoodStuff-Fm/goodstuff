@@ -26,12 +26,12 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
-- _morningshow/cotton-candy-wine.md
 - _baseline/13.md
 - _baseline/mr-shucks.md
 - _baseline/episode 11.md
-- _baseline/2.markdown
 - _baseline/johann-sebastian-balk.md
+- _morningshow/cotton-candy-wine.md
+- _baseline/2.markdown
 - _baseline/a-very-muscular-horse.md
 - _baseline/big-ball-chunky-time.md
 - _baseline/episode-12b.md
