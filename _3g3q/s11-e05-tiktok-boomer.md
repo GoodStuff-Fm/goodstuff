@@ -10,10 +10,11 @@ title: S11:E05 - "TikTok Boomer"
 episode: "156"
 description: This episode is all about cringe.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/c34c2866.mp3
-image: ''
-published: false
+image: "/uploads/3G3Q - S11E05 - Episode Art - L.jpg"
 
 ---
+![](/uploads/3G3Q - S11E05 - Episode Art - L.jpg)
+
 This week we are sponsored by: [**_That one video of those goth kids dancing under the bridge_**](https://www.youtube.com/watch?v=gPbVRpRgHso)
 
 # Questions:
