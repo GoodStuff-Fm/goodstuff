@@ -6,12 +6,11 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S02:E08 - "Sneaking Vegetables"
-date: 2019-09-30 00:00:00 -0700
+date: 2019-09-30 09:50:00 -0700
 episode: '22'
 description: Deciding to maybe show solidarity with the rich
-mp3: ''
+mp3: https://media.transistor.fm/2505bb23.mp3
 image: "/uploads/IHNIWID - S02E08 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E08 - Episode Art.jpg)
