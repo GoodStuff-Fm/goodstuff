@@ -8,8 +8,8 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   to get exclusive unedited episodes and more.
 title: S11:E05 - "TikTok Boomer"
 episode: "156"
-description: ''
-mp3: ''
+description: This episode is all about cringe.
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/c34c2866.mp3
 image: ''
 published: false
 
