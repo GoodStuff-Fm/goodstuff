@@ -14,6 +14,8 @@ image: "/uploads/IHNIWID - S02E08 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E08 - Episode Art.jpg)
+
 * **Staples’ New Logo Is Stupid**
   * Folks, we love the minimalism.
   * [Brand New: New Logo and Identity for Staples](https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_staples.php)
@@ -65,8 +67,8 @@ published: false
 
   > The elite should not—they have no right to—expect sympathy from those who remain excluded from the privileges and benefits of high caste. But ignoring how oppressive meritocracy is for the rich is a mistake. The rich now dominate society not idly but effortfully. The familiar arguments that once defeated aristocratic inequality do not apply to an economic system based on rewarding effort and skill. The relentless work of the hundred-hour-a-week banker inoculates her against charges of unearned advantage. Better, then, to convince the rich that all their work isn’t actually paying off.
 
-  > They may need less convincing than you might think. As the meritocracy trap closes in around elites, the rich themselves are turning against the prevailing system. Plaintive calls for work/life balance ring ever louder. Roughly two-thirds of elite workers say that they would decline a promotion if the new job demanded yet more of their energy. When he was the dean of Stanford Law School, Larry Kramer warned graduates that lawyers at top firms are caught in a seemingly endless cycle: Higher salaries require more billable hours to support them, and longer hours require yet higher salaries to justify them. Whose interests, he lamented, does this system serve? Does anyone really want it?  
-  >   
+  > They may need less convincing than you might think. As the meritocracy trap closes in around elites, the rich themselves are turning against the prevailing system. Plaintive calls for work/life balance ring ever louder. Roughly two-thirds of elite workers say that they would decline a promotion if the new job demanded yet more of their energy. When he was the dean of Stanford Law School, Larry Kramer warned graduates that lawyers at top firms are caught in a seemingly endless cycle: Higher salaries require more billable hours to support them, and longer hours require yet higher salaries to justify them. Whose interests, he lamented, does this system serve? Does anyone really want it?
+  >
   > [Meritocracy Harms Everyone - The Atlantic](https://www.theatlantic.com/magazine/archive/2019/09/meritocracys-miserable-winners/594760/)
   * Kind of a galaxy-brain take that's laughable at first, but there's a good nugget here, I think
   * Part of what drives inequality and greed is an intuitive understanding that this economy is built on a zero-sum premise
