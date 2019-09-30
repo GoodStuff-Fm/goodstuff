@@ -10,7 +10,7 @@ date: 2019-09-30 00:00:00 -0700
 episode: '22'
 description: Deciding to maybe show solidarity with the rich
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E08 - Episode Art.jpg"
 published: false
 
 ---
