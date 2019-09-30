@@ -1,7 +1,7 @@
 ---
 show: 3g3q
 layout: episode
-date: 2019-10-01 03:00:24 -0700
+date: 2019-09-30 11:00:24 -0700
 permalink: "/3g3q/156"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
@@ -11,7 +11,6 @@ episode: "156"
 description: This episode is all about cringe.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/c34c2866.mp3
 image: "/uploads/3G3Q - S11E05 - Episode Art - L.jpg"
-published: false
 
 ---
 ![](/uploads/3G3Q - S11E05 - Episode Art - L.jpg)
