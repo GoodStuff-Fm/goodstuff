@@ -14,8 +14,7 @@ image: ''
 published: false
 
 ---
-
-This week we are sponsored by: Barry
+This week we are sponsored by: [**_That one video of those goth kids dancing under the bridge_**](https://www.youtube.com/watch?v=gPbVRpRgHso)
 
 # Questions:
 
