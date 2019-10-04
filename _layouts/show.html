@@ -30,9 +30,12 @@
               {% if show.youtube %}
                 <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube" loading="lazy"></a>
               {% endif %}
+              {% if show.spotify %}
+                <a href="{{ show.spotify }}" title="Subscribe in Spotify"><img src="/assets/subscribe-spotify@2x.png" alt="Subscribe in Spotify"></a>
+              {% endif %}              
               {% if show.anchor %}
                 <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor" loading="lazy"></a>
-              {% endif %}
+              {% endif %}              
             </li>
         </ul>
 

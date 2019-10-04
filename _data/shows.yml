@@ -18,6 +18,7 @@ noidea:
   rss: https://goodstuff.fm/noidea/feed.xml
   itunes: https://itunes.apple.com/us/podcast/i-have-no-idea-what-im-doing/id1458827678?mt=2
   pocketcasts: https://pca.st/oXY1
+  spotify: https://open.spotify.com/show/7H3b59Rvhrpyj4MoWenqTI
   overcast: https://overcast.fm/p1142139-aSDL52
   latest: https://share.transistor.fm/e/i-have-no-idea-what-im-doing/latest
 baseline:
@@ -138,6 +139,7 @@ wts:
   itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790?mt=2&at=10l4Ki&ct=website
   appid: 1250996790
   pocketcasts: http://pca.st/I80b
+  spotify: https://open.spotify.com/show/7Jc8LwoWiff8Bl5RFvBfep
   overcast: https://overcast.fm/itunes1250996790/way-too-seriously
   latest: https://share.transistor.fm/e/way-too-seriously/latest
 3g3q:
@@ -162,6 +164,7 @@ wts:
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
   pocketcasts: http://pca.st/Mw9G
+  spotify: https://open.spotify.com/show/5NSFpo7gebLCSOrEN0H9LX
   overcast: https://overcast.fm/itunes914129482/3-guys-3-questions
   latest: https://share.transistor.fm/e/3-guys-3-questions/latest
   support: https://www.patreon.com/3g3q
@@ -209,6 +212,7 @@ morningshow:
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   appid: 843374491
   pocketcasts: http://pca.st/transmission
+  spotify: https://open.spotify.com/show/0cYQcYEtw2oKH4PwUtXx1u
   overcast: https://overcast.fm/itunes843374491/morning-show
   latest: https://share.transistor.fm/e/the-goodstuff-morning-show/latest
 todaysspecial:
@@ -255,6 +259,7 @@ clockworks:
   latest: https://share.transistor.fm/e/clockworks-a-legion-podcast/latest
   appid: 1215340658
   pocketcasts: http://pca.st/Os98
+  spotify: https://open.spotify.com/show/1Fo5Z6jeS78Gs4kLoVItQ2
   overcast: https://overcast.fm/itunes1215340658/clockworks-a-legion-podcast
 grownups:
   name: I Guess We're Grown-Ups Now
@@ -273,6 +278,7 @@ grownups:
   itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2&at=10l4Ki&ct=website
   appid: 920093038
   pocketcasts: http://pca.st/OEf0
+  spotify: https://open.spotify.com/show/15VFkJLjBbhRoi8uya5alw
   overcast: https://overcast.fm/itunes920093038/i-guess-were-grown-ups-now
   latest: https://share.transistor.fm/e/i-guess-were-grown-ups-now/latest
 nbsp:
@@ -295,6 +301,7 @@ nbsp:
   itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981?mt=2&at=10l4Ki&ct=website
   appid: 507162981
   pocketcasts: http://pca.st/Izn0
+  spotify: https://open.spotify.com/show/2UuppyCHMIlxMnAsChx0XZ
   overcast: https://overcast.fm/itunes507162981/non-breaking-space-show
   latest: https://share.transistor.fm/e/non-breaking-space-show/latest
 master:
@@ -342,6 +349,7 @@ atu2:
   appid: 1018994132
   pocketcasts: http://pca.st/9jwK
   overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
+  spotify: https://open.spotify.com/show/0ToqLurEKPHgGgz2qzMi4L
   latest: https://share.transistor.fm/e/the-atu2-podcast/latest
 aux:
   name: Auxiliary
@@ -423,6 +431,7 @@ smym:
   itunes: https://itunes.apple.com/us/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki&ct=website
   appid: 602836998
   pocketcasts: http://pca.st/M3P3
+  spotify: https://open.spotify.com/show/5HoEeN5pLHQS9f0B3TRpvE
   overcast: https://overcast.fm/itunes602836998/show-me-your-mic
   latest: https://share.transistor.fm/e/show-me-your-mic/latest
 specials:
