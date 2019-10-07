@@ -26,6 +26,7 @@ fields:
   name: sponsor
   label: Sponsor
 pages:
+- _noidea/s02-e09-sendusyoursoups.md
 - _noidea/s02-e08-sneaking-vegetables.md
 - _noidea/s02-e01-ketchup-edc.md
 - _noidea/s01-e08-butt-stevens.md
