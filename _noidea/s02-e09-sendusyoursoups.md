@@ -11,7 +11,6 @@ episode: '23'
 description: You can pry our undershirts from our cold, dead hands!
 mp3: https://media.transistor.fm/db762eb4.mp3
 image: "/uploads/IHNIWID - S02E09 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E09 - Episode Art.jpg)
