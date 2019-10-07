@@ -331,7 +331,7 @@ atu2:
   name: The @U2 Podcast
   lang: EN
   collection: atu2
-  hosts: The @U2 Staff
+  hosts: "The Staff of atU2"
   description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
   artwork: "/uploads/artwork-atu2.jpg"
   color: #FFCD84
