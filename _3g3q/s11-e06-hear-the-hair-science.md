@@ -1,7 +1,7 @@
 ---
 show: 3g3q
 layout: episode
-date: 2019-10-07 11:56:10 -0700
+date: 2019-10-08 03:00:10 -0700
 permalink: "/3g3q/157"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
@@ -9,11 +9,13 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
 title: S11:E06 - "Hear The Hair Science"
 episode: "157"
 description: This episode is all about beauty
-mp3: ''
-image: ''
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7b287ff.mp3
+image: "/uploads/3G3Q - S11E06 - Episode Art - L.jpg"
 published: false
 
 ---
+![](/uploads/3G3Q - S11E06 - Episode Art - L.jpg)
+
 This episode is sponsored by: **_the eye of the beholder_**
 
 # Questions:
