@@ -4,7 +4,7 @@ date: 2019-10-02 08:00:00 -06:00
 episode: 97
 show: atu2
 description: "Chris Enns talks with Kelly Eddington about the Achtoon Baby cartoons she's painted over the years."
-mp3: https://chtbl.com/track/9E18G/media.transistor.fm/0f3155b7.mp3"
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/0f3155b7.mp3
 image: "/uploads/atu2-97.jpg"
 video:
 sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
