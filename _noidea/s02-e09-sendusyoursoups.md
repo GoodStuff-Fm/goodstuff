@@ -9,7 +9,7 @@ title: S02:E09 - "#SendUsYourSoups"
 date: 2019-10-07 12:00:00 -0700
 episode: '23'
 description: You can pry our undershirts from our cold, dead hands!
-mp3: ''
+mp3: https://media.transistor.fm/db762eb4.mp3
 image: "/uploads/IHNIWID - S02E09 - Episode Art.jpg"
 published: false
 
