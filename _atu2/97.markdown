@@ -3,7 +3,7 @@ title: 'Painting U2 and Achtoons with Kelly Eddington'
 date: 2019-10-02 08:00:00 -06:00
 episode: 97
 show: atu2
-description: "Chris talks with Kelly Eddington about the Achtoon Baby cartoons she's painted over the years and answers the important question of which U2 member is the most difficult to paint?"
+description: 'Chris Enns talks with Kelly Eddington about the Achtoon Baby cartoons she's painted over the years.'
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/0f3155b7.mp3"
 image: "/uploads/atu2-97.jpg"
 video:
