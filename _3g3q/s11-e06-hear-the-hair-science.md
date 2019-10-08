@@ -11,7 +11,6 @@ episode: "157"
 description: This episode is all about beauty
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7b287ff.mp3
 image: "/uploads/3G3Q - S11E06 - Episode Art - L.jpg"
-published: false
 
 ---
 ![](/uploads/3G3Q - S11E06 - Episode Art - L.jpg)
