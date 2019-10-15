@@ -66,6 +66,41 @@
             Episode {{ page.episode }} • Published {{ page.date | date: "%b %d, %Y" }}
         </div>
 
+        {% if page.anchor %}
+          <div class="episode__player__anchor">
+            <div class="videoWrapper">
+              <iframe width="100%" height="162px" src="{{ page.anchor }}" frameborder="0" scrolling="no"></iframe>
+            </div>
+          </div>
+        {% endif %}
+
+        {% if page.embediframe %}
+
+        <div class="episode__transistor">
+          Feed and MP3 files are proudly hosted by <a href="https://transistor.fm/?via=chris">Transistor.fm</a>
+        </div>
+
+        <div class="episode__player__mp3">
+          {{ page.embediframe }}
+        </div>
+        
+        <hr class="page__rule" />
+        {% else %}
+
+      <div class="episode__player__mp3">
+            <audio style="width: 100%;" controls="" preload="none">
+            <source src="{{ page.mp3 }}" type="audio/mp3">
+          </audio>
+        </div>        
+
+        <ul class="episode__player__links">
+            <li><a href="{{ page.mp3 }}"><i class="fa fa-download fa-1x" aria-hidden="true"></i>Download MP3</a></li>
+            <li><a href="http://twitter.com/intent/tweet?text={{ show.name }} {{ page.episode }}: {{ page.title | xml_escape }} on @GoodstuffFM - goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-twitter fa-1x"></i>Share on Twitter</a></li>
+            <li><a href="http://www.facebook.com/sharer/sharer.php?u=http://goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-facebook fa-1x"></i>Share on Facebook</a></li>
+        </ul>
+
+         {% endif %}
+
         <div class="episode__description">
             {{ page.description | markdownify }}
         </div>
@@ -81,33 +116,7 @@
         </div>
         {% endif %}
 
-        {% if page.anchor %}
-          <div class="episode__player__anchor">
-            <div class="videoWrapper">
-              <iframe width="100%" height="162px" src="{{ page.anchor }}" frameborder="0" scrolling="no"></iframe>
-            </div>
-          </div>
-        {% endif %}
-
-        {% if page.mp3 %}
-
-        <div class="episode__transistor">
-          Feed and MP3 files are proudly hosted by <a href="https://transistor.fm/?via=chris">Transistor.fm</a>
-        </div>
-
-        <div class="episode__player__mp3">
-            <audio style="width: 100%;" controls="" preload="none">
-            <source src="{{ page.mp3 }}" type="audio/mp3">
-          </audio>
-        </div>
-
-        <ul class="episode__player__links">
-            <li><a href="{{ page.mp3 }}"><i class="fa fa-download fa-1x" aria-hidden="true"></i>Download MP3</a></li>
-            <li><a href="http://twitter.com/intent/tweet?text={{ show.name }} {{ page.episode }}: {{ page.title | xml_escape }} on @GoodstuffFM - goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-twitter fa-1x"></i>Share on Twitter</a></li>
-            <li><a href="http://www.facebook.com/sharer/sharer.php?u=http://goodstuff.fm{{ page.url }}" target="_blank"><i class="fa fa-facebook fa-1x"></i>Share on Facebook</a></li>
-        </ul>
-
-        <hr class="page__rule" /> {% endif %}
+<hr class="page__rule" />
 
         <!-- Page Content -->
 

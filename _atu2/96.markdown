@@ -5,6 +5,7 @@ episode: 96
 show: atu2
 description: "Collin, Chris Endrinal, and Ian discuss the little things they enjoy and appreciate about U2's The Little Things that Give You Away."
 mp3: "https://chtbl.com/track/9E18G/media.transistor.fm/7f70e12a.mp3"
+embediframe: "<iframe src='https://share.transistor.fm/e/047288b7' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>"
 image: "/uploads/atu2-96.jpg"
 video:
 sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)

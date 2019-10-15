@@ -5,6 +5,7 @@ episode: 97
 show: atu2
 description: "Chris Enns talks with Kelly Eddington about the Achtoon Baby cartoons she's painted over the years."
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/0f3155b7.mp3
+embediframe: "<iframe src='https://share.transistor.fm/e/9a054747/dark' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>"
 image: "/uploads/atu2-97.jpg"
 video:
 sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
