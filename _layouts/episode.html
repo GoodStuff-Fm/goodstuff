@@ -13,47 +13,6 @@
 
         {% assign show = site.data.shows[page.show] %}
 
-        <!-- Show Information -->
-        <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
-        <ul class="episode__show__info">
-            <li class="episode__show__artwork">
-                <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50" loading="lazy"/></a>
-            </li>
-            <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
-            <li class="episode__show__description">{{ show.description | truncate: 256 | markdownify }}</li>
-            <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
-            <li class="episode__show__link">
-              {% if show.itunes %}
-                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
-              {% endif %}
-              {% if show.pocketcasts %}
-                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
-              {% endif %}
-              {% if show.overcast %}
-                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
-              {% endif %}
-              {% if show.youtube %}
-                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
-              {% endif %}
-              {% if show.spotify %}
-                <a href="{{ show.spotify }}" title="Subscribe in Spotify"><img src="/assets/subscribe-spotify@2x.png" alt="Subscribe in Spotify"></a>
-              {% endif %}
-              {% if show.anchor %}
-                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor"></a>
-              {% endif %}
-            </li>
-        </ul>
-
-        <!-- Next and Previous Episodes Link -->
-        <div class="episode__navigation">
-
-            {% if page.next.url and page.previous.url and page.next.title != 'Feed' %}
-            <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a>
-            <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a> {% elsif page.previous.url %}
-            <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a> {% elsif page.next.url and page.next.title != 'Feed' %}
-            <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a> {% endif %}
-
-        </div>
 
         <hr class="page__rule" />
 
@@ -117,6 +76,49 @@
         {% endif %}
 
 <hr class="page__rule" />
+
+
+        <!-- Show Information -->
+        <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
+        <ul class="episode__show__info">
+            <li class="episode__show__artwork">
+                <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50" loading="lazy"/></a>
+            </li>
+            <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
+            <li class="episode__show__description">{{ show.description | truncate: 256 | markdownify }}</li>
+            <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
+            <li class="episode__show__link">
+              {% if show.itunes %}
+                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes"></a>
+              {% endif %}
+              {% if show.pocketcasts %}
+                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts"></a>
+              {% endif %}
+              {% if show.overcast %}
+                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast"></a>
+              {% endif %}
+              {% if show.youtube %}
+                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube"></a>
+              {% endif %}
+              {% if show.spotify %}
+                <a href="{{ show.spotify }}" title="Subscribe in Spotify"><img src="/assets/subscribe-spotify@2x.png" alt="Subscribe in Spotify"></a>
+              {% endif %}
+              {% if show.anchor %}
+                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor"></a>
+              {% endif %}
+            </li>
+        </ul>
+
+        <!-- Next and Previous Episodes Link -->
+        <div class="episode__navigation">
+
+            {% if page.next.url and page.previous.url and page.next.title != 'Feed' %}
+            <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a>
+            <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a> {% elsif page.previous.url %}
+            <a class="episode__navigation__previous" href="{{ page.previous.url }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous Episode</a> {% elsif page.next.url and page.next.title != 'Feed' %}
+            <a class="episode__navigation__next" href="{{ page.next.url }}">Next Episode <i class="fa fa-chevron-right" aria-hidden="true"></i></a> {% endif %}
+
+        </div>
 
         <!-- Page Content -->
 
