@@ -56,7 +56,6 @@ sponsor-copy:
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1joHe.jpg
 [2]: https://en.wikipedia.org/wiki/Culottes
 [3]: https://en.wikipedia.org/wiki/Menagerie
 [4]: http://www.conflictfreesourcing.org/

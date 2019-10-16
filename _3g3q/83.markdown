@@ -67,7 +67,6 @@ sponsor-copy: " "
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/14dST.jpg
 [2]: https://youtu.be/zq79iVVwJ1A
 [3]: http://i.giphy.com/SIWupDJXu5mLK.gif
 [4]: https://youtu.be/D-KbO4vt0po
@@ -80,7 +79,6 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [11]: http://madmax.wikia.com/wiki/Coma-Doof_Warrior
 [12]: https://en.wikipedia.org/wiki/Beanie_Babies
 [13]: http://www.minionsmovie.com/minions.html
-[14]: http://l.gdwn.co/19d1s.jpg
 [15]: https://en.wikipedia.org/wiki/The_Death_of_Superman
 [16]: http://gspawn.com/
 [17]: http://www.antiquearchaeology.com/

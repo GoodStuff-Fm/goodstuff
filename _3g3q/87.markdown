@@ -52,13 +52,11 @@ sponsor: Lifehacking a sponsor list
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1emSR.jpg
 [2]: http://www.43folders.com/2004/09/03/introducing-the-hipster-pda
 [3]: http://fieldnotesbrand.com/
 [4]: http://thesweethome.com/reviews/best-slow-cooker/
 [5]: http://amzn.com/B00FLYWNYQ
 [6]: http://www.tmsoft.com/white-noise/
-[7]: http://l.gdwn.co/17nlh
 [8]: http://www.urbandictionary.com/define.php?term=Apache+alarm+clock
 [9]: https://en.wikipedia.org/wiki/Boron,_California
 [10]: https://en.wikipedia.org/wiki/Evaporative_cooler

@@ -45,11 +45,10 @@ sponsor: Tim Allen’s legal team
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1jHzv.jpg
+
 [2]: http://amzn.com/B000JJLXXK
 [3]: http://www.lifedaily.com/uber-now-delivers-puppies-straight-to-your-door/
 [4]: http://i.imgur.com/N4cEiOZ.gifv
-[5]: http://l.gdwn.co/xO2P.jpg
 [6]: http://twitter.com/aaronlmgoodwin
 [7]: http://twitter.com/a_sav
 [8]: http://twitter.com/thatadamkid

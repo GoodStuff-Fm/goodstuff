@@ -66,7 +66,6 @@ sponsor: the dewey decimal system.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1jLFV.jpg
 [2]: http://www.jonahlehrer.com/
 [3]: http://www.slate.com/blogs/browbeat/2012/03/12/getglue_an_oddly_addictive_new_social_network_for_tv_fanatics.html
 [4]: http://www.scholastic.com/animorphs/
@@ -86,7 +85,6 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [18]: http://www.guitarcenter.com/KM/Guardian-Five-Guitar-Stand.gc
 [19]: https://www.facebook.com/Worlds-Best-Corn-Dogs-Rexburg-1440741176239396/info/?tab=overview
 [20]: http://www.hotdogonastick.com/
-[21]: http://l.gdwn.co/12SVB.jpg
 [22]: http://amzn.com/B003VSTBJ4
 [23]: http://amzn.com/B019ITRS6W
 [24]: http://amzn.com/B00DYK3C80

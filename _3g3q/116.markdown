@@ -47,17 +47,14 @@ sponsor: pointy ears, glowing swords, and multifaceted numbered stones.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/gP1U.jpg
-[2]: http://futurama.wikia.com/wiki/Globetrotter
-[3]: http://l.gdwn.co/1i9vq
-[4]: http://www.myprecious.us/name_generator.php
+
+[2]: https://futurama.wikia.com/wiki/Globetrotter
+
+[4]: https://www.myprecious.us/name_generator.php
 [5]: http://bit.ly/2dtR1o5
-[6]: http://l.gdwn.co/11DNz
-[7]: http://l.gdwn.co/1jNsh
-[8]: http://l.gdwn.co/1i2TN
 [9]: http://twitter.com/aaronlmgoodwin
 [10]: http://twitter.com/a_sav
 [11]: http://twitter.com/thatadamkid
 [12]: http://3g3q.co/ask
-[13]: http://www.patreon.com/3g3q
+[13]: https://www.patreon.com/3g3q
 [14]: http://goodstuff.fm/3g3q/

@@ -10,7 +10,7 @@ episode: 131
 layout: episode
 ---
 
-![Episode Artwork](http://l.gdwn.co/PSr5r3.jpg)
+
 
 # Questions 
 

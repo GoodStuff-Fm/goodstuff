@@ -45,11 +45,9 @@ description: Lightning Round
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1kp1T.gif
 [2]: http://twitter.com/UltraNurd/status/654423534895149056
 [3]: http://twitter.com/princessharold/status/659468482837241856
 [4]: http://imgur.com/gallery/FpLI7h
-[5]: http://l.gdwn.co/1k1QF
 [6]: http://intheyear20xx.podbean.com/e/e010-in-the-year-20xx/
 [7]: http://twitter.com/aaronlmgoodwin
 [8]: http://twitter.com/a_sav

@@ -48,7 +48,6 @@ description: Lightning round & followup.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1kkDE.gif
 [2]: http://twitter.com/princessharold/status/662619491486990338
 [3]: https://twitter.com/AaronLMGoodwin/status/664664920890458112
 [4]: http://bit.ly/1LcXE4D

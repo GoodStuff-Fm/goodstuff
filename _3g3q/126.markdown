@@ -50,7 +50,6 @@ layout: episode
 
 The internet's favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/XTkc.jpg
 [2]: https://s-media-cache-ak0.pinimg.com/736x/6a/99/0e/6a990e1d74f96f2fac7eef571866b5e4.jpg
 [3]: http://www.fiestaturbo.com/forums/gallery/rob_gsubaru_imp_rear_limo.jpg
 [4]: http://ot-foodspotting-production.s3.amazonaws.com/reviews/2662209/thumb_600.?1351808356

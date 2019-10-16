@@ -49,7 +49,6 @@ sponsor: barely-working white board erasers
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/7GsR.jpg
 [2]: http://www.theregister.co.uk/2013/07/16/netware_4_anniversary/
 [3]: https://en.wikipedia.org/wiki/Planetarium
 [4]: http://www.vvc.edu/offices/planetarium/

@@ -51,10 +51,9 @@ description: Lighting round & followup.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1l6GR.png
+
 [2]: http://twitter.com/kamisthoughts/status/665013107471724544
 [3]: http://twitter.com/wonderyak/status/667592740624973824
-[4]: http://l.gdwn.co/13voA
 [5]: https://twitter.com/BryanMBrush/status/669272680651227141
 [6]: http://www.10best.com/interests/foodie/franksgiving-a-new-american-tradition/
 [7]: https://twitter.com/TransmissionAM/status/671199712381243392

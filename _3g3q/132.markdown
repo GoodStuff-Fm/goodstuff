@@ -10,7 +10,6 @@ episode: 132
 layout: episode
 ---
 
-![Episode Artwork](http://l.gdwn.co/mda9ah.jpg) 
 
 # Questions 
 

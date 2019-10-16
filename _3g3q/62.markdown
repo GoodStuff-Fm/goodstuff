@@ -45,7 +45,6 @@ description: Lightning Round.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1kp1T.gif
 [2]: http://twitter.com/UltraNurd/status/644877026814332928
 [3]: http://ift.tt/1DPcw9D
 [4]: https://twitter.com/dansturm/status/651090548875395072

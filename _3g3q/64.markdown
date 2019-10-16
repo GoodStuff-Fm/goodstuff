@@ -69,7 +69,7 @@ description: Lightning round with special guest Mike Beasterfeld
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1kp1T.jpeg
+
 [2]: https://twitter.com/BryanMBrush/status/601520969665089536
 [3]: https://answers.yahoo.com/question/index?qid=20080705181418AAIdfBV
 [4]: http://abc.go.com/shows/marvels-agents-of-shield
@@ -80,17 +80,6 @@ The internet’s favorite shows on technology, culture, news and more. You know,
 [9]: http://bit.ly/1k8ER52
 [10]: http://www.imdb.com/title/tt0407362/
 [11]: https://en.wikipedia.org/wiki/Taz_in_Escape_from_Mars
-[12]: http://l.gdwn.co/WEkI
-[13]: http://l.gdwn.co/18yrC
-[14]: http://l.gdwn.co/10rhG
-[15]: http://l.gdwn.co/1kMJ7
-[16]: http://l.gdwn.co/1gPsZ
-[17]: http://l.gdwn.co/eLv0
-[18]: http://l.gdwn.co/1jOJ7
-[19]: http://l.gdwn.co/1d06K
-[20]: http://l.gdwn.co/13OLI
-[21]: http://l.gdwn.co/18eXB
-[22]: http://l.gdwn.co/fLJ1
 [23]: https://twitter.com/mikeyReiach/status/653942677428420609
 [24]: https://twitter.com/mikeyReiach/status/653942756340047872
 [25]: https://twitter.com/Bhcrumpton/status/653911485270355968

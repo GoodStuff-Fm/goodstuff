@@ -10,7 +10,6 @@ episode: 130
 layout: episode
 ---
 
-![Episode Artwork](http://l.gdwn.co/4fOZQx.jpg)
 
 # Questions 
 

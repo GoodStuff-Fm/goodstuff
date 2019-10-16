@@ -51,7 +51,6 @@ description: Lightning round of plenty
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1kkDE.jpg
 [2]: http://twitter.com/UltraNurd/status/643596935270526976
 [3]: https://twitter.com/AaronLMGoodwin/status/618527509286498304
 [4]: https://twitter.com/ThatAdamKid/status/614521810319601664
