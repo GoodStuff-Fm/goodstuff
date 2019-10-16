@@ -58,7 +58,6 @@ sponsor: 256 colors, rumble packs, and insert sega sound here.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/19kp7.jpeg
 [2]: https://en.wikipedia.org/wiki/Sega_Saturn
 [3]: http://www.avclub.com/article/how-you-spell-berenstain-bears-could-be-proof-para-223615
 [4]: https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island

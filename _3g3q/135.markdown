@@ -12,7 +12,6 @@ episode: 135
 layout: episode
 ---
 
-![episode artwork](http://l.gdwn.co/AUAsAK.jpg)
 
 # Questions 
 
@@ -30,7 +29,6 @@ layout: episode
 ## Andrew: What is your worst winter memory
 - Igloos and oatmeal
 - The ol' college try
-- [2013: The year of snapchat](http://l.gdwn.co/mhLVN)
 - The Walk: Outsiders Hair 
 
 # Follow Us

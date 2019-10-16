@@ -42,7 +42,7 @@ sponsor: Doc, McFly, & Associates
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/YA6S.jpg
+
 [2]: https://www.youtube.com/watch?v=Gg6AsKsPH24
 [3]: http://bit.ly/2dtqcAi
 [4]: http://twitter.com/aaronlmgoodwin

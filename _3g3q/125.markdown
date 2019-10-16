@@ -10,7 +10,7 @@ layout: episode
 show: 3g3q
 ---
 
-![Image](http://l.gdwn.co/BGVe.JPG)
+
 
 # Questions
 

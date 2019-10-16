@@ -10,7 +10,7 @@ episode: 134
 layout: episode
 ---
 
-![Episode Artwork](http://l.gdwn.co/Ot5eWQ.jpg)
+
 
 # Questions 
 

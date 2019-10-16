@@ -45,7 +45,7 @@ layout: episode
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/11nVB.jpg
+
 [2]: https://twitter.com/12173032/status/696037236924526592
 [3]: http://monsterhigh.wikia.com/wiki/Ghoulia_Yelps
 [4]: https://twitter.com/1541712684/status/789998396224352256

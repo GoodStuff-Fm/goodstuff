@@ -45,7 +45,7 @@ sponsor-copy: Join with them at patreon.com to get access to exclusive bonus mat
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/11nVB.jpg
+
 [2]: https://twitter.com/753627610517737473/status/757100171075485696
 [3]: https://twitter.com/2629451/status/759976960848175104
 [4]: http://twitter.com/aaronlmgoodwin

@@ -56,7 +56,6 @@ description: Halloween hobo codes, per capita cult count, and candles.
 ## [Listen to other great shows on Goodstuff.fm](http://goodstuff.fm/)
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
 
-[1]: http://l.gdwn.co/1a0i6.gif
 [2]: http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolUncle
 [3]: http://nowiknow.com/the-hobo-code/
 [4]: https://youtu.be/010KyIQjkTk
