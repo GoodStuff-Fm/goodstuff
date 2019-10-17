@@ -14,7 +14,7 @@ description: Crown roast of pork earns its name when a pork loin is formed into 
 layout: episode
 ---
 
-![Meat Mountain](http://cds.arbys.com/images/menu/1024x557_MeatMountain_silo_tan.jpg)
+![Meat Mountain](https://cds.arbys.com/images/menu/1024x557_MeatMountain_silo_tan.jpg)
 
 ## Support Us
 *Want to support the show?* Visit our [Support page](/support) to help make this show possible!
