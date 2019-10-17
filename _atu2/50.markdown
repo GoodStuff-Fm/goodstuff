@@ -40,9 +40,9 @@ layout: episode
 
 * [Discuss this in our subreddit.][10]
 
-[1]: http://d.pr/i/CK9b+
-[2]: http://d.pr/i/14IKT+
-[3]: http://www.rollingstone.com/music/features/the-edge-breaks-down-u2s-upcoming-joshua-tree-tour-w459473
+[1]: https://d.pr/i/CK9b+
+[2]: https://d.pr/i/14IKT+
+[3]: https://www.rollingstone.com/music/features/the-edge-breaks-down-u2s-upcoming-joshua-tree-tour-w459473
 [4]: http://www.rollingstone.com/contributor/andy-greene
 [5]: http://www.rollingstone.com/music/features/u2-bassist-talks-joshua-tree-tour-songs-of-experience-w462451
 [6]: http://www.rollingstone.com/music/features/u2s-longtime-stage-designer-talks-joshua-tree-tour-w462515

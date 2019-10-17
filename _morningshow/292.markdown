@@ -30,8 +30,8 @@ sponsor-copy: Hosting and feed support provided by Feed.Press. Sign-up today and
 * [Electric Fork Creates Salty Flavors With Electric Currents - Digital Trends](http://www.digitaltrends.com/cool-tech/electric-fork-salty-flavor/)
 * [Taptl Makes Transparent LCDs That Double as Windows - Digital Trends](http://www.digitaltrends.com/home/taptl-transparent-touchscreen-lcd-displays/)
 * [The Musi Instrument Turns Your Messy Room Into Music - Digital Trends](http://www.digitaltrends.com/music/musi-turn-mess-music/)
-* [Kyle's Drawing](http://i.imgur.com/YSUQcIl.jpg)
-* ![Kyle's Drawing](http://i.imgur.com/YSUQcIl.jpg)
+* [Kyle's Drawing](https://i.imgur.com/YSUQcIl.jpg)
+* ![Kyle's Drawing](https://i.imgur.com/YSUQcIl.jpg)
 * [Audio Pictionary](http://vignette1.wikia.nocookie.net/disney/images/a/a7/Beauty_and_the_Beast_VHS_Poster_1992.jpg/revision/latest?cb=20140922052152)
 
 ## Support Us
