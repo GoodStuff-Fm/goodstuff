@@ -9,9 +9,8 @@ title: S02:E10 - "Use of Onion"
 date: 2019-10-22 08:00:00 -0700
 episode: '24'
 description: 'Just harpin'' some boont '
-mp3: ''
+mp3: https://media.transistor.fm/98caab01.mp3
 image: "/uploads/IHNIWID - S02E10 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E10 - Episode Art.jpg)
