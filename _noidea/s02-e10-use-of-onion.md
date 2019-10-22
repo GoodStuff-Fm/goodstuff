@@ -10,10 +10,12 @@ date: 2019-10-22 08:00:00 -0700
 episode: '24'
 description: 'Just harpin'' some boont '
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E10 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E10 - Episode Art.jpg)
+
 * Maybe the dumbest take we've seen
   * [Elizabeth Holmes Is a Visionary, and We Need More Like Her - RealClearMarkets](https://www.realclearmarkets.com/articles/2019/10/14/elizabeth_holmes_is_a_visionary_and_we_need_more_like_her_103946.html)
 * T-shirt follow up
@@ -39,17 +41,15 @@ published: false
 
     > "I'm not making any predictions, but I think they've got their eye on somebody who is currently in the Democratic primary and are grooming her to be the third-party candidate," Clinton said, speaking on a podcast with former Obama adviser David Plouffe. "She's the favorite of the Russians."
     >
-    >   
-    > Clinton never names Gabbard, but there are only five women running for President -- Gabbard, California Sen. Kamala Harris, Massachusetts Sen. Elizabeth Warren, Minnesota Sen. Amy Klobuchar and author Marianne Williamson -- and none of the other woman have been accused of being boosted by Russia.  
-    >   
+    > Clinton never names Gabbard, but there are only five women running for President -- Gabbard, California Sen. Kamala Harris, Massachusetts Sen. Elizabeth Warren, Minnesota Sen. Amy Klobuchar and author Marianne Williamson -- and none of the other woman have been accused of being boosted by Russia.
+    >
     > ([Hillary Clinton suggests Russians are 'grooming' Tulsi Gabbard for third-party run - CNNPolitics](https://www.cnn.com/2019/10/18/politics/hillary-clinton-tulsi-gabbard/index.html))
   * Actually, she's part of a weird cult
 
-    > When Tulsi talks about her girlhood, it is with a profound vagueness, a visible discomfort. In Iowa, there is awkward silence when I ask about her three brothers (“They’re kind of separate,” her sister eventually says) and silence when I ask about being homeschooled (“The schools in Hawaii weren’t very good,” Davan offers). Tulsi calls herself Hindu, the first Hindu member of Congress, in fact, though the group in which she appears to have grown up does not identify as Hindu. She says she was raised by “an eccentric Catholic father.”  
-    >   
+    > When Tulsi talks about her girlhood, it is with a profound vagueness, a visible discomfort. In Iowa, there is awkward silence when I ask about her three brothers (“They’re kind of separate,” her sister eventually says) and silence when I ask about being homeschooled (“The schools in Hawaii weren’t very good,” Davan offers). Tulsi calls herself Hindu, the first Hindu member of Congress, in fact, though the group in which she appears to have grown up does not identify as Hindu. She says she was raised by “an eccentric Catholic father.”
+    >
     > In 1970, the Honolulu Advertiser published a piece called “One Man Rules Haiku Krishnaites,” with the subhead “Absolute power of devotees.” In the photo beside the piece, Butler is seated shirtless and smoking, hair skimming his shoulders and a sarong around his waist, staring alluringly into the distance, a mischievous smile on his face. It is the expression of less a guru than a playboy, and this is how Advertiser reporter Janice Wolf depicts him, a handsome dictator with the ability to hypnotize the two dozen 18-to-22-year-olds who live with him in his Quonset hut. One of the girls, an 18-year-old who also happened to have the Sanskrit name Tulsi, says he arranged her marriage to another member of the group. She and another girl, who say they would kill for him, describe his teachings. Among them: “Flowers scream when they’re picked. So do trees when they’re trimmed.” (“Tulsi and Boni were sitting on the lawn chewing blades of grass when they said this,” notes Wolf.)
     >
-    >   
     > ([Profile: Tulsi Gabbard and Her 2020 Presidential Campaign](http://nymag.com/intelligencer/2019/06/tulsi-gabbard-2020-presidential-campaign.html))
 * Why I'm Quitting Paying Any Attention To Things With This Title Format
   * That you're stopping doing something is, usually, one of the least interesting facts
