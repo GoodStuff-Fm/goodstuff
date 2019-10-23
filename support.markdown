@@ -1,6 +1,6 @@
 ---
 title: Support Us
-date: 2017-01-30 23:01:00 -06:00
+date: 2019-10-23 23:01:00 -06:00
 description: Support Goodstuff hosts directly, leave a review, and click or buy from
   these links. Either way, you'll be supporting Goodstuff. You win, we win. Everybody
   wins!
@@ -11,6 +11,15 @@ layout: default
 The most direct way to show your support is with your hard-earned monies, Canadian Tire Money or otherwise. Podcasting takes time, effort, and plenty of blood and guts. Your dollar goes a long way toward helping us keep doing what we do.
 
 Plus it literally pays the bills.
+
+<a href="https://www.patreon.com/bePatron?u=2327156" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+Support the [Goodstuff Patreon campaign](https://www.patreon.com/goodstuff) and help the network grow. If you're also a podcaster, you can join at the [Club Castaway level](https://castaways.club/) to get access to support and community with fellow podcasters.
+
+
+### Support Shows / Creators Directly
+
+You can also support podcasts directly at their individual Patreon campaigns:
 
 * [Support 3 Guys 3 Questions →](http://patreon.com/3g3q)
 
@@ -47,7 +56,7 @@ Want to be notified when we launch the Goodstuff network Patreon campaign? Sign 
 
 # The Free Way
 
-[Write an iTunes Review →](https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2)
+[Write an Apple Podcasts Review →](https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2)
 No, not like the road. Like the way you graciously give your time in an effort to help other people find the show! Then again, time = money. So technically you gave us free money?
 
 ***
@@ -56,9 +65,18 @@ No, not like the road. Like the way you graciously give your time in an effort t
 
 Click and/or buy from these links and you'll be supporting Goodstuff as well. You win, we win. Everybody wins. (Except for the nazis. They'll never win.)
 
-### [Transistor.fm →](https://transistor.fm/?via=chris)
+## [Transistor.fm →](https://transistor.fm/?via=chris)
 
 Podcast hosting with a built in website, great analytics, and a couple of nerds who are hungry to improve the state of podcasting in the world.
+
+## [Ecamm Live →](https://www.ecamm.com/mac/ecammlive/?fp_ref=ichris)
+Ecamm Live is one of the easiest and most powerful ways to stream live from your Mac. Chris uses it all the time on the Goodstuff Twitch stream.
+
+## [Notion →](https://www.notion.so/?r=dcac6fd924e245dd86621799472ef24e)
+Notion is a great way to share and store data, blog posts, drafts, ideas, outline a podcast series, and more.
+
+## [Podia →](https://www.podia.com/?via=chris)
+Podia is a great platform for creating and sharing courses and just selling things on the web in general.
 
 ### [Google Fi →](https://g.co/fi/r/PRK60H)
 Fair and simple. Just the phone plan you’ve been craving. Rake in credits for your unused data with a contract-free plan. Plans start at $20/mo for a single line. Sign up today!
@@ -96,8 +114,11 @@ Bombfell is a monthly clothing subscription designed entirely for you! It's not 
 ## [Backblaze →](https://secure.backblaze.com/r/00sxqw)
 Backblaze is secure, offsite, automatic, unlimited backup. *Get a free month of Backblaze!*
 
-## [Coach →](http://partners.withcoach.com/41464/4006)
-Coach is a great platform for putting together courses or selling digital products.
+## [AirTable →](https://airtable.com/invite/r/cgUp6egI)
+AirTable makes it super easy and fun to create a database. Can you believe it?
+
+## Backblaze →](http://www.backblaze.com/partner/af2307)
+Back up your computer or computers all in one location right to the cloud.
 
 ## [Digital Ocean →](https://www.digitalocean.com/?refcode=b5e0de79be08)
 If you need to spin up a server to build a web app or just a quick website, Digital Ocean makes it super easy to do.
