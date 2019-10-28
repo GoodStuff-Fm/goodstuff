@@ -11,6 +11,7 @@ description: It's like beans and cheese and beans and cheese and beans and chees
   and cheese.
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/077bdf8b.mp3
 image: ''
+path: "/morningshow/411"
 
 ---
 [Hallelujah! Popeyes chicken sandwich is risen](https://thetakeout.com/popeyes-chicken-sandwich-back-locations-1839355089)
