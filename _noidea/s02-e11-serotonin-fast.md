@@ -29,7 +29,7 @@ image: "/uploads/IHNIWID - S02E11 - Episode Art.jpg"
 ***
 
 * Betsy DeVos Sucks And Everyone Hates Her
-  * [Could Betsy DeVos Cost Trump the Election? | The New Republic](https://newrepublic.com/article/155292/betsy-devos-cost-trump-election)
+  * [Could Betsy DeVos Cost Trump the Election? - The New Republic](https://newrepublic.com/article/155292/betsy-devos-cost-trump-election)
 * Biden Needs Money
   * [Biden throws his campaign a lifeline - POLITICO](https://www.politico.com/news/2019/10/25/joe-biden-super-pac-fundraising-058022)
 
