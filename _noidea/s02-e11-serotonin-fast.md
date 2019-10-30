@@ -15,6 +15,8 @@ image: "/uploads/IHNIWID - S02E11 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E11 - Episode Art.jpg)
+
 * Aaron is very humid
   * [HoMedics TotalComfort Ultrasonic Humidifier](https://www.costco.com/homedics-totalcomfort-ultrasonic-humidifier.product.100507132.html)
 * I'm not even sure what to say about his
