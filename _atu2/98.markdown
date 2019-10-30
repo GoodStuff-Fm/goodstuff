@@ -3,7 +3,7 @@ title: 'Happy U2 Halloween'
 date: 2019-10-30 08:00:00 -06:00
 episode: 98
 show: atu2
-description: "Colin, PJ, and Marylinn talk about U2's use of costumes and other mysterious ways to tap into the spirit of Halloween."
+description: "Collin, PJ and Marylinn celebrate Halloween by talking MacPhisto, the dark side of U2's music and celebrating Larry Mullen Jr’s birthday."
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/ed19eb5f.mp3
 image: "/uploads/atu2-98.jpg"
 video:
