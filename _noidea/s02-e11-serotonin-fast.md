@@ -12,7 +12,6 @@ episode: '25'
 description: Introducing our direct-to-consumer humidity-as-a-service!
 mp3: https://media.transistor.fm/a1db3e08.mp3
 image: "/uploads/IHNIWID - S02E11 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E11 - Episode Art.jpg)
