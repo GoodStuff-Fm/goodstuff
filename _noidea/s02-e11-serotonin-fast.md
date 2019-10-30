@@ -7,7 +7,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   to get exclusive unedited episodes and more.
 title: S02:E11 - "Serotonin Fast"
 path: ''
-date: 2019-10-30 15:00:00 -0700
+date: 2019-10-30 14:00:00 -0700
 episode: '25'
 description: Introducing our direct-to-consumer humidity-as-a-service!
 mp3: https://media.transistor.fm/a1db3e08.mp3
