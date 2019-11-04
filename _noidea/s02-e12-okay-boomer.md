@@ -6,7 +6,7 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S02:E12 - "Okay Boomer"
-path: ''
+path: "/noidea/26"
 date: 2019-11-04 12:30:00 -0800
 episode: '26'
 description: California is cancelled, apparently.
