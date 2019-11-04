@@ -26,18 +26,18 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
+- _baseline/13.md
+- _baseline/mr-shucks.md
+- _baseline/episode 11.md
 - _baseline/johann-sebastian-balk.md
 - _morningshow/cotton-candy-wine.md
-- _baseline/mr-shucks.md
-- _baseline/13.md
 - _baseline/2.markdown
-- _baseline/episode-12b.md
-- _baseline/spring-training.md
-- _baseline/watching-a-game.md
-- _baseline/watching-in-person.md
-- _baseline/ballpark-food.md
-- _baseline/big-ball-chunky-time.md
-- _baseline/1.markdown
-- _baseline/choosing-a-team.md
 - _baseline/a-very-muscular-horse.md
-- _baseline/episode 11.md
+- _baseline/big-ball-chunky-time.md
+- _baseline/episode-12b.md
+- _baseline/choosing-a-team.md
+- _baseline/1.markdown
+- _baseline/ballpark-food.md
+- _baseline/watching-in-person.md
+- _baseline/watching-a-game.md
+- _baseline/spring-training.md
