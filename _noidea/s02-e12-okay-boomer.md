@@ -10,9 +10,8 @@ path: ''
 date: 2019-11-04 12:30:00 -0800
 episode: '26'
 description: California is cancelled, apparently.
-mp3: ''
+mp3: https://media.transistor.fm/3811ff21.mp3
 image: "/uploads/IHNIWID - S02E12 - Episode Art.jpg"
-published: false
 
 ---
 # ![](/uploads/IHNIWID - S02E12 - Episode Art.jpg)
