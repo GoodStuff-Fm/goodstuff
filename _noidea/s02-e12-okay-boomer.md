@@ -11,11 +11,11 @@ date: 2019-11-04 12:30:00 -0800
 episode: '26'
 description: California is cancelled, apparently.
 mp3: ''
-image: ''
+image: "/uploads/IHNIWID - S02E12 - Episode Art.jpg"
 published: false
 
 ---
-# 
+# ![](/uploads/IHNIWID - S02E12 - Episode Art.jpg)
 
 * Sipping Chocolate: A Steaming Hot Take
 * Penzeys Spices
