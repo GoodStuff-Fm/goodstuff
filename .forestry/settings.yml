@@ -45,8 +45,6 @@ sections:
   label: No Idea
   create: all
   match: "**/*"
-  templates:
-  - icebreaker
 - type: directory
   path: _smym
   label: Show Me Your Mic
