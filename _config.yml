@@ -127,7 +127,7 @@ collections:
     title: Today's Special
     output: true
     permalink: "/todaysspecial/:path"
-    retired: true
+    retired: false
     inactive: true
     live: false
   uploads:
