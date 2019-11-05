@@ -1,0 +1,31 @@
+---
+label: 3G3Q Episode
+hide_body: true
+fields:
+- type: text
+  name: show
+  label: show
+- type: text
+  name: layout
+  label: layout
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: path
+  label: path
+- type: textarea
+  name: sponsor
+  label: sponsor
+- type: text
+  name: title
+  label: title
+- type: text
+  name: episode
+  label: episode
+- type: text
+  name: description
+  label: description
+- type: text
+  name: mp3
+  label: mp3
