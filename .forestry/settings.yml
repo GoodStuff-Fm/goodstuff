@@ -45,6 +45,8 @@ sections:
   label: No Idea
   create: all
   match: "**/*"
+  templates:
+  - no-idea-episode
 - type: directory
   path: _smym
   label: Show Me Your Mic
