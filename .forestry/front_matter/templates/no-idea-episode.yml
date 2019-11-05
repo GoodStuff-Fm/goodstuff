@@ -1,4 +1,60 @@
 ---
 label: No Idea Episode
 hide_body: false
-fields: []
+fields:
+- name: show
+  type: text
+  config:
+    required: false
+  label: show
+  hidden: true
+  default: noidea
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: episode
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Publish Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: episode
+  type: number
+  label: Episode Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '1'
+    max: 
+    step: '1'
+    required: true
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
+  default: "/noidea/"
+  description: Episode URL path starting with /noidea/episode-number
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
