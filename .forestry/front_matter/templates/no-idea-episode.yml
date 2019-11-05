@@ -75,3 +75,5 @@ fields:
     schema:
       format: markdown
   label: Sponsor
+pages:
+- _noidea/test.md
