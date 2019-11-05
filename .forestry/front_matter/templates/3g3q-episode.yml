@@ -1,6 +1,6 @@
 ---
 label: 3G3Q Episode
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: show
