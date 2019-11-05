@@ -11,6 +11,8 @@ sections:
   label: 3 Guys 3 Questions
   create: all
   match: "**/*"
+  templates:
+  - 3g3q-episode
 - type: directory
   path: _baseline
   label: Baseline
