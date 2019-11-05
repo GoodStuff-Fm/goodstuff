@@ -58,3 +58,20 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: mp3
+  type: text
+  config:
+    required: false
+  label: MP3
+  description: External mp3 URL from transistor.fm
+- name: sponsor
+  type: textarea
+  default: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff
+    "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts
+    directly to get exclusive unedited episodes and more.
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Sponsor
