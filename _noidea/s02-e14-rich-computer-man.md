@@ -1,7 +1,7 @@
 ---
 show: noidea
 layout: episode
-date: 2019-11-12 07:35:27 -0800
+date: 2019-11-12 13:00:27 -0800
 path: "/noidea/28"
 sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff
   "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts
@@ -11,7 +11,6 @@ episode: 28
 description: 'Announcement: you''re not crazy and it''s not your fault.'
 mp3: https://media.transistor.fm/0d536c98.mp3
 image: "/uploads/IHNIWID - S02E14 - Episode Art-1.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S02E14 - Episode Art.jpg)
