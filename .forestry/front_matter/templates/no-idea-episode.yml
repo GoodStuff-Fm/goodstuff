@@ -75,6 +75,11 @@ fields:
     schema:
       format: markdown
   label: Sponsor
+- name: image
+  type: file
+  config:
+    maxSize: '3'
+  label: Episode Image
 pages:
 - _noidea/s02-e14-rich-computer-man.md
 - _noidea/s02-e13-berlin-wall-special.md
