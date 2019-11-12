@@ -7,25 +7,23 @@ sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
 title: S11:E06 - "Hear The Hair Science"
-episode: "157"
-description: This episode is all about beauty
+episode: '157'
+description: This episode is all about Star Trek
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7b287ff.mp3
 image: "/uploads/3G3Q - S11E06 - Episode Art - L.jpg"
 
 ---
-![](/uploads/3G3Q - S11E06 - Episode Art - L.jpg)
+![](/uploads/3G3Q - S11E06 - Episode Art.jpg)
 
-This episode is sponsored by: **_the eye of the beholder_**
+This episode is sponsored by: **_an entirely wasted muscle car_**
 
 # Questions:
 
-**Andrew: What is something you once thought was beautiful but now don’t?**
+**Andrew: What Star Trek technology do you hope we never get?**
 
-**Aaron: what’s something you know is beautiful, but just don’t find appealing?**
+**Aaron: What alien race from Star Trek do you most identify with?**
 
-**Cody: What beauty product or trend do you take issue with?**
-
-* [https://www.amazon.com/Anna-Shoes-Womens-Hidden-Platform/dp/B074T2ND6R](https://www.amazon.com/Anna-Shoes-Womens-Hidden-Platform/dp/B074T2ND6R "https://www.amazon.com/Anna-Shoes-Womens-Hidden-Platform/dp/B074T2ND6R")
+**Cody: What role would you play on the Starship Enterprise?**
 
 # Follow Us
 
