@@ -11,7 +11,7 @@ episode: 28
 description: 'Announcement: you''re not crazy and it''s not your fault.'
 mp3: https://media.transistor.fm/0d536c98.mp3
 image: "/uploads/IHNIWID - S02E14 - Episode Art-1.jpg"
-published: false
+permalink: "/noidea/28"
 
 ---
 ![](/uploads/IHNIWID - S02E14 - Episode Art.jpg)
