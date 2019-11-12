@@ -9,7 +9,8 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S02:E14 - "Rich Computer Man"
 episode: 28
 description: 'Announcement: you''re not crazy and it''s not your fault.'
-mp3: ''
+mp3: https://media.transistor.fm/0d536c98.mp3
+image: "/uploads/IHNIWID - S02E14 - Episode Art-1.jpg"
 published: false
 
 ---
