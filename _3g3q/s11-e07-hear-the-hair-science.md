@@ -9,8 +9,7 @@ title: S11:E07 - "Hear The Hair Science"
 episode: 158
 path: ''
 description: This episode is all about beauty.
-mp3: ''
-published: false
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/52a07bd7.mp3
 
 ---
 ![](/uploads/3G3Q - S11 E07 - Episode Art.jpg)
