@@ -45,7 +45,7 @@ fields:
 - name: permalink
   type: text
   config:
-    required: false
+    required: true
   label: URL
   default: "/noidea/"
   description: Episode URL starting with /noidea/episode-number

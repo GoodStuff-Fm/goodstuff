@@ -39,6 +39,9 @@ fields:
   name: permalink
   label: URL
   description: Episode URL starting with /3g3q/episode-number
+  config:
+    required: true
+  default: "/3g3q/"
 - name: description
   type: textarea
   default: ''
