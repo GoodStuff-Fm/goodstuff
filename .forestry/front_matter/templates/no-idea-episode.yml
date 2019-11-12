@@ -42,13 +42,13 @@ fields:
     max: 
     step: '1'
     required: false
-- name: path
+- name: permalink
   type: text
   config:
     required: false
-  label: Path
+  label: URL
   default: "/noidea/"
-  description: Episode URL path starting with /noidea/episode-number
+  description: Episode URL starting with /noidea/episode-number
 - name: description
   type: textarea
   default: ''
