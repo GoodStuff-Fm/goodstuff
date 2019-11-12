@@ -6,7 +6,7 @@ permalink: "/3g3q/157"
 sponsor: Our [Goodstuff Patreon Subscribers](https://www.patreon.com/goodstuff "Goodstuff
   on Patreon") and listeners just like you! Support your favorite podcasts directly
   to get exclusive unedited episodes and more.
-title: S11:E06 - "Hear The Hair Science"
+title: S11:E06 - "Hot Eyes"
 episode: '157'
 description: This episode is all about Star Trek
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/b7b287ff.mp3
