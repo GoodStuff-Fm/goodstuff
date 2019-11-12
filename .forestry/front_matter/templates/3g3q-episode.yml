@@ -36,9 +36,9 @@ fields:
     max: 
     step: '1'
 - type: text
-  name: path
-  label: Path
-  description: Episode URL path starting with /3g3q/episode-number
+  name: permalink
+  label: URL
+  description: Episode URL starting with /3g3q/episode-number
 - name: description
   type: textarea
   default: ''
