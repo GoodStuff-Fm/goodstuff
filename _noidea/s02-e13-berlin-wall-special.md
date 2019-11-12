@@ -9,7 +9,7 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S02:E13 - "Berlin Wall Special"
 episode: 27
 description: Andrew tells us all about the Berlin Wall.
-mp3: ''
+mp3: https://media.transistor.fm/a5f7c4e1.mp3
 published: false
 
 ---
