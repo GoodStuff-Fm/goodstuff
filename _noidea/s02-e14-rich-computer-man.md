@@ -57,7 +57,7 @@ permalink: "/noidea/28"
 * Or maybe we could all work less
   * [Kamala Harris’s new proposal to lengthen the school is completely backwards - The Outline](https://theoutline.com/post/8193/kamala-harris-school-day-work-day-proposal?zd=1&zi=kqcn4rk2)
   * [The Leisure Agenda ❖ People’s Policy Project](https://www.peoplespolicyproject.org/projects/the-leisure-agenda/)
-  * [The Productivity–Pay Gap | Economic Policy Institute](https://www.epi.org/productivity-pay-gap/)
+  * [The Productivity–Pay Gap - Economic Policy Institute](https://www.epi.org/productivity-pay-gap/)
   * The Productivity-Pay Gap Chart
 * You're not crazy and it's not your fault
   * Thinking a lot lately about how liberating this idea can be
