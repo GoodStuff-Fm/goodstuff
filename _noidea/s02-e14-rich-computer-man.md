@@ -13,7 +13,7 @@ mp3: ''
 published: false
 
 ---
-# Shownotes
+![](/uploads/IHNIWID - S02E14 - Episode Art.jpg)
 
 * Season Finale
 * Aaron's Purchase
