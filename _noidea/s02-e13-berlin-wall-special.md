@@ -13,4 +13,6 @@ mp3: ''
 published: false
 
 ---
+![](/uploads/IHNIWID - S02E13 - Episode Art.jpg)
+
 This special episode is the audio version of a video stream. To view the video, which includes slides and Andrew's beautiful face, [please go to YouTube](https://www.youtube.com/watch?v=lEDeWQWLv_w).
