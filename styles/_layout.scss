@@ -9,11 +9,12 @@ body {
   overflow: auto;
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 655px) {
 
   .container {
     padding-left: 1.2rem !important;
     padding-right: 1.2rem !important;
+    padding-bottom: 300pt !important;
   }
 
   .container__footer {
@@ -69,6 +70,9 @@ body {
     }
   }
 
+  .container__our-shows {
+    display: none;
+  }
 
   .episode__show__artwork, .episode__show__hosts, .episode__show__description {
     display: none;
@@ -99,9 +103,11 @@ body {
     padding-top: 12pt;
   }
 
-  .header__list__link {
+  .header__list li:nth-child(3), li:nth-child(4), li:nth-child(5), li:nth-child(6){
     display: none;
   }
+
+
 
   .header__list__logo {
     padding-left: 4pt;
@@ -135,14 +141,14 @@ body {
       width: 100%;
     }
     &__dark {
-      background: #292D36;
+      background: $dark-blue;
       width: 100%;
     }
   }
 
   &__banner {
     color: $dark-blue;
-    width: 700pt;
+    max-width: 700pt;
     height: 280pt;
     padding-bottom: 30pt;
     margin-left:  auto;
@@ -152,22 +158,23 @@ body {
   }
 
   &__nav {
-    width: 700pt;
+    max-width: 700pt;
     margin-left:  auto;
     margin-right: auto;
 
   }
 
   &__recent-episodes {
-    width: 100%;
+    max-width: 100%;
     margin-left:  auto;
     margin-right: auto;
   }
 
   &__our-shows {
-    width: 100%;
+    max-width: 700pt;
     margin-left:  auto;
     margin-right: auto;
+    padding: 0 1rem 0 1rem;
   }
 
   &__people {
@@ -246,7 +253,7 @@ body {
 
 .latest-episode {
   margin-top: 24pt;
-  margin-bottom: 24pt;
+  margin-bottom: 48pt;
   width: 100%;
   overflow: hidden;
 
@@ -262,12 +269,12 @@ body {
 
     img {
       width: 100%;
-      border-radius: 4pt;
+      border-radius: 6pt;
     }
   }
 
   &__details {
-    width: 69%;
+    width: 67%;
     float: right;
 
     &__show {
@@ -332,19 +339,16 @@ body {
   &__list {
     padding-top: 20pt;
     width: auto;
-    columns: 7 80px;
-    break-inside: avoid;
-    text-align: center;
-    vertical-align: top;
+    columns: 5;
+
   }
 
   &__artwork {
     padding-bottom: 40pt;
 
     img {
-      padding-bottom: 10pt;
-        width: 100%;
-        height: auto;
+      width: 100%;
+      border-radius: 6pt;
     }
 
   }
@@ -357,6 +361,15 @@ body {
 
   &__header {
     padding-top: 48pt;
+    padding-bottom: 16pt;
+
+    &__dark {
+      padding-top: 16pt;
+    }
+  }
+
+  &__ShowName {
+    padding-top: 24pt;
     padding-bottom: 16pt;
   }
 
@@ -394,7 +407,7 @@ body {
       img {
         height: 160pt;
         width: 160pt;
-        border-radius: 3pt;
+        border-radius: 6pt;
       }
     }
 
