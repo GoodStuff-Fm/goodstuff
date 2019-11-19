@@ -14,8 +14,8 @@
 
     &__show a {
       color: $bright-red;
-      font-size: 1.2rem;
-      font-weight: 600;
+      font-size: 1.4rem;
+      font-weight: 500;
       font-family: 'Roboto', sans-serif;
       text-decoration: none;
     }
@@ -159,6 +159,18 @@
     font-size: 1.6rem;
     font-weight: 700;
     color: $blue;
+
+    &__dark {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: white;
+    }
+  }
+
+  &__ShowName {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: white;
   }
 
   &__subheader {
@@ -340,6 +352,13 @@
     font-size: 1.45rem;
     font-weight: 400;
     color: $light-blue;
+    line-height: 2rem;
+  }
+
+  &__hosts {
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
     line-height: 2rem;
   }
 
