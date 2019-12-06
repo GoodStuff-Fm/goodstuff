@@ -2,6 +2,14 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
+  25c:
+    title: 25c
+    output: true
+    permalink: "/25c/:path"
+    slug: 25c
+    retired: false
+    inactive: false
+    live: false
   3g3q:
     title: 3G3Q
     output: true
