@@ -10,10 +10,12 @@ title: S11:E08 - "iSores"
 episode: 159
 description: This episode is all about clout.
 mp3: ''
-image: ''
+image: "/uploads/3G3Q - S11E08 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/3G3Q - S11E08 - Episode Art.jpg)
+
 This episode is sponsored by: **_Instagram Diarrhea Diet Pills_**
 
 # Questions:
