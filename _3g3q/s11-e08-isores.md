@@ -9,9 +9,8 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S11:E08 - "iSores"
 episode: 159
 description: This episode is all about clout.
-mp3: ''
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/6ca84cc7.mp3
 image: "/uploads/3G3Q - S11E08 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/3G3Q - S11E08 - Episode Art.jpg)
