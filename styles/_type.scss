@@ -2,6 +2,49 @@
 //
 // Styles for fonts, weights, sizes, and other font-related styles.
 
+button {
+  border: 0;
+  border-radius: 0.4rem;
+  font-family: system-ui, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-decoration: none;
+  padding: 0.5rem 0.8rem;
+  margin-right: 0.5rem;
+  margin-top: 1.5rem;
+  cursor: pointer;
+    a {
+      color: white !important;
+      text-decoration: none !important;
+    }
+    i {
+      padding-right: 6px;
+    }
+}
+
+.rss {
+  background: $light-blue;
+}
+.apple {
+  background: #862cc3;
+}
+.pocketcasts {
+  background: #f43e37;
+}
+.overcast {
+  background: #fc7e0f;
+}
+.spotify {
+  background: #1ed761;
+}
+.youtube {
+  background: $bright-red;
+}
+.anchor {
+  background: #8940fa;
+}
+
 .latest-episode {
 
   &__header {
@@ -329,6 +372,7 @@
         text-decoration: none;
         font-weight: 400;
       }
+
     }
 
   }

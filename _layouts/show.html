@@ -16,26 +16,26 @@
             </li>
             <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
             <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
-            <li class="shows__list__description"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to RSS Feed</a></li>
             <li class="shows__list__link">
+              <button class="rss"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i>RSS</a>
               {% if show.itunes %}
-                <a href="{{ show.itunes }}" title="Subscribe in iTunes"><img src="/assets/subscribe-apple@2x.png" alt="Subscribe in iTunes" loading="lazy"></a>
+                <button type="button" class="apple"><a href="{{ show.itunes }}" title="Subscribe on Podcasts"><i class="fa fa-apple" aria-hidden="true"></i>Podcasts</a>
               {% endif %}
               {% if show.pocketcasts %}
-                <a href="{{ show.pocketcasts }}" title="Subscribe in Pocket Casts"><img src="/assets/subscribe-pocketcasts@2x.png" alt="Subscribe in Pocket Casts" loading="lazy"></a>
+                <button type="button" class="pocketcasts"><a href="{{ show.pocketcasts }}" title="Subscribe on Pocket Casts"><i class="fa fa-headphones" aria-hidden="true"></i>Pocket Casts</a>
               {% endif %}
               {% if show.overcast %}
-                <a href="{{ show.overcast }}" title="Subscribe in Overcast"><img src="/assets/subscribe-overcast@2x.png" alt="Subscribe in Overcast" loading="lazy"></a>
+                <button type="button" class="overcast"><a href="{{ show.overcast }}" title="Subscribe on Overcast"><i class="fa fa-headphones" aria-hidden="true"></i>Overcast</a>
               {% endif %}
               {% if show.youtube %}
-                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><img src="/assets/subscribe-youtube@2x.png" alt="Subscribe on YouTube" loading="lazy"></a>
+                <button type="button" class="youtube"><a href="{{ show.youtube }}" title="Subscribe on YouTube"><i class="fa fa-youtube" aria-hidden="true"></i>Youtube</a>
               {% endif %}
-              {% if show.spotify %}
-                <a href="{{ show.spotify }}" title="Subscribe in Spotify"><img src="/assets/subscribe-spotify@2x.png" alt="Subscribe in Spotify"></a>
-              {% endif %}              
               {% if show.anchor %}
-                <a href="{{ show.anchor }}" title="Subscribe in Anchor"><img src="/assets/subscribe-anchor@2x.png" alt="Subscribe in Anchor" loading="lazy"></a>
-              {% endif %}              
+                <button type="button" class="anchor"><a href="{{ show.anchor }}" title="Subscribe on Anchor"><i class="fa fa-anchor" aria-hidden="true"></i>Anchor</a>
+              {% endif %}
+            {% if show.spotify %}
+                <button type="button" class="spotify"><a href="{{ show.spotify }}" title="Subscribe on Spotify"><i class="fa fa-spotify" aria-hidden="true"></i>Spotify</a>
+            {% endif %}
             </li>
         </ul>
 
