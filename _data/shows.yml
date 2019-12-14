@@ -336,7 +336,7 @@ master:
   artwork: "/uploads/artwork-25c.jpg"
   color: #FFCD84
   show-twitter: "@25carcade"
-  hosts-twitter: "@ichris" "@ultranurd"
+  hosts-twitter: "@ichris and @ultranurd"
   email: chris@goodstuff.fm
   keywords: apple, apple arcade, video games
   category1: "Leisure"
@@ -350,7 +350,7 @@ master:
   pocketcasts:
   overcast:
   spotify:
-  latest: 
+  latest:
 atu2:
   explicit: no
   name: The @U2 Podcast
