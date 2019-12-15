@@ -1,0 +1,38 @@
+---
+title: 'Hello World - Who Are We? What Have We Played?'
+date: 2019-12-17 08:00:00 -06:00
+episode: 1
+show: 25c
+description: "Nicolas and Chris talk about the Apple Arcade games they've tried, what isn't working, and what they're playing next."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/d40a29b4.mp3
+image: "/uploads/25c-001.jpg"
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+
+### Show Notes
+
+* [Assemble with Care](https://apps.apple.com/us/app/assemble-with-care/id1450498694?itscg=30800&itsct=assemblewithcare)
+* [Discolored](https://apps.apple.com/us/app/discolored/id1479350739)
+* [Guildlings](https://apps.apple.com/us/app/guildlings/id1114224350)
+* [Neo Cab](https://apps.apple.com/us/app/neo-cab/id1464869565)
+* [Word Laces](https://apps.apple.com/us/app/word-laces/id1442515267)
+* [Tales of Memo](https://apps.apple.com/us/app/tales-of-memo/id1465626707)
+* [Battlesky Brigade Harpooner](https://apps.apple.com/us/app/battlesky-brigade-harpooner/id1465210637)
+* [Operator 41](https://apps.apple.com/ca/app/operator-41/id1475042637)
+* [Bleak Sword](https://apps.apple.com/us/app/bleak-sword/id1403554793)
+* [Monomals](https://apps.apple.com/us/app/monomals/id1030010370)
+* [Mini Motorways](https://apps.apple.com/us/app/mini-motorways/id1453901000)
+
+### Games We Keep Going Back To
+
+* [Grindstone](https://apps.apple.com/us/app/grindstone/id1357426636)
+* [Dear Reader](https://apps.apple.com/us/app/dear-reader/id1470280172)
+* [Spell Drifter](https://apps.apple.com/us/app/spelldrifter/id1474012584)
+* [Mini Motorways](https://apps.apple.com/us/app/mini-motorways/id1453901000)
