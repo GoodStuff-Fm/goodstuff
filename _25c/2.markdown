@@ -1,12 +1,13 @@
 ---
 title: 'Inmost, Fortnite, and Screen Time'
-date: 2019-12-17 08:00:00 -06:00
+date: 2019-12-16 08:00:00 -06:00
 episode: 2
 show: 25c
 description: "We’re reviewing Inmost, talking family screen time restrictions, Fortnite, and what to do with weirdos playing with your kids."
 mp3: https://chtbl.com/track/9E18G/media.transistor.fm/2848e430.mp3
 image: "/uploads/25c-002.jpg"
 video:
+published: false
 sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
 layout: episode
 ---
@@ -23,16 +24,16 @@ layout: episode
 * [The Best Games and Apps of 2019](https://www.apple.com/newsroom/2019/12/apple-celebrates-the-best-apps-and-games-of-2019/)
 
 
-Game We Played Last Week:
+### Game We Played Last Week:
 
 * [Inmost](https://apps.apple.com/us/app/inmost/id1465235144?mt=8)
 
-Games We Keep Going Back To:
+### Games We Keep Going Back To:
 
 * [Grindstone](https://apps.apple.com/us/app/grindstone/id1357426636)
 * [What the Golf](https://apps.apple.com/us/app/what-the-golf/id1415190483?mt=8)
 
-Trailer React - Next Episode's Game:
+### Trailer React - Next Episode's Game:
 
 * [Lego Brawls trailer](https://www.youtube.com/watch?v=sG-zAbEChKU)
 * [Lego Brawls](https://apps.apple.com/us/app/lego-brawls/id1466964862?mt=8)
