@@ -1,0 +1,8 @@
+---
+title: 25c An Apple Arcade Review Podcast
+permalink: "/25c/"
+show: 25c
+layout: show
+output: true
+---
+

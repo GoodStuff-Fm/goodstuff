@@ -1,0 +1,37 @@
+---
+title: 'Lego Brawling Our Way Into the Lava'
+date: 2019-12-17 08:00:00 -06:00
+episode: 3
+show: 25c
+description: "We’re reviewing Lego Brawls, a Smash Bros style game set in the Lego universe, talk a bit about genres and styles for kids in Apple Arcade, and preview next episode’s game."
+mp3: hhttps://chtbl.com/track/9E18G/media.transistor.fm/ac1e64db.mp3
+image: "/uploads/25c-003.jpg"
+published: false
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+
+### Show Notes
+
+* [Minecraft Earth](https://apps.apple.com/us/app/minecraft-earth/id1467316099?mt=8)
+
+### Game We Played Last Week:
+
+* [Lego Brawls](https://apps.apple.com/us/app/lego-brawls/id1466964862?mt=8)
+
+### Games We Keep Going Back To:
+
+* [Grindstone](https://apps.apple.com/us/app/grindstone/id1357426636)
+* [What the Golf](https://apps.apple.com/us/app/what-the-golf/id1415190483?mt=8)
+* [Dear Reader](https://apps.apple.com/us/app/dear-reader/id1470280172?mt=8)
+
+### Trailer React - Next Episode's Game:
+
+* [Ultimate Rivals: The Rink trailer](https://www.youtube.com/watch?v=hP9-fkUTc7Y)
+* [Ultimate Rivals: The Rink](https://apps.apple.com/us/app/ultimate-rivals-the-rink/id1460840148?mt=8)

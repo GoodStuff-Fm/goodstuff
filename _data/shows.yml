@@ -326,6 +326,31 @@ master:
   appid: 1332045499
   pocketcasts: http://pca.st/xiPV
   overcast: https://overcast.fm/itunes1332045499/goodstuff-broadcasting-master-audio-feed
+25c:
+  explicit: no
+  name: "25¢: An Apple Arcade Review Podcast"
+  lang: EN
+  collection: 25c
+  hosts: Chris Enns and Nicolas Ward
+  description: "Each episode we'll be talking about the Apple Arcade games we've tried, what we keep going back to, what we think might be great games to check out if you've got kids, and preview upcoming games."
+  artwork: "/uploads/artwork-25c.jpg"
+  color: #FFCD84
+  show-twitter: "@25carcade"
+  hosts-twitter: "@ichris and @ultranurd"
+  email: chris@goodstuff.fm
+  keywords: apple, apple arcade, video games
+  category1: "Leisure"
+  category2:
+  category3:
+  category4:
+  category5:
+  rss: https://goodstuff.fm/25c/feed.xml
+  itunes:
+  appid:
+  pocketcasts:
+  overcast:
+  spotify:
+  latest: https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest
 atu2:
   explicit: no
   name: The @U2 Podcast
