@@ -339,9 +339,9 @@ master:
   hosts-twitter: "@ichris and @ultranurd"
   email: chris@goodstuff.fm
   keywords: apple, apple arcade, video games
-  category1: "Leisure"
-  category2:
-  category3:
+  category1: "Leisure - Games"
+  category2: "Leisure - Video Games"
+  category3: "Technology"
   category4:
   category5:
   rss: https://goodstuff.fm/25c/feed.xml
