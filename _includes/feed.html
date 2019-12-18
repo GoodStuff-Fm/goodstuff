@@ -48,14 +48,14 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="{{ show.category2 | xml_escape }}">
   <itunes:category text="{{ show.subcategory2 | xml_escape }}"/>
 </itunes:category>
-{% else %}
+{% elsif show.category2 %}
 <itunes:category text="{{ show.category2 | xml_escape }}"/>
 {% endif %}
 {% if show.subcategory3 %}
 <itunes:category text="{{ show.category3 | xml_escape }}">
   <itunes:category text="{{ show.subcategory3 | xml_escape }}"/>
 </itunes:category>
-{% else %}
+{% elsif show.category3 %}
 <itunes:category text="{{ show.category3 | xml_escape }}"/>
 {% endif %}
 
