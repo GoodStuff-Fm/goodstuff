@@ -348,8 +348,11 @@ atu2:
   email: chris@goodstuff.fm
   keywords: u2, music, tours
   category1: "Music"
-  category2:
-  category3:
+  subcategory1: "Music Commentary"
+  category2: "Music"
+  subcategory2: "Music History"
+  category3: "Music"
+  subcategory3: "Music Interviews"
   rss: https://goodstuff.fm/atu2/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2&at=10l4Ki&ct=website
   appid: 1018994132
