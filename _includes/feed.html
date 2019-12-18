@@ -35,7 +35,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   <itunes:name>{{ site.itunes-author | xml_escape }}</itunes:name>
   <itunes:email>{{ site.itunes-email | xml_escape }}</itunes:email>
 </itunes:owner>
-<itunes:image href="{{ site.url }}{{ show.artwork }}">
+<itunes:image href="{{ site.url }}{{ show.artwork }}"/>
 
 {% if show.subcategory1 %}
 <itunes:category text="{{ show.category1 | xml_escape }}">
