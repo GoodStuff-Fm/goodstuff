@@ -345,10 +345,10 @@ master:
   category4:
   category5:
   rss: https://goodstuff.fm/25c/feed.xml
-  itunes:
-  appid:
-  pocketcasts:
-  overcast:
+  itunes: https://podcasts.apple.com/us/podcast/id1492017246
+  appid: 1492017246
+  pocketcasts: https://pca.st/2l3qso46
+  overcast: https://overcast.fm/itunes1492017246
   spotify:
   latest: https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest
 atu2:
