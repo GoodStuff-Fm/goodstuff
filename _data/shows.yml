@@ -13,8 +13,6 @@ noidea:
   category1: "News and Politics"
   category2: "Society & Culture"
   category3:
-  category4:
-  category5:
   rss: https://goodstuff.fm/noidea/feed.xml
   itunes: https://itunes.apple.com/us/podcast/i-have-no-idea-what-im-doing/id1458827678?mt=2
   pocketcasts: https://pca.st/oXY1
@@ -36,8 +34,6 @@ baseline:
   category1: "Sports & Recreation"
   category2: "Comedy"
   category3:
-  category4:
-  category5:
   rss: https://goodstuff.fm/baseline/feed.xml
   itunes: https://itunes.apple.com/us/podcast/baseline/id1453462340?mt=2
   pocketcasts: https://pca.st/1Z7y
@@ -59,8 +55,6 @@ icebreaker:
   category1: "Sports & Recreation"
   category2:
   category3:
-  category4:
-  category5:
   rss: https://goodstuff.fm/icebreaker/feed.xml
   itunes: https://itunes.apple.com/us/podcast/icebreaker/id1399629430?mt=2&at=10l4Ki&ct=website
   appid: 1399629430
@@ -83,8 +77,6 @@ buzzled:
   category1: "Comedy"
   category2:
   category3:
-  category4:
-  category5:
   rss: https://goodstuff.fm/buzzled/feed.xml
   itunes:
   pocketcasts:
@@ -107,8 +99,6 @@ highcontrast:
   category1: "Technology"
   category2:
   category3:
-  category4:
-  category5:
   rss: https://goodstuff.fm/highcontrast/feed.xml
   itunes: https://itunes.apple.com/us/podcast/high-contrast/id1251036231
   appid: 1251036231
@@ -132,8 +122,6 @@ wts:
   category1: "TV &amp; Film"
   category2: "Arts"
   category3: "Visual Arts"
-  category4:
-  category5:
   support: https://www.patreon.com/clockworkscast
   rss: https://goodstuff.fm/wts/feed.xml
   itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790?mt=2&at=10l4Ki&ct=website
@@ -158,8 +146,6 @@ wts:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4:
-  category5:
   rss: https://goodstuff.fm/3g3q/feed.xml
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
@@ -182,8 +168,6 @@ dailyish:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4:
-  category5:
   email: chris@goodstuff.fm
   support: http://www.patreon.com/ichris
   rss: https://goodstuff.fm/dailyish/feed.xml
@@ -319,8 +303,6 @@ master:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4:
-  category5:
   rss: https://goodstuff.fm/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-master-audio-feed/id1332045499?mt=2&at=10l4Ki&ct=website
   appid: 1332045499
@@ -339,11 +321,12 @@ master:
   hosts-twitter: "@ichris and @ultranurd"
   email: chris@goodstuff.fm
   keywords: apple, apple arcade, video games
-  category1: "Leisure - Games"
-  category2: "Leisure - Video Games"
+  category1: "Leisure"
+  subcategory1: "Games"
+  category2: "Leisure"
+  subcategory2: "Video Games"
   category3: "Technology"
-  category4:
-  category5:
+  subcategory3:
   rss: https://goodstuff.fm/25c/feed.xml
   itunes:
   appid:
@@ -365,10 +348,11 @@ atu2:
   email: chris@goodstuff.fm
   keywords: u2, music, tours
   category1: "Music"
-  category2:
-  category3:
-  category4:
-  category5:
+  subcategory1: "Music Commentary"
+  category2: "Music"
+  subcategory2: "Music History"
+  category3: "Music"
+  subcategory3: "Music Interviews"
   rss: https://goodstuff.fm/atu2/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2&at=10l4Ki&ct=website
   appid: 1018994132
@@ -392,8 +376,6 @@ aux:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4:
-  category5:
   rss: http://feed.xml.3g3q.co/
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
@@ -448,10 +430,9 @@ smym:
   email: chris+smym@goodstuff.fm
   keywords: technology, how-to, podcasting
   category1: "Technology"
-  category2: "Technology - Podcasting"
+  category2: "Technology"
+  subcategory2: "Podcasting"
   category3:
-  category4:
-  category5:
   rss: https://goodstuff.fm/smym/feed.xml
   itunes: https://itunes.apple.com/us/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki&ct=website
   appid: 602836998
@@ -475,8 +456,6 @@ specials:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  category4:
-  category5:
   rss: https://goodstuff.fm/specials/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2&at=10l4Ki&ct=website
   appid: 854159948

@@ -35,22 +35,44 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   <itunes:name>{{ site.itunes-author | xml_escape }}</itunes:name>
   <itunes:email>{{ site.itunes-email | xml_escape }}</itunes:email>
 </itunes:owner>
-<itunes:image href="{{ site.url }}{{ show.artwork }}" />
-<itunes:category text="{{ show.category1 | xml_escape }}" />
-<itunes:category text="{{ show.category2 | xml_escape }}" />
-<itunes:category text="{{ show.category3 | xml_escape }}" />
+<itunes:image href="{{ site.url }}{{ show.artwork }}"/>
+
+{% if show.subcategory1 %}
+<itunes:category text="{{ show.category1 | xml_escape }}">
+  <itunes:category text="{{ show.subcategory1 | xml_escape }}"/>
+</itunes:category>
+{% else %}
+<itunes:category text="{{ show.category1 | xml_escape }}"/>
+{% endif %}
+{% if show.subcategory2 %}
+<itunes:category text="{{ show.category2 | xml_escape }}">
+  <itunes:category text="{{ show.subcategory2 | xml_escape }}"/>
+</itunes:category>
+{% elsif show.category2 %}
+<itunes:category text="{{ show.category2 | xml_escape }}"/>
+{% endif %}
+{% if show.subcategory3 %}
+<itunes:category text="{{ show.category3 | xml_escape }}">
+  <itunes:category text="{{ show.subcategory3 | xml_escape }}"/>
+</itunes:category>
+{% elsif show.category3 %}
+<itunes:category text="{{ show.category3 | xml_escape }}"/>
+{% endif %}
+
 <itunes:explicit>{{ show.explicit | xml_escape }}</itunes:explicit>
 <itunes:new-feed-url>{{ show.rss | xml_escape }}</itunes:new-feed-url>
 
 {% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
   <item>
     <title>{{ doc.title | xml_escape }}</title>
+    <itunes:title>{{ doc.title | xml_escape }}</itunes:title>
     <link>{{ site.url }}{{ doc.url }}</link>
     <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
     <description><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></description>
     <guid isPermaLink="true">{{ site.url }}{{ doc.url }}</guid>
     <enclosure url="{{ doc.mp3 }}" type="audio/mp3"/>
     <itunes:author>{{ show.hosts | xml_escape }}</itunes:author>
+    <itunes:episode>{{ doc.episode | xml_escape }}</itunes:episode>
     <itunes:subtitle><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:subtitle>
     <itunes:summary><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:summary>
     <itunes:keywords>{{ show.keywords | xml_escape }}</itunes:keywords>
