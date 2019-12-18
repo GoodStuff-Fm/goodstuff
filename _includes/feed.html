@@ -65,12 +65,14 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 {% assign episodes = site[show.collection] | reverse %} {% for doc in episodes %} {% if doc.title != show.name %} {% unless doc.title == 'Feed' %}
   <item>
     <title>{{ doc.title | xml_escape }}</title>
+    <itunes:title>{{ doc.title | xml_escape }}</itunes:title>
     <link>{{ site.url }}{{ doc.url }}</link>
     <pubDate>{{ doc.date | date_to_rfc822 }}</pubDate>
     <description><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></description>
     <guid isPermaLink="true">{{ site.url }}{{ doc.url }}</guid>
     <enclosure url="{{ doc.mp3 }}" type="audio/mp3"/>
     <itunes:author>{{ show.hosts | xml_escape }}</itunes:author>
+    <itunes:episode>{{ doc.episode | xml_escape }}</itunes:episode>
     <itunes:subtitle><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:subtitle>
     <itunes:summary><![CDATA[ {{ doc.description | markdownify | strip_html | cdata_escape }} ]]></itunes:summary>
     <itunes:keywords>{{ show.keywords | xml_escape }}</itunes:keywords>
