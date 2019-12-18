@@ -1,5 +1,5 @@
 ---
-title: 25¢: An Apple Arcade Review Podcast
+title: "25¢: An Apple Arcade Review Podcast"
 permalink: "/25c/"
 show: 25c
 layout: show
