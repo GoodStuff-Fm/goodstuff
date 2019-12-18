@@ -1,0 +1,35 @@
+---
+title: 'Nick and Chris are Ultimate Rivals on The Rink'
+date: 2019-12-18 08:00:00 -06:00
+episode: 4
+show: 25c
+description: "We’re reviewing Ultimate Rivals: The Rink, Apple announces annual subscription option, Dear Reader updates, and the game we're playing over the holidays."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/ca86e18b.mp3
+image: "/uploads/25c-004.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+
+### Show Notes
+
+* [Macrumors: Apple Arcade Now Available With $49.99/Year Subscription Option](https://www.macrumors.com/2019/12/16/apple-arcade-annual-subscription/)
+
+### Game We Played Last Week:
+
+* [Ultimate Rivals: The Rink](https://apps.apple.com/us/app/ultimate-rivals-the-rink/id1460840148?mt=8)
+
+### Games We Keep Going Back To:
+
+* [Dear Reader](https://apps.apple.com/us/app/dear-reader/id1470280172?mt=8)
+
+### Trailer React - Next Episode's Game:
+
+* [What the Golf trailer](https://www.youtube.com/watch?v=NyNpPWvw1eU)
+* [What the Golf](https://apps.apple.com/us/app/what-the-golf/id1415190483?mt=8)

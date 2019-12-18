@@ -4,9 +4,9 @@ date: 2019-12-17 08:00:00 -06:00
 episode: 3
 show: 25c
 description: "We’re reviewing Lego Brawls, a Smash Bros style game set in the Lego universe, talk a bit about genres and styles for kids in Apple Arcade, and preview next episode’s game."
-mp3: hhttps://chtbl.com/track/9E18G/media.transistor.fm/ac1e64db.mp3
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/ac1e64db.mp3
 image: "/uploads/25c-003.jpg"
-published: false
+published: true
 video:
 sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
 layout: episode
