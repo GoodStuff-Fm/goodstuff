@@ -35,16 +35,30 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   <itunes:name>{{ site.itunes-author | xml_escape }}</itunes:name>
   <itunes:email>{{ site.itunes-email | xml_escape }}</itunes:email>
 </itunes:owner>
-<itunes:image href="{{ site.url }}{{ show.artwork }}" />
-<itunes:category text="{{ show.category1 | xml_escape }}" />
-  {% if show.subcategory1 %}<itunes:category text="{{ show.subcategory1 | xml_escape }}" />{% endif %}
+<itunes:image href="{{ site.url }}{{ show.artwork }}">
+
+{% if show.subcategory1 %}
+<itunes:category text="{{ show.category1 | xml_escape }}">
+  <itunes:category text="{{ show.subcategory1 | xml_escape }}"/>
 </itunes:category>
-{% if show.category2 %}<itunes:category text="{{ show.category2 | xml_escape }}" />
-  {% if show.subcategory2 %}<itunes:category text="{{ show.subcategory2 | xml_escape }}" />{% endif %}
-</itunes:category>{% endif %}
-{% if show.category3 %}<itunes:category text="{{ show.category3 | xml_escape }}" />
-  {% if show.subcategory3 %}<itunes:category text="{{ show.subcategory3 | xml_escape }}" />{% endif %}
-</itunes:category>{% endif %}
+{% else %}
+<itunes:category text="{{ show.category1 | xml_escape }}"/>
+{% endif %}
+{% if show.subcategory2 %}
+<itunes:category text="{{ show.category2 | xml_escape }}">
+  <itunes:category text="{{ show.subcategory2 | xml_escape }}"/>
+</itunes:category>
+{% else %}
+<itunes:category text="{{ show.category2 | xml_escape }}"/>
+{% endif %}
+{% if show.subcategory3 %}
+<itunes:category text="{{ show.category3 | xml_escape }}">
+  <itunes:category text="{{ show.subcategory3 | xml_escape }}"/>
+</itunes:category>
+{% else %}
+<itunes:category text="{{ show.category3 | xml_escape }}"/>
+{% endif %}
+
 <itunes:explicit>{{ show.explicit | xml_escape }}</itunes:explicit>
 <itunes:new-feed-url>{{ show.rss | xml_escape }}</itunes:new-feed-url>
 
