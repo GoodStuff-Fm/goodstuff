@@ -26,8 +26,8 @@ fields:
   label: Sponsor
   template: sponsor
 pages:
-- _smym/episode-title-here.md
 - _atu2/10th-anniversary-of-no-line-on-the-horizon.md
 - _atu2/episode-88.md
-- _atu2/the-sorry-not-sorry-tour.md
 - _atu2/it-s-not-over-they-didn-t-play-40.md
+- _atu2/the-sorry-not-sorry-tour.md
+- _smym/episode-title-here.md
