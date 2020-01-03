@@ -1,0 +1,37 @@
+---
+title: 'What the Golf Switch?'
+date: 2020-01-03 08:00:00 -06:00
+episode: 5
+show: 25c
+description: "We return from a holiday break and catch up on What the Golf, a new Switch, city building games, and tracking kids screen time."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/4eeb7d85.mp3
+image: "/uploads/25c-005.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+
+### Show Notes
+
+* [Pocket City](https://apps.apple.com/us/app/pocket-city/id1330451888)
+* [Megacity Oceania](https://boardgamegeek.com/boardgame/266304/megacity-oceania)
+
+
+### Game We Played Last Week:
+
+* [What the Golf trailer](https://www.youtube.com/watch?v=NyNpPWvw1eU)
+* [What the Golf](https://apps.apple.com/us/app/what-the-golf/id1415190483?mt=8)
+
+### Games We Keep Going Back To:
+
+* [Dear Reader](https://apps.apple.com/us/app/dear-reader/id1470280172?mt=8)
+
+### Trailer React - Next Episode's Game:
+
+* [Doomsday Vault](https://apps.apple.com/us/app/doomsday-vault/id1457773760?mt=8)
