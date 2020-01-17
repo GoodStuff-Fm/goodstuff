@@ -1,0 +1,38 @@
+---
+title: 'Is It Doomsday (Vault) for the Podcast?'
+date: 2020-01-17 08:00:00 -06:00
+episode: 6
+show: 25c
+description: "Was it doomsday for Doomsday Vault? What are we playing next week? Do we mention Dear Reader... again?"
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/abd20342.mp3
+image: "/uploads/25c-006.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+
+### Show Notes
+
+* [Starting Point](http://shoutengine.com/StartingPoint/)
+* [MacStories Arcade Highlights articles](https://www.macstories.net/tag/arcade-highlights/)
+* [No Way Home](https://www.macrumors.com/2020/01/10/apple-arcade-no-way-home/)
+* [Mutazione](http://mutazionegame.com)
+
+### Game We Played Last Week:
+
+* [Doomsday Vault](https://apps.apple.com/us/app/doomsday-vault/id1457773760?mt=8)
+
+### Games We Keep Going Back To:
+
+* [Dear Reader](https://apps.apple.com/us/app/dear-reader/id1470280172?mt=8)
+* [Grindstone](https://grindstonegame.com/)
+
+### Next Episode's Game:
+
+* [The Enchanted World](https://apps.apple.com/ca/app/the-enchanted-world/id1459917958)
