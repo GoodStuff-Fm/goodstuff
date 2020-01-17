@@ -16,6 +16,7 @@ layout: episode
 
 * 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
 * [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+* [Watch a video version of the recording](https://youtu.be/vW2bfK1CXkU)
 
 ### Show Notes
 
@@ -36,3 +37,7 @@ layout: episode
 ### Next Episode's Game:
 
 * [The Enchanted World](https://apps.apple.com/ca/app/the-enchanted-world/id1459917958)
+
+### Video Version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vW2bfK1CXkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
