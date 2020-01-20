@@ -15,12 +15,12 @@ midnightsnack:
   email: kyle@goodstuff.fm
   support:
   rss: https://goodstuff.fm/midnightsnack/feed.xml
-  itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+  itunes: https://podcasts.apple.com/us/podcast/midnight-snack/id1495614674
   appid: 843374491
-  pocketcasts: http://pca.st/transmission
-  spotify: https://open.spotify.com/show/0cYQcYEtw2oKH4PwUtXx1u
-  overcast: https://overcast.fm/itunes843374491/morning-show
-  latest: https://share.transistor.fm/e/the-goodstuff-morning-show/latest
+  pocketcasts:
+  spotify:
+  overcast:
+  latest: https://share.transistor.fm/e/midnight-snack/latest
 noidea:
   name: I Have No Idea What I'm Doing
   lang: EN
