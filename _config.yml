@@ -2,6 +2,14 @@
 title: Goodstuff.FM
 timezone: America/Regina
 collections:
+  midnightsnack:
+    title: Midnight Snack
+    output: true
+    permalink: "/midnightsnack/:path"
+    slug: midnightsnack
+    retired: false
+    inactive: false
+    live: false
   25c:
     title: 25c
     output: true

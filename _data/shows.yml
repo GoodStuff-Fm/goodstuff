@@ -1,3 +1,26 @@
+midnightsnack:
+  name: Midnight Snack
+  collection: midnightsnack
+  hosts: Kyle Roderick and Kenny Roderick
+  description: The secret podcast you eat at night.
+  artwork: "/uploads/artwork-midnightsnack.jpg"
+  color: #5BC4FE
+  explicit: no
+  keywords: comedy, tech, technology, fun, morning, show, trivia, games
+  show-twitter: "@midnightyummy"
+  hosts-twitter: "@hopburps and @kennydailycast"
+  category1: "Food"
+  category2: "Comedy"
+  category3: "Business News"
+  email: kyle@goodstuff.fm
+  support:
+  rss: https://goodstuff.fm/midnightsnack/feed.xml
+  itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
+  appid: 843374491
+  pocketcasts: http://pca.st/transmission
+  spotify: https://open.spotify.com/show/0cYQcYEtw2oKH4PwUtXx1u
+  overcast: https://overcast.fm/itunes843374491/morning-show
+  latest: https://share.transistor.fm/e/the-goodstuff-morning-show/latest
 noidea:
   name: I Have No Idea What I'm Doing
   lang: EN
