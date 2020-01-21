@@ -17,7 +17,7 @@ midnightsnack:
   rss: https://goodstuff.fm/midnightsnack/feed.xml
   itunes: https://podcasts.apple.com/us/podcast/midnight-snack/id1495614674
   appid: 843374491
-  pocketcasts:
+  pocketcasts: https://pca.st/jg77rser
   spotify:
   overcast:
   latest: https://share.transistor.fm/e/midnight-snack/latest
