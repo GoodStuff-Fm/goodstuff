@@ -1,7 +1,7 @@
 ---
 show: noidea
 layout: episode
-date: 2020-01-21 09:00:24 -0800
+date: 2020-01-21 08:05:24 -0800
 permalink: "/noidea/30"
 sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff
   "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts
