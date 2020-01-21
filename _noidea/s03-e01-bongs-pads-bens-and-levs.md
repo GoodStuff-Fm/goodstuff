@@ -11,7 +11,6 @@ episode: 30
 description: We regret to inform you that season 3 has begun.
 mp3: https://media.transistor.fm/d10c4beb.mp3
 image: "/uploads/IHNIWID S03E01 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID S03E01 - Episode Art.jpg)
