@@ -9,11 +9,12 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S03:E01 - "Bongs, Pads, Bens, and Levs"
 episode: 30
 description: We regret to inform you that season 3 has begun.
-mp3: ''
-image: ''
+mp3: https://media.transistor.fm/d10c4beb.mp3
+image: "/uploads/IHNIWID S03E01 - Episode Art.jpg"
 published: false
 
 ---
+![](/uploads/IHNIWID S03E01 - Episode Art.jpg)
 
 * RIP MARIANNE & CORY
 * Pev Larnas
