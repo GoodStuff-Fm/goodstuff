@@ -16,3 +16,4 @@ _site/about/index.html
 
 .jekyll-metadata
 Gemfile.lock
+.DS_Store
