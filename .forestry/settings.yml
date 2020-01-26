@@ -26,36 +26,17 @@ sections:
   templates:
   - clockworks-episode
 - type: directory
-  path: _dailyish
-  label: Dailyish
-  create: documents
-  match: "**/*"
-  templates:
-  - dailyish-episode
-- type: directory
-  path: _grownups
-  label: Grownups
-  create: all
-  match: "**/*"
-- type: directory
   path: _midnightsnack
   label: Midnight Snack
   create: all
   match: "**/*"
 - type: directory
   path: _noidea
-  label: No Idea
+  label: I Have No Idea What I'm Doing
   create: all
   match: "**/*"
   templates:
   - no-idea-episode
-- type: directory
-  path: _smym
-  label: Show Me Your Mic
-  create: documents
-  match: "**/*"
-  templates:
-  - smym-episode
 - type: directory
   path: _wts
   label: Way Too Seriously
