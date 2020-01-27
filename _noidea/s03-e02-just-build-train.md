@@ -1,18 +1,18 @@
 ---
 show: noidea
 layout: episode
-date: 2020-01-28 07:00:53 -0800
+date: 2020-01-27 07:00:53 -0800
 permalink: "/noidea/31"
 sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff
   "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts
   directly to get exclusive unedited episodes and more.
 title: S03:E02 - "Just Build Train"
 episode: 31
-description: 'Strap in: we''re going to explain Dummy Chum and Nutpicking.'
+description: "Strap in: we're going to explain Dummy Chum and Nutpicking."
 mp3: https://media.transistor.fm/3100174a.mp3
 image: "/uploads/IHNIWID - S03E02 - Episode Art.jpg"
-
 ---
+
 ![](/uploads/IHNIWID - S03E02 - Episode Art.jpg)
 
 * Cough drops
