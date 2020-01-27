@@ -9,9 +9,8 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S03:E02 - "Just Build Train"
 episode: 31
 description: 'Strap in: we''re going to explain Dummy Chum and Nutpicking.'
-mp3: ''
+mp3: https://media.transistor.fm/3100174a.mp3
 image: "/uploads/IHNIWID - S03E02 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S03E02 - Episode Art.jpg)
