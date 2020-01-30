@@ -1,0 +1,44 @@
+---
+title: 'The Enchanted World'
+date: 2020-01-30 08:00:00 -06:00
+episode: 7
+show: 25c
+description: "We review Enchanted World, talk about a Mac mini gaming TV, and preview next episode's game."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/fbb5e8b9.mp3
+image: "/uploads/25c-007.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+* [Watch a video version of the recording](https://youtu.be/ML_tK8-P0dQ)
+
+### Show Notes
+
+* [Overcooked 2](http://www.ghosttowngames.com/overcooked-2/)
+* [The Short Game](https://www.theshortgame.net/)
+* [Overcooked on The Short Game](https://www.theshortgame.net/111-overcooked/)
+* [Using Apple TV on a Mac](https://www.imore.com/how-use-apple-tv-app-mac)
+* [Butter Royale on Apple Arcade](https://www.macrumors.com/2020/01/24/butter-royale-apple-arcade/)
+
+
+### Game We Played Last Week:
+
+* [The Enchanted World](https://apps.apple.com/ca/app/the-enchanted-world/id1459917958)
+
+### Games We Keep Going Back To:
+
+
+
+### Next Episode's Game:
+
+* [Grindstone](https://grindstonegame.com/)
+
+### Video Version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ML_tK8-P0dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
