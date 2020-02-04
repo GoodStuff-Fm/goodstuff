@@ -9,9 +9,8 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S03:E03 - "Bernard Brethren"
 episode: 32
 description: ''
-mp3: ''
+mp3: https://media.transistor.fm/ab48212b.mp3
 image: ''
-published: false
 
 ---
 * How was your brexit?
