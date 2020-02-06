@@ -1,0 +1,41 @@
+---
+title: 'Grindstone'
+date: 2020-02-06 08:00:00 -06:00
+episode: 8
+show: 25c
+description: "We're reviewing Grindstone - a game that Nick calls a near perfect mobile game."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/126829cd.mp3
+image: "/uploads/25c-008.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+* [Watch a video version of the recording](https://youtu.be/VMJJAPS1Xbg)
+
+### Show Notes
+
+* [Threes](https://apps.apple.com/us/app/threes/id779157948)
+* [Trism](https://apps.apple.com/us/app/trism/id284653044)
+
+### Game We Played Last Week:
+
+* [GrindstoneGame.com](https://grindstonegame.com/)
+* [Grindstone on App Store](https://apps.apple.com/us/app/grindstone/id1357426636?itscg=30800&itsct=grindstone)
+
+### Apple TV Corner
+
+* [Apple TV Hardware Appears to be Close to Launching](https://ww.9to5mac.com/2020/02/06/new-apple-tv-4k-hardware-appears-closer-to-launching-based-on-tvos-13-4-beta-code/)
+
+### Next Episode's Game:
+
+* [Pilgrims](https://apps.apple.com/us/app/pilgrims/id1296855328)
+
+### Video Version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMJJAPS1Xbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
