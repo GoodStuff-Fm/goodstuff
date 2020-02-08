@@ -9,9 +9,8 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 title: S03:E04 - "Potato Challenge Coins"
 episode: 33
 description: Thinking about maybe not voting blue no matter who.
-mp3: ''
+mp3: https://media.transistor.fm/868b0289.mp3
 image: "/uploads/IHNIWID - S03E04 - Episode Art.jpg"
-published: false
 
 ---
 ![](/uploads/IHNIWID - S03E04 - Episode Art.jpg)
