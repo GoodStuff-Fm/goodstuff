@@ -1,0 +1,36 @@
+---
+title: 'Our Experience as a Pilgrim in Pilgrims'
+date: 2020-02-13 08:00:00 -06:00
+episode: 9
+show: 25c
+description: "We review Pilgrims from Amanita Design, publisher of other popular games like Machinarium, & Samorost. Grindstone gets a gore update, Nick’s progress in Enchanted Worlds, and preview the game we’re playing next."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/ee0a756f.mp3
+image: "/uploads/25c-009.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+* [Watch a video version of the recording](https://www.youtube.com/watch?v=LFP4Jl_COSA)
+
+### Game We Played Last Week:
+
+* [Pilgrims](https://apps.apple.com/us/app/pilgrims/id1296855328)
+
+### Games We Keep Going Back To
+
+* [Grindstone on App Store](https://apps.apple.com/us/app/grindstone/id1357426636?itscg=30800&itsct=grindstone)
+* [25c Ep7 The Enchanted World](https://goodstuff.fm/25c/7)
+
+### Next Episode's Game:
+
+* [Over the Alps](https://apps.apple.com/us/app/over-the-alps/id1473114012)
+
+### Video Version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFP4Jl_COSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
