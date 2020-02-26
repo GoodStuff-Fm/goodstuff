@@ -23,7 +23,6 @@ layout: episode
 * [Apple TV Gen X showing up](https://www.macrumors.com/2020/02/22/target-inventory-apple-tv-ipod-touch/)
 * [Super Mega Mini Party for Apple Arcade](https://apps.apple.com/us/app/super-mega-mini-party/id1465985511)
 * [Mini Motorways for Apple Arcade](https://apps.apple.com/ca/app/mini-motorways/id1453901000)
-
 * [A Start Point podcast](http://shoutengine.com/StartingPoint/)
 
 ### Game We Played Last Week:
