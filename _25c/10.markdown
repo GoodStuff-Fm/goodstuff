@@ -1,0 +1,44 @@
+---
+title: 'Over the Alps, Treat Yo Self to a Switch'
+date: 2020-02-26 08:00:00 -06:00
+episode: 10
+show: 25c
+description: "We - well not all of the we - review Over the Alps, and Kids Corner officially gets a Switch added to it."
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/db999e6e.mp3
+image: "/uploads/25c-010.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+* [Watch a video version of the recording](https://www.youtube.com/watch?v=36jWy1Nou90)
+
+### Links
+
+* [Apple TV Gen X showing up](https://www.macrumors.com/2020/02/22/target-inventory-apple-tv-ipod-touch/)
+* [Super Mega Mini Party for Apple Arcade](https://apps.apple.com/us/app/super-mega-mini-party/id1465985511)
+* [Mini Motorways for Apple Arcade](https://apps.apple.com/ca/app/mini-motorways/id1453901000)
+
+* [A Start Point podcast](http://shoutengine.com/StartingPoint/)
+
+### Game We Played Last Week:
+
+* [Over the Alps](https://apps.apple.com/us/app/over-the-alps/id1473114012)
+
+### Games We Keep Going Back To
+
+* [Grindstone on App Store](https://apps.apple.com/us/app/grindstone/id1357426636?itscg=30800&itsct=grindstone)
+
+
+### Next Episode's Game:
+
+* [Mutazione](https://apps.apple.com/us/app/mutazione/id1466920014)
+
+### Video Version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36jWy1Nou90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
