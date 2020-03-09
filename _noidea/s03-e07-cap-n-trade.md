@@ -11,9 +11,9 @@ episode: 36
 description: Not doing grievance progressivism today, sorry folks.
 mp3: https://media.transistor.fm/6900f036.mp3
 image: "/uploads/IHNIWID - S03E07 - Episode Art.jpg"
-published: false
 
 ---
+![](/uploads/IHNIWID - S03E07 - Episode Art-1.jpg)
 
 * Grievance Progressivism
   * [https://twitter.com/paulkrugman/status/1235636073356824581](https://twitter.com/paulkrugman/status/1235636073356824581 "https://twitter.com/paulkrugman/status/1235636073356824581")
@@ -44,7 +44,7 @@ published: false
 * Blony Tair
 
   [https://twitter.com/aezyb/status/1230431494193238017](https://twitter.com/aezyb/status/1230431494193238017 "https://twitter.com/aezyb/status/1230431494193238017")
-  * 
+  \*
 
 ***
 
