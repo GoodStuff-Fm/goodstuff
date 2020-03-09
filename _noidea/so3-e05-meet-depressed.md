@@ -6,7 +6,7 @@ permalink: "/noidea/34"
 sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff
   "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts
   directly to get exclusive unedited episodes and more.
-title: SO3:E05 - "Meet Depressed"
+title: S03:E05 - "Meet Depressed"
 episode: 34
 description: Welcome to Escabeche Talk
 mp3: https://media.transistor.fm/1a3dd4b2.mp3
