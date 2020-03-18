@@ -176,7 +176,7 @@ twitter: goodstufffm
 logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
 description: A network of good shows with good people doing good things
-copyright: "© 2014–2019 Goodstuff.FM"
+copyright: "© 2014–2020 Goodstuff.FM"
 exclude:
 - README.markdown
 - Gemfile.lock
