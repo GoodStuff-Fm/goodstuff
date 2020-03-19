@@ -62,7 +62,7 @@ collections:
     description: Just as it says on the tin this is a daily(ish) podcast from Chris
       Enns.
     retired: false
-    inactive: true
+    inactive: false
     live: false
   specials:
     title: Goodstuff Specials
