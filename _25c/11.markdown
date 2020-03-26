@@ -1,0 +1,47 @@
+---
+title: 'Failure to Load While Working From Home'
+date: 2020-03-26 08:00:00 -06:00
+episode: 11
+show: 25c
+description: "Life is crazy right now but we still have video games. What have we been playing while we're under quarantine and isolation?"
+mp3: https://chtbl.com/track/9E18G/media.transistor.fm/a6cc9a05.mp3
+image: "/uploads/25c-011.jpg"
+published: true
+video:
+sponsor: Support the show by joining the [Goodstuff.fm Patreon](https://www.patreon.com/goodstuff)
+layout: episode
+---
+
+### Want to Watch the Live Show?
+
+* 💙 [Follow us on our Twitch channel](https://goodstuff.fm/twitch/)
+* [Subscribe to our YouTube channel](https://www.youtube.com/user/goodstuffdotfm?sub_confirmation=1)
+* [Watch a video version of the recording](https://youtu.be/P4Lnk8Qayt4)
+
+### Links
+
+* [Mythic Quest](https://tv.apple.com/ca/show/mythic-quest-ravens-banquet/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3)
+* [Nintendo Direct 2020-03-26](https://www.youtube.com/watch?v=ubRf4zyEvG4)
+* [Minecraft Dungeons](https://www.minecraft.net/en-us/about-dungeons/)
+* [Good Job for Switch](https://www.gematsu.com/2020/03/nintendo-releases-action-puzzle-game-good-job-for-switch)
+* [Scratch](https://scratch.mit.edu/)
+* [Midnight Snack on Goodstuff](https://goodstuff.fm/midnightsnack/)
+
+### Game We Played Last Week:
+
+* 
+
+### Games We Keep Going Back To
+
+* [Grindstone on App Store](https://apps.apple.com/us/app/grindstone/id1357426636?itscg=30800&itsct=grindstone)
+* [Cross Road Castle](https://apps.apple.com/us/app/crossy-road-castle/id1478978570)
+* [Roundguard](https://apps.apple.com/us/app/roundguard/id1489068221?mt=12)
+* [Spyder](https://apps.apple.com/us/app/spyder/id1443839718)
+
+### Next Episode's Game:
+
+* [Mutazione](https://apps.apple.com/us/app/mutazione/id1466920014)
+
+### Video Version
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4Lnk8Qayt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
