@@ -1,12 +1,8 @@
 backend:
-  name: github
-  repo: ichris/goodstuff-siteleaf
+  name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-publish_mode: editorial_workflow
-
-media_folder: "images" # Media files will be stored in the repo under images
-public_folder: "/images" # The src attribute for uploaded media will begin with /images
+media_folder: 'assets/uploads'
 
 collections:
   - name: "todaysspecial" # Used in routes, e.g. /admin/collections/blog
