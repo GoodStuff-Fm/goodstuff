@@ -5,6 +5,38 @@ backend:
 media_folder: 'assets/uploads'
 
 collections:
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Navigation Items"
+            name: "header"
+            widget: "list"
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Link, name: link, widget: string}
+  - name: '25c' # Used in routes, e.g. /admin/collections/blog
+    label: "25¢" # Used in the UI
+    folder: '_25c/' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Show", name: "show", widget: "hidden", default: "25c"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Episode Number", name: "episode", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Audio URL", name: "mp3", widget: "string"}
+      - {label: "Show Notes", name: "body", widget: "markdown"}
   - name: 'noidea' # Used in routes, e.g. /admin/collections/blog
     label: "I Have No Idea What I'm Doing" # Used in the UI
     folder: '_noidea/' # The path to the folder where the documents are stored
@@ -23,7 +55,7 @@ collections:
       - {label: "Audio URL", name: "mp3", widget: "string"}
       - {label: "Show Notes", name: "body", widget: "markdown"}
   - name: 'midnightsnack' # Used in routes, e.g. /admin/collections/blog
-    label: "I Have No Idea What I'm Doing" # Used in the UI
+    label: "Midnight Snack" # Used in the UI
     folder: '_midnightsnack/' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
