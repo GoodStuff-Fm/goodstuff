@@ -1,17 +1,17 @@
 ---
-show: noidea
 layout: episode
-date: 2020-04-09 09:45:46 -0700
-episode: 39
-permalink: "/noidea/39"
-sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff
-  "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts
-  directly to get exclusive unedited episodes and more.
+permalink: /noidea/39
+show: noidea
 title: S03:E10 - "The Very Smallest of Bags"
+date: "2020-04-08T15:00:00.000Z"
 description: There's no time like the present catastrophe.
 mp3: https://media.transistor.fm/f34929f5.mp3
-image: "/uploads/IHNIWID - S03E10 - Episode Art.jpg"
-
+sponsor: Our [**Goodstuff Patreon
+  Subscribers**](https://www.patreon.com/goodstuff "Goodstuff on Patreon") and
+  listeners just like you! Support your favorite podcasts directly to get
+  exclusive unedited episodes and more.
+episode: 39
+image: /uploads/IHNIWID - S03E10 - Episode Art.jpg
 ---
 ![](/uploads/IHNIWID - S03E10 - Episode Art.jpg)
 
