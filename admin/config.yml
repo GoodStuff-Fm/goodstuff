@@ -4,6 +4,10 @@ backend:
 
 media_folder: 'assets/uploads'
 
+editor:
+  sortableFields: ['episode', 'title', 'date']
+  summary: "{{episode}}: {{title}}"
+
 collections:
   - name: "config"
     label: "Config"
@@ -20,6 +24,22 @@ collections:
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Link, name: link, widget: string}
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/shows.yml"
+        fields:
+          - label: "Navigation Items"
+            name: "header"
+            widget: "list"
+            fields:
+              - {label: Name, name: title, widget: string}
+              - {label: Link, name: url, widget: string}
+
   - name: '25c' # Used in routes, e.g. /admin/collections/blog
     label: "25¢" # Used in the UI
     folder: '_25c/' # The path to the folder where the documents are stored
@@ -33,10 +53,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Episode Number", name: "episode", widget: "number"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Audio URL", name: "mp3", widget: "string"}
-      - {label: "Show Notes", name: "body", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
   - name: 'noidea' # Used in routes, e.g. /admin/collections/blog
     label: "I Have No Idea What I'm Doing" # Used in the UI
     folder: '_noidea/' # The path to the folder where the documents are stored
@@ -50,10 +70,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Episode Number", name: "episode", widget: "number"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Audio URL", name: "mp3", widget: "string"}
-      - {label: "Show Notes", name: "body", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
   - name: 'midnightsnack' # Used in routes, e.g. /admin/collections/blog
     label: "Midnight Snack" # Used in the UI
     folder: '_midnightsnack/' # The path to the folder where the documents are stored
@@ -67,7 +87,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Episode Number", name: "episode", widget: "number"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Audio URL", name: "mp3", widget: "string"}
-      - {label: "Show Notes", name: "body", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
