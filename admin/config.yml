@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-media_folder: 'assets/uploads'
+media_folder: '_uploads/'
 
 editor:
   sortableFields: ['episode', 'title', 'date']
@@ -14,13 +14,32 @@ collections:
     folder: '_25c/' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
     editor:
       preview: false
-      sortableFields: ['episode', 'title', 'date']
-      summary: "{{episode}}: {{title}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
       - {label: "Show", name: "show", widget: "hidden", default: "25c"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Episode Number", name: "episode", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
+  - name: '3g3q' # Used in routes, e.g. /admin/collections/blog
+    label: "3 Guys 3 Questions" # Used in the UI
+    folder: '_3g3q/' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Show", name: "show", widget: "hidden", default: "3g3q"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Episode Number", name: "episode", widget: "number"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -33,11 +52,51 @@ collections:
     folder: '_atu2/' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
     editor:
       preview: false
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
       - {label: "Show", name: "show", widget: "hidden", default: "atu2"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Episode Number", name: "episode", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
+  - name: 'clockworks' # Used in routes, e.g. /admin/collections/blog
+    label: "Clockworks" # Used in the UI
+    folder: '_clockworks/' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Show", name: "show", widget: "hidden", default: "clockworks"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Episode Number", name: "episode", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
+  - name: 'dailyish' # Used in routes, e.g. /admin/collections/blog
+    label: "Daily(ish)" # Used in the UI
+    folder: '_dailyish/' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Show", name: "show", widget: "hidden", default: "dailyish"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Episode Number", name: "episode", widget: "number"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -69,13 +128,32 @@ collections:
     folder: '_midnightsnack/' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
     editor:
       preview: false
-      sortableFields: ['episode', 'title', 'date']
-      summary: "{{episode}}: {{title}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
       - {label: "Show", name: "show", widget: "hidden", default: "midnightsnack"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Episode Number", name: "episode", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
+  - name: 'wts' # Used in routes, e.g. /admin/collections/blog
+    label: "Way Too Seriously" # Used in the UI
+    folder: '_wts/' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Show", name: "show", widget: "hidden", default: "wts"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Episode Number", name: "episode", widget: "number"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -94,6 +172,12 @@ collections:
         fields:
           - label: "Navigation Items"
             name: "header"
+            widget: "list"
+            fields:
+              - {label: Name, name: title, widget: string}
+              - {label: Link, name: url, widget: string}
+          - label: "Footer Items"
+            name: "footer"
             widget: "list"
             fields:
               - {label: Name, name: title, widget: string}
