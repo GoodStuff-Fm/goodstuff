@@ -1,26 +1,3 @@
-midnightsnack:
-- name: Midnight Snack
-  collection: midnightsnack
-  hosts: Kyle Roderick and Kenny Roderick
-  description: The secret podcast you eat at night.
-  artwork: "/uploads/artwork-midnightsnack.jpg"
-  color: #5BC4FE
-  explicit: no
-  keywords: comedy, tech, technology, fun, morning, show, trivia, games
-  show-twitter: "@midnightyummy"
-  hosts-twitter: "@hopburps and @kennydailycast"
-  category1: "Food"
-  category2: "Comedy"
-  category3: "Business News"
-  email: kyle@goodstuff.fm
-  support:
-  rss: https://goodstuff.fm/midnightsnack/feed.xml
-  itunes: https://podcasts.apple.com/us/podcast/midnight-snack/id1495614674
-  appid: 843374491
-  pocketcasts: https://pca.st/jg77rser
-  spotify: https://open.spotify.com/show/0w1mDrH8X0eaTgld6YhsKc
-  overcast: https://overcast.fm/itunes1495614674/midnight-snack
-  latest: https://share.transistor.fm/e/midnight-snack/latest
 noidea:
   name: I Have No Idea What I'm Doing
   lang: EN
@@ -42,6 +19,29 @@ noidea:
   spotify: https://open.spotify.com/show/7H3b59Rvhrpyj4MoWenqTI
   overcast: https://overcast.fm/p1142139-aSDL52
   latest: https://share.transistor.fm/e/i-have-no-idea-what-im-doing/latest
+midnightsnack:
+  name: Midnight Snack
+  collection: midnightsnack
+  hosts: Kyle Roderick and Kenny Roderick
+  description: The secret podcast you eat at night.
+  artwork: "/uploads/artwork-midnightsnack.jpg"
+  color: #5BC4FE
+  explicit: no
+  keywords: comedy, tech, technology, fun, morning, show, trivia, games
+  show-twitter: "@midnightyummy"
+  hosts-twitter: "@hopburps and @midnightkenny"
+  category1: "Food"
+  category2: "Comedy"
+  category3: "Business News"
+  email: kyle@goodstuff.fm
+  support:
+  rss: https://goodstuff.fm/midnightsnack/feed.xml
+  itunes: https://podcasts.apple.com/us/podcast/midnight-snack/id1495614674
+  appid: 843374491
+  pocketcasts: https://pca.st/jg77rser
+  spotify: https://open.spotify.com/show/0w1mDrH8X0eaTgld6YhsKc
+  overcast: https://overcast.fm/itunes1495614674/midnight-snack
+  latest: https://share.transistor.fm/e/midnight-snack/latest
 baseline:
   name: Baseline
   lang: EN
