@@ -37,9 +37,8 @@ midnightsnack:
   support:
   rss: https://goodstuff.fm/midnightsnack/feed.xml
   itunes: https://podcasts.apple.com/us/podcast/midnight-snack/id1495614674
-  appid: 843374491
   pocketcasts: https://pca.st/jg77rser
-  spotify: https://open.spotify.com/show/0w1mDrH8X0eaTgld6YhsKc
+  spotify:
   overcast: https://overcast.fm/itunes1495614674/midnight-snack
   latest: https://share.transistor.fm/e/midnight-snack/latest
 baseline:
