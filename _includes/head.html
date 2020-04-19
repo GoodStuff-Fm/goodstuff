@@ -20,12 +20,11 @@
 <!-- FontAwesome -->
 <script src="https://kit.fontawesome.com/65bce7303d.js" crossorigin="anonymous"></script>
 
-{% assign show = site.data.shows[page.show] %}
-
 <!-- Netlify Identity Widget -->
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 <!-- Facebook, Twitter, and URL Expanding Settings -->
+{% assign show = site.data.shows[page.show] %}
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 {% if page.layout == "shows" %}
@@ -62,26 +61,26 @@
 <meta name="twitter:description" value="{{ page.description }}" />
 <meta name="apple-itunes-app" content="app-id={{ show.appid }}, affiliate-data=at=10l4Ki&ct=websiteeps">
 {% if page.video and page.image %}
-  <meta name="twitter:card" content="player">
-  <meta name="twitter:player" value="{{ page.video }}" />
-  <meta name="twitter:player:width" content="1280" />
-	<meta name="twitter:player:height" content="720" />
-  {% if page.image contains '/uploads/' %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-  {% else %}
-  <meta property="twitter:image" content="{{ page.image }}" />
-  <meta property="og:image" content="{{ page.image }}" />
-  {% endif %}
+<meta name="twitter:card" content="player">
+<meta name="twitter:player" value="{{ page.video }}" />
+<meta name="twitter:player:width" content="1280" />
+<meta name="twitter:player:height" content="720" />
+{% if page.image contains '/uploads/' %}
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% else %}
+<meta property="twitter:image" content="{{ page.image }}" />
+<meta property="og:image" content="{{ page.image }}" />
+{% endif %}
 {% elsif page.image %}
-  <meta name="twitter:card" content="summary_large_image">
-  {% if page.image contains '/uploads/' %}
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-  {% else %}
-  <meta property="twitter:image" content="{{ page.image }}" />
-  <meta property="og:image" content="{{ page.image }}" />
-  {% endif %}
+<meta name="twitter:card" content="summary_large_image">
+{% if page.image contains '/uploads/' %}
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% else %}
+<meta property="twitter:image" content="{{ page.image }}" />
+<meta property="og:image" content="{{ page.image }}" />
+{% endif %}
 {% else %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{{ site.url }}{{ show.artwork }}" />
@@ -113,16 +112,4 @@
 <meta name="monetization" content="$pay.stronghold.co/1a1d1b6226199ae451c805b09eff48bf7fe">
 {% endif %}
 
-<!-- Media Player
-<link rel="stylesheet" href="/build/mediaelementplayer.css"/>
-<script>
-  $(document).ready(function() { $('video, audio').mediaelementplayer(); });
-</script>
--->
-
 <script src="/js/timeJump.js"></script>
-
-<!-- Time Jump (old player support files)
-<script src="/build/jquery.js"></script>
-<script src="/build/mediaelement-and-player.min.js"></script>
--->
