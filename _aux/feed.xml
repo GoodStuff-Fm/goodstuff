@@ -1,8 +1,0 @@
----
-title: Feed
-position: 0
-show: aux
-layout: 
----
-
-{% include feed.html %}
