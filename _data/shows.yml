@@ -382,27 +382,6 @@ atu2:
   overcast: https://overcast.fm/itunes1018994132/the-atu2-podcast
   spotify: https://open.spotify.com/show/0ToqLurEKPHgGgz2qzMi4L
   latest: https://share.transistor.fm/e/the-atu2-podcast/latest
-aux:
-  name: Auxiliary
-  lang: EN
-  explicit: yes
-  collection: aux
-  hosts: Goodstuff.FM
-  description: After a show is done recording, we sometimes forget to stop recording and this is what results.
-  artwork: "/uploads/artwork-aux.jpg"
-  color: "#6B4AD3"
-  show-twitter:
-  hosts-twitter:
-  email: contact@goodstuff.fm
-  keywords: comedy, 3 guys, three guys, 3g3q, wolverine room, buddy box, juggalo, lightning round
-  category1: "Arts"
-  category2: "Comedy"
-  category3: "Technology"
-  rss: http://feed.xml.3g3q.co/
-  itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
-  appid: 914129482
-  pocketcasts: http://feed.xml.3g3q.co/
-  overcast: http://feed.xml.3g3q.co/
 ll:
   name: Lost and Lemon
   collection: ll
