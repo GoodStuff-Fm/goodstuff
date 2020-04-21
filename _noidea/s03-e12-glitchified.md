@@ -5,12 +5,13 @@ title: S03:E12 - "Glitchified"
 episode: 41
 date: 2020-04-21T14:00:00.000Z
 description: Let the great brain smoothening begin!
-image: /_uploads/IHNIWID S03E12 - Episode Art.jpg
+image: /uploads/IHNIWID-S03E12-Episode-Art.jpg
 mp3: https://media.transistor.fm/104e492e.mp3
+permalink: /noidea/41
 ---
 
 
-![](/_uploads/IHNIWID S03E12 - Episode Art.jpg)
+![](/uploads/IHNIWID-S03E12-Episode-Art.jpg)
 
 - Thoughts And Prayers For Aaron In This Difficult Time
     - Flexing my finger
