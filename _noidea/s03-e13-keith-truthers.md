@@ -3,7 +3,7 @@ layout: episode
 show: noidea
 title: S03:E13 - "Keith Truthers"
 episode: 42
-date: 2020-05-04T19:00:00.000Z
+date: 2020-05-04T16:00:00.000Z
 description: "Fast-talking pundits of the world: we're coming for you!"
 image: /uploads/IHNIWID-S03E13-EpisodeArt.jpg
 mp3: https://media.transistor.fm/187d26c0.mp3
