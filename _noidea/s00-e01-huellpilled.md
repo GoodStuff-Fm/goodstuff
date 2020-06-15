@@ -4,7 +4,7 @@ show: noidea
 title: S00:E01 - "Huellpilled"
 episode: 44
 date: 2020-06-15 10:00:00 -07:00
-description: Starting to think maybe there is such a thing as society.
+description: Thinking about burning it all down so we can dig through the ashes with childlike wonder.
 image: /uploads/IHNIWID-S00E01-EpisodeArt.jpg
 mp3: https://media.transistor.fm/353ae738.mp3
 permalink: /noidea/44
