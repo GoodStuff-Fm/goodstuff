@@ -6,7 +6,7 @@ episode: 44
 date: 2020-06-15 10:00:00 -07:00
 description: Thinking about burning it all down so we can dig through the ashes with childlike wonder.
 image: /uploads/IHNIWID-S00E01-EpisodeArt.jpg
-mp3: https://media.transistor.fm/353ae738.mp3
+mp3: https://media.transistor.fm/5d3dcb7e.mp3
 permalink: /noidea/44
 sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts directly to get exclusive unedited episodes and more.
 ---
