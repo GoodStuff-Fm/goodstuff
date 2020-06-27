@@ -12,7 +12,7 @@
         <h1 class="page__header">{{ show.name }}</h1>
 
         <ul class="shows__list">
-            <li class="shows__list__artwork"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
+            <li class="shows__list__artwork"><img src="{{ show.artwork-small }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
             </li>
             <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
             <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
