@@ -306,8 +306,8 @@ nbsp:
   collection: nbsp
   hosts: Christopher Schmitt
   description: Weekly podcast seeking out the best, brightest, and smartest creatives to find out why they do what they do and how they did it. Free trial plan, no CC required.
-  artwork: "/uploads/artwork/artwork-nbsptv.png"
-  artwork-small: "/uploads/artwork/artwork-nbsptv-small.png"
+  artwork: "/uploads/artwork/artwork-nbsptv.jpg"
+  artwork-small: "/uploads/artwork/artwork-nbsptv-small.jpg"
   color: #4EBA64
   category1: "Technology - Tech News"
   category2: "Arts"
