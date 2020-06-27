@@ -192,9 +192,10 @@ dailyish:
   category3: "Technology"
   email: chris@goodstuff.fm
   support: http://www.patreon.com/ichris
-  rss: https://goodstuff.fm/dailyish/feed.xml
+  rss: https://feeds.transistor.fm/daily-ish
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/daily-ish/latest
+  allepisodes: https://share.transistor.fm/e/daily-ish/playlist
   appid: 815675012
   pocketcasts: http://pca.st/Vifv
   overcast: https://overcast.fm/itunes815675012/daily-ish

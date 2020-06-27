@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/dailyish/feed.xml"
+to = "https://feeds.transistor.fm/daily-ish"
+status = 301
+force = true

@@ -4,7 +4,7 @@
 /aux/feed  /aux/feed.xml
 /buzzled/feed  /buzzled/feed.xml
 /clockworks/feed  /clockworks/feed.xml
-/dailyish/feed  /dailyish/feed.xml
+/dailyish/feed  https://feeds.transistor.fm/daily-ish
 /grownups/feed  /grownups/feed.xml
 /highcontrast/feed  /highcontrast/feed.xml
 /icebreaker/feed  /icebreaker/feed.xml
@@ -16,3 +16,4 @@
 /specials/feed  /specials/feed.xml
 /todaysspecial/feed  /todaysspecial/feed.xml
 /wts/feed  /wts/feed.xml
+/dailyish/feed.xml  https://feeds.transistor.fm/daily-ish

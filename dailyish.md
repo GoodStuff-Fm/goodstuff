@@ -2,7 +2,8 @@
 title: Daily(ish)
 permalink: "/dailyish/"
 show: dailyish
-layout: show
+layout: show-transistor
 output: true
 ---
 
+nope
