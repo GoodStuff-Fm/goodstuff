@@ -5,7 +5,8 @@ noidea:
   collection: noidea
   hosts: Andrew Huster and Aaron LM Goodwin
   description: Join us on a wondrous journey through whatever's on our minds this week. We have no idea what we're doing. But we're trying.
-  artwork: "/uploads/artwork/artwork/artwork-noidea.jpg"
+  artwork: "/uploads/artwork/artwork-noidea.jpg"
+  artwork-small: "/uploads/artwork/artwork-noidea-small.jpg"
   show-twitter: GoodstuffFM
   hosts-twitter:
   email:
@@ -25,6 +26,7 @@ midnightsnack:
   hosts: Kyle Roderick and Kenny Roderick
   description: The secret podcast you eat at night.
   artwork: "/uploads/artwork/artwork-midnightsnack.jpg"
+  artwork-small: "/uploads/artwork/artwork-midnightsnack-small.jpg"
   color: #5BC4FE
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
@@ -49,6 +51,7 @@ baseline:
   hosts: Andrew Huster and Kyle Roderick
   description: A podcast about baseball by people who know nothing about baseball.
   artwork: "/uploads/artwork/artwork-baseline.jpg"
+  artwork-small: "/uploads/artwork/artwork-baseline-small.jpg"
   show-twitter: baseline_show
   hosts-twitter:
   email:
@@ -68,7 +71,8 @@ icebreaker:
   collection: icebreaker
   hosts: Spencer Meisner and Matt Jennings
   description: Hockey from every angle.
-  artwork: "/uploads/artwork/Icebreaker-artwork.jpg"
+  artwork: "/uploads/artwork/artwork-icebreaker.jpg"
+  artwork-small: "/uploads/artwork/artwork-icebreaker-small.jpg"
   color: "#5658CE"
   show-twitter: icebreaker_pod
   hosts-twitter:
@@ -91,6 +95,7 @@ buzzled:
   hosts: Kyle Roderick and Kenny Roderick
   description: A new series from Kyle and Kenny where they play puzzle games and drink a beer to potentially disastrous results.
   artwork: "/uploads/artwork/artwork-buzzled.jpg"
+  artwork-small: "/uploads/artwork/artwork-buzzled-small.jpg"
   color: "#F2DA4A"
   show-twitter:
   hosts-twitter:
@@ -113,6 +118,7 @@ highcontrast:
   hosts: Chris Enns and Kyle Roderick
   description: Kyle and Chris talk about nerdy things that relate to a singular topic from two different perspectives.
   artwork: "/uploads/artwork/artwork-highcontrast.jpg"
+  artwork-small: "/uploads/artwork/artwork-highcontrast-small.jpg"
   color: "#6B4AD3"
   show-twitter:
   hosts-twitter:
@@ -135,7 +141,8 @@ wts:
   collection: wts
   hosts: Jan Moffett and Paul Moffett
   description: Way Too Seriously is a weekly podcast in which Jan and Paul Moffett talk about the implicit biases, the assumptions, and the thematic implications of kids' movies with exactly the appropriate level of seriousness.
-  artwork: "/uploads/artwork/Way-Too-Seriously-Artwork-Colournew.jpg"
+  artwork: "/uploads/artwork/artwork-wts.jpg"
+  artwork-small: "/uploads/artwork/artwork-wts-small.jpg"
   color: "#241771"
   show-twitter: "@wtscast"
   hosts-twitter: "@jayellemo and @thatpaulmoffett"
@@ -160,6 +167,7 @@ wts:
   hosts: Aaron Goodwin, Andrew Savage, and Adam Anderson
   description: Three guys ponder the finer things in life by asking each other weird questions. Each week they compete to seem the most normal while answering questions about fears, pet-peeves, and idiosyncrasies.
   artwork: "/uploads/artwork/artwork-3g3q.jpg"
+  artwork-small: "/uploads/artwork/artwork-3g3q-small.jpg"
   color: "#6B4AD3"
   show-twitter: "@_3g3q"
   hosts-twitter: "@aaronlmgoodwin, @a_sav, and @thatadamkid"
@@ -183,6 +191,7 @@ dailyish:
   hosts: Chris Enns
   description: Just as it says on the tin this is a daily(ish) podcast from Chris Enns.
   artwork: "/uploads/artwork/artwork-dailyish.jpg"
+  artwork-small: "/uploads/artwork/artwork-dailyish-small.jpg"
   color: "#757474"
   keywords: tech, technology, personal, journal, family, life
   show-twitter: _dailyish
@@ -204,6 +213,7 @@ morningshow:
   hosts: Kyle Roderick and Kenny Roderick
   description: A weekly look into the Internet's junk drawer with the brothers Roderick.
   artwork: "/uploads/artwork/artwork-morningshow.jpg"
+  artwork-small: "/uploads/artwork/artwork-morningshow-small.jpg"
   color: #5BC4FE
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
@@ -227,6 +237,7 @@ todaysspecial:
   hosts: Kyle Roderick and Kenny Roderick
   description: Celebrating a different food each day.
   artwork: "/uploads/artwork/artwork-todaysspecial.jpg"
+  artwork-small: "/uploads/artwork/artwork-todaysspecial-small.jpg"
   color:
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
@@ -250,6 +261,7 @@ clockworks:
   hosts: Jan Moffett and Paul Moffett
   description: Clockworks is a weekly podcast about the tv series Legion. Paul and Jan Moffett delve into an episode-by-episode analysis of Legion, focusing especially on picking apart the symbolism and imagery of the psychedelic and surreal FX show.
   artwork: "/uploads/artwork/artwork-clockworks.jpg"
+  artwork-small: "/uploads/artwork/artwork-clockworks-small.jpg"
   color: #3F3D2F
   explicit: no
   keywords: tv, fantasy, media, marvel, drama, superhero, fiction
@@ -273,6 +285,7 @@ grownups:
   hosts: Kari Halsted and Brook Shelley
   description: A podcast about being the kind of grown-ups we want to be. The answers are better than the questions.
   artwork: "/uploads/artwork/artwork-grownups.jpg"
+  artwork-small: "/uploads/artwork/artwork-grownups-small.jpg"
   color: #F8C023
   keywords: adulthood
   show-twitter: "@grownups_fm"
@@ -293,7 +306,8 @@ nbsp:
   collection: nbsp
   hosts: Christopher Schmitt
   description: Weekly podcast seeking out the best, brightest, and smartest creatives to find out why they do what they do and how they did it. Free trial plan, no CC required.
-  artwork: "/uploads/artwork/artwork-nbsptv-2017.png"
+  artwork: "/uploads/artwork/artwork-nbsptv.png"
+  artwork-small: "/uploads/artwork/artwork-nbsptv-small.png"
   color: #4EBA64
   category1: "Technology - Tech News"
   category2: "Arts"
@@ -317,6 +331,7 @@ master:
   hosts: Goodstuff.FM
   description: All episodes of all shows on Goodstuff.FM
   artwork: "/uploads/artwork/artwork-master.jpg"
+  artwork-small: "/uploads/artwork/artwork-master-small.jpg"
   color: "#D8574B"
   show-twitter: "@GoodstuffFM"
   hosts-twitter: ""
@@ -338,6 +353,7 @@ master:
   hosts: Chris Enns and Nicolas Ward
   description: "Each episode we'll be talking about the Apple Arcade games we've tried, what we keep going back to, what we think might be great games to check out if you've got kids, and preview upcoming games."
   artwork: "/uploads/artwork/artwork-25c.jpg"
+  artwork-small: "/uploads/artwork/artwork-25c-small.jpg"
   color: #FFCD84
   show-twitter: "@25carcade"
   hosts-twitter: "@ichris and @ultranurd"
@@ -364,6 +380,7 @@ atu2:
   hosts: "The Staff of atU2"
   description: "Talking all things U2 including new album news, tour dates, commentary, and community discussions from the staff of @U2."
   artwork: "/uploads/artwork/artwork-atu2.jpg"
+  artwork-small: "/uploads/artwork/artwork-atu2-small.jpg"
   color: #FFCD84
   show-twitter: "@atu2"
   hosts-twitter: "@ichris"
@@ -388,6 +405,7 @@ ll:
   hosts: Chris Enns and Chris Huebert
   description: A talk show about starting businesses on opposite sides of the world, but on the same internet.
   artwork: "/uploads/artwork/artwork-ll.jpg"
+  artwork-small: "/uploads/artwork/artwork-ll-small.jpg"
   email: chris@goodstuff.fm
   keywords: business, technology, Chris, Enns, Huebert
   category: "Business"
@@ -403,6 +421,7 @@ neverdigdown:
   hosts: Chris Enns and Tim Murtaugh
   description: Chris and Tim are your buddies on a journey into the world of Minecraft. Answering your questions about the game and introducing you to new and interesting ways to play Minecraft through mods.
   artwork: "/uploads/artwork/artwork-neverdigdown.jpg"
+  artwork-small: "/uploads/artwork/artwork-neverdigdown-small.jpg"
   color: #F8C023
   keywords: video, game, minecraft, education
   show-twitter: "@neverdigdown_fm"
@@ -425,6 +444,7 @@ smym:
   hosts: Chris Enns
   description: A show that talks to podcasters about gear, software, workflow, and philosophies behind podcasting.
   artwork: "/uploads/artwork/artwork-smym.jpg"
+  artwork-small: "/uploads/artwork/artwork-smym-small.jpg"
   color: #9FBB2D
   show-twitter: "@_smym"
   hosts-twitter: "@ichris"
@@ -449,6 +469,7 @@ specials:
   hosts: Goodstuff.FM
   description: Goodstuff special events - random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
   artwork: "/uploads/artwork/artwork-specials.jpg"
+  artwork-small: "/uploads/artwork/artwork-specials-small.jpg"
   color: #D85647
   show-twitter: "@GoodstuffFM"
   hosts-twitter:

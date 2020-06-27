@@ -17,7 +17,7 @@
         <h1 class="episode__show__name"><a href="/{{ show.collection }}">{{ show.name }}</a></h1>
         <ul class="episode__show__info">
             <li class="episode__show__artwork">
-                <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="50" width="50" /></a>
+                <a href="/{{ show.collection }}"><img src="{{ show.artwork-small }}" alt="Artwork" height="50" width="50" /></a>
             </li>
             <li class="episode__show__hosts">Hosted by {{ show.hosts }}</li>
             <li class="episode__show__description">{{ show.description | truncate: 256 | markdownify }}</li>

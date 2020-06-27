@@ -21,7 +21,7 @@
             {% assign master = site.data.shows.master %}
 
             <ul class="shows__list">
-                <li class="shows__list__artwork"><img src="{{ master.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
+                <li class="shows__list__artwork"><img src="{{ master.artwork-small }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
                 </li>
                 <li class="shows__list__name">
                     <h3>{{ master.name }}</h3></li>
@@ -41,7 +41,7 @@
 
             <ul class="shows__list">
                 <li class="shows__list__artwork">
-                    <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
+                    <a href="/{{ show.collection }}"><img src="{{ show.artwork-small }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
                 </li>
                 <li class="shows__list__name">
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
@@ -83,7 +83,7 @@
 
             <ul class="shows__list">
                 <li class="shows__list__artwork">
-                    <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
+                    <a href="/{{ show.collection }}"><img src="{{ show.artwork-small }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
                 </li>
                 <li class="shows__list__name">
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
@@ -123,7 +123,7 @@
 
             <ul class="shows__list">
                 <li class="shows__list__artwork">
-                    <a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
+                    <a href="/{{ show.collection }}"><img src="{{ show.artwork-small }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
                 </li>
                 <li class="shows__list__name">
                     <h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>

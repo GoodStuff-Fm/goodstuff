@@ -32,7 +32,7 @@
                 {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true or collection.hidden == true or collection.inactive == true %} {% assign show = site.data.shows[collection.label] %}
 
                     <div class="our-shows__artwork">
-                        <a href="{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" loading="lazy"/></a><br />
+                        <a href="{{ show.collection }}"><img src="{{ show.artwork-small }}" alt="Artwork" loading="lazy"/></a><br />
                         <!-- Show Name<a href="{{ show.collection }}">{{ show.name }}</a> -->
                     </div>
 
@@ -58,7 +58,7 @@
         <div class="latest-episode">
 
             <div class="latest-episode__artwork">
-                <a href="{{ doc.url }}"><img src="{{ show.artwork }}" alt="Artwork" loading="lazy"/></a>
+                <a href="{{ doc.url }}"><img src="{{ show.artwork-small }}" alt="Artwork" loading="lazy"/></a>
             </div>
 
             <div class="latest-episode__details">
