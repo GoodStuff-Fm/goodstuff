@@ -3,19 +3,25 @@
 // Styles for fonts, weights, sizes, and other font-related styles.
 
 button {
-  border: 0;
-  border-radius: 0.4rem;
+  //thick border style
+  //border: 6 solid;
+  //border-width: thick;
+  //border-color: black;
+  border: none;
   font-family: system-ui, sans-serif;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: white;
+  border-radius: 8pt;
   line-height: 1.2;
   white-space: nowrap;
   text-decoration: none;
   padding: 0.5rem 0.8rem;
   margin-right: 0.5rem;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
+  min-height: 40px;
   cursor: pointer;
     a {
-      color: white !important;
       text-decoration: none !important;
     }
     i {
