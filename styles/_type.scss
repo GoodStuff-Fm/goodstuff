@@ -787,9 +787,10 @@ button {
     }
 
     &__transistor a {
-      color: $bright-red;
+      color: $dark-blue;
       font-weight: 600;
       text-decoration: none;
+      border-bottom: 2px solid;
     }
 
     &__link {
