@@ -30,13 +30,13 @@ button {
   background: #862cc3;
 }
 .pocketcasts {
-  background: #f43e37;
+  background: $bright-red;
 }
 .overcast {
-  background: #fc7e0f;
+  background: #ef7000;
 }
 .spotify {
-  background: #1ed761;
+  background: #319b47;
 }
 .youtube {
   background: $bright-red;
@@ -74,7 +74,7 @@ button {
     &__date {
       color: $blue;
       font-size: .95rem;
-      opacity: .6;
+      opacity: .8;
     }
 
     &__hosts {
@@ -787,9 +787,10 @@ button {
     }
 
     &__transistor a {
-      color: $bright-red;
+      color: $dark-blue;
       font-weight: 600;
       text-decoration: none;
+      border-bottom: 2px solid;
     }
 
     &__link {
