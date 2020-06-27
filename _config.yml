@@ -84,8 +84,8 @@ collections:
     title: I Guess We're Grown-Ups Now
     output: true
     permalink: "/grownups/:path"
-    retired: false
-    inactive: true
+    retired: true
+    inactive: false
     live: false
   icebreaker:
     title: Icebreaker
@@ -117,8 +117,7 @@ collections:
     output: true
     permalink: "/nbsp/:path"
     live: false
-    retired: false
-    inactive: true
+    retired: true
   people:
     title: People
     output: true
