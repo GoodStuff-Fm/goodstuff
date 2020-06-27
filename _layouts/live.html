@@ -9,66 +9,36 @@
 
         <h1 class="page__header">Live Shows</h1>
 
-        <p class="page__description">{{ page.description }}</p>
-
-        {% for collection in site.collections %}
-        {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true %}
-        {% assign show = site.data.shows[collection.label] %}
-        {% if collection.live == true %}
-
-        <ul class="shows__list">
-          <li class="shows__list__artwork"><a href="/{{ show.collection }}"><img src="{{ show.artwork }}" alt="Artwork" height="100" width="100" loading="lazy"/></a></li>
-          <li class="shows__list__name"><h3><a href="/{{ show.collection }}">{{ show.name }}</a></h3></li>
-          <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
-          <li class="shows__list__description">{{ show.description | truncate: 256 }}</li>
-          <li class="shows__list__link">
-            <button class="rss"><a href="{{ show.rss }}"><i class="fa fa-rss" aria-hidden="true"></i>RSS</a>
-            {% if show.itunes %}
-            <button type="button" class="apple"><a href="{{ show.itunes }}" title="Subscribe on Podcasts"><i class="fab fa-apple" aria-hidden="true"></i>Podcasts</a>
-            {% endif %}
-            {% if show.pocketcasts %}
-            <button type="button" class="pocketcasts"><a href="{{ show.pocketcasts }}" title="Subscribe on Pocket Casts"><i class="fa fa-headphones" aria-hidden="true"></i>Pocket Casts</a>
-            {% endif %}
-            {% if show.overcast %}
-            <button type="button" class="overcast"><a href="{{ show.overcast }}" title="Subscribe on Overcast"><i class="fa fa-headphones" aria-hidden="true"></i>Overcast</a>
-            {% endif %}
-            {% if show.youtube %}
-            <button type="button" class="youtube"><a href="{{ show.youtube }}" title="Subscribe on YouTube"><i class="fa fa-youtube" aria-hidden="true"></i>Youtube</a>
-            {% endif %}
-            {% if show.anchor %}
-            <button type="button" class="anchor"><a href="{{ show.anchor }}" title="Subscribe on Anchor"><i class="fa fa-anchor" aria-hidden="true"></i>Anchor</a>
-            {% endif %}
-            {% if show.spotify %}
-            <button type="button" class="spotify"><a href="{{ show.spotify }}" title="Subscribe on Spotify"><i class="fab fa-spotify" aria-hidden="true"></i>Spotify</a>
-            {% endif %}
-          </li>
-        </ul>
-
-        {% endif %}
-        {% endunless %}
-        {% endfor %}
-
-        <hr class="page__rule">
+        <div class="page__description">{{ page.description | markdownify }}</div>
 
         <div class="page__twitch">
+
           <div class="video-container">
-              <iframe src="https://player.twitch.tv/?channel=gsfm" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+            <!-- Add a placeholder for the Twitch embed -->
+   <div id="twitch-embed"></div>
+
+   <!-- Load the Twitch embed script -->
+   <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+   <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+   <script type="text/javascript">
+     new Twitch.Embed("twitch-embed", {
+       channel: "gsfm",
+       layout: "video-with-chat",
+       autoplay: true,
+       allowfullscreen: true,
+       muted: false,
+       // only needed if your site is also embedded on embed.example.com and othersite.example.com
+       parent: ["embed.example.com", "othersite.example.com"]
+     });
+   </script>
           </div>
           <br>
-          <div class="video-container">
-              <iframe src="https://www.twitch.tv/gsfm/chat?popout=" frameborder="0" scrolling="no"></iframe>
-          </div>
-
-          <hr class="page__rule">
 
         </div>
 
-
-
-        <h2 class="page__subheader">Schedule</h2>
-
         <div class="episode__content">
-            {{ page.content }}
+            {{ page.content | markdownify }}
         </div>
 
         <!-- Collection-based Live layout with Audio Only
