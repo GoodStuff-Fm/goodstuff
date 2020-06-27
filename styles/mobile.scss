@@ -1,0 +1,173 @@
+// Mobile
+//
+// Styles for smaller screens.
+
+@media screen and (max-width: 655px) {
+
+  body {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    overflow: auto;
+  }
+
+  .container {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+    padding-bottom: 300pt !important;
+  }
+
+  .container__footer {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+  }
+
+  .page__header {
+    padding-top: 24pt !important;
+    padding-bottom: 4pt !important;
+  }
+
+  .latest-episode {
+    margin-top: 16pt;
+    margin-bottom: 16pt;
+
+    &__header {
+      width: 100%;
+      padding-top: 16pt;
+      padding-bottom: 12pt;
+    }
+
+    &__artwork {
+      width: 100% !important;
+      float: none;
+    }
+
+    &__details {
+      width: 100% !important;
+      float: none;
+
+      &__show {
+        padding-top: 20pt;
+        padding-bottom: 12pt;
+      }
+
+      &__title {
+        padding-bottom: 10pt;
+      }
+
+      &__date {
+        padding-bottom: 12pt;
+      }
+
+      &__hosts {
+        padding-bottom: 18pt;
+      }
+
+      &__description {
+        padding-bottom: 12pt;
+        line-height: 1.7rem;
+      }
+    }
+  }
+
+  .container__our-shows {
+    display: none;
+  }
+
+  .episode__show__artwork, .episode__show__hosts, .episode__show__description {
+    display: none;
+  }
+
+  .episode__show__name {
+    padding-top: 24pt !important;
+    padding-bottom: 16pt;
+  }
+
+  .episode__show__link img {
+    padding-bottom: 8pt;
+  }
+
+  .episode__show__info {
+    min-height: 0 !important;
+  }
+
+  .episode__player__links {
+    display: none;
+  }
+
+  .episode__content img {
+    width: 100%;
+  }
+
+  .episode__navigation {
+    padding-top: 12pt;
+  }
+
+  .header__list {
+    li:nth-child(3), li:nth-child(4), li:nth-child(5), li:nth-child(6){
+    display: none;}
+  }
+
+
+
+  .header__list__logo {
+    padding-left: 4pt;
+  }
+
+  .footer {
+    height: auto;
+  }
+
+  .footer__left, .footer__right {
+    width: 100% !important;
+    padding-bottom: 24pt !important;
+  }
+
+  .shows {
+
+    &__list {
+      padding: 0 0 24pt 0;
+
+      &__artwork {
+        width: 100%;
+        height: auto;
+        float: left;
+        padding-top: 24pt;
+        padding-bottom: 10pt;
+        img {
+          width: 100%;
+          height: auto;
+          border-radius: 6pt;
+          display: block;
+        }
+      }
+
+      &__name {
+        padding-top: 15pt;
+      }
+
+      &__hosts {
+        padding-top: 10pt;
+      }
+
+      &__description {
+        padding-top: 6pt;
+      }
+
+      &__link {
+        width: 100%;
+        padding-top: 0;
+
+        button {
+          height: 44pt;
+          width: 100%;
+        }
+      }
+
+    }
+  }
+
+
+
+
+}
