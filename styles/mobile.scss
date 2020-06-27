@@ -101,16 +101,13 @@
     display: none;
   }
 
-  .episode__show__artwork, .episode__show__hosts, .episode__show__description {
+  .episode__show__artwork, .episode__show__hosts, .episode__show__description, .episode__show__links {
     display: none;
   }
 
   .episode__show__name {
+    font-size: 1.8rem;
     padding-top: 24pt !important;
-    padding-bottom: 16pt;
-  }
-
-  .episode__show__link img {
     padding-bottom: 8pt;
   }
 
