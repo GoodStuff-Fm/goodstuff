@@ -6,7 +6,7 @@ episode: 54
 date: 2020-08-17 14:00:00 -04:00
 description: It's Keyboard Opening Time! Also, we joined the KHive.
 image: /uploads/IHNIWID-S04E06-EpisodeArt.jpg
-mp3: https://media.transistor.fm/045eba4a.mp3
+mp3: https://media.transistor.fm/c05c62f4.mp3
 permalink: /noidea/54
 sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstuff "Goodstuff on Patreon") and listeners just like you! Support your favorite podcasts directly to get access to the discord and more.
 ---
