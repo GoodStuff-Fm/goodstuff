@@ -56,7 +56,7 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 
 - Burger King Exploiting Twitch for Advertising
     - [https://arstechnica.com/gaming/2020/08/burger-king-brags-about-exploiting-twitch-to-advertise-to-kids-for-cheap/](https://arstechnica.com/gaming/2020/08/burger-king-brags-about-exploiting-twitch-to-advertise-to-kids-for-cheap/)
-    - [The Burger King Kids Club Gang and The Honbatz | Kids World's Adventures Wiki - Fandom](https://kids-worlds-adventures.fandom.com/wiki/The_Burger_King_Kids_Club_Gang_and_The_Honbatz)
+    - [The Burger King Kids Club Gang and The Honbatz - Kids World's Adventures Wiki - Fandom](https://kids-worlds-adventures.fandom.com/wiki/The_Burger_King_Kids_Club_Gang_and_The_Honbatz)
 - More Uber/Lyft nonsense
     - [https://www.vice.com/en_us/article/4aypqb/lyft-is-shutting-down-in-california-at-midnight-company-says](https://www.vice.com/en_us/article/4aypqb/lyft-is-shutting-down-in-california-at-midnight-company-says)
 - Apple/Epic/Automattttttttic
