@@ -347,11 +347,11 @@ master:
   overcast: https://overcast.fm/itunes1332045499/goodstuff-broadcasting-master-audio-feed
 25c:
   explicit: no
-  name: "25¢: An Apple Arcade Review Podcast"
+  name: "25¢: A Video Game Review Podcast"
   lang: EN
   collection: 25c
   hosts: Chris Enns and Nicolas Ward
-  description: "Each episode we'll be talking about the Apple Arcade games we've tried, what we keep going back to, what we think might be great games to check out if you've got kids, and preview upcoming games."
+  description: "Each episode we'll be talking about the games we've tried, what we keep going back to, what we think might be great games to check out if you've got kids, and preview upcoming games."
   artwork: "/uploads/artwork/artwork-25c.jpg"
   artwork-small: "/uploads/artwork/artwork-25c-small.jpg"
   color: #FFCD84
