@@ -131,7 +131,7 @@ collections:
     permalink: "/smym/:path"
     retired: false
     live: false
-    inactive: true
+    inactive: false
   atu2:
     title: The @U2 Podcast
     output: true
