@@ -222,14 +222,13 @@ body {
   }
 
   &__list {
-    padding-top: 20pt;
+    padding: 20pt 0 40pt 0;
     width: auto;
-    columns: 8;
+    columns: 9;
 
   }
 
   &__artwork {
-    padding-bottom: 40pt;
 
     img {
       width: 100%;
