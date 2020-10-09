@@ -1,7 +1,7 @@
 ---
 layout: episode
 show: noidea
-title: Pop Off Episode 1: Rail Freight Transport
+title: Pop Off Episode 1 - Rail Freight Transport
 episode: 59
 date: 2020-10-09 08:00:00 -04:00
 description: Only boxcars are good, all other freight sucks.
