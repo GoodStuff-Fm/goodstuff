@@ -3,8 +3,8 @@ layout: episode
 show: noidea
 title: S04:E11 – "SBOOBS"
 episode: 60
-date: 2020-09-29 08:00:00 -04:00
-description: Just want to be curled up on the couch reading about camcorders.
+date: 2020-10-19 08:00:00 -04:00
+description: Noshing on a smack barm pey wet, thinking about TaB.
 image: /uploads/IHNIWID-S04E11-EpisodeArt.jpg
 mp3: https://media.transistor.fm/4fabb91a.mp3
 permalink: /noidea/60
