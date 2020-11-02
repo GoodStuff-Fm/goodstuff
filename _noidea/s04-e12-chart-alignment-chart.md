@@ -35,7 +35,7 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
     [https://twitter.com/profgalloway/status/1321433036093870080](https://twitter.com/profgalloway/status/1321433036093870080)
 
 - Berlin’s new airport is finally, finally open
-    - [Nearly a decade late, Berlin's Brandenburg Airport finally opens (during a pandemic) | CNN Travel](https://www.cnn.com/travel/article/brandenburg-new-berlin-airport-opens/index.html)
+    - [Nearly a decade late, Berlin's Brandenburg Airport finally opens (during a pandemic) - CNN Travel](https://www.cnn.com/travel/article/brandenburg-new-berlin-airport-opens/index.html)
 
 ---
 
