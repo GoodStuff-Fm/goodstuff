@@ -79,7 +79,7 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 
 - The Train President
     - [https://www.washingtonpost.com/politics/biden-train-campaign-debate/2020/09/30/fd370ffa-0330-11eb-897d-3a6201d6643f_story.html](https://www.washingtonpost.com/politics/biden-train-campaign-debate/2020/09/30/fd370ffa-0330-11eb-897d-3a6201d6643f_story.html)
-    ![https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/senator-joseph-r-biden-d-del-is-seen-here-at-union-station-news-photo-1597948154.jpg?crop=1.00xw:0.677xh;0,0.130xh&resize=320:*](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/senator-joseph-r-biden-d-del-is-seen-here-at-union-station-news-photo-1597948154.jpg?crop=1.00xw:0.677xh;0,0.130xh&resize=320:*)
+    ![https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/senator-joseph-r-biden-d-del-is-seen-here-at-union-station-news-photo-1597948154.jpg](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/senator-joseph-r-biden-d-del-is-seen-here-at-union-station-news-photo-1597948154.jpg)
 
 - Finally, The Gabagool Emoji is Here
 
