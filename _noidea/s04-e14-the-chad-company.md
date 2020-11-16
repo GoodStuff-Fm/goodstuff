@@ -3,7 +3,7 @@ layout: episode
 show: noidea
 title: S04:E14 – "The Chad Company"
 episode: 63
-date: 2020-11-16 08:00:00 -05:00
+date: 2020-11-16 07:00:00 -05:00
 description: Happy Infrastructure Week!
 image: /uploads/IHNIWID-S04E14-EpisodeArt.jpg
 mp3: https://media.transistor.fm/48d81d2c/bab971a8.mp3
