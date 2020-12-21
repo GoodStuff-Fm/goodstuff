@@ -1,7 +1,7 @@
 ---
 layout: episode
 show: noidea
-title: Pop Off Episode 3 - "Milk Tubes"
+title: S00:E10 - "Take-a-Palooza"
 episode: 65
 date: 2020-12-21 07:00:00 -05:00
 description: It's the end of the year. We round up all the takes.
