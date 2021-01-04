@@ -4,7 +4,7 @@ show: noidea
 title: S05:E01 - "Crossing the Rubicon"
 episode: 66
 date: 2021-01-04 11:00:00 -05:00
-description: 
+description: Get steampilled with us.
 image: /uploads/IHNIWID-S05E01-EpisodeArt.jpg
 mp3: https://media.transistor.fm/3383ef7c/a0cf7768.mp3
 permalink: /noidea/66
