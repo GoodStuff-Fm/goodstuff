@@ -1,5 +1,5 @@
 ---
-title: Goodstuff.FM
+title: Goodstuff.network
 timezone: America/Regina
 collections:
   midnightsnack:
@@ -160,22 +160,22 @@ collections:
     hidden: false
     slug: wts
 permalink: pretty
-url: https://goodstuff.fm
+url: https://goodstuff.network
 podcast_subtitle: A network of good shows with good people doing good things
-podcast-url: https://goodstuff.fm
-podcast_email: contact@goodstuff.fm
-podcast_owner: Goodstuff.FM
+podcast-url: https://goodstuff.network
+podcast_email: contact@goodstuff.network
+podcast_owner: Goodstuff.network
 itunes-subtitle: A network of good shows with good people doing good things
-itunes-url: https://goodstuff.fm
-itunes-email: contact@goodstuff.fm
+itunes-url: https://goodstuff.network
+itunes-email: contact@lemonproductions.ca
 itunes-lang: EN
-itunes-author: Goodstuff.FM
+itunes-author: Goodstuff.network
 Goodstuff Twitter: https://twitter.com/goodstufffm
 twitter: goodstufffm
 logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
 description: A network of good shows with good people doing good things
-copyright: "© 2014–2020 Goodstuff.FM"
+copyright: "© 2014–2020 Goodstuff.network"
 exclude:
 - README.markdown
 - Gemfile.lock

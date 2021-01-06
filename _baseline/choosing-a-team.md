@@ -91,7 +91,7 @@ Andrew realizes that there was a deeper meaning to *The Hot Stove League*, becau
 
 As always, send topics and feedback to [topics@baseline.show](mailto:topics@baseline.show).
 
-And don't forget to check out all the great shows at [Goodstuff.fm](https://goodstuff.fm).
+And don't forget to check out all the great shows at [Goodstuff.network](https://goodstuff.network).
 
 ***KEEP IT RIGHT HERE! DON'T TOUCH THAT DIAL!***
 

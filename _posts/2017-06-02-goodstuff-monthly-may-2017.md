@@ -21,7 +21,7 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 * [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 14 patrons, $40 per month
 * [iChris](https://www.patreon.com/ichris) - 19 patrons, $95 per month
 
-Currently $135/month income via patron support. Decrease of $5 from the [previous month](https://goodstuff.fm/2017/04/07/goodstuff-monthly-april-2017/).
+Currently $135/month income via patron support. Decrease of $5 from the [previous month](https://goodstuff.network/2017/04/07/goodstuff-monthly-april-2017/).
 
 ## Site Stats
 According to Google Analytics:
@@ -39,7 +39,7 @@ According to Google Analytics:
 ***
 
 # Any Questions?
-* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6h0fk5/goodstuff_monthly_may_2017_edition/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
-* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
+* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6h0fk5/goodstuff_monthly_may_2017_edition/) or <a href="mailto:contact@goodstuff.network">email us</a>.
+* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.network/advertise/).
 
 This is also available on [our medium publication](https://medium.com/goodstuff-fm).

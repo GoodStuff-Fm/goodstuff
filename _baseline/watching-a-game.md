@@ -65,6 +65,6 @@ As always, send topics and feedback to [topics@baseline.show](mailto:topics@base
 
 You can join the Discord by pledging on the [Goodstuff Patreon](https://www.patreon.com/goodstuff).
 
-And don’t forget to check out all the great shows at [Goodstuff.fm](http://goodstuff.fm/).
+And don’t forget to check out all the great shows at [Goodstuff.network](http://goodstuff.network/).
 
 **Thanks for listening!**

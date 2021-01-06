@@ -11,7 +11,7 @@ You can listen and subscribe to the shows on Goodstuff for free in any podcast p
 
 Visit any [show's](/shows/) page and choose an episode - like [this one from Clockworks for example](/clockworks/33) - and press the play button:
 
-<img src='https://d.pr/i/rKyJB4+' alt="Demo of play button on Goodstuff.fm" height="350px" border="1">
+<img src='https://d.pr/i/rKyJB4+' alt="Demo of play button on Goodstuff.network" height="350px" border="1">
 
 # On Your iPad or iPhone
 

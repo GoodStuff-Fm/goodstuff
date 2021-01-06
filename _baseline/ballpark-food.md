@@ -42,7 +42,7 @@ Twitter has determined that we will be watching [_The Sandlot (1993)_](https://l
 
 _Please do not unnecessarily combine foods._
 
-[Morning Show on Goodstuff.fm](https://goodstuff.fm/morningshow/)
+[Morning Show on Goodstuff.network](https://goodstuff.network/morningshow/)
 
 [How Much Longer Will Baseball Stadiums Be For Baseball Fans?](https://deadspin.com/how-much-longer-will-baseball-stadiums-be-for-baseball-1833463105)
 
@@ -65,6 +65,6 @@ Send us your horse.
 * Email us at [topics@baseline.show](mailto:topics@baseline.show)
 * [@baseline_show](https://twitter.com/baseline_show) on Twitter
 * We'd love to hear your topic suggestions and any other feedback you have about the show.
-* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
+* **Head over to** [**Goodstuff.network**](http://goodstuff.network/) **and check out all the great shows.**
 
 _Thanks for listening!_

@@ -84,6 +84,6 @@ Send TOTW suggestions to [teamoftheweek@baseline.show](mailto:teamoftheweek@base
 
 As always, send topics and feedback to [topics@baseline.show](mailto:topics@baseline.show).
 
-And don’t forget to check out all the great shows at [Goodstuff.fm](http://goodstuff.fm).
+And don’t forget to check out all the great shows at [Goodstuff.network](http://goodstuff.network).
 
 **Thanks for listening!**

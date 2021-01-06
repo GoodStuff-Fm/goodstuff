@@ -18,7 +18,7 @@ This one's a short one, because we respect your time, dear listener.
 
 Discussed: the futility mark and baseball fights.
 
-[I Have No Idea What I'm Doing](https://goodstuff.fm/noidea/) - Andrew's other, more controversial podcast.
+[I Have No Idea What I'm Doing](https://goodstuff.network/noidea/) - Andrew's other, more controversial podcast.
 
 # Topics
 - [Davis now 0-for-44, closing in on futility mark](http://www.espn.com/mlb/story/_/id/26465739/davis-now-0-44-closing-futility-mark)
@@ -38,13 +38,13 @@ Check it out:
 # The Closer
 
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
-* For more goofs, or soundboard clips, listen to [I Have No Idea What I'm Doing](https://goodstuff.fm/noidea/)
+* For more goofs, or soundboard clips, listen to [I Have No Idea What I'm Doing](https://goodstuff.network/noidea/)
 
 ### **Where to Reach Us**
 
 * Email us at [topics@baseline.show](mailto:topics@baseline.show)
 * [@baseline_show](https://twitter.com/baseline_show) on Twitter
 * We'd love to hear your topic suggestions and any other feedback you have about the show.
-* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
+* **Head over to** [**Goodstuff.network**](http://goodstuff.network/) **and check out all the great shows.**
 
 _Thanks for listening!_

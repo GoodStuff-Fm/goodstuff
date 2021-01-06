@@ -21,10 +21,10 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 * [3 Guys 3 Questions](https://www.patreon.com/3g3q) - 15 patrons, $45 per month
 * [iChris](https://www.patreon.com/ichris) - 20 patrons, $95 per month
 
-Currently $140/month income via patron support. Same as the [previous month](https://goodstuff.fm/2017/04/07/goodstuff-monthly-march-2017/).
+Currently $140/month income via patron support. Same as the [previous month](https://goodstuff.network/2017/04/07/goodstuff-monthly-march-2017/).
 
 ## Site Stats
-The April numbers for Goodstuff.FM are only valid for April 7-30. According to Google Analytics:
+The April numbers for Goodstuff.network are only valid for April 7-30. According to Google Analytics:
 
 * 1,001 unique visitors with 2,378 pageviews
 * 64% new, 36% returning
@@ -40,7 +40,7 @@ The April numbers for Goodstuff.FM are only valid for April 7-30. According to G
 ***
 
 # Any Questions?
-* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/68u85h/goodstuff_monthly_for_april_2017/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
-* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
+* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/68u85h/goodstuff_monthly_for_april_2017/) or <a href="mailto:contact@goodstuff.network">email us</a>.
+* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.network/advertise/).
 
-This is also available on [our medium publication](https://blog.goodstuff.fm/goodstuff-monthly-april-2017-edition-10e961d7c374).
+This is also available on [our medium publication](https://blog.goodstuff.network/goodstuff-monthly-april-2017-edition-10e961d7c374).

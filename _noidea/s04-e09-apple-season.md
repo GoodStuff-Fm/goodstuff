@@ -59,7 +59,7 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
     - [Meet the California Couple Who Uses More Water Than Every Home in Los Angeles Combined – Mother Jones](https://www.motherjones.com/environment/2016/08/lynda-stewart-resnick-california-water/)
     - [Water & Power: A California Heist](https://www.justwatch.com/us/movie/water-and-power-a-california-heist)
 - The fires
-    - Callback to [S01E01](https://goodstuff.fm/noidea/1) where Dianne Fienstein turned away sunrise movement kids
+    - Callback to [S01E01](https://goodstuff.network/noidea/1) where Dianne Fienstein turned away sunrise movement kids
 
         [https://twitter.com/SenFeinstein/status/1306639321810849792](https://twitter.com/SenFeinstein/status/1306639321810849792)
 

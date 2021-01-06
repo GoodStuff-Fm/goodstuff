@@ -53,6 +53,6 @@ image: ''
 * [Lingua Franca and the Rise of the Resistance Socialite - The Cut](https://www.notion.so/S03-E03-31fa291c832a40938c7b57a9de572e28#724aabb06b43442bb311b6b218710647)
   * [https://www.thecut.com/2020/01/lingua-franca-and-the-rise-of-the-resistance-socialite.html](https://www.thecut.com/2020/01/lingua-franca-and-the-rise-of-the-resistance-socialite.html "https://www.thecut.com/2020/01/lingua-franca-and-the-rise-of-the-resistance-socialite.html")
 * Patreon Me Daddy
-  * [Goodstuff.fm is creating Podcasts - Patreon](https://www.patreon.com/goodstuff/posts)
+  * [Goodstuff.network is creating Podcasts - Patreon](https://www.patreon.com/goodstuff/posts)
 * We love the petroleum, folks
   * [https://twitter.com/blm_es/status/1221900755436756995](https://twitter.com/blm_es/status/1221900755436756995 "https://twitter.com/blm_es/status/1221900755436756995")

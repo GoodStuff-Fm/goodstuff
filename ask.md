@@ -5,7 +5,7 @@ description: Ask a question or submit your details to be a guest on a future epi
 layout: default
 ---
 
-There's a couple of ways you can be a part of future [Show Me Your Mic](https://goodstuff.fm/smym/) episodes:
+There's a couple of ways you can be a part of future [Show Me Your Mic](https://goodstuff.network/smym/) episodes:
 
 ## Ask a Question
 

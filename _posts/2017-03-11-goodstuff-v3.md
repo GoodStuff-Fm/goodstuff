@@ -1,5 +1,5 @@
 ---
-title: "\U0001F389 Goodstuff.FM v3.0"
+title: "\U0001F389 Goodstuff.network v3.0"
 date: 2017-03-11 17:35:00 -06:00
 tags:
 - site news
@@ -12,7 +12,7 @@ layout: default
 
 Is this thing on? Hello world?
 
-Welcome to Goodstuff.FM, version 3.0!
+Welcome to Goodstuff.network, version 3.0!
 
 We're excited to finally be able to unveil what has been months of work during evenings and weekends around our regular work jobs - moving Goodstuff to our own home-grown CMS of sorts based on [Siteleaf](https://www.siteleaf.com) and [Jekyll](http://jekyllrb.com). Which, along with MP3 hosting by [Feed.Press](https://feed.press) and [live streaming on Twitch](https://www.twitch.tv/gsfm) is enabling us to run Goodstuff lean while we grow, one listener at a time.
 
@@ -27,8 +27,8 @@ We'd love to hear from you if you've got any suggestions or notice anything weir
 
 If you're old school, then feel free to email us:
 
-* <a href="mailto:chris@goodstuff.fm">chris@goodstuff.fm</a>
-* <a href="mailto:kyle@goodstuff.fm">kyle@goodstuff.fm</a>
+* <a href="mailto:chris@goodstuff.network">chris@goodstuff.network</a>
+* <a href="mailto:kyle@goodstuff.network">kyle@goodstuff.network</a>
 
 If you're really, really old school... I'm sorry but we don't have a fax machine.
 

@@ -38,6 +38,6 @@ This week we are sponsored by: [**_That one video of those goth kids dancing und
 * [Ask on Tumblr](http://3g3q.co/ask)
 * Get exclusive content at [patreon.com](http://www.patreon.com/3g3q)
 
-[**Listen to other great shows on Goodstuff.fm**](http://goodstuff.fm/)
+[**Listen to other great shows on goodstuff.network**](http://goodstuff.network/)
 
 The internet’s favorite shows on technology, culture, news and more. You know, just the good stuff.
