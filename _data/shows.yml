@@ -14,7 +14,7 @@ noidea:
   category1: "News and Politics"
   category2: "Society & Culture"
   category3:
-  rss: https://goodstuff.fm/noidea/feed.xml
+  rss: https://goodstuff.network/noidea/feed.xml
   itunes: https://itunes.apple.com/us/podcast/i-have-no-idea-what-im-doing/id1458827678?mt=2
   pocketcasts: https://pca.st/oXY1
   spotify: https://open.spotify.com/show/7H3b59Rvhrpyj4MoWenqTI
@@ -35,9 +35,9 @@ midnightsnack:
   category1: "Food"
   category2: "Comedy"
   category3: "Business News"
-  email: kyle@goodstuff.fm
+  email: kyle@goodstuff.network
   support:
-  rss: https://goodstuff.fm/midnightsnack/feed.xml
+  rss: https://goodstuff.network/midnightsnack/feed.xml
   itunes: https://podcasts.apple.com/us/podcast/midnight-snack/id1495614674
   pocketcasts: https://pca.st/jg77rser
   spotify:
@@ -59,7 +59,7 @@ baseline:
   category1: "Sports & Recreation"
   category2: "Comedy"
   category3:
-  rss: https://goodstuff.fm/baseline/feed.xml
+  rss: https://goodstuff.network/baseline/feed.xml
   itunes: https://itunes.apple.com/us/podcast/baseline/id1453462340?mt=2
   pocketcasts: https://pca.st/1Z7y
   overcast: https://overcast.fm/p1098099-NhOe0S
@@ -81,7 +81,7 @@ icebreaker:
   category1: "Sports & Recreation"
   category2:
   category3:
-  rss: https://goodstuff.fm/icebreaker/feed.xml
+  rss: https://goodstuff.network/icebreaker/feed.xml
   itunes: https://itunes.apple.com/us/podcast/icebreaker/id1399629430?mt=2&at=10l4Ki&ct=website
   appid: 1399629430
   pocketcasts: https://pca.st/Vlwu
@@ -104,7 +104,7 @@ buzzled:
   category1: "Comedy"
   category2:
   category3:
-  rss: https://goodstuff.fm/buzzled/feed.xml
+  rss: https://goodstuff.network/buzzled/feed.xml
   itunes:
   pocketcasts:
   overcast:
@@ -127,7 +127,7 @@ highcontrast:
   category1: "Technology"
   category2:
   category3:
-  rss: https://goodstuff.fm/highcontrast/feed.xml
+  rss: https://goodstuff.network/highcontrast/feed.xml
   itunes: https://itunes.apple.com/us/podcast/high-contrast/id1251036231
   appid: 1251036231
   pocketcasts: http://pca.st/xfk8
@@ -152,7 +152,7 @@ wts:
   category2: "Arts"
   category3: "Visual Arts"
   support: https://www.patreon.com/clockworkscast
-  rss: https://goodstuff.fm/wts/feed.xml
+  rss: https://goodstuff.network/wts/feed.xml
   itunes: https://itunes.apple.com/us/podcast/way-too-seriously/id1250996790?mt=2&at=10l4Ki&ct=website
   appid: 1250996790
   pocketcasts: http://pca.st/I80b
@@ -176,7 +176,7 @@ wts:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  rss: https://goodstuff.fm/3g3q/feed.xml
+  rss: https://goodstuff.network/3g3q/feed.xml
   itunes: https://itunes.apple.com/us/podcast/3-guys-3-questions/id914129482
   appid: 914129482
   pocketcasts: http://pca.st/Mw9G
@@ -199,9 +199,9 @@ dailyish:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  email: chris@goodstuff.fm
+  email: chris@goodstuff.network
   support: http://www.patreon.com/ichris
-  rss: https://goodstuff.fm/dailyish/feed.xml
+  rss: https://goodstuff.network/dailyish/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/pdcst/id815675012?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/daily-ish/latest
   appid: 815675012
@@ -222,9 +222,9 @@ morningshow:
   category1: "Comedy"
   category2: "Technology"
   category3: "Technology News"
-  email: kyle@goodstuff.fm
+  email: kyle@goodstuff.network
   support:
-  rss: https://goodstuff.fm/morningshow/feed.xml
+  rss: https://goodstuff.network/morningshow/feed.xml
   itunes: https://itunes.apple.com/us/podcast/morning-show/id843374491?mt=2
   appid: 843374491
   pocketcasts: http://pca.st/transmission
@@ -246,9 +246,9 @@ todaysspecial:
   category1: "Food"
   category2: "Comedy"
   category3: "Health"
-  email: kyle@goodstuff.fm
+  email: kyle@goodstuff.network
   support: https://anchor.fm/todaysspecial/support
-  rss: https://goodstuff.fm/todaysspecial/feed.xml
+  rss: https://goodstuff.network/todaysspecial/feed.xml
   anchor: https://anchor.fm/todaysspecial
   itunes: https://itunes.apple.com/us/podcast/todays-special/id1354730921
   appid: 1354730921
@@ -272,7 +272,7 @@ clockworks:
   category3: "Visual Arts"
   email: clockworkscast@gmail.com
   support: https://www.patreon.com/clockworkscast
-  rss: https://goodstuff.fm/clockworks/feed.xml
+  rss: https://goodstuff.network/clockworks/feed.xml
   itunes: https://itunes.apple.com/us/podcast/clockworks-a-legion-podcast/id1215340658?mt=2&at=10l4Ki&ct=website
   latest: https://share.transistor.fm/e/clockworks-a-legion-podcast/latest
   appid: 1215340658
@@ -293,7 +293,7 @@ grownups:
   category: "Society & Culture"
   email: kayayarai@gmail.com
   support:
-  rss: https://goodstuff.fm/grownups/feed.xml
+  rss: https://goodstuff.network/grownups/feed.xml
   itunes: https://itunes.apple.com/us/podcast/i-guess-were-grown-ups-now/id920093038?mt=2&at=10l4Ki&ct=website
   appid: 920093038
   pocketcasts: http://pca.st/OEf0
@@ -315,9 +315,9 @@ nbsp:
   keywords: tech, technology, web, design, interviews
   show-twitter: "@nbsptv"
   hosts-twitter: "@teleject"
-  email: chris@goodstuff.fm
+  email: chris@goodstuff.network
   support:
-  rss: https://goodstuff.fm/nbsp/feed.xml
+  rss: https://goodstuff.network/nbsp/feed.xml
   itunes: http://itunes.apple.com/us/podcast/the-non-breaking-space-show/id507162981?mt=2&at=10l4Ki&ct=website
   appid: 507162981
   pocketcasts: http://pca.st/Izn0
@@ -328,19 +328,19 @@ master:
   explicit: no
   name: Goodstuff Master Audio Feed
   lang: EN
-  hosts: Goodstuff.FM
-  description: All episodes of all shows on Goodstuff.FM
+  hosts: Goodstuff.network
+  description: All episodes of all shows on Goodstuff.network
   artwork: "/uploads/artwork/artwork-master.jpg"
   artwork-small: "/uploads/artwork/artwork-master-small.jpg"
   color: "#D8574B"
   show-twitter: "@GoodstuffFM"
   hosts-twitter: ""
-  email: contact@goodstuff.fm
+  email: contact@goodstuff.network
   keywords:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  rss: https://goodstuff.fm/feed.xml
+  rss: https://goodstuff.network/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-master-audio-feed/id1332045499?mt=2&at=10l4Ki&ct=website
   appid: 1332045499
   pocketcasts: http://pca.st/xiPV
@@ -357,7 +357,7 @@ master:
   color: #FFCD84
   show-twitter: "@25carcade"
   hosts-twitter: "@ichris and @ultranurd"
-  email: chris@goodstuff.fm
+  email: chris@goodstuff.network
   keywords: apple, apple arcade, video games
   category1: "Leisure"
   subcategory1: "Games"
@@ -365,7 +365,7 @@ master:
   subcategory2: "Video Games"
   category3: "Technology"
   subcategory3:
-  rss: https://goodstuff.fm/25c/feed.xml
+  rss: https://goodstuff.network/25c/feed.xml
   itunes: https://podcasts.apple.com/us/podcast/id1492017246
   appid: 1492017246
   pocketcasts: https://pca.st/2l3qso46
@@ -384,7 +384,7 @@ atu2:
   color: #FFCD84
   show-twitter: "@atu2"
   hosts-twitter: "@ichris"
-  email: chris@goodstuff.fm
+  email: chris@goodstuff.network
   keywords: u2, music, tours
   category1: "Music"
   subcategory1: "Music Commentary"
@@ -392,7 +392,7 @@ atu2:
   subcategory2: "Music History"
   category3: "Music"
   subcategory3: "Music Interviews"
-  rss: https://goodstuff.fm/atu2/feed.xml
+  rss: https://goodstuff.network/atu2/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2&at=10l4Ki&ct=website
   appid: 1018994132
   pocketcasts: http://pca.st/9jwK
@@ -406,10 +406,10 @@ ll:
   description: A talk show about starting businesses on opposite sides of the world, but on the same internet.
   artwork: "/uploads/artwork/artwork-ll.jpg"
   artwork-small: "/uploads/artwork/artwork-ll-small.jpg"
-  email: chris@goodstuff.fm
+  email: chris@goodstuff.network
   keywords: business, technology, Chris, Enns, Huebert
   category: "Business"
-  rss: https://goodstuff.fm/ll/feed.xml
+  rss: https://goodstuff.network/ll/feed.xml
   itunes: https://itunes.apple.com/ca/podcast/lost-lemon-brothers-in-business/id467564174?mt=2
   appid: 467564174
   pocketcasts: http://pca.st/emvK
@@ -428,9 +428,9 @@ neverdigdown:
   hosts-twitter: "@ichris and @murtaugh"
   category: "Video Games"
   explicit: no
-  email: chris@goodstuff.fm
+  email: chris@goodstuff.network
   support:
-  rss: https://goodstuff.fm/neverdigdown/feed.xml
+  rss: https://goodstuff.network/neverdigdown/feed.xml
   itunes: https://itunes.apple.com/us/podcast/never-dig-down/id902068369?mt=2
   appid: 902068369
   pocketcasts: http://pca.st/5YwG
@@ -448,13 +448,13 @@ smym:
   color: #9FBB2D
   show-twitter: "@_smym"
   hosts-twitter: "@ichris"
-  email: chris+smym@goodstuff.fm
+  email: chris+smym@goodstuff.network
   keywords: technology, how-to, podcasting
   category1: "Technology"
   category2: "Technology"
   subcategory2: "Podcasting"
   category3:
-  rss: https://goodstuff.fm/smym/feed.xml
+  rss: https://goodstuff.network/smym/feed.xml
   itunes: https://itunes.apple.com/us/podcast/show-me-your-mic/id602836998?mt=2&at=10l4Ki&ct=website
   appid: 602836998
   pocketcasts: http://pca.st/M3P3
@@ -466,19 +466,19 @@ specials:
   lang: EN
   explicit: yes
   collection: specials
-  hosts: Goodstuff.FM
+  hosts: Goodstuff.network
   description: Goodstuff special events - random live recordings, announcements and Goodstuff hosts' appearances on other podcasts.
   artwork: "/uploads/artwork/artwork-specials.jpg"
   artwork-small: "/uploads/artwork/artwork-specials-small.jpg"
   color: #D85647
   show-twitter: "@GoodstuffFM"
   hosts-twitter:
-  email: contact@goodstuff.fm
+  email: contact@goodstuff.network
   keywords:
   category1: "Arts"
   category2: "Comedy"
   category3: "Technology"
-  rss: https://goodstuff.fm/specials/feed.xml
+  rss: https://goodstuff.network/specials/feed.xml
   itunes: https://itunes.apple.com/us/podcast/goodstuff-specials/id854159948?mt=2&at=10l4Ki&ct=website
   appid: 854159948
   pocketcasts: http://pca.st/LvG0

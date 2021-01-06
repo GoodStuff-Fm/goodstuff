@@ -5,7 +5,7 @@ position: 3
 name: Aaron Goodwin
 twitter: aaronlmgoodwin
 website: https://about.me/aaronlmgoodwin
-email: contact@goodstuff.fm
+email: contact@goodstuff.network
 image: "/uploads/544dfb3b924e3c7ea1f29ec1d53d8086.jpeg"
 layout: person
 ---

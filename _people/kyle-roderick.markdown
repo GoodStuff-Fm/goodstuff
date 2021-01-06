@@ -5,10 +5,10 @@ position: "1"
 name: Kyle Roderick
 website: ''
 twitter: hopburps
-email: kyle@goodstuff.fm
+email: kyle@goodstuff.network
 image: "/uploads/Yellow%20Avatar%20500px.jpg"
 is host: true
 layout: person
 
 ---
-Kyle is a Goodstuff Cofounder and host of [Morning Show](http://goodstuff.fm/morningshow), [Baseline](https://goodstuff.fm/baseline "Baseline"), and [Midnight Snack](https://goodstuff.fm/midnightsnack "Midnight Snack").
+Kyle is a Goodstuff Cofounder and host of [Morning Show](http://goodstuff.network/morningshow), [Baseline](https://goodstuff.network/baseline "Baseline"), and [Midnight Snack](https://goodstuff.network/midnightsnack "Midnight Snack").

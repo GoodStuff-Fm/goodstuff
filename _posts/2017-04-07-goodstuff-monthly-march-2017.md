@@ -6,7 +6,7 @@ tags:
 layout: default
 ---
 
-As part of [our relaunch](https://goodstuff.fm/2017/03/11/goodstuff-v3/) we thought we'd be a little more public with things podcasters often tend to be a little shy about sharing: numbers and stats.
+As part of [our relaunch](https://goodstuff.network/2017/03/11/goodstuff-v3/) we thought we'd be a little more public with things podcasters often tend to be a little shy about sharing: numbers and stats.
 
 At the start of each month we'll tell you how Goodstuff is doing - number of patrons, listeners, site visitors, and anything else you'd like to know.
 
@@ -37,5 +37,5 @@ Currently $140/month income via patron support.
 
 # Any Questions?
 
-* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/641ozi/goodstuff_monthly_march_2017/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
-* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
+* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/641ozi/goodstuff_monthly_march_2017/) or <a href="mailto:contact@goodstuff.network">email us</a>.
+* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.network/advertise/).

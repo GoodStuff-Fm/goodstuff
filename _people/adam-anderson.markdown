@@ -5,7 +5,7 @@ position: 4
 name: Adam Anderson
 website: 
 twitter: ThatAdamKid
-email: contact@goodstuff.fm
+email: contact@goodstuff.network
 image: "/uploads/user_avatar_adam-anderson_artwork.jpg"
 layout: person
 ---

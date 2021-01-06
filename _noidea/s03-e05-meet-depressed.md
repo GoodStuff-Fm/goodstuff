@@ -90,7 +90,7 @@ image: "/uploads/IHNIWID - S03E05 - Episode Art.jpg"
 ***
 
 * Striver Theory applied: Municipal Peter & Hall-monitor Liz
-  * [S01:E09 "Big Dog and The Strivers"](https://goodstuff.fm/noidea/9)
+  * [S01:E09 "Big Dog and The Strivers"](https://goodstuff.network/noidea/9)
   * Andrew's theory of Strivers
     * A Striver is someone who fully buys into the Capitalist American Dream
     * They're always going somewhere, never happy with where they are, always comparing themselves to everyone else

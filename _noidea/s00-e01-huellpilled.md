@@ -88,7 +88,7 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
 ---
 
 - An quick Kackson Jernion update
-    - See [Season 2, Episode 14 "Rich Computer Man"](https://goodstuff.fm/noidea/28)
+    - See [Season 2, Episode 14 "Rich Computer Man"](https://goodstuff.network/noidea/28)
     - He's a globe emoji now
     - [https://twitter.com/JacksonKernion/status/1271107664181727232?s=20](https://twitter.com/JacksonKernion/status/1271107664181727232?s=20)
 - Huellpilled

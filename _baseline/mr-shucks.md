@@ -42,7 +42,7 @@ Behold Mr. Shucks, the mascot:
 
 # **The Closer**
 
-* Check out [Morning Show](https://goodstuff.fm/morningshow/)!
+* Check out [Morning Show](https://goodstuff.network/morningshow/)!
 * [Goodstuff Patreon](https://patreon.com/goodstuff)
 
 ### **Where to Reach Us**
@@ -50,6 +50,6 @@ Behold Mr. Shucks, the mascot:
 * Email us at topics@baseline.show
 * [@baseline_show](https://twitter.com/baseline_show) on Twitter
 * We’d love to hear your topic suggestions and any other feedback you have about the show.
-* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
+* **Head over to** [**Goodstuff.network**](http://goodstuff.network/) **and check out all the great shows.**
 
 _Thanks for listening!_

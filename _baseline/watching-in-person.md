@@ -65,6 +65,6 @@ You can send us suggestions on Twitter or at [teams@baseline.show](mailto:teams@
 * [topics@baseline.show](mailto:topics@baseline.show)
 * [@baseline_show](https://twitter.com/baseline_show)
 * We'd love to hear your topic suggestions and any other feedback you have about the show.
-* **Head over to** [**Goodstuff.fm**](http://goodstuff.fm/) **and check out all the great shows.**
+* **Head over to** [**Goodstuff.network**](http://goodstuff.network/) **and check out all the great shows.**
 
 _Thanks for listening!_

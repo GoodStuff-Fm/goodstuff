@@ -21,7 +21,7 @@ At the start of each month we'll tell you how Goodstuff is doing - number of pat
 * [iChris](https://www.patreon.com/ichris) - 19 patrons, $95 per month
 * [Clockworks / Way Too Seriously](https://www.patreon.com/clockworkscast) - 5 patrons, $12 per month
 
-Currently $143/month income via patron support. Increase of $7 from the [previous month](https://goodstuff.fm/2017/06/02/goodstuff-monthly-may-2017/).
+Currently $143/month income via patron support. Increase of $7 from the [previous month](https://goodstuff.network/2017/06/02/goodstuff-monthly-may-2017/).
 
 ## Site Stats
 According to Google Analytics:
@@ -34,12 +34,12 @@ According to Google Analytics:
 
 ## Feed Stats
 * 10,839 subscribers to all shows (0.98% decrease)
-* Two new shows debuted this month - [High Contrast](https://goodstuff.fm/highcontrast) and [Way Too Seriously](https://goodstuff.fm/wts)
+* Two new shows debuted this month - [High Contrast](https://goodstuff.network/highcontrast) and [Way Too Seriously](https://goodstuff.network/wts)
 
 ***
 
 # Any Questions?
-* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6l0sr8/goodstuff_monthly_june_2017_edition/) or <a href="mailto:contact@goodstuff.fm">email us</a>.
-* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.fm/advertise/).
+* You can discuss this in our [subreddit](https://www.reddit.com/r/Goodstuff_fm/comments/6l0sr8/goodstuff_monthly_june_2017_edition/) or <a href="mailto:contact@goodstuff.network">email us</a>.
+* Interested in sponsor the shows on Goodstuff? [Details here](https://goodstuff.network/advertise/).
 
 This is also available on [our medium publication](https://medium.com/goodstuff-fm).

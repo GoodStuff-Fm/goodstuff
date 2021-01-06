@@ -19,8 +19,8 @@ sponsor: Our [**Goodstuff Patreon Subscribers**](https://www.patreon.com/goodstu
     - Hyperloop Discourse
         - [Virgin Hyperloop completes its first test with actual passengers - CNN](https://www.cnn.com/2020/11/08/tech/virgin-hyperloop-passengers/index.html)
         - "The Chad Company"
-        - [S00:E02 - "High Speed Rail in the US"](https://goodstuff.fm/noidea/45)
-        - [S00:E03 - "Why High Speed Rail Has Failed"](https://goodstuff.fm/noidea/46)
+        - [S00:E02 - "High Speed Rail in the US"](https://goodstuff.network/noidea/45)
+        - [S00:E03 - "Why High Speed Rail Has Failed"](https://goodstuff.network/noidea/46)
         - [The Biggest Challenges That Stand in the Way of Hyperloop](https://interestingengineering.com/biggest-challenges-stand-in-the-way-of-hyperloop)
         - [Virgin Hyperloop Has Invented The World's Crappiest High-Speed Rail - Defector](https://defector.com/virgin-hyperloop-has-invented-the-worlds-crappiest-high-speed-rail/)
         - [The Hyperloop's Only Destination is a Capitalist Hellscape - Discourse Blog](https://discourseblog.com/hyperloop-test-virgin-scam/)

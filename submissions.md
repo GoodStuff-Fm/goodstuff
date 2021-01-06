@@ -6,7 +6,7 @@ description: Ask a question or send your comments in for a future episode.
 layout: default
 ---
 
-There are a couple of ways you can be a part of future [@U2 Podcast](https://goodstuff.fm/atu2/) episodes:
+There are a couple of ways you can be a part of future [@U2 Podcast](https://goodstuff.network/atu2/) episodes:
 
 ## Ask a Question
 
@@ -40,6 +40,6 @@ You can do this using the voice recorder on your phone. The most important thing
 With the Joshua Tree tour 2019 announcement, we'd love to get feedback from podcast listeners in the region (_New Zealand, Australia, Japan, Singapore, and South Korea_) answering the question: “**What does U2 coming mean to you?**” 
 
 
-[1]: mailto:chris@goodstuff.fm?subject=atU2%20Podcast%20Submission
+[1]: mailto:chris@goodstuff.network?subject=atU2%20Podcast%20Submission
 [2]: https://twitter.com/ichris
 [3]: https://twitter.com/search?q=(%23askatu2)
