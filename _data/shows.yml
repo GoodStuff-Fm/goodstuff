@@ -64,29 +64,6 @@ baseline:
   pocketcasts: https://pca.st/1Z7y
   overcast: https://overcast.fm/p1098099-NhOe0S
   latest: https://share.transistor.fm/e/baseline/latest
-icebreaker:
-  name: Icebreaker
-  lang: EN
-  explicit: no
-  collection: icebreaker
-  hosts: Spencer Meisner and Matt Jennings
-  description: Hockey from every angle.
-  artwork: "/uploads/artwork/artwork-icebreaker.jpg"
-  artwork-small: "/uploads/artwork/artwork-icebreaker-small.jpg"
-  color: "#5658CE"
-  show-twitter: icebreaker_pod
-  hosts-twitter:
-  email:
-  keywords:
-  category1: "Sports & Recreation"
-  category2:
-  category3:
-  rss: https://goodstuff.network/icebreaker/feed.xml
-  itunes: https://itunes.apple.com/us/podcast/icebreaker/id1399629430?mt=2&at=10l4Ki&ct=website
-  appid: 1399629430
-  pocketcasts: https://pca.st/Vlwu
-  overcast: https://overcast.fm/itunes1358187107/icebreaker
-  latest: https://share.transistor.fm/e/icebreaker-podcast/latest
 buzzled:
   name: Buzzled
   lang: EN
