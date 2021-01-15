@@ -87,13 +87,6 @@ collections:
     retired: true
     inactive: false
     live: false
-  icebreaker:
-    title: Icebreaker
-    output: true
-    permalink: "/icebreaker/:path"
-    slug: icebreaker
-    retired: true
-    live: false
   ll:
     title: Lost & Lemon
     output: true

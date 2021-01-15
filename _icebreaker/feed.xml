@@ -1,8 +1,0 @@
----
-title: Feed
-position: 0
-show: icebreaker
-layout: 
----
-
-{% include feed.html %}
