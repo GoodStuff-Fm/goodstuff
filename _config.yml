@@ -55,6 +55,7 @@ collections:
     permalink: "/clockworks/:path"
     retired: false
     live: false
+    inactive: true
   dailyish:
     title: Daily(ish)
     output: true
@@ -62,7 +63,7 @@ collections:
     description: Just as it says on the tin this is a daily(ish) podcast from Chris
       Enns.
     retired: false
-    inactive: false
+    inactive: true
     live: false
   specials:
     title: Goodstuff Specials
@@ -124,13 +125,14 @@ collections:
     permalink: "/smym/:path"
     retired: false
     live: false
-    inactive: false
+    inactive: true
   atu2:
     title: The @U2 Podcast
     output: true
     permalink: "/atu2/:path"
     live: false
     retired: false
+    inactive: true
   todaysspecial:
     title: Today's Special
     output: true
@@ -150,13 +152,14 @@ collections:
       of kids' movies with exactly the appropriate level of seriousness.
     retired: false
     live: false
+    inactive: true
     hidden: false
     slug: wts
 permalink: pretty
 url: https://goodstuff.network
 podcast_subtitle: A network of good shows with good people doing good things
 podcast-url: https://goodstuff.network
-podcast_email: contact@goodstuff.network
+podcast_email: contact@lemonproductions.ca
 podcast_owner: Goodstuff.network
 itunes-subtitle: A network of good shows with good people doing good things
 itunes-url: https://goodstuff.network
@@ -168,7 +171,7 @@ twitter: goodstufffm
 logo-small: "/assets/logo-small.svg"
 logo: "/assets/logo.svg"
 description: A network of good shows with good people doing good things
-copyright: "© 2014–2020 Goodstuff.network"
+copyright: "© 2014–2021 Goodstuff.network"
 exclude:
 - README.markdown
 - Gemfile.lock
