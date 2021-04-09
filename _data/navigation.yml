@@ -12,14 +12,12 @@ header:
 
 
 footer:
-- title: iTunes
+- title: Apple Podcasts
   url: https://itunes.apple.com/us/artist/goodstuff-fm/id843385597?mt=2
 - title: Goodstuff on YouTube
   url: https://www.youtube.com/user/goodstuffdotfm
 - title: Goodstuff on Reddit
   url: https://www.reddit.com/r/Goodstuff_fm/
-- title: Goodstuff Showbot
-  url: http://www.showbot.tv/s/?channel=goodstuff_fm
 - title: Master Feed
   url: http://feeds.goodstuff.network/
 - title: Support our Shows
