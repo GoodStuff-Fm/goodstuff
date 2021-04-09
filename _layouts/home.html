@@ -26,7 +26,7 @@
       <!-- List of all of our shows -->
       <div class="container__wide__dark">
         <div class="container__our-shows">
-            <div class="page__header__dark"><h1>Our Shows</h1></div>
+            <div class="page__header__dark"><h1>Our Active Shows</h1></div>
             <div class="our-shows">
               <div class="our-shows__list">
                 {% for collection in site.collections %} {% unless collection.label == 'people' or collection.label == 'posts' or collection.label == 'uploads' or collection.output == false or collection.retired == true or collection.hidden == true or collection.inactive == true %} {% assign show = site.data.shows[collection.label] %}
