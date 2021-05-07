@@ -20,6 +20,8 @@ noidea:
   spotify: https://open.spotify.com/show/7H3b59Rvhrpyj4MoWenqTI
   overcast: https://overcast.fm/p1142139-aSDL52
   latest: https://share.transistor.fm/e/i-have-no-idea-what-im-doing/latest
+  support_annual: https://goodstuff.memberful.com/checkout?plan=64492
+  support_monthly: https://goodstuff.memberful.com/checkout?plan=64491
 midnightsnack:
   name: Midnight Snack
   collection: midnightsnack
@@ -43,6 +45,8 @@ midnightsnack:
   spotify:
   overcast: https://overcast.fm/itunes1495614674/midnight-snack
   latest: https://share.transistor.fm/e/midnight-snack/latest
+  support_annual: https://goodstuff.memberful.com/checkout?plan=64494
+  support_monthly: https://goodstuff.memberful.com/checkout?plan=64493
 baseline:
   name: Baseline
   lang: EN
@@ -161,6 +165,8 @@ wts:
   overcast: https://overcast.fm/itunes914129482/3-guys-3-questions
   latest: https://share.transistor.fm/e/3-guys-3-questions/latest
   support: https://www.patreon.com/3g3q
+  support_annual: https://goodstuff.memberful.com/checkout?plan=64603
+  support_monthly: https://goodstuff.memberful.com/checkout?plan=64602
 dailyish:
   lang: EN
   name: Daily(ish)
@@ -349,6 +355,8 @@ master:
   overcast: https://overcast.fm/itunes1492114276/25-a-video-game-review-podcast
   spotify: https://open.spotify.com/show/3wDa4PcH4E9b1JQSojTQH6
   latest: https://share.transistor.fm/e/25c-an-apple-arcade-review-podcast/latest
+  support_annual: https://goodstuff.memberful.com/checkout?plan=64490
+  support_monthly: https://goodstuff.memberful.com/checkout?plan=64489
 atu2:
   explicit: no
   name: The @U2 Podcast

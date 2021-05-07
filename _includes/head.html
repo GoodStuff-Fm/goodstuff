@@ -105,3 +105,21 @@
 <meta name="twitter:url" value="{{ site.url }}{{ page.url }}" />
 <meta name="monetization" content="$pay.stronghold.co/1a1d1b6226199ae451c805b09eff48bf7fe">
 {% endif %}
+
+<script type="text/javascript">
+  window.MemberfulOptions = {site: "https://goodstuff.memberful.com"};
+
+  (function() {
+    var s   = document.createElement('script');
+
+    s.type  = 'text/javascript';
+    s.async = true;
+    s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+    setup = function() { window.MemberfulEmbedded.setup(); }
+
+    s.addEventListener("load", setup, false);
+
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
+</script>

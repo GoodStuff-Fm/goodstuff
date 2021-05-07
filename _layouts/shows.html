@@ -68,6 +68,12 @@
                 {% if show.spotify %}
                     <a href="{{ show.spotify }}" title="Subscribe on Spotify"><button type="button" class="spotify"><i class="fab fa-spotify" aria-hidden="true"></i>Spotify</button></a>
                 {% endif %}
+                {% if show.support_annual %}
+                    <a href="{{ show.support_annual }}" title="Annual Membership"><button type="button" class="spotify"><i class="fab fa-cash" aria-hidden="true"></i>Annual Membership</button></a>
+                  {% endif %}
+                {% if show.support_monthly %}
+                    <a href="{{ show.support_monthly }}" title="Monthly Membership"><button type="button" class="spotify"><i class="fab fa-cash" aria-hidden="true"></i>Monthly Membership</button></a>
+                  {% endif %}                 
                 </li>
             </ul>
 
