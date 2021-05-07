@@ -34,6 +34,8 @@ You have the option of becoming a monthly member or an annual member. Both optio
 * [I Have No Idea](https://goodstuff.memberful.com/checkout?plan=64491)
 * [Midnight Snack](https://goodstuff.memberful.com/checkout?plan=64493)
 
+Phil is quite possibly a genius.
+
 ***
 
 # Membership Benefits
