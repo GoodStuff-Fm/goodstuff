@@ -188,14 +188,14 @@ morningshow:
   name: The Goodstuff Morning Show
   collection: morningshow
   hosts: Kyle Roderick and Kenny Roderick
-  description: A weekly look into the Internet's junk drawer with the brothers Roderick.
+  description: A twice weekly look into the Internet's junk drawer with the brothers Roderick.
   artwork: "/uploads/artwork/artwork-morningshow.jpg"
   artwork-small: "/uploads/artwork/artwork-morningshow-small.jpg"
   color: #5BC4FE
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
   show-twitter: "@morningshowam"
-  hosts-twitter: "@hopburps and @kennydailycast"
+  hosts-twitter: "@hopburps and @yoohoodockers"
   category1: "Comedy"
   category2: "Technology"
   category3: "Technology News"
