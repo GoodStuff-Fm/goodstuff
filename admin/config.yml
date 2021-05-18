@@ -142,6 +142,25 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Audio URL", name: "mp3", widget: "string", required: false}
       - {label: "Show Notes", name: "body", widget: "markdown", required: false}
+  - name: 'morningshow' # Used in routes, e.g. /admin/collections/blog
+    label: "Morning Show" # Used in the UI
+    folder: '_morningshow/' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{episode}}' # Filename template i.e. YYYY-MM-DD-title.md
+    sortableFields: ['episode', 'title', 'date']
+    summary: "{{episode}}: {{title}}"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "episode"}
+      - {label: "Show", name: "show", widget: "hidden", default: "morningshow"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Episode Number", name: "episode", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "markdown", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Audio URL", name: "mp3", widget: "string", required: false}
+      - {label: "Show Notes", name: "body", widget: "markdown", required: false}
   - name: 'wts' # Used in routes, e.g. /admin/collections/blog
     label: "Way Too Seriously" # Used in the UI
     folder: '_wts/' # The path to the folder where the documents are stored
