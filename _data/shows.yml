@@ -214,6 +214,8 @@ morningshow:
   spotify: https://open.spotify.com/show/0cYQcYEtw2oKH4PwUtXx1u
   overcast: https://overcast.fm/itunes843374491/morning-show
   latest: https://share.transistor.fm/e/the-goodstuff-morning-show/latest
+  support_annual: https://goodstuff.memberful.com/checkout?plan=65147
+  support_monthly: https://goodstuff.memberful.com/checkout?plan=65146
 todaysspecial:
   name: Today's Special
   collection: todaysspecial
