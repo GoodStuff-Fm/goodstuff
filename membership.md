@@ -23,6 +23,7 @@ You have the option of becoming a monthly member or an annual member. Both optio
 * [Goodstuff Network](https://goodstuff.memberful.com/checkout?plan=64488)
 * [3 Guys 3 Questions](https://goodstuff.memberful.com/checkout?plan=64603)
 * [25c](https://goodstuff.memberful.com/checkout?plan=64490)
+* [The Goodstuff Morning Show](https://goodstuff.memberful.com/checkout?plan=65147)
 * [I Have No Idea](https://goodstuff.memberful.com/checkout?plan=64492)
 * [Midnight Snack](https://goodstuff.memberful.com/checkout?plan=64494)
 
@@ -31,10 +32,10 @@ You have the option of becoming a monthly member or an annual member. Both optio
 * [Goodstuff Network](https://goodstuff.memberful.com/checkout?plan=64487)
 * [3 Guys 3 Questions](https://goodstuff.memberful.com/checkout?plan=64602)
 * [25c](https://goodstuff.memberful.com/checkout?plan=64489)
+* [The Goodstuff Morning Show](https://goodstuff.memberful.com/checkout?plan=65146)
 * [I Have No Idea](https://goodstuff.memberful.com/checkout?plan=64491)
 * [Midnight Snack](https://goodstuff.memberful.com/checkout?plan=64493)
 
-Phil is quite possibly a genius.
 
 ***
 
