@@ -8,7 +8,7 @@ collections:
     permalink: "/midnightsnack/:path"
     slug: midnightsnack
     retired: false
-    inactive: false
+    inactive: true
     live: false
   25c:
     title: 25c
@@ -24,7 +24,7 @@ collections:
     permalink: "/3g3q/:path"
     slug: 3g3q
     retired: false
-    inactive: false
+    inactive: true
     live: false
   baseline:
     title: baseline
