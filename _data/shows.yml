@@ -15,11 +15,11 @@ clickandflick:
   category2: "Arts"
   category3: "Visual Arts"
   rss: https://goodstuff.network/clickandflick/feed.xml
-  itunes: 
+  itunes: https://podcasts.apple.com/us/podcast/click-flick/id1573826181
   pocketcasts: 
   spotify: 
   overcast: 
-  latest: 
+  latest: https://share.transistor.fm/e/click-flick/latest
 noidea:
   name: I Have No Idea What I'm Doing
   lang: EN

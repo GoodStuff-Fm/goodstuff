@@ -9,7 +9,7 @@ collections:
     slug: clickandflick
     description: Video games and movies are our bread and butter. Join Ammiel and Melissa on a deep dive into some of this generations best and worst games/films. From well known to hidden treasures, Click & Flick tackles it all.
     retired: false
-    inactive: true
+    inactive: false
     live: false
   midnightsnack:
     title: Midnight Snack
@@ -17,7 +17,7 @@ collections:
     permalink: "/midnightsnack/:path"
     slug: midnightsnack
     retired: false
-    inactive: false
+    inactive: true
     live: false
   25c:
     title: 25c
@@ -33,7 +33,7 @@ collections:
     permalink: "/3g3q/:path"
     slug: 3g3q
     retired: false
-    inactive: false
+    inactive: true
     live: false
   baseline:
     title: baseline
@@ -107,7 +107,7 @@ collections:
     title: Morning Show
     output: true
     permalink: "/morningshow/:path"
-    retired: true
+    retired: false
     live: false
   neverdigdown:
     title: Never Dig Down
