@@ -2,6 +2,15 @@
 title: Goodstuff.network
 timezone: America/Regina
 collections:
+  clickandflick:
+    title: Click and Flick
+    output: true
+    permalink: "/clickandflick/:path"
+    slug: clickandflick
+    description: Video games and movies are our bread and butter. Join Ammiel and Melissa on a deep dive into some of this generations best and worst games/films. From well known to hidden treasures, Click & Flick tackles it all.
+    retired: false
+    inactive: false
+    live: false
   midnightsnack:
     title: Midnight Snack
     output: true

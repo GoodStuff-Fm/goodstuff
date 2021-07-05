@@ -1,3 +1,25 @@
+clickandflick:
+  name: Click and Flick
+  lang: EN
+  explicit: yes
+  collection: clickandflick
+  hosts: Ammiel and Melissa
+  description: Video games and movies are our bread and butter. Join Ammiel and Melissa on a deep dive into some of this generations best and worst games/films. From well known to hidden treasures, Click & Flick tackles it all.
+  artwork: "/uploads/artwork/artwork-clickandflick.jpg"
+  artwork-small: "/uploads/artwork/artwork-clickandflick-small.jpg"
+  show-twitter: goodstuffcasts
+  hosts-twitter:
+  email: chris@lemonproductions.ca
+  keywords: movies
+  category1: "TV &amp; Film"
+  category2: "Arts"
+  category3: "Visual Arts"
+  rss: https://goodstuff.network/clickandflick/feed.xml
+  itunes: https://podcasts.apple.com/us/podcast/click-flick/id1573826181
+  pocketcasts: https://pca.st/itunes/1573826181
+  spotify: 
+  overcast: https://overcast.fm/itunes1573826181
+  latest: https://share.transistor.fm/e/click-flick/latest
 noidea:
   name: I Have No Idea What I'm Doing
   lang: EN
@@ -7,7 +29,7 @@ noidea:
   description: Join us on a wondrous journey through whatever's on our minds this week. We have no idea what we're doing. But we're trying.
   artwork: "/uploads/artwork/artwork-noidea.jpg"
   artwork-small: "/uploads/artwork/artwork-noidea-small.jpg"
-  show-twitter: GoodstuffFM
+  show-twitter: goodstuffcasts
   hosts-twitter:
   email:
   keywords:
@@ -218,7 +240,7 @@ todaysspecial:
   color:
   explicit: no
   keywords: comedy, tech, technology, fun, morning, show, trivia, games
-  show-twitter: "@goodstufffm"
+  show-twitter: "@goodstuffcasts"
   hosts-twitter: "@dogburps and @kennyaroderick"
   category1: "Food"
   category2: "Comedy"
@@ -310,7 +332,7 @@ master:
   artwork: "/uploads/artwork/artwork-master.jpg"
   artwork-small: "/uploads/artwork/artwork-master-small.jpg"
   color: "#D8574B"
-  show-twitter: "@GoodstuffFM"
+  show-twitter: "@goodstuffcasts"
   hosts-twitter: ""
   email: contact@goodstuff.network
   keywords:
@@ -448,7 +470,7 @@ specials:
   artwork: "/uploads/artwork/artwork-specials.jpg"
   artwork-small: "/uploads/artwork/artwork-specials-small.jpg"
   color: #D85647
-  show-twitter: "@GoodstuffFM"
+  show-twitter: "@goodstuffcasts"
   hosts-twitter:
   email: contact@goodstuff.network
   keywords:
