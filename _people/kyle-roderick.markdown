@@ -11,4 +11,4 @@ is host: true
 layout: person
 
 ---
-Kyle is a Goodstuff Cofounder and host of [Morning Show](http://goodstuff.network/morningshow), [Baseline](https://goodstuff.network/baseline "Baseline"), and [Midnight Snack](https://goodstuff.network/midnightsnack "Midnight Snack").
+Kyle is a Goodstuff Cofounder.
