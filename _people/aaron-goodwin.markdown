@@ -1,7 +1,7 @@
 ---
 title: Aaron Goodwin
 date: 2016-05-27 20:48:00 -06:00
-position: 3
+position: 4
 name: Aaron Goodwin
 twitter: aaronlmgoodwin
 website: https://about.me/aaronlmgoodwin
