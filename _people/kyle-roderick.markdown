@@ -1,7 +1,7 @@
 ---
 title: Kyle Roderick
 date: 2016-04-26T16:54:00.000+00:00
-position: "1"
+position: 2
 name: Kyle Roderick
 website: ''
 twitter: hopburps

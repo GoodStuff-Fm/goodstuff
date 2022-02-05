@@ -1,7 +1,7 @@
 ---
 title: Chris Enns
 date: 2022-02-05 14:56:00 -06:00
-position: 0
+position: 1
 name: Chris Enns
 website: https://chrisenns.com
 twitter: iChris

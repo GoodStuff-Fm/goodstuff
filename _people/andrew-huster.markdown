@@ -6,7 +6,7 @@ name: Andrew Huster
 twitter: ahuster
 website: https://magitronix.com
 email: ahuster@fastmail.com
-image: "/uploads/user_avatar_andrew_huster.jpeg"
+image: "/uploads/hosts_andrew_huster.jpg"
 layout: person
 ---
 

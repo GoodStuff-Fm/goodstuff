@@ -1,7 +1,7 @@
 ---
 title: Nicolas Ward
 date: 2022-02-05T16:54:00.000+00:00
-position: "6"
+position: 6
 name: Nicolas Ward
 website: ''
 twitter: ultranurd
