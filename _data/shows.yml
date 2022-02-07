@@ -371,6 +371,8 @@ master:
   overcast: https://overcast.fm/itunes1492114276/25-a-video-game-review-podcast
   spotify: https://open.spotify.com/show/3wDa4PcH4E9b1JQSojTQH6
   latest: https://share.transistor.fm/e/25-a-video-game-review-podcast/latest
+  transistorall-light: https://share.transistor.fm/e/25-a-video-game-review-podcast/playlist
+  transistorall-dark: https://share.transistor.fm/e/25-a-video-game-review-podcast/playlist/dark
 atu2:
   explicit: no
   name: The @U2 Podcast
