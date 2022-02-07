@@ -3,7 +3,7 @@ title: Aaron Goodwin
 date: 2016-05-27 20:48:00 -06:00
 position: 4
 name: Aaron Goodwin
-twitter: aaronlmgoodwin
+twitter: theinfamousgdub
 website: https://about.me/aaronlmgoodwin
 email: contact@goodstuff.network
 image: "/uploads/544dfb3b924e3c7ea1f29ec1d53d8086.jpeg"
