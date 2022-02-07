@@ -11,4 +11,4 @@ is host: true
 layout: person
 
 ---
-Nicolas is the co-host of [25c - A Video Game Podcast](https://goodstuff.network/25c/).
+Nick has been playing video games since Ernie's Magic Shapes for DOS and now shares that love for games with his wife and son. They live in Seattle, WA where Nick has a day job as a software engineer securing the cloud.

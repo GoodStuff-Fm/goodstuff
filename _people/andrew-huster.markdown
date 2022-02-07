@@ -3,7 +3,7 @@ title: Andrew Huster
 date: 2019-04-02 19:37:15 -0500
 position: 10
 name: Andrew Huster
-twitter: ahuster
+twitter: tanktainer
 website: https://magitronix.com
 email: ahuster@fastmail.com
 image: "/uploads/hosts_andrew_huster.jpg"
