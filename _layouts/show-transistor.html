@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    {% include nav.html %}
+    <div class="container">
+
+        {% assign show = site.data.shows[page.show] %}
+
+        <h1 class="page__header">{{ show.name }}</h1>
+
+        <ul class="shows__list">
+            <li class="shows__list__artwork"><img src="{{ show.artwork-small }}" alt="Artwork" height="100" width="100" loading="lazy"/></a>
+            </li>
+            <li class="shows__list__hosts">Hosted by {{ show.hosts | join: ', ' }}</li>
+            <li class="shows__list__description">{{ show.description | truncate: 384 }}</li>
+            <li class="shows__list__link">
+              <a href="{{ show.rss }}"><button class="rss"><i class="fa fa-rss" aria-hidden="true"></i>RSS</button></a>
+              {% if show.itunes %}
+                <a href="{{ show.itunes }}" title="Subscribe on Podcasts"><button type="button" class="apple"><i class="fab fa-apple" aria-hidden="true"></i>Podcasts</button></a>
+              {% endif %}
+              {% if show.pocketcasts %}
+                <a href="{{ show.pocketcasts }}" title="Subscribe on Pocket Casts"><button type="button" class="pocketcasts"><i class="fa fa-headphones" aria-hidden="true"></i>Pocket Casts</button></a>
+              {% endif %}
+              {% if show.overcast %}
+                <a href="{{ show.overcast }}" title="Subscribe on Overcast"><button type="button" class="overcast"><i class="fa fa-headphones" aria-hidden="true"></i>Overcast</button></a>
+              {% endif %}
+              {% if show.youtube %}
+                <a href="{{ show.youtube }}" title="Subscribe on YouTube"><button type="button" class="youtube"><i class="fa fa-youtube" aria-hidden="true"></i>Youtube</button></a>
+              {% endif %}
+              {% if show.anchor %}
+                <a href="{{ show.anchor }}" title="Subscribe on Anchor"><button type="button" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i>Anchor</button></a>
+              {% endif %}
+            {% if show.spotify %}
+                <a href="{{ show.spotify }}" title="Subscribe on Spotify"><button type="button" class="spotify"><i class="fab fa-spotify" aria-hidden="true"></i>Spotify</button></a>
+            {% endif %}
+            </li>
+        </ul>
+
+        <hr class="page__rule">
+
+
+        <!-- If a show records live
+      <div class="page__description">
+        This show shows live. Check the <a href="/schedule">schedule</a>.
+      </div> -->
+
+        <!-- Latest Episodes -->
+
+        {% unless show.retired %}
+          <h1 class="page__header">Listen to past episodes of {{ show.name }}</h1>
+          <iframe src='{{ show.transistorall-light }}' width='100%' height='390' padding-botton='1em' frameborder='0' scrolling='no' seamless ></iframe>
+          
+        {% endunless %}
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
