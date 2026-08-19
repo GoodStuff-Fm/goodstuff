@@ -4,8 +4,8 @@
 /aux/feed  /aux/feed.xml
 /buzzled/feed  /buzzled/feed.xml
 /clockworks/feed  /clockworks/feed.xml
-/dailyish/feed  https://feeds.transistor.fm/daily-ish
-/dailyish/feed.xml https://feeds.transistor.fm/daily-ish
+/dailyish/feed  https://feeds.transistor.fm/daily-ish 301!
+/dailyish/feed.xml https://feeds.transistor.fm/daily-ish 301!
 /grownups/feed  /grownups/feed.xml
 /highcontrast/feed  /highcontrast/feed.xml
 /ll/feed  /ll/feed.xml
